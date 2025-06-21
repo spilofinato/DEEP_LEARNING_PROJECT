@@ -1,5 +1,6 @@
 # Ignore PyCharm/IDEA settings
 .idea/
+.venv/
 
 # Ignore all files in DATA/UNUSED
 DATA/UNUSED/
