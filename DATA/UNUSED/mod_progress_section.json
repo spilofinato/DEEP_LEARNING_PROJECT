@@ -1,0 +1,26 @@
+[
+{"type":"header","version":"5.0.4deb2+deb11u2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"Mim19_DD"},
+{"type":"table","name":"mod_progress_section","database":"Mim19_DD","data":
+[
+{"iId":"1","sSection":"Generali"},
+{"iId":"2","sSection":"PDP"},
+{"iId":"3","sSection":"Organismo di vigilanza"},
+{"iId":"4","sSection":"231"},
+{"iId":"5","sSection":"Accreditamento formazione"},
+{"iId":"6","sSection":"Cruscotto"},
+{"iId":"7","sSection":"Qualità e sicurezza"},
+{"iId":"8","sSection":"Progress per personale"},
+{"iId":"9","sSection":"Commerciale"},
+{"iId":"10","sSection":"Sicurezza e salute"},
+{"iId":"12","sSection":"Responsabilità fiscale"},
+{"iId":"14","sSection":"Aree MIM"},
+{"iId":"16","sSection":"LOB"},
+{"iId":"17","sSection":"Personale (formazione)"},
+{"iId":"19","sSection":"Sintesi"},
+{"iId":"20","sSection":"Registrazione visitatori"},
+{"iId":"21","sSection":"Sostitutiva"},
+{"iId":"22","sSection":"Accreditamento ECM"}
+]
+}
+]
