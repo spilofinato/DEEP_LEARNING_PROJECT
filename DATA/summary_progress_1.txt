@@ -1,0 +1,32 @@
+Ecco un riassunto dettagliato della conversazione tra Luca Sigalini, con l'ordine cronologico degli eventi:
+
+**Fase Iniziale: Implementazione della MimNET**
+
+*   **Creazione del Progress:** Luca Sigalini introduce il "Progress" come strumento di tracciamento per gli aggiornamenti della MimNET, che include l'integrazione con DynDevice ECM e la raccolta di nuove idee.
+*   **Aggiunta di DynDevice ECM:** Viene aggiunta l'area iCMS alla MimNET, con la possibilità di venderla come prodotto separato.
+*   **Attivazione e Strutturazione:** Viene attivata l'area iCMS, creata la struttura della MimNET e i menù, prendendo spunto dalla vecchia Meganet.
+*   **HTTPS e "Progress":** Viene attivato il protocollo HTTPS e il modulo "Progress" è sviluppato con rigore, essendo l'accesso controllato tramite iscrizione. Viene sottolineata l'importanza di importare i dati dalla vecchia Meganet alla MimNET.
+*   **Password e iscrizione:** Viene aggiunto il modulo "CAMBIA PASSWORD" e viene comunicato agli utenti la password per accedere alla MimNET. L'iscrizione al progress (e quindi all'uso di questo) è obbligatoria.
+
+**Fase di Funzionalità e Test**
+
+*   **Presenze (Presence):** Viene sviluppata la funzionalità "PRESENCE" per la gestione delle presenze, con la possibilità di visualizzare le presenze di tutti i dipendenti (ad eccezione di LM, PDC e RP) e di richiedere ferie, straordinari e trasferte. La maschera "Visualizza presenze" arrotonda gli orari di entrata e uscita. Il sistema calcola il consumo di ROL per il calcolo del tempo lavorativo. La funzionalità "Richiesta ferie" è semplice da usare.
+*   **Payroll (Buste Paga):** Viene messo online il modulo per la gestione delle buste paga. I cedolini relativi a Luglio verranno caricati solo nella MimNET e quelli relativi ad Agosto esclusivamente in essa.
+*   **Rimborsi Spese:** Viene sviluppato il modulo per la gestione dei rimborsi spese.
+*   **Lettura Accessi da C.A.:** Viene implementato il sistema di lettura degli ingressi/uscite reali attraverso il controllo accessi (WinGaep) con importazione ogni 30 minuti.
+
+**Fase di Lancio e Formazione**
+
+*   **Home Page:**  È previsto che venga realizzata la Home Page della MimNET con una news di lancio e spiegazione delle funzioni.
+*   **Corso agli Utenti:** Verrà organizzato un corso di formazione per tutti gli utenti MIM (dipendenti e collaboratori) per l'utilizzo della MimNET, che inizialmente si terrà nella vecchia sede.
+*   **Installazione Elettro-Serrature e attivazione Controllo Accessi**: In attesa dell'installazione delle elettro-serrature e attivazione definitiva del controllo accessi (WinGaep) con importazione ogni 30 minuti.
+*   **Aggiornamento Documenti:** Tutti i documenti presenti nella vecchia Meganet sono stati copiati nella MimNET.
+
+**Comunicazioni Finali e Ulteriori Aspetti**
+
+*   **Aggiornamenti in corso:** Luca Sigalini invita ad aggiungere ulteriori suggerimenti al progress.
+*   **Accesso ai Documenti:** Viene sottolineato che tutti gli utenti MimNET possono accedere a tutti i file, anche se l'accesso a alcuni potrebbe essere inibito da PDC e PG.
+*   **Organizzazione del Corso:** La formazione inizierà nella vecchia sede e sarà poi spostata nella nuova sede (16 Agosto mattina, 16 Agosto pomeriggio e una mattina/pomeriggio a partire dal 22/08).
+*   **Gestione del Budget:** Si discute l'inserimento della tabella del budget sulla Home Page.
+
+Spero che questo riassunto dettagliato sia di tuo gradimento.

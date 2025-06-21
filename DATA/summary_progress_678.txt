@@ -1,0 +1,30 @@
+Ecco un riassunto dettagliato della conversazione di Pietro de' Castiglioni, mantenendo l'ordine cronologico degli eventi:
+
+**12.12.03:** Pietro de' Castiglioni fornisce un riassunto delle procedure di gestione delle commesse MIM (interne ed esterne). Viene indicato il file F:MIM/contabilità/commesse MIM.DOC come riferimento per l'elenco delle commesse in AD HOC. Vengono definite le seguenti tipologie di commesse:
+*   Commesse per lavori svolti.
+*   Produzioni ad hoc per clienti.
+*   Realizzazioni di nuovi video/CD per MIM.
+*   Lavori per MI.
+*   Attività interne MIM "importanti" (catalogo, PS).
+*   Attività varie (riassunte in commesse generali: gestione amministrativa, attività commerciale).
+*   Mansioni FOM: inserimento eccezionale commesse /CO + ore lavori.
+*   PDC, LM, AGI, PIO, BAN, ELE, CICCIO, MAD, MFB: inserimento commesse /CO e inserimento ore lavori.
+*   PREVENTIVI: l'uso del modulo preventivi sarà sostituito nel 2004 con "Preventivi M.I.". Consente l'importazione nella commessa/CO; un preventivo confermato va reinserito come ordine. Il codice riassuntivo del lavoro somma: componenti del prodotto finito, voci di spesa (attività) preventivate e il valore del progetto.
+*   INSERIMENTO COMMESSA: chi inserisce deve comunicare a chi sarà coinvolto e il numero. Il file "commesse 2004" (gestito da PDC) contiene l'elenco delle commesse. La causale delle commesse senza un ordine del cliente è IMC. NON lasciare in bianco il campo azione ('azione commesse AD HOC = 37').
+
+**08.01.04:** Da PDC, le commesse per attività varie sono operative. N° 46/C0 (gestione amministrativa) e N° 47/C0 (attività commerciale).
+
+**09.01.04:** Da PDC, le commesse sono operative:
+*   Lavori vari x MI: N° 48/CO.
+*   CD MIM nuovi + modifiche 2004: N° 49/CO.
+*   Video MIM varie modifiche 2004: N° 50.  Si ricorda di inserire nel campo note del modulo inserimento ore una descrizione completa del lavoro e dei richiedenti.
+
+**12.01.04:** Da PDC, le commesse operative sono:
+*   Lavori vari x MS: 54.
+*   Lavori vari x MIT: 55.
+*   E-learning MIM nuovi + modifiche 2004: 53.
+*   Banca dati Punto sicuro 2004: 57.
+*   Punto sicuro 2004: 56.
+*   Rassegna stampa quotidiana x MI 2004: 58.
+
+Le ore lavorate giornalmente devono essere inserite da ogni operatore e, per le ore del mese in corso, non oltre il giorno 2 del mese successivo, con una descrizione completa nel campo note. La chiusura della commessa avviene nel momento della fatturazione (con la causale IMC se non c'è un ordine del cliente). MFB normalmente non evade le commesse (ordini/CO) e deve essere avvertito quando il materiale pronto è disponibile.
