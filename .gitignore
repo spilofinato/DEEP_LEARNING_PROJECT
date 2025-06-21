@@ -1,0 +1,12 @@
+# Ignore PyCharm/IDEA settings
+.idea/
+
+# Ignore all files in DATA/UNUSED
+DATA/UNUSED/
+
+# Ignore specific files
+DATA/mod_progress.csv
+DATA/mod_progress_messages.csv
+
+# Ignore all files in FILES_FOR_CGPT
+FILES_FOR_CGPT/
