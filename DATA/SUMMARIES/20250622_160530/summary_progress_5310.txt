@@ -1,0 +1,14 @@
+*   **Alessandro Ronchi** (2025-06-11 14:59:01, 2025-06-11 15:03:28)
+    *   Riceve segnalazione da Sixtema, invio errato a 7000 utenti invece di 400.
+    *   Descrive gestione NC e procedure (PO16, IP07, IP27, IM10).
+    *   Documenta interazione con Federica Melis (DPO) per verifica.
+*   **Elisa Pau** (2025-06-06 18:35)
+    *   Segnala invio a 7000 utenti invece di 400.
+    *   Blocca convocazioni per evitare ripetersi l'anomalia.
+*   **CG** (2025-06-09)
+    *   Analizza causa: cambio filtro LMS, timeout DynDevice.
+    *   Riscrive query SQL per risolvere il problema.
+    *   Chiude azione correttiva.
+*   **Federica Melis** (DPO) (2025-06-11 ore 18:35)
+    *   Verifica che trattarsi di un errato invio a utenti regolarmente iscritti.
+*   **Allegato:** Documento PDF 20250611 5310 Incidente SGSI NC 2025 Anomalia Piattaforma DynDevice Sixtema.pdf (1497 caratteri)

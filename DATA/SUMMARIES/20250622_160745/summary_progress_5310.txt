@@ -1,0 +1,13 @@
+*   **2025-06-11 14:59:01 – Alessandro Ronchi:** Riceve segnalazione da Cliente Sixtema relativa all'errato invio Newsletter a oltre 7000 utenti della Piattaforma DD Sixtema anziché a circa 400.
+*   **2025-06-11 15:03:28 – Alessandro Ronchi:** Risponde al messaggio precedente, riassume la gestione della NC, inclusi PO16, IP07, IP27 e IM10, e fornisce la registrazione della Non conformità. Allegato: 20250611 5310 Incidente SGSI NC 2025 Anomalia Piattaforma DynDevice Sixtema.pdf
+*   **2025-06-11 18:35 – Elisa Pau (Head of Business Consulting Sixtema Spa – Tinexta Infocert):** Segnala a Matteo l'invio inatteso di circa 7000 newsletter a utenti della Piattaforma DD Sixtema, allegando uno screenshot che mostra l'invio a un numero eccessivo di destinatari. La Non conformità è stata aperta (ticket 2025-17581) e si riferisce alla chiusura delle convocazioni per evitare ripetizioni.
+*   **2025-06-11 19:48:09 – Creato:** Incidente SGSI NC 2025 Anomalia Piattaforma DynDevice Sixtema.
+*   **2025-06-11 14:59:01 – Alessandro Ronchi:** Invia la segnalazione iniziale di Elisa Pau.
+*   **2025-06-11 18:35 – Elisa Pau:**  Invia la segnalazione dell'anomalia al customer care, evidenziando l'invio a un numero eccessivo di utenti e allegando screenshot.
+*   **2025-06-11 19:48:09 – Analisi Cause (CG):** Identifica il problema derivante da un filtro non corretto utilizzato nella newsletter, dovuto a modifiche al codice DD di Sixtema che, in fase di invio, causavano un timeout. La causa è stata la modifica del filtro LMS, utilizzata per inviare la newsletter.
+*   **2025-06-11 19:48:09 – Blocco delle convocazioni di Sixtema:** Si effettuano delle chiusure di convocazioni di Sixtema in data 06.06.2025 per evitare il ripetersi dell'anomalia.
+*   **2025-06-11 19:48:09 – Azione correttiva (CG):**  Riscrive la query SQL per l'invio della newsletter, rendendola più efficiente e prevenendo il timeout.
+*   **2025-06-11 19:48:09 – Analisi del Piano dei test in Istruzione IP27:** Alessandro Ronchi individua un criterio di controllo specifico per modifiche al codice DD di questa tipologia.
+*   **2025-06-11 19:48:09 – Azione chiusa, verifica efficacia in corso (CG):** L'azione correttiva è chiusa ma la verifica dell'efficacia è in corso.
+*   **2025-06-11 15:00 – Federica Melis (DPO di Sixtema):** Alessandro Ronchi effettua un'ora di colloquio con Federica Melis per discutere la gestione dell'incidente.
+*   **2025-06-11 18:35 – Elisa Pau:** Invia la segnalazione dell'anomalia al customer care, evidenziando l'invio inatteso di circa 7000 newsletter a utenti della Piattaforma DD Sixtema anziché a circa 400.

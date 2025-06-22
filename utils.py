@@ -1,13 +1,16 @@
 # Create summarization utilities module
 import textwrap
 import ollama
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from markdown_it import MarkdownIt
+from bs4 import BeautifulSoup
+import re
 
-def is_long_progress(progress, msg_threshold=300, char_threshold=200000):
+def is_long_progress(progress, msg_threshold=30, char_threshold=15000):
     return progress["message_count"] >= msg_threshold or progress["total_char_length"] >= char_threshold
 
-def build_chronological_text(messages):
-    return "\n\n".join(f"{m['author']} - {m['timestamp']}:\n{m['content']}" for m in messages).strip()
+def count_words(text):
+    words = re.findall(r'\b\w+\b', text, re.UNICODE)
+    return len(words)
 
 def build_chronological_text_from_progress(progress):
     # Build a chronological text from messages, tokenizing by author and content
@@ -23,13 +26,36 @@ def build_chronological_text_from_progress(progress):
     # Join messages into a single string with author and content
     # Use '\\n\\n' to separate messages for better readability
 
-    text  = f"{progress['subject']} - {progress['created_at']}\n"
-    text += f"{progress['description']}\n\n"
-    text += "Messages:\n\n"
+    text = textwrap.dedent(
+            f"""Titolo: {progress['subject']} - Creato il: {progress['created_at']} - ID progetto: {progress['progress_id']}
+                Descrizione:{progress['description']}
+                Numero di messaggi: {progress['message_count']}
+                
+                Messaggi:
+            """).strip()
 
     for m in messages:
         m["content"] = m.get("content", "")
-        text += f"{m['author']} - {m['timestamp']}: {m['content']}\n\n"
+
+        # Cerco in messages data e autore del messaggio a cui si sta rispondendo
+
+        if m.get("answer_to_message_id", 0) > 0:
+            # Find the message being replied to
+            answer_to_message = next((msg for msg in messages if msg['message_id'] == m['answer_to_message_id']), None)
+            if answer_to_message:
+                m['answered_message_author'] = answer_to_message['author']
+                m['answered_message_timestamp'] = answer_to_message['timestamp']
+            else:
+                m['answered_message_author'] = ""
+                m['answered_message_timestamp'] = ""
+
+        text = textwrap.dedent(
+            f"""{text}
+            Autore: {m['author']} - Data: {m['timestamp']} {f"- In risposta al messaggio di: {m.get('answered_message_author', '')} scritto il {m.get('answered_message_timestamp', '')}" if m.get('answer_to_message_id', 0) > 0 else ''}
+            Contenuto:
+            {m['content']}
+            {f"Allegato: {m['attachment']}" if m.get("attachment") else ""}
+            """)
 
     return text.strip()
 
@@ -49,34 +75,61 @@ def split_into_chunks(messages, char_threshold=10000):
         chunks.append(current_chunk)
     return chunks
 
+def remove_markdown(md_text):
+    html = MarkdownIt().render(md_text)
+    return BeautifulSoup(html, "html.parser").get_text()
+
 def build_summarization_prompt(text, mode="full"):
+    text_for_prompt = text
+
+    if isinstance(text_for_prompt, list):
+        rewrite_text_for_prompt = ""
+        for text in text_for_prompt:
+            if not isinstance(text, str):
+                raise ValueError("All elements in the list must be strings.")
+            rewrite_text_for_prompt = textwrap.dedent(f"""
+                {rewrite_text_for_prompt}
+                
+                {remove_markdown(text)}
+                """)
+        text_for_prompt = rewrite_text_for_prompt.strip()
+
+    max_length = max(200, min(1000, count_words(text_for_prompt) // 4))
+
+    print(f"Max length for summarization: {max_length} words.")
+
     if mode == "full":
-        prompt = textwrap.dedent(f"""\
-        Sei un esperto di sintesi di testi e devi riassumere in modo dettagliato il seguente dettaglio di un progetto, mantenendo l'ordine cronologico degli eventi e le informazioni chiave.
-        Per favore, crea un riassunto coerente e conciso che evidenzi i punti principali e le azioni intraprese.
-        Usa un linguaggio chiaro e preciso, evitando ambiguità o informazioni superflue.
-        Non essere prolisso, ma assicurati di includere tutti gli aspetti rilevanti, come le decisioni prese, le azioni svolte e i risultati ottenuti.
-        È fondamentale mantenere il testo originale in italiano.
-        Per favore, non aggiungere introduzioni o conclusioni al riassunto generato.
-        
-        {text if isinstance(text, str) else '\\n\\n'.join(text)}
+        prompt = textwrap.dedent(f"""
+        Istruzioni:
+            Riassumi il seguente dettaglio di progetto in formato cronologico
+            Usa un formato ad elenco puntato per gli eventi principali.
+            Sottolinea le persone coinvolte e le loro azioni.
+            Sottolinea la presenza di allegati ai messaggi.
+            Scrivi esclusivamente in italiano.
+            Non includere introduzioni né conclusioni.
+            Lunghezza massima: {max_length} parole.
+
+        Dettaglio del progetto:
+        {text_for_prompt}
         """)
     elif mode == "hierarchical":
-        prompt = textwrap.dedent(f"""\
-        Sei un esperto di sintesi di testi. Hai già sintetizzato i dettagli di un progetto in più parti, e ora devi creare un riassunto finale che integri tutte le parti precedenti.
-        Di seguito trovi i riassunti delle parti precedenti, che devono essere combinati in un unico riassunto coerente e conciso.
-        Per favore, crea un riassunto coerente e conciso che evidenzi i punti principali e le azioni intraprese.
-        Usa un linguaggio chiaro e preciso, evitando ambiguità o informazioni superflue.
-        Non essere prolisso, ma assicurati di includere tutti gli aspetti rilevanti, come le decisioni prese, le azioni svolte e i risultati ottenuti.
-        È fondamentale mantenere il testo originale in italiano.
-        Per favore, non aggiungere introduzioni o conclusioni al riassunto generato.
-        
-        {text if isinstance(text, str) else '\\n\\n'.join(text)}
+        prompt = textwrap.dedent(f"""
+        Istruzioni:
+            Unisci i testi forniti in un unico riassunto coerente e dettagliato.
+        Vincoli:
+            Scrivi in italiano.
+            Non aggiungere introduzioni né conclusioni.
+            Lunghezza massima: {max_length} parole.
+            Evita ripetizioni.
+            Il testo deve essere fluido, logico e leggibile.
+            
+        Testo da unire:
+        {text_for_prompt}
         """)
     else:
         raise ValueError("Unsupported prompt mode.")
 
-    # print(prompt)
+    # print(prompt.strip())
     return prompt.strip()
 
 def summarize_with_ollama(prompt, model):
@@ -84,17 +137,22 @@ def summarize_with_ollama(prompt, model):
         model=model,
         prompt=prompt,
     )
+
+    print("Summary length:", count_words(response["response"]), "words.")
+
     return response["response"]
 
-def summarize_progress(progress, llm="ollama", model="gemma3:12b", mode="full"):
+def summarize_progress(progress, llm="ollama", model="gemma3:4b", mode="full"):
 
     if is_long_progress(progress):
         print("Progress is long, splitting into chunks for summarization...")
         # Split into chunks if too long
+        progress_for_summary = progress
         messages = split_into_chunks(progress["messages"])
         summaries = []
         for chunk in messages:
-            text = build_chronological_text(chunk)
+            progress_for_summary["messages"] = chunk
+            text = build_chronological_text_from_progress(progress_for_summary)
             prompt = build_summarization_prompt(text, mode=mode)
             if llm == "ollama":
                 summaries.append(summarize_with_ollama(prompt, model=model))
@@ -107,7 +165,7 @@ def summarize_progress(progress, llm="ollama", model="gemma3:12b", mode="full"):
             else:
                 raise ValueError(f"Unsupported LLM: {llm}")
 
-        print("Chunk summaries:", sum(len(s) for s in summaries), "characters total.")
+        print("Chunk summaries:", sum(count_words(s) for s in summaries), "words total.")
 
         # Combine summaries into a final summary
 
@@ -124,8 +182,6 @@ def summarize_progress(progress, llm="ollama", model="gemma3:12b", mode="full"):
             raise NotImplementedError("GPT summarization not implemented yet.")
         else:
             raise ValueError(f"Unsupported LLM: {llm}")
-
-        print("Final summary length:", len(final_summary), "characters.")
 
         return final_summary
     else:

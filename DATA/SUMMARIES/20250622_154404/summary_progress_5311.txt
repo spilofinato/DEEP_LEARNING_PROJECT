@@ -1,0 +1,13 @@
+**Riassunto Incidente SGSI NC 2025 – Attacco Piattaforma DD CQY**
+
+Il 18 giugno 2025, un attacco di tipo SQL Injection è stato rilevato sulla piattaforma DD CQY, innescato da un hacker che si è registrato tramite un falso ordine. L'attacco ha generato un'eccessiva quantità di email non attivate da DD a CQY.
+
+**Fasi dell'Incidente:**
+
+*   **18/06/2025:** Alessandro Ronchi segnala l'incidente, evidenziando l'invio di migliaia di email.
+*   **18/06/2025:** PFB elimina la email dalla configurazione dell'utente.
+*   **18/06/2025:** Il team DynDevice, con supporto ICT, implementa un blocco a livello di firewall, neutralizzando l'attacco SQL Injection.
+*   **19/06/2025:** Il team DynDevice implementa un rate limit alle richieste di "recupero username" e, tramite MMA, propone ulteriori miglioramenti: rate limit per i nuovi ordini, registrazione dei blocchi con estensione automatica, e modifica del flusso di creazione account (salvare dati in tabelle temporanee).
+*   **19/06/2025:** MMA completa la redazione di un incidente report per la valutazione da parte di GAD.
+
+L’attacco è stato neutralizzato grazie all’intervento immediato e alla successiva implementazione di misure di sicurezza avanzate, tra cui il rate limiting e la gestione centralizzata dei blocchi.

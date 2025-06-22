@@ -1,0 +1,11 @@
+Profilo della sessione:
+
+* Utilizzatore: Luca Sigalini
+* Data: 2011
+* Descrizione della sessione: La sessione è stata relativa al lancio e all'installazione del sistema di gestione delle prestazioni (Payroll) nella nuova sede.
+
+Esempi di richieste realizzate:
+
+* Richiesta ferie: 21/07/2011, 22/07/2011
+* Rimborsi spese: 16/08/2011, 01/09/2011
+* Registrazione ingressi / uscite: 16/08/2011, 01/09/2011

@@ -1,0 +1,17 @@
+Ecco un riassunto cronologico dell'incidente, basato sui dettagli forniti:
+
+**Incidente SGSI NC 2025 – Attacco Hacker a Piattaforma DD CQY**
+
+**Data Inizio: 18 Giugno 2025**
+
+*   **18 Giugno 2025, 16:18:01:** Alessandro Ronchi (AR) segnala al team assistenza (GAD) un volume elevato di email da DD a CQY relative a iscrizioni non attivate, probabilmente a causa di un attacco.
+*   **18 Giugno 2025, 16:18:01:** AR elimina dalla configurazione dell'utente una mail che causava il problema.
+*   **18 Giugno 2025, 16:18:01:** PFB (PFB) identifica la causa dell'incidente: un tentativo di attacco di un hacker che si è registrato sulla piattaforma DD CQY usando un falso ordine e l’attacco di tipo SQL Injection tramite la funzione di recupero password, senza successo.
+*   **18 Giugno 2025, 16:18:01:** PFB ipotizza di dover bloccare l'invio delle email di "recupera username" se superate una certa soglia (più di 10 richieste in 10 minuti). MMA è responsabile dell'analisi.
+*   **18 Giugno 2025, 11:45:07:** AR contatta Biancalisa confermando la neutralizzazione dell'attacco e la mancanza di compromissione dei dati. CQY richiede un report sintetico via ticket e email.
+*   **18 Giugno 2025, 15:00:00 - 15:35:35:** Il team di sviluppo DynDevice (Team Lead: MMA) e l'ICT team applicano un blocco a livello di firewall per fermare l'attacco. Verificano che l’azione ha successo, senza conseguenze per l’SQL Injection.
+*   **18 Giugno 2025, 15:59:43:** ARMMA completa l’analisi sequenziale dell’attacco, evidenziando la sequenza di eventi da PFB: dalle 21:50 del 17/06, le richieste alla funzione “recupera username” con l'SQL Injection, all'apertura del ticket da parte di CQY per il flusso di notifiche ("bounce"), all'analisi dei log di DynDevice, al blocco a livello di firewall, e alla conferma dell'efficacia del blocco.
+*   **19 Giugno 2025, 11:45:07:** AR contatta Roberta Rovida per informarla.
+*   **19 Giugno 2025, 14:30:** Il team di sviluppo DynDevice (Team Lead: MMA) implementa il nuovo meccanismo di blocco delle email di “recupera username” sopra le 10 richieste in 10 minuti, rendendolo operativo in DynDevice.
+*   **19 Giugno 2025, 17:55:34:** ARMMA completa l’analisi sequenziale dell’attacco, suggerendo miglioramenti aggiuntivi: bloccare anche gli ordini e le richieste di login con un rate limit, registrare i blocchi con estensione dinamica del blocco in caso di continuazione dell'attacco, e implementare un nuovo metodo di registrazione degli utenti nell'e-commerce (registrazione temporanea dei dati, email con link di setup account, creazione dell'account solo dopo aver scelto una password). MMA ha modificato l'autore del report.
+*   **19 Giugno 2025, 18:22:01:** AR invia il report finale firmato da MMA per la valutazione da parte di GAD.

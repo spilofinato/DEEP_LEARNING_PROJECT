@@ -1,0 +1,31 @@
+Ecco un riassunto dettagliato del progetto "Realizzazione nuova MimNET", basato sui messaggi forniti, con un ordine cronologico e una lunghezza di circa 3516 caratteri:
+
+**Realizzazione Nuova MimNET – ID Progetto: 1**
+
+**Descrizione:** Questo progetto riguarda la realizzazione completa di una nuova intranet, denominata MimNET, che è in fase iniziale di messa a punto. Il focus è lo sviluppo di funzionalità per il tracciamento degli aggiornamenti, la gestione delle presenze e il supporto per nuove implementazioni, con l'obiettivo di sostituire il sistema precedente (Meganet).
+
+**Cronologia degli Eventi e Azioni Intraprese:**
+
+*   **Luglio 2011 – Fasi Iniziali e Sviluppo Fondamentale:**
+    *   **1° Settimana:** Inizio dello sviluppo del sistema MimNET, con l'implementazione della struttura di base, l'integrazione di componenti DynDevice iCMS e l'utilizzo di WinGaep per l'importazione dei dati di accesso.
+    *   **2° Settimana:** Implementazione del modulo "Payroll" (gestione buste paga), con funzionalità di download dei cedolini da parte degli utenti.
+    *   **3° Settimana:** Sviluppo del modulo "Rimborsi Spese", fornendo agli utenti la possibilità di inserire le richieste di rimborso.
+    *   **4° Settimana:** Migrazione completa delle aree documenti dalla vetusta Meganet alla MimNET, con copia "così com’era", e preparazione per l’organizzazione logica dei file nelle nuove categorie.
+    *   **Test e Validazione Iniziali:** Vengono effettuati test interni per garantire il corretto funzionamento dei moduli e la compatibilità del sistema.
+
+*   **Settembre 2011 – Completamento dello Sviluppo e Formazione:**
+    *   **Organizzazione dei Documenti:**  L’organizzazione dei file è gestita tramite un’attenta suddivisione nelle nuove categorie introdotte dalla MimNET.  La migrazione è completata con copia "così com’era" delle aree documenti dalla Meganet.
+    *   **Realizzazione della Home Page:**  Viene realizzata la Home Page (pagina News) della MimNET, con l’inserimento di una news di lancio e una spiegazione minimale delle funzioni disponibili.
+    *   **Organizzazione del Corso:** Viene organizzato un corso per la formazione di tutti gli utenti MimNET, con focus sulle funzionalità del sistema. L’organizzazione del corso è scalata in base alle necessità, per essere realizzata sia nella vecchia che nella nuova sede.
+    *   **Implementazione Controllo Accessi:**  L'implementazione di un sistema di controllo accessi tramite elettro-serrature e l'attivazione del sistema di controllo accessi, con l'importazione dei dati ogni 30 minuti tramite WinGaep. L'installazione è in attesa dell'attivazione definitiva.
+
+*   **Aggiornamenti e Rifiniture (Settembre 2011):**
+    *   **Rielaborazione della Home Page:** Vengono inserite funzionalità aggiuntive nella Home Page, come la tabella del budget, con la possibilità di implementazione tramite DynDevice wCMS.
+
+**Punti ancora da svolgere (Fine Progetto):**
+
+*   Monitoraggio continuo del sistema e risoluzione di eventuali problemi.
+*   Aggiornamenti del sistema per garantire la stabilità e la sicurezza.
+*   Ottimizzazione delle prestazioni e dell'usabilità.
+
+Questo riassunto presenta una panoramica dettagliata dell'intero processo di sviluppo della MimNET, evidenziando le tappe cruciali, le attività svolte e gli obiettivi raggiunti.

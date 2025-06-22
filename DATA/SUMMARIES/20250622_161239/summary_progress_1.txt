@@ -1,0 +1,37 @@
+Ecco un riassunto cronologico dei dettagli del progetto, formattato come richiesto:
+
+**Realizzazione Nuova MimNET – ID Progetto: 1**
+
+*   **2011-07-13:**
+    *   **Luca Sigalini:** Invia il primo progress, presentando la MimNET in fase iniziale di realizzazione e descrivendo gli obiettivi del progress.  Il progress sarà usato per tenere traccia degli aggiornamenti tramite DynDevice iCMS, aggiornamenti specifici per la MimNET, e raccogliere idee. (Allegato: nan)
+    *   **Luca Sigalini:** Riepiloga i lavori svolti, inclusa l'aggiunta dell'area iCMS a DynDevice ECM, la sua commercializzazione come prodotto autonomo, l'attivazione dell'area iCMS, la creazione del menù, la realizzazione del template, l'attivazione del protocollo HTTPS, e lo sviluppo del modulo "Progress". Evidenzia la sicurezza della MimNET grazie all'uso di HTTPS e l'unicità del modulo "Progress" a causa della sua struttura. Menzi l'importanza di importare i dati dalla Meganet alla MimNET e attende il supporto del database manager. (Allegato: nan)
+
+*   **2011-07-14:**
+    *   **Luca Sigalini:** Implementa la funzionalità "CAMBIA PASSWORD" accessibile tramite l'apposita voce nella MimNET. (Allegato: nan)
+
+*   **2011-07-16:**
+    *   **Luca Sigalini:** Riepiloga gli obiettivi da raggiungere per il progress, definendo quali punti ancora devono essere aggiunti. (Allegato: nan)
+
+*   **2011-07-21:**
+    *   **Luca Sigalini:** Migra le aree download dalla Meganet alla MimNET, mantenendo i file "così com'erano" e definendo la necessità di un'organizzazione logica dei documenti all'interno della nuova struttura.  Suggerisce la possibilità di limitare l'accesso a determinati file. (Allegato: nan)
+
+*   **2011-07-26:**
+    *   **Luca Sigalini:** Completa la migrazione delle aree download dalla Meganet alla MimNET, enfatizzando la necessità di una riorganizzazione logica dei documenti.  Riconosce che gli utenti possono accedere a tutti i file.  Esprime l'intenzione di limitare l'accesso a file specifici tramite DynDevice iCMS, delegando questo compito a PG e PDC. Riepiloga gli obiettivi da raggiungere per il progress. (Allegato: nan)
+
+*   **2011-07-27:**
+    *   **Luca Sigalini:** Rende disponibile il modulo "Rimborsi Spese" (testato e funzionante).  Prevede che i cedolini relativi a Luglio verranno caricati solo nella MimNET, a partire da Agosto, e istruisce gli utenti a scaricare i documenti dalla Meganet.  Definisce i punti ancora da raggiungere: lettura accessi da C.A., registrazione ingressi/uscite, creazione della Home Page, e realizzazione del corso di formazione. (Allegato: nan)
+
+*   **2011-08-01:**
+    *   **Luca Sigalini:** Rende disponibile il modulo "Rimborsi Spese". Riconferma i punti ancora da raggiungere (lettura accessi, Home Page, corso). (Allegato: nan)
+
+*   **2011-09-06:**
+    *   **Luca Sigalini:** Conclude il corso di formazione relativo alla presentazione e all'utilizzo della MimNET. Suggerisce la creazione di una tabella di budget nella Home Page per l'aggiornamento mensile, con possibilità di implementarla tramite DynDevice wCMS. (Allegato: nan)
+
+**Note Generali:**
+
+*   Il progetto è guidato da Luca Sigalini.
+*   L'obiettivo principale è l'integrazione di DynDevice iCMS e la creazione di un sistema di gestione delle informazioni.
+*   Si utilizzano strumenti come WinGaep per la lettura dei dati dal controllo accessi.
+*   L'installazione definitiva del controllo accessi è prevista con l'installazione delle elettro-serrature.
+
+Spero che questo riassunto cronologico completo soddisfi le tue esigenze.

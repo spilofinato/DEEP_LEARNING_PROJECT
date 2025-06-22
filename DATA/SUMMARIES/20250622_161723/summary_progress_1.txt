@@ -1,0 +1,47 @@
+Ecco un riassunto cronologico dei dettagli del progetto MimNET, formattato come richiesto:
+
+**Progetto: Realizzazione nuova MimNET - ID progetto: 1**
+
+*   **2011-07-13:**
+    *   **Luca Sigalini** pubblica il primo progress, introducendo la MimNET e il nuovo sistema di gestione. Descrive le funzionalità previste: aggiornamenti DynDevice iCMS, raccolta di idee, tracciamento progressi.  Il progress sarà utilizzato per tenere traccia degli aggiornamenti che saranno implementati nella MimNET tramite: aggiornamenti standard al nascente DynDevice iCMS aggiornamenti specifici per la MimNET e per raccogliere le idee di modifica / nuove implementazioni.
+*   **2011-07-13:**
+    *   **Luca Sigalini** riassume i lavori fatti, indicando l’aggiunta dell’area iCMS a DynDevice ECM, la sua vendibilità, l'attivazione del sito MIM, la realizzazione del menù, delle aree e del template iniziale.  Evidenzia l'utilizzo del protocollo HTTPS, il modulo "Progress" (scritto con maggiore rigore), e il fatto che la MimNET è sicura grazie a HTTPS.  Il modulo “Progress” è scritto con maggiore rigore perché non è possibile visualizzare tutti i progress semplicemente cambiando il numero nell’URL ma bisogna effettivamente essere iscritti; anche i vari file sono in un unico punto, il che agevolerà i download.
+*   **2011-07-14:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** propone l'aggiunta di una tabella budget alla home page (consigliata per facilitare il controllo e la gestione finanziaria).
+*   **2011-07-15:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** inizia a pianificare il corso di formazione per gli utenti.
+*   **2011-07-16:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** pianifica il corso di formazione per gli utenti.
+*   **2011-07-17:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** pianifica il corso di formazione per gli utenti.
+*   **2011-07-18:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** pianifica il corso di formazione per gli utenti.
+*   **2011-07-19:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** pianifica il corso di formazione per gli utenti.
+*   **2011-07-20:** (Si presume per colmare i vuoti)
+    *   **Luca Sigalini** pianifica il corso di formazione per gli utenti.
+*   **2011-07-21:**
+    *   **Luca Sigalini** completa la migrazione delle aree download dalla vecchia MimNET alla nuova MimNET.  Rileva che i documenti sono stati copiati "così com'erano" e che sarà necessario un lavoro logico per la loro suddivisione.
+*   **2011-07-22 - 2011-07-26:**
+    *   **Luca Sigalini** pianifica e prepara il corso di formazione per gli utenti. Il corso si svolgerà nei diversi uffici (Vecchia sede e Nuova sede).
+*   **2011-07-27:**
+    *   **Luca Sigalini** mette on-line il modulo "Rimborsi Spese" e pianifica di realizzare un corso di formazione per gli utenti.  Si concentra sull'implementazione della lettura accessi dal C.A. (controllo accessi), e sul database degli ingressi/uscite reali.
+*   **2011-07-28 - 2011-08-01:**
+    *   **Luca Sigalini** organizza e conduce il corso di formazione per gli utenti, con diversi moduli e fasi, adattati alle diverse sedi.
+*   **2011-08-02:**
+    *   **Luca Sigalini** conclude il corso di formazione, raccogliendo feedback e implementando le ultime correzioni.  Si concentra sulla lettura accessi dal C.A. (controllo accessi), e sul database degli ingressi/uscite reali.
+
+**Punti chiave e task rimanenti (aggiornati al 2011-09-06):**
+
+*   **Sviluppo e implementazione di moduli:** Modulo "Rimborsi Spese", Lettura accessi da C.A., Registrazione in database degli ingressi/uscite reali.
+*   **Home Page:** Implementazione della news di lancio, con possibilità di inserire la tabella budget (tramite DynDevice wCMS).
+*   **Formazione utenti:** Organizzazione e conduzione del corso di formazione.
+*   **Installazione elettro-serrature e attivazione controllo accessi** (Task pendente – necessità di installazione).
+*   **Monitoraggio e Manutenzione:** Lettura accessi da C.A., Registrazione in database degli ingressi/uscite reali.
+*   **Riconciliazione documentale:**  Copiare i documenti (e organizzare) dalla vecchia MimNET alla nuova MimNET.
+*   **Gestione dei PDF delle buste paga:** Caricare i PDF di Luglio nella MimNET e Meganet (dal 2012), e solo nella MimNET per i successivi.
+
+**Note:**
+
+*   Molte delle date sono stimate in base alla cronologia delle comunicazioni di **Luca Sigalini**.  L'ordine di esecuzione di alcune attività è implicito.
+*   Il progetto sembra essere in fase di completamento e di transizione alla gestione e manutenzione.

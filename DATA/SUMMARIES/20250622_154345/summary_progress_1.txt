@@ -1,0 +1,9 @@
+Ecco un riassunto dettagliato del progetto "Realizzazione nuova MimNET", strutturato cronologicamente e con un massimo di 1000 caratteri:
+
+* **13 Luglio 2011:** Creazione MimNET (ID progetto 1). Luca Sigalini introduce la nuova intranet, focalizzata su aggiornamenti DynDevice iCMS, raccolta idee e tracciamento progressi.
+* **13 Luglio - 14 Luglio 2011:** Aggiunta DynDevice ECM, vendita area iCMS, attivazione sito MIM, creazione menu MimNET, realizzazione primo template. Implementato protocollo HTTPS.
+* **14 Luglio 2011:** Aggiunto modulo "Progress" (versione generica, futura vendita), con controlli di iscrizione e allegati.
+* **20 Luglio 2011:** Aggiunto modulo "Payroll" (gestione buste paga), operativo per caricare cedolini solo in MimNET.
+* **20 Luglio - 27 Luglio 2011:** Sviluppo modulo "Rimborsi spese". Implementazione lettura accessi da C.A. con WinGaep.
+* **27 Luglio - 27 Agosto 2011:** Realizzazione Home Page (con news e spiegazioni) e corso di formazione agli utenti (sostenuto in sede).
+* **6 Settembre 2011:** Completamento funzionalità di lettura accessi e suggerimento di inserimento tabella budget nella Home Page (tramite DynDevice wCMS).

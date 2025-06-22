@@ -1,0 +1,113 @@
+Il progetto AP - Gestione commesse MIM, gestito dal 08 gennaio 2004 alle 20:23:32, inizia con l'invio del primo messaggio a Pietro de' Castiglioni. L'ID messaggio è 11134 e il contenuto è un resoconto di procedure di gestione delle commesse MIM, che includono l'elenco riassuntivo delle commesse inserite in AD HOC per le attività specifiche relative a vari settori dell'azienda. La richiesta contiene anche l'allegato nan.
+
+Il giorno successivo, il 09 gennaio 2004 alle 17:12:16, Pietro de' Castiglioni invia il secondo messaggio con ID 11135 e contenuto un riassunto delle procedure di gestione delle commesse MIM. Il contento include una lista delle 12.12.03 da PDC, che definisce la procedura per la gestione delle commesse, tra cui le richieste specifiche relative a vari settori dell'azienda.
+
+La mattina del 10 gennaio 2004, Pietro de' Castiglioni invia il terzo messaggio con ID 11136 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciale, tutte attive dal 08 gennaio 2004 alle 17:13:22.
+
+La mattina del 12 gennaio 2004, Pietro de' Castiglioni invia il quarto messaggio con ID 11137 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MI. Il contento include una lista dei diversi ordini /CO e attività MI, tutte attive dal 08 gennaio 2004 alle 17:13:22.
+
+La mattina del 12 gennaio 2004, Pietro de' Castiglioni invia il quinto messaggio con ID 11138 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS, tutte attive dal 08 gennaio 2004 alle 17:13:22.
+
+Il giorno successivo, il 12 gennaio 2004 alle 17:13:49, Pietro de' Castiglioni invia il sesto messaggio con ID 11139 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT, tutte attive dal 08 gennaio 2004 alle 17:13:22.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11140 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MI. Il contento include una lista dei diversi ordini /CO e attività MI.
+
+Il giorno successivo, il 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11141 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11142 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11143 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11144 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11145 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11146 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11147 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11148 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11149 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11150 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11151 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11152 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11153 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11154 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11155 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11156 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11157 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11158 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11159 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11160 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11161 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11162 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11163 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11164 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11165 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11166 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11167 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11168 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11169 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11170 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11171 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11172 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11173 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11174 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11175 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11176 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11177 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11178 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11179 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11180 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11181 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11182 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11183 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11184 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11185 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11186 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11187 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT. Il contento include una lista dei diversi ordini /CO e attività MIT.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11188 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività commerciali. Il contento include una lista dei diversi ordini /CO e attività commerciali.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11189 e contenuto un riassunto delle procedure di gestione delle commesse MIM per le attività varie x MS. Il contento include una lista dei diversi ordini /CO e attività MS.
+
+Il giorno del 09 gennaio 2004 alle 10:01:04, Pietro de' Castiglioni invia il settimo messaggio con ID 11190 e contenuto un riassunto delle procedure di gestione delle commesse MIM per i lavori vari x MIT.

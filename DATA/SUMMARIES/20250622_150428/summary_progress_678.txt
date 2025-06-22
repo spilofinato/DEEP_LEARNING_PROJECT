@@ -1,0 +1,23 @@
+Ecco il riassunto dell'evento in italiano:
+
+Progetto AP - Gestione commesse MIM, elencato dal 08 gennaio 2004 alle 20:23:32.
+- Descrizione del progetto: gestione delle commesse interne o esterne per i lavori svolti di MIM.
+- Numero messaggi:
+  ID messaggio:11134 - Autore Pietro de' Castiglioni, Data: 08 gennaio 2004 alle 17:12:16.
+  Contenuto:
+    - Riassunto delle procedure di gestione delle commesse MIM (interne o esterne).
+    - Allegato: file F:MIM/contabilità/commesse MIM/DOC.
+- Messaggi aggiuntivi:
+  ID messaggio:11135 - Autore Pietro de' Castiglioni, Data: 08 gennaio 2004 alle 17:13:22.
+  Contenuto:
+    - 12.12.03: procedura per la gestione delle commesse (e preventivi).
+    - Tiologia delle commesse necessaria una commessa per tutti i lavori svolti - produzioni ad hoc per i clienti - realizzazioni di nuovi video/CD per MIM - attività interne MIM "importanti" (catalogo, PS) - attività varie (riassunte nelle commesse generali: gestione amministrativa, attività commerciale).
+  ID messaggio:11136 - Autore Pietro de' Castiglioni, Data: 08 gennaio 2004 alle 17:13:49.
+  Contenuto:
+    - Gestione amministrativa n° 46/C0 - attivit commerciale n° 47/C0
+    - Riassunto delle commesse operative di questo giorno (vedi mansioni): 
+      - gestione amministrativa n° 46/C0 - attività commerciale n° 47/C0.
+    - Riassunto delle commesse operative di lunedì 9 gennaio 2004 (vedi mansioni).
+    - Riassunto delle commesse operative di martedì 10 gennaio 2004 (vedi mansioni).
+    - Riassunto delle commesse operative di mercoledì 11 gennaio 2004 (vedi mansioni).
+    - Riassunto delle commesse operative di giovedì 12 gennaio 2004 (vedi mansioni).

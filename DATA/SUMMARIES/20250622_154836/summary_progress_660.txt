@@ -1,0 +1,21 @@
+Ecco un riassunto conciso del progetto MIM - Recupero Crediti, focalizzato sui punti chiave e organizzato cronologicamente:
+
+**Progetto: MIM - Recupero Crediti (ID: 660)**
+
+**Obiettivo:** Ottimizzare la gestione dei crediti e dei pagamenti per MIM, riducendo le problematiche legate al recupero degli incassi.
+
+**Fasi Principali:**
+
+*   **2003-2004:** Identificazione di ritardi e inefficienze nel processo di fatturazione e incasso. Implementazione di regole per l'invio di fatture e l'inserimento di dati del cliente. Collaborazione con Datafin per il recupero crediti.
+*   **2007-2008:**  Risoluzione dei problemi legati all'utilizzo del sistema e-commerce e all'inserimento manuale dei dati dei clienti. Definizione di nuove regole per l'utilizzo dell'E-Keeper.
+*   **2008-2009:**  Continuazione dell’ottimizzazione dei processi, con focus sulla risoluzione di errori nell’inserimento dei dati e sul miglioramento dell’efficienza operativa.
+
+**Aree di Intervento:**
+
+*   **Fatturazione:** Miglioramento delle procedure di fatturazione per garantire l'accuratezza e la tempestività.
+*   **Recupero Crediti:** Implementazione di strategie di recupero crediti, inclusi solleciti e, in alcuni casi, azioni legali.
+*   **Tecnologia:**  Ottimizzazione dell'utilizzo di sistemi e strumenti tecnologici (e-commerce, E-Keeper) per automatizzare e migliorare i processi.
+
+**Risultati:**
+
+Il progetto portò a un miglioramento graduale dell'efficienza nel recupero crediti, anche se ci furono sfide continue legate all'inserimento manuale dei dati e all'utilizzo dei sistemi tecnologici. Il monitoraggio costante delle problematiche e l'ottimizzazione dei processi contribuirono a una maggiore efficacia nel tempo.

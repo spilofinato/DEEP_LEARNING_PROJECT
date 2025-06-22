@@ -1,0 +1,10 @@
+Ecco un elenco dei passaggi che si sono stati realizzati nel corso della presentazione del sistema:
+
+1. Implementazione di nuove sezioni di documentazione nella Meg@net;
+2. Attivazione delle aree download per i file;
+3. Implementazione dell'accesso a base superiore per le richieste di assistenza.
+4. Integrazione con il modulo Payroll (gestione buste paga);
+5. Configurazione della Home Page con la notizia del lancio e la spiegazione delle funzioni disponibili;
+6. Realizzazione del corso per gli utenti MIM relativamente alla presentazione/utilizzo della MimNET.
+
+È importante notare che molti dei passaggi richiedono la realizzazione di ulteriori attività, come ad esempio l'installazione delle elettro-serrature e attivazione definitiva del controllo accessi.

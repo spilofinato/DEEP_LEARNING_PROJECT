@@ -1,0 +1,6 @@
+*   2025-06-11: Ricezione segnalazione da Sixtema Spa relativa a invio errato di newsletter a 7000 utenti invece di 400.
+*   2025-06-11: Blocco delle convocazioni inviate a Sixtema per evitare ripetizione dell’anomalia.
+*   2025-06-09: Analisi causa: Modifica filtri LMS, causata da query SQL inefficiente (timeout di 30 secondi), che ha annullato i filtri.
+*   2025-06-09: Riscrittura della query SQL per migliorare l'efficienza.
+*   2025-06-11: Registrazione di chiamata con DPO di Sixtema per gestire l'incidente e far riferimento a procedure di gestione del cambiamento e incidenti.
+*   2025-06-11: Programmazione di un criterio di controllo specifico per le modifiche al codice DynDevice.

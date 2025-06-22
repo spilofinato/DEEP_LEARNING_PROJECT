@@ -1,0 +1,5 @@
+Progetto AP - Gestione commesse MIM (ID 678):
+*   2004-01-08: Documento iniziale con riassunto procedure gestione commesse interne/esterne e file di riferimento F:MIM/contabilità/commesse MIM.DOC.
+*   2004-01-08 (varie date): Operatività nuove commesse: attività varie MI (46/C0, 47/C0, 48/CO, 49/CO, 50/CO), lavori vari MS (54), MIT (55), B.D. Punto sicuro (56, 57) e rassegna stampa (58).
+*   Inserimento ore: ogni operatore inserisce giornalmente le ore lavorate, con descrizione nel campo note.
+*   Gestione fatturazione/chiusura: chiusura commessa al momento della fatturazione (solo AD HOC).

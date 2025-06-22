@@ -1,0 +1,25 @@
+Ecco un riassunto del testo fornito in italiano:
+
+- 8 gennaio 2004 alle 20:23:32, il progetto AP - Gestione commesse MIM viene attivato.
+ 
+1. **Gestione delle commesse**:
+   - Il progetto gestisce commesse interne e esterne (MIM).
+   - Le procedure di gestione delle commesse sono riassunte in un file denominato "commesse 2004".
+   - La lista delle commesse è presentata nella sezione "F:MIM/contabilità/commesse MIM.DOC".
+
+2. **Procedure**:
+   - Il modulo preventivi M.I. viene sostituito con l'analogo "Preventivi M.I." in data 2004.
+   - L'importazione delle commesse/CO è consentita, ma solo se non confermata come ordine (da preventivi MI).
+ 
+3. **Mettitori di commesse**:
+   - La chiieda di una commessa deve essere inviata a chi sarà coinvolto (vedi mansioni).
+
+4. **Allegati**:
+   - Il file "commesses 2004" contiene l'elenco delle commesse, con il codice riassuntivo del lavoro.
+ 
+5. **Verifiche**:
+   - Non è vietato inserire il campo azione (\'azione commesse AD HOC = 37) senza un ordine del cliente.
+
+6. **Avvertenze**:
+   - Il calcolo giornaliero dell\'acquisito (FOM) deve essere inviato alla chiusura della commessa.
+   - La comunicazione della fatturazione è importante per evitare l'insuccesso delle ore lavorate non inserite su una commessa chiusa.

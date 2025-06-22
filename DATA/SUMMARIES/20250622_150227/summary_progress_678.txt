@@ -1,0 +1,6 @@
+Ecco il riassunto del testo:
+
+* Il progetto "AP - Gestione commesse MIM" è stato creato con data del 8 gennaio 2004 alle ore 20:23:32.
+* Le prime tre messaggi sono stati inviati da Pietro de' Castiglioni al 8 gennaio 2004 alle ore 17:12:16, 17:13:22 e 17:13:49.
+* Nel primo messaggio, è stato riassunto il processo di gestione delle commesse MIM e l'inserimento dell'elenco delle commesse nel file F:MIM/contabilità/commesse MIM.DOC.
+* Altri due messaggi hanno aggiunto ulteriori informazioni sulle commesse, come la loro procedura di gestione, le mansioni coinvolte e le attività specifiche che devono essere riassunte.

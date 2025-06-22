@@ -1,0 +1,7 @@
+Il 11 giugno 2025, Alessandro Ronchi ha ricevuto una segnalazione da Sixtema riguardo a un'errata invio di una newsletter a 7165 utenti della piattaforma DD Sixtema anziché a 400.
+
+L'errore è stato causato da un'aggiornamento dei filtri LMS, innescata da ottimizzazioni SQL che causavano un timeout.
+Elisa Pau (Head of Business Consulting Sixtema Spa – Tinexta Infocert) ha avviato un blocco delle email.
+Il team CG ha riscrittura della query SQL.
+Federica Melis (DPO) è stata informata dell'incidente.
+È stato programmato un piano di test per il rilascio di aggiornamenti DynDevice (scadenza 31/07/2025).

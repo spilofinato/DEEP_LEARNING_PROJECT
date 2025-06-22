@@ -1,0 +1,15 @@
+Ecco un riassunto cronologico dei dettagli del progetto, basato sulle informazioni fornite:
+
+**Recupero Crediti - MIM SA – Fatturazione e Recupero Crediti MIM (ID progetto: 660)**
+
+**Obiettivo Principale:** Ottimizzare la gestione dei crediti in sospeso di MIM SA.
+
+**Fasi Chiave:**
+
+*   **2004:** Definizione di nuove procedure di fatturazione e recupero crediti, inclusi pagamenti tramite carta di credito, bonifico e contrassegno. Individuazione di difficoltà nella registrazione dei pagamenti e necessità di raccolta dati cliente (partita IVA, codice fiscale).
+*   **2007:**  Consapevolezza dell'inefficacia delle registrazioni manuali e richiesta di automatizzazione della fatturazione on-line.
+*   **2008:**  Identificazione di criticità nelle registrazioni degli incassi, difficoltà nell'associazione tra pagamenti e clienti (in particolare con l'utilizzo di E-Keeper), e necessità di unificare i flussi di pagamento.
+
+**Azione Principale:**  Inizialmente, si è lavorato per migliorare le procedure di registrazione dei pagamenti e raccolta dati cliente.  In seguito, si è data importanza all'automazione e alla semplificazione dei processi.
+
+**Punti di Criticità:**  Inconsistenza nei dati dei clienti, difficoltà nell'assimilazione dei pagamenti, e necessità di una gestione più efficiente dei flussi di pagamento.

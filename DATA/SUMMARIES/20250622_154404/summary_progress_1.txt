@@ -1,0 +1,22 @@
+Ecco un riassunto dettagliato del progetto "Realizzazione nuova MimNET", basato sui dettagli forniti, nel rispetto dei requisiti stabiliti:
+
+**Riassunto Dettagliato – Realizzazione MimNET (ID: 1)**
+
+**Cronologia degli Eventi e Azioni Intraprese:**
+
+* **13 Luglio 2011:** Luca Sigalini introduce la MimNET, definita in fase iniziale. Il primo "Progress" è focalizzato sul tracciamento di aggiornamenti DynDevice iCMS, ECM, wCMS e sulla raccolta di idee. Viene attivato l'area iCMS sul sito MIM, viene creato il menù e le aree di navigazione (prendendo spunto dalla vecchia Meganet). Viene attivato il protocollo HTTPS. Viene sviluppato il modulo "Progress".
+* **13 Luglio 2011 (14:22):**  Aggiunta a DynDevice ECM dell'area iCMS, vendibile separatamente. Vengono implementate funzionalità come l'accesso tramite credenziali e verifica dell'iscrizione ai progress,  con un focus sulla sicurezza data l'accesso via internet.  Viene sottolineata la necessità di importare i dati dalla Meg@net.
+* **16 Luglio 2011:** Viene rilasciata la funzionalità "Rimborsi Spese" e “Payroll” e vengono eseguiti test di funzionalità.
+* **21 Luglio 2011:**  Vengono migrate le aree documentali (da Meg@net a MimNET), con l'avviso che la suddivisione dei documenti richiederà un lavoro manuale.
+* **27 Luglio 2011:** Viene rilasciata la funzionalità "Rimborsi Spese" e viene data la priorità al caricamento dei cedolini (da Meg@net a MimNET). Viene pianificata la creazione di un corso di formazione.
+* **27 Luglio - 16 Agosto 2011:** Vengono implementate e testate le funzionalità di "Rimborsi Spese" e "Payroll”.  Vengono create le aree documentali.
+* **6 Settembre 2011:**  Viene tenuto il corso di formazione per gli utenti MIM, con l’aggiunta di suggerimenti per il miglioramento continuo.
+* **6 Settembre 2011 (in Poi):** Vengono implementati la lettura dei dati dal controllo accessi (WinGaep), la creazione della Home Page della MimNET (con news e funzionalità) e la registrazione dei dati relativi agli ingressi/uscite reali. Si esprime la volontà di inserire la tabella del budget nella Home Page tramite DynDevice wCMS.
+
+**Punti Chiave & Attività Future:**
+
+*   L’installazione delle elettro-serrature e l’attivazione definitiva del controllo accessi sono state fissate come priorità.
+*   Si prevede l’implementazione della tabella del budget nella Home Page tramite DynDevice wCMS.
+*   La gestione dei documenti (download e suddivisione) richiede un lavoro manuale.
+*   Il monitoraggio e il miglioramento continuo delle funzionalità sono fondamentali.
+*   La corretta migrazione dei dati e le installazioni finali sono cruciali per il successo del progetto.

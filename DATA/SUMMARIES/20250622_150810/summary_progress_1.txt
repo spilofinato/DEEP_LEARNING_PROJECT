@@ -1,0 +1,22 @@
+Titolo della terna: "Rifinizione e implementazione della nuova struttura aziendale"
+
+Si tratta di un piano di azione per il rinnovamento e l'implementazione della nuova struttura aziendale, che riguarda la gestione delle impostazioni e dei dati relativi alle persone (imposte, paghe, ecc.).
+
+I punti principali del piano sono:
+
+1. Implementazione dell'imposta sulla società
+2. Gestione delle prestazioni lavorative (saldos, stipendi, ecc.)
+3. Registrazione degli ingressi/uscite con lettura dati dal controllo accessi
+
+Il piano prevede che si svolgano le seguenti azioni:
+
+* Implementazione dell'imposta sulla società: 15/09/2011
+* Gestione delle prestazioni lavorative: 01/10/2011 - 16/08/2012
+* Registrazione degli ingressi/uscite con lettura dati dal controllo accessi: 03/09/2011 (in fase di implementazione)
+
+Inoltre, è previsto che si svolgano le seguenti azioni:
+
+* Messa online del modulo "Rimborsi spese" in data 22/08/2012
+* Realizzazione dell'HP della nuova struttura aziendale con l'inserimento della tabella del budget in data 15/09/2012
+
+È da notare che alcuni punti saranno completati nella nuova sede, mentre altri saranno effettuati solo a partire dal 22/08/2012.
