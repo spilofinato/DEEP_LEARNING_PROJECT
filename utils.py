@@ -142,7 +142,7 @@ def summarize_with_ollama(prompt, model):
 
     return response["response"]
 
-def summarize_progress(progress, llm="ollama", model="gemma3:4b", mode="full"):
+def summarize_progress_idea_1(progress, llm="ollama", model="gemma3:4b", mode="full"):
 
     if is_long_progress(progress):
         print("Progress is long, splitting into chunks for summarization...")
@@ -171,8 +171,9 @@ def summarize_progress(progress, llm="ollama", model="gemma3:4b", mode="full"):
 
         print("Combining chunk summaries into final summary...")
 
+        prompt = build_summarization_prompt(summaries, mode="hierarchical")
+
         if llm == "ollama":
-            prompt = build_summarization_prompt(summaries, mode="hierarchical")
             final_summary = summarize_with_ollama(prompt, model=model)
         elif llm == "gemini":
             # PLH
