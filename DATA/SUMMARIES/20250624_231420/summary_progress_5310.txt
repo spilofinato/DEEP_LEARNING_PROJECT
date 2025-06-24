@@ -1,0 +1,13 @@
+Ecco un riassunto cronologico dell’incidente, basato sui dettagli forniti:
+
+*   **11 Giugno 2025, 14:59:01:** Alessandro Ronchi riceve una segnalazione dal Cliente Sixtema riguardo all’errato invio di una newsletter a oltre 7000 utenti della Piattaforma DD Sixtema, anziché ai 400 utenti previsti. La segnalazione include uno screenshot che evidenzia l’incongruenza.
+*   **11 Giugno 2025, 15:03:28:** Alessandro Ronchi risponde alla segnalazione, illustrando la gestione della Non Conformità (NC) con riferimento alle procedure PO16, IP07, IP27 e IM10.
+*   **11 Giugno 2025, 15:00:** Alessandro Ronchi effettua una chiamata con Federica Melis (DPO di Sixtema) per discutere l'incidente, confermando che si trattava di un errato invio di una comunicazione a utenti regolarmente iscritti alla newsletter.
+*   **06 Giugno 2025, 18:35:** Elisa Pau (Head of Business Consulting Sixtema Spa – Tinexta Infocert) segnala l’errore e blocca le convocazioni da inviare, riconoscendo la gravità della situazione.
+*   **09 Giugno 2025:** L’analisi delle cause (CG) identifica un problema nella query SQL utilizzata per filtrare i destinatari della newsletter. Una modifica ai filtri LMS, attivata per l’efficientamento della query, ha causato il problema. Viene riscritta la query per risolvere l’anomalia.
+*   **09 Giugno 2025:** Viene attivata l'azione correttiva a livello di codice DynDevice per adattare i controlli aggiuntivi alla nuova query.
+*   **09 Giugno 2025:** L’azione correttiva viene chiusa.
+*   **10 Giugno 2025:** Alessandro Ronchi avvia l'analisi del Piano dei test in Istruzione IP27 per il rilascio dell’aggiornamento DynDevice e per l'individuazione di un criterio di controllo specifico per modifiche al codice DD di questa tipologia.
+*   **18 Giugno 2025:** Alessandro Ronchi modifica il rapporto, indicando che l'analisi è stata programmata.
+
+**Allegati:** È disponibile il file PDF "20250611 5310 Incidente SGSI NC 2025 Anomalia Piattaforma DynDevice Sixtema.pdf".

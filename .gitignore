@@ -11,3 +11,6 @@ DATA/mod_progress_messages.csv
 
 # Ignore all files in FILES_FOR_CGPT
 FILES_FOR_CGPT/
+
+# Ignore api_keys.py
+api_keys.py

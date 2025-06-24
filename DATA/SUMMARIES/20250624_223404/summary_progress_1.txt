@@ -1,0 +1,27 @@
+Ecco un riassunto cronologico dei dettagli del progetto "Realizzazione nuova MimNET", basato sui messaggi forniti:
+
+**Titolo:** Realizzazione nuova MimNET - ID progetto: 1
+
+**Cronologia:**
+
+*   **2011-07-13:** Luca Sigalini introduce la nuova MimNET, sottolineando l'utilizzo di DynDevice iCMS, l'aggiunta di nuove aree (tramite ECM), l'attivazione del protocollo HTTPS, la creazione del modulo "Progress" e l'importanza della sicurezza (grazie all'HTTPS). Il modulo "Progress" è concepito per essere venduto. Vengono identificati punti da realizzare e considerazioni sulla sicurezza e il valore del modulo.
+*   **2011-07-13 (14:22:46):** Luca Sigalini dettaglia il lavoro svolto, includendo l'integrazione con DynDevice ECM, la vendita del prodotto, l'attivazione dell'area iCMS, la creazione del menù e delle aree, la realizzazione del template, l'attivazione del protocollo HTTPS e le caratteristiche del modulo "Progress" (con il suo vincolo di iscrizione per l'utilizzo).
+*   **2011-07-14:** Luca Sigalini aggiunge la funzionalità "CAMBIA PASSWORD" alla MimNET.
+*   **2011-07-15:** Luca Sigalini conclude la migrazione delle aree documenti dalla vetusta Meg@net alla nuova MimNET, con un'avvertenza sulla necessità di un'organizzazione logica dei documenti.
+*   **2011-07-21:** Luca Sigalini completa la migrazione delle aree documenti, e introduce l'idea di creare una tabella del budget sulla Home Page della MimNET tramite DynDevice wCMS (proposta).
+*   **2011-07-26:** Luca Sigalini afferma che le aree download sono state completamente migrate.
+*   **2011-07-27:** Luca Sigalini mette on-line il modulo "Rimborsi Spese" e fornisce indicazioni su come sarà gestito a partire dal luglio 2011.
+*   **2011-08-01:** Luca Sigalini conclude la migrazione delle aree documenti, e mette on-line il modulo "Rimborsi Spese".
+*   **2011-09-06:** Luca Sigalini conclude il corso relativo alla presentazione/utilizzo della MimNET.
+
+**Punti chiave aggiuntivi:**
+
+*   **Tecnologia:** Utilizzo di DynDevice iCMS per la gestione e l'integrazione.
+*   **Sicurezza:** Implementazione del protocollo HTTPS per garantire la sicurezza delle comunicazioni.
+*   **Modulo "Progress":** Progettato per essere venduto, con un vincolo di iscrizione per l'utilizzo.
+*   **Controllo accessi:** Implementazione del sistema di controllo accessi tramite WinGaep e lettura dei dati dal controllo accessi.
+*   **Migrazione documenti:** Trasferimento completo delle aree documenti dalla vecchia Meg@net alla nuova MimNET.
+*   **Formazione:** Organizzazione di un corso per l'utilizzo della MimNET.
+*   **Proposte future:** Suggerimento di implementare una tabella del budget sulla Home Page tramite DynDevice wCMS.
+
+Spero che questo riassunto cronologico dettagliato sia utile!
