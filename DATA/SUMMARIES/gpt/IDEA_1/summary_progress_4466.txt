@@ -1,0 +1,464 @@
+- 2011-11-21, Luca Sigalini: Riporta gli accessi a PS dalla newsletter della settimana precedente, sottolineando regolarità tranne nei giorni di picco negativo abituali (venerdì e mercoledì). Nessun allegato.
+- 2011-11-28, Luca Sigalini: Segnala calo accessi del -43,01% (influenzato dall’invio newsletter “ExpoTraining”) e problemi di ricezione su @tiscali.it. La settimana chiude a -7,75%.
+- 2011-12-05, Luca Sigalini: Registra piccolo aumento degli accessi (+0,83%) differenziando i giorni della settimana, e conferma effetti negativi degli invii di eventi nella newsletter.
+- 2011-12-12, Luca Sigalini: Riporta dati influenzati da festività con newsletter non inviata giovedì e venerdì; non calcola le percentuali di variazione.
+- 2011-12-19, Luca Sigalini: Evidenzia calo non giustificato nei giorni centrali, mancato invio del sommario per problemi di server; chiede informazioni al provider.
+- 2012-01-18, Luca Sigalini: Segnala un marcato aumento accessi (+37,56%) grazie agli argomenti trattati nella settimana.
+- 2012-01-24, Luca Sigalini: Evidenzia impatto negativo sull’accesso dovuto a newsletter pubblicitaria CSI il lunedì e blocchi su Tiscali.
+- 2012-01-24, Luigi Meroni: Sollecita ricerca di server alternativi per l’invio delle mail commerciali a causa dei blocchi.
+- 2012-01-24, Paolo Gaioni: Informa che l’uso di una seconda console MailUp raddoppierebbe i costi; suggerisce di intervenire sul database per ridurre spam causato da iscrizioni automatiche.
+- 2012-01-30, Luca Sigalini: Riporta dati settimanali con martedì basso, senza allarme rispetto ai mesi precedenti.
+- 2012-02-06, Luca Sigalini: Evidenzia buoni risultati dopo il passaggio a una piattaforma MailUp indipendente dal sabato precedente; implementa una patch su DynDevice e allinea iscrizioni/disiscrizioni tra DynDevice e MailUp per prevenire blocchi.
+- 2012-02-13, Luca Sigalini: Analizza la settimana con martedì record negativo per effetto della pubblicità di un convegno, escludendo problemi di invio tecnico.
+- 2012-02-20, Luca Sigalini: Registra calo preoccupante negli accessi il giovedì, chiedendo verifica sull’invio regolare tramite MailUp.
+- 2012-02-20, Paolo Gaioni: Conferma invio avvenuto regolarmente; segnala riduzione delle mail errate; fornisce statistiche di click per giorno.
+- 2012-02-20, Federica Gozzini: Domanda chiarimenti sul rapporto tra dati degli accessi da newsletter e lettura su DynDevice; chiede dati di accesso per singolo articolo.
+- 2012-02-20, Luca Sigalini: Fornisce dati dettagliati di click per articolo, come richiesto da Gozzini.
+- 2012-02-27, Luca Sigalini: Riporta calo il mercoledì, non spiegato dai contenuti; suggerisce verifica del corretto invio su MailUp.
+- 2012-03-05, Luca Sigalini: Dati con valori minimi comunque elevati; segnalata la ripresa e il sorpasso di Google sulla newsletter come fonte di accessi.
+- 2012-03-12, Luca Sigalini: Segnala “settimana disastrosa” per accessi da newsletter, abbassamento non dovuto a problemi tecnici ma forse a calo d’interesse.
+- 2012-03-14, Paolo Gaioni: Conferma da MailUp che non ci sono stati problemi tecnici.
+- 2012-03-14, Luca Sigalini: Conferma che il calo è probabilmente dovuto solo a ridotto interesse.
+- 2012-03-19, Luca Sigalini: Registra recupero parziale degli accessi, pur con giornata negativa legata a comunicazione di convegno e cinque articoli.
+- 2012-03-26, Luca Sigalini: Segnala flessione lieve con mercoledì ancora giorno più debole.
+- 2012-04-02, Luca Sigalini: Rileva la “peggior settimana di sempre” per accessi da newsletter.
+- 2012-04-10, Luca Sigalini: Continua il calo, mercoledì il peggiore da dicembre.
+- 2012-04-16, Luca Sigalini: Segnala lieve ripresa: tutti i giorni dopo il lunedì superano 5.000 accessi.
+- 2012-04-23, Luca Sigalini: Rileva due picchi negativi (martedì e giovedì), ma complessivamente settimana positiva.
+- 2012-05-02, Luca Sigalini: Forte picco il lunedì, settimana nel complesso negativa e giovedì molto debole.
+- 2012-05-07, Luca Sigalini: Settimana negativa a causa del ponte del 1° maggio, bassi accessi anche nei giorni principali.
+- 2012-05-14, Luca Sigalini: Inversione di tendenza (settimana positiva), pur con giovedì debole per scarsità di articoli.
+- 2012-05-21, Luca Sigalini: Segnala settimana “decisamente positiva” con incremento rispetto a quella precedente.
+- 2012-05-28, Luca Sigalini: Riporta settimana “decisamente negativa”, probabilmente per pochi articoli pubblicati.
+- 2012-06-04, Luca Sigalini: Settimana positiva nonostante giovedì negativo, menziona la presenza di una vignetta tra i contenuti.
+- 2012-06-11, Luca Sigalini: Dichiara la settimana molto negativa (-9,87%), assenza di picchi negativi particolari.
+- 2012-06-25, Luca Sigalini: Settimana positiva nonostante il giovedì negativo; report motivato da ferie posticipate.
+- 2012-07-02, Luca Sigalini: Osserva calo generale, peggioramento giovedì.
+- 2012-07-09, Luca Sigalini: Calo marcato, peggiore risultato recente; ipotizzata maggior percentuale di SPAM; FG conferma che problemi su MailUP non risultano evidenti.
+- 2012-07-16, Luca Sigalini: Modesta ripresa, giovedì resta basso.
+- 2012-07-23, Luca Sigalini: Leggero rialzo; giovedì resta il peggiore.
+- 2012-07-30, Luca Sigalini: Piccolo calo, attribuito alla stagionalità.
+- 2012-08-06, Luca Sigalini: Rialzo negli accessi, giovedì resta sotto tono.
+- 2012-09-10, Luca Sigalini: Accessi in crescita, mercoledì giorno peggiore.
+- 2012-09-17, Luca Sigalini: Settimana negativa dopo le ferie, giovedì il peggiore.
+- 2012-09-24, Luca Sigalini: Calo ulteriore, giovedì molto negativo.
+- 2012-10-01, Luca Sigalini: Rialzo lieve, solo lunedì sopra 5.000 accessi.
+- 2012-10-08, Luca Sigalini: Segnala ulteriore calo, martedì molto negativo; raccomanda verifica su MailUP.
+- 2012-10-15, Luca Sigalini: Netto rialzo dopo calo prolungato, mercoledì resta il punto minimo.
+- 2012-10-22, Luca Sigalini: Ottimo risultato settimanale; martedì negativo in occasione di un Festival della sicurezza.
+- 2012-10-29, Luca Sigalini: Lieve flessione con due giorni negativi.
+- 2012-11-05, Luca Sigalini: Leggero calo (-2,77%) tra giorni di uscita.
+- 2012-11-12, Luca Sigalini: Forte calo per problemi tecnici su MailUP il martedì.
+- 2012-11-19, Luca Sigalini: Piccola ripresa, confronto ancora preoccupante con le settimane normali.
+- 2012-11-26, Luca Sigalini: Forte incremento (+19,98%) dopo periodo negativo.
+- 2012-12-03, Luca Sigalini: Ulteriore incremento (+10,90%), nessun giorno particolarmente basso.
+- 2012-12-10, Luca Sigalini: Calo (-10,24%) per festività.
+- 2012-12-17, Luca Sigalini: Leggero rialzo (+0,73%); record di accessi dalla NL per lunedì 10 dicembre e massimo storico.
+- 2013-01-14, Luca Sigalini: Buon rialzo post-festività (+10,84%), favorito da lettura di NL cumulative al rientro.
+- 2013-01-21, Luca Sigalini: Piccolissimo calo rispetto alla settimana precedente.
+- 2013-01-28, Luca Sigalini: Ancora lieve discesa ma livelli buoni.
+- 2013-02-04, Luca Sigalini: Decisa discesa (-12,03%), giovedì molto debole.
+- 2013-02-11, Luca Sigalini: Ripresa degli accessi (+12,31%) dopo settimane di cali.
+- 2013-02-18, Luca Sigalini: Nuovo calo (-4,32%), no picchi negativi.
+- 2013-02-25, Luca Sigalini: Secondo calo consecutivo (-4,28%), martedì sotto i 5.000 accessi.
+- 2013-03-04, Luca Sigalini: Terzo calo (-4,96%), mercoledì sotto 4.500.
+- 2013-03-11, Luca Sigalini: Svolta positiva (+15,53%).
+- 2013-03-18, Luca Sigalini: Leggero calo (-1,21%), non è uscita la NL venerdì.
+- 2013-03-25, Luca Sigalini: Nuovo aumento (+11,05%), tra le cinque migliori settimane.
+- 2013-04-02, Luca Sigalini: Netto calo (-18,70%), due giorni bassi dopo il ripristino delle liste.
+- 2013-04-08, Luca Sigalini: Minima ripresa (+0,09%) con una giornata lavorativa in meno.
+- 2013-04-15, Luca Sigalini: Ottimo aumento (+16,64%) dopo settimana corta.
+- 2013-04-22, Luca Sigalini: Calo (-9,08%), venerdì molto negativo.
+- 2013-04-29, Luca Sigalini: Raccoglie dati della settimana di ponte (-33,22%).
+- 2013-05-06, Luca Sigalini: Settimana semi-festiva (+3,25%).
+- 2013-05-13, Luca Sigalini: Calo (-8,68%), giovedì e venerdì bassi.
+- 2013-05-20, Luca Sigalini: Ancora calo (-3,79%), mercoledì e venerdì sotto 5.000.
+- 2013-05-27, Luca Sigalini: Ulteriore calo (-2,03%), tre giorni sotto 5.000.
+- 2013-06-04, Luca Sigalini: Diminuzione (-6,58%), solo venerdì sopra 5.000.
+- 2013-06-10, Luca Sigalini: Marcato aumento (+23,73%), nessun giorno sotto soglia.
+- 2013-06-17, Luca Sigalini: Lieve diminuzione (-1,36%), minimo sempre sopra 5.000.
+- 2013-06-24, Luca Sigalini: Diminuzione marcata (-14,31%), due giorni sotto soglia.
+- 2013-07-01, Luca Sigalini: Straordinario rialzo (+34,83%) grazie al martedì.
+- 2013-07-08, Luca Sigalini: Lieve calo (-1,01%), nessun giorno sotto soglia.
+- 2013-07-15, Luca Sigalini: Calo deciso (-10,86%), giorni sempre sopra soglia.
+- 2013-07-22, Luca Sigalini: Terzo calo consecutivo (-9,34%), nessun giorno sotto soglia.
+- 2013-07-29, Luca Sigalini: Quarto calo consecutivo (-3,82%), due giorni sotto 5.000.
+- 2013-08-05, Luca Sigalini: Quinto calo consecutivo (-2,33%), tre giorni sotto 5.000. Aggiornamento prossimo a settembre.
+- 2013-09-16, Luca Sigalini: Forte aumento (+16,16%) post ferie.
+- 2013-09-23, Luca Sigalini: Pesante calo (-15,61%), settimana scorsa eccezionale.
+- 2013-09-30, Luca Sigalini: Stabilità (-1,45%), giornate sopra soglia.
+- 2013-10-07, Luca Sigalini: Diminuzione marcata (-12,55%), giovedì sotto soglia.
+- 2013-10-14, Luca Sigalini: Buon incremento (+11,88%), sempre sopra 5.000.
+- 2013-10-21, Luca Sigalini: Pesante calo (-12,92%), tre giorni sotto soglia. Sabato in recupero.
+- 2013-10-21, Federica Gozzini: Ipotesi calo dovuto alla fiera "Ambiente e Lavoro".
+- 2013-10-28, Luca Sigalini: Aumento (+7,50%), martedì peggior risultato di sempre.
+- 2013-11-04, Luca Sigalini: No confronti per festività, martedì e giovedì giorni negativi.
+- 2013-11-11, Luca Sigalini: Aumento rispetto settimana 21-27 ottobre (+5,91%), martedì giorno debole.
+- 2013-11-18, Luca Sigalini: Nuovo aumento (+6,95%), giovedì sotto i 4.000.
+- 2013-11-25, Luca Sigalini: Aumento deciso (+12,18%), nessun giorno negativo.
+- 2013-12-02, Luca Sigalini: Segno negativo netto (-15,94%), giorni sotto soglia.
+- 2013-12-09, Luca Sigalini: Calo significativo (-13,10%), martedì e mercoledì sotto 5.000.
+- 2013-12-16, Luca Sigalini: Aumento accessi (+8,43%), mercoledì e venerdì bassi.
+- 2014-01-14, Luca Sigalini: Analizza accessi, mercoledì particolarmente negativo.
+- 2014-01-20, Luca Sigalini: Nessun giorno sotto soglia, impossibile confronto per Epifania.
+- 2014-01-27, Luca Sigalini: -5,81% rispetto alla settimana precedente, critica mercoledì.
+- 2014-02-03, Luca Sigalini: Incremento del +0,50%, mercoledì e giovedì negativi.
+- 2014-02-10, Luca Sigalini: Aumento +4,66%, nessun giorno sotto soglia.
+- 2014-02-17, Luca Sigalini: Calo -6,35%, giovedì più basso.
+- 2014-02-24, Luca Sigalini: Ulteriore calo -2,24%, venerdì peggiore.
+- 2014-03-03, Luca Sigalini: Crescita record +17,71%, nessun giorno sotto soglia. Segnala severità MailUp su disiscrizioni; chiede a Gaioni possibilità di parametrizzazione.
+- 2014-03-03, Paolo Gaioni: Spiega che MailUp gestisce le disiscrizioni per errore come da impostazione; apre ticket; ipotizza aumento per qualità indirizzi.
+- 2014-03-10, Luca Sigalini: Calo -4,80%, nessun giorno sotto soglia.
+- 2014-03-17, Luca Sigalini: Pesante calo -13,65%, mercoledì e giovedì sotto i 4.000.
+- 2014-03-17, Paolo Gaioni: Segnala calo errori dopo manutenzione MailUp, ma diminuiscono aperture e click; allega grafico (graficoRiassuntivo.xls).
+- 2014-03-24, Luca Sigalini: Deciso aumento +23,90%, settimana tra le migliori di sempre.
+- 2014-03-31, Luca Sigalini: Calo -8,50%, nessun giorno particolarmente negativo.
+- 2014-04-07, Luca Sigalini: Calo -6,06%, due giorni negativi.
+- 2014-04-14, Luca Sigalini: Ulteriore calo -8,42%, una giornata molto bassa.
+- 2014-04-22, Luca Sigalini: Quarto calo consecutivo -2,29%, due giorni negativi.
+- 2014-05-12, Luca Sigalini: Calo -1,54%, tre giorni molto negativi.
+- 2014-05-20, Luca Sigalini: Ripresa +11,48%, ma una giornata critica.
+- 2014-05-26, Luca Sigalini: Nuovo incremento +1,52%, nessun giorno sotto soglia.
+- 2014-06-03, Luca Sigalini: Calo -6,95%, due giorni critici.
+- 2014-06-09, Luca Sigalini: Aumento +11,20%, due giorni critici, analisi da martedì a domenica per festività.
+- 2014-06-16, Luca Sigalini: Lieve calo -0,97%, due giorni sotto soglia.
+- 2014-06-23, Luca Sigalini: Marcato calo -11,71%, mercoledì e giovedì critici.
+- 2014-06-30, Luca Sigalini: Ulteriore calo -4,79%, quattro giorni sotto soglia.
+- 2014-07-07, Luca Sigalini: Ripresa +6,38%, martedì e mercoledì bassi.
+- 2014-07-14, Luca Sigalini: Altro incremento +14,54%, venerdì basso.
+- 2014-07-21, Luca Sigalini: Calo -10,13%, martedì e venerdì peggiori.
+- 2014-07-28, Luca Sigalini: Lieve miglioramento +0,87%, due giorni sotto soglia.
+- 2014-08-04, Luca Sigalini: Nuovo calo -6,13%, mercoledì e venerdì negativi.
+- 2014-09-15, Luca Sigalini: Calo -8,24% post pausa estiva, due giorni negativi; cresce il traffico da motori (+10,85%).
+- 2014-09-22, Luca Sigalini: Forte aumento +17,84%, un giorno negativo; cresce traffico motori (+9,80%).
+- 2014-09-29, Luca Sigalini: Calo pesante -12,09%, tre giorni bassi, motori di ricerca +1,21%.
+- 2014-10-06, Luca Sigalini: Calo -8,90%, due giorni bassi, motori di ricerca +0,45%.
+- 2014-10-13, Luca Sigalini: Aumento +15,31%, giovedì unico giorno negativo, motori di ricerca +5,31%.
+- 2014-10-17, Federica Gozzini: Riunione con LM, SIG, PG su problemi ricezione newsletter; identificati utenti disiscritti su MailUp ma attivi su DynDevice; SIG incaricato invio newsletter test, PG interfaccia con MailUp; SIG presenta SMTP come soluzione tecnica, LM valuta priorità.
+- 2014-10-20, Luca Sigalini: Calo accessi da newsletter (-5,84%), due giorni negativi, motori ricerca +1,83%.
+- 2014-10-27, Luca Sigalini: Calo -2,64%, due giorni bassi, motori ricerca +0,99%.
+- 2014-11-03, Luca Sigalini: Aumento +13,21%, mercoledì basso, motori -4,65%.
+- 2014-11-10, Luca Sigalini: Nuovo aumento +3,29%, mercoledì negativo per ritardo partenza, motori +4,54%.
+- 2014-11-17, Luca Sigalini: Diminuzione -1,67%, mercoledì basso, motori +1,43%.
+- 2014-11-24, Luca Sigalini: Aumento +7,02%, nessun giorno negativo, motori +1,93%.
+- 2014-12-01, Luca Sigalini: Decisa diminuzione -7,74%, nessun giorno particolarmente negativo, motori -1,63%.
+- 2014-12-09, Luca Sigalini: Diminuzione -10,16%, due giorni bassi, motori -10,61%, causa ponte e down Seeweb.
+- 2014-12-15, Luca Sigalini: Ulteriore diminuzione, tutti i giorni sotto soglia, festività.
+- 2015-01-19, Luca Sigalini: Aumento +12,57%, giovedì negativo.
+- 2015-01-26, Luca Sigalini: Calo -6,54%, martedì sotto soglia.
+- 2015-02-02, Luca Sigalini: Nuovo calo -8,99%, mercoledì e giovedì bassi.
+- 2015-02-09, Luca Sigalini: Leggero miglioramento +3,73%, giovedì e venerdì sotto soglia.
+- 2015-02-09, Federica Gozzini: Sottolinea scarsa performance newsletter malgrado aumento contenuti, rileva insoddisfazione e persistenza disallineamenti MailUp-DynDevice; confida sulla svolta SMTP e chiede tempi.
+- 2015-02-09, Luca Sigalini: Annuncia programma su gestione caratteri email per giugno, gestione tempistiche NL, impatto su risposte automatiche.
+- 2015-02-12, Federica Gozzini: Evidenzia problema caselle libero.it (nuove “schede” che nascondono newsletter), avvia attività FAQ e comunicazioni di recupero utenti; FAQ da inserire in homepage, in NL e nei messaggi d’iscrizione.
+- 2015-02-16, Luca Sigalini: Secondo miglioramento consecutivo +2,43%, mercoledì sotto soglia.
+- 2015-02-23, Luca Sigalini: Nuovo miglioramento +9,37%, venerdì basso.
+- 2015-03-02, Luca Sigalini: Leggero calo -2,32%, giovedì negativo.
+- 2015-03-09, Luca Sigalini: Forte aumento +8,85%, nessun giorno sotto soglia.
+- 2015-03-13, Federica Gozzini: Comunica completamento attività previste per migliorare ricezione e supporto utenti newsletter.
+- 2015-03-16, Luca Sigalini: Diminuzione -10,55% dopo settimane di crescita.
+- 2015-03-23, Luca Sigalini: Forte incremento +11,97%, mercoledì basso.
+- 2015-03-30, Luca Sigalini: Diminuzione -7,98%, giovedì sotto soglia.
+- 2015-04-07, Luca Sigalini: Primo invio SMTP MailUp, risultati molto positivi (+8,28%), nessun giorno negativo, settimana di Pasqua.
+- 2015-04-07, Federica Gozzini: Conferma ora invio newsletter su SMTP.
+- 2015-04-13, Luca Sigalini: Seconda settimana positiva +8,41%, lunedì festivo escluso.
+- 2015-04-20, Luca Sigalini: Terza settimana positiva +1,19%, nessun giorno negativo.
+- 2015-04-27, Luca Sigalini: Diminuzione -6,37%, mercoledì negativo.
+- 2015-05-04, Luca Sigalini: Ulteriore calo -2,61%, svuota statistiche e resetta errori MailUp per correggere sospette disiscrizioni automatiche, avvia monitoraggio effetto.
+- 2015-05-18, Luca Sigalini: Settimana positiva +0,31%, segnala difficoltà tecniche di server PS in risoluzione.
+- 2015-05-25, Luca Sigalini: Comunica risoluzione completa (eccetto NL) e crescita +6,86%.
+- 2015-06-04, Luca Sigalini: Aggiornamento positivo (+1,05%) dopo ponte/ferie.
+- 2015-06-08, Luca Sigalini: Crescita marcata +9,75%, nessun giorno sotto soglia.
+- 2015-06-15, Luca Sigalini: Problemi MailUP su parametri Google Analytics (settimana non confrontabile), giovedì peggiore giorno.
+- 2015-06-22, Luca Sigalini: Dati completi ripresi, netto aumento +8,11%, trend confermato.
+- 2015-06-29, Luca Sigalini: Brusca diminuzione -5,92%, mercoledì e giovedì bassi.
+- 2015-07-06, Luca Sigalini: Nuova forte diminuzione -10,46% per problemi MailUP, martedì e giovedì negativi.
+- 2015-07-13, Luca Sigalini: Decisa ripresa +10,22%, martedì negativo.
+- 2015-07-20, Luca Sigalini: Ulteriore crescita +1,63%, martedì ancora negativo.
+- 2015-07-27, Luca Sigalini: Altro calo -6,37%, mercoledì e giovedì deboli.
+- 2015-09-07, Luca Sigalini: Forte incremento +18,37% su luglio; giovedì e venerdì negativi.
+- 2015-09-14, Luca Sigalini: Diminuzione -10,78%; un giorno sotto soglia.
+- 2015-09-21, Luca Sigalini: Nuova diminuzione -8,97%, tre giorni bassi.
+- 2015-09-28, Luca Sigalini: Incremento +22,57%, nessun giorno sotto soglia.
+- 2015-10-05, Luca Sigalini: Ulteriore incremento +5,43%, continuano accessi sopra soglia.
+- 2015-10-12, Luca Sigalini: Pesante calo -17,55%, due giorni sotto soglia.
+- 2015-10-19, Luca Sigalini: Ulteriore calo -8,37%, tutti tranne lunedì sotto soglia.
+- 2015-10-26, Luca Sigalini: Lieve aumento +0,38%, tre giorni sotto (martedì <4.000).
+- 2015-11-02, Luca Sigalini: Secondo aumento +7,16%, un giorno negativo.
+- 2015-11-09, Luca Sigalini: Terzo aumento +12,93%, un solo giorno negativo.
+- 2015-11-16, Luca Sigalini: Quarto aumento, +2,48%, un giorno negativo.
+- 2015-11-23, Luca Sigalini: Pesante calo -19,02%, quattro giorni bassi, problemi tecnici MailUP.
+- 2015-11-23, Federica Gozzini: Segnala diverse mail di mancata ricezione, avvia controlli.
+- 2015-11-30, Luca Sigalini: Leggero calo -1,76%, due giorni sotto soglia, annuncia reset completo MailUP.
+- 2015-12-21, Luca Sigalini: Grande rialzo +29,20%, nessun giorno basso, effetto positivo reset MailUP.
+- 2016-01-18, Luca Sigalini: Secondo rialzo +15,22% consecutivo.
+- 2016-01-25, Luca Sigalini: Calo -10,40%, giovedì molto negativo.
+- 2016-02-01, Luca Sigalini: Ulteriore calo -6,50%, nessun giorno chiamato outlier.
+- 2016-02-08, Luca Sigalini: Piccolo incremento +0,21%.
+- 2016-02-15, Luca Sigalini: Incremento significativo +11,10%.
+- 2016-02-23, Luca Sigalini: Diminuzione -14,40%, mercoledì e giovedì molto bassi.
+- 2016-02-29, Luca Sigalini: Lieve diminuzione -1,22%, errori MailUP azzerati in settimana.
+- 2016-03-07, Luca Sigalini: Lieve aumento +0,06%, giornate negative persistenti.
+- 2016-03-14, Luca Sigalini: Altro leggero calo -0,08%, due giorni sotto soglia.
+- 2016-03-21, Luca Sigalini: Aumento +2,23%, con giorni sottotono.
+- 2016-03-29, Luca Sigalini: Sensibile aumento +14,09%, solo venerdì basso.
+- 2016-04-05, Luca Sigalini: Diminuzione -14,09%, lunedì festivo incide.
+- 2016-04-11, Luca Sigalini: Ripresa +11,93%.
+- 2016-04-18, Luca Sigalini: Forte diminuzione -12,92%, tre giorni bassi.
+- 2016-04-26, Luca Sigalini: Altro calo -13,12%, tre giorni critici.
+- 2016-05-02, Luca Sigalini: Rimbalzo +6,31%, giorni critici rimangono.
+- 2016-05-09, Luca Sigalini: Secondo rimbalzo +10,18%, situazione in miglioramento.
+- 2016-05-16, Luca Sigalini: Nuovo pesante calo -13,12%, tre giorni critici.
+- 2016-05-23, Luca Sigalini: Ulteriore calo -7,25%, quattro giorni bassi.
+- 2016-05-30, Luca Sigalini: Aumento +4,66%, quattro giorni bassi.
+- 2016-06-06, Luca Sigalini: Statistiche parzialmente confrontabili per ponte del 2 giugno.
+- 2016-06-13, Luca Sigalini: Dati non confrontabili per ponte del 2 giugno.
+- 2016-06-20, Luca Sigalini: Incremento +5,34%, due giorni negativi.
+- 2016-06-27, Luca Sigalini: Diminuzione -10,42%, tre giorni bassi.
+- 2016-07-04, Luca Sigalini: Diminuzione -13,42%, quattro giorni bassi.
+- 2016-07-11, Luca Sigalini: Leggero aumento +0,69%, quattro giorni negativi; crescita legata ad accordi Stato-Regioni.
+- 2016-07-18, Luca Sigalini: Forte aumento +54,47%, nessun giorno negativo.
+- 2016-07-26, Luca Sigalini: Pesante diminuzione -25,95%, solo lunedì positivo.
+- 2016-08-01, Luca Sigalini: Leggero aumento +3,99%, tre giorni bassi.
+- 2016-09-12, Luca Sigalini: Piccolo aumento +2,81%, due giorni bassi.
+- 2016-09-20, Luca Sigalini: Incremento minimo +0,14%, tre giorni critici.
+- 2016-09-26, Luca Sigalini: Diminuzione -11,28%, tre giorni critici.
+- 2016-10-05, Luca Sigalini: Crescita significativa +15,88%, solo mercoledì neg.
+- 2016-10-10, Luca Sigalini: Leggera diminuzione -1,54%, tre giorni bassi.
+- 2016-10-17, Luca Sigalini: Piccolo aumento +0,07%, due giorni bassi.
+- 2016-10-24, Luca Sigalini: Diminuzione -3,85%, quattro giorni bassi.
+- 2016-11-02, Luca Sigalini: Ulteriore diminuzione -9,55%, quattro giorni bassi.
+- 2016-11-07, Luca Sigalini: Forte aumento +21,00%, dato parziale, reset errori MailUP proposto mensilmente e approvato da Luigi Meroni.
+- 2016-11-14, Luca Sigalini: Nuovo aumento +6,75%, quattro giorni negativi.
+- 2016-11-21, Luca Sigalini: Terzo aumento +1,33%, tre giorni negativi.
+- 2016-11-28, Luca Sigalini: Lieve diminuzione -0,85%, due giorni bassi.
+- 2016-12-05, Luca Sigalini: Lieve aumento +1,30%, due giorni bassi.
+- 2016-12-12, Luca Sigalini: Nessun confronto causa festività.
+- 2016-12-19, Luca Sigalini: Marcata diminuzione -13,78%, tutti i giorni negativi eccetto lunedì; errori MailUP azzerati 14 gg prima.
+- 2016-12-27, Luca Sigalini: Ulteriore calo -1,40%, tutti i giorni negativi (record).
+- 2017-01-16, Luca Sigalini: Deciso aumento +34,59%, due giorni bassi.
+- 2017-01-23, Luca Sigalini: Piccola diminuzione -4,29%, due giorni bassi.
+- 2017-01-30, Luca Sigalini: Diminuzione -11,85%, tre giorni bassi.
+- 2017-02-06, Luca Sigalini: Aumento +4,53%, quattro giorni bassi.
+- 2017-02-13, Luca Sigalini: Calo -5,55%, quattro giorni bassi.
+- 2017-02-20, Luca Sigalini: Calo -9,10%, tutte le giornate sotto soglia; errori MailUP resettati.
+- 2017-02-27, Luca Sigalini: Forte aumento +20,48%, due giorni bassi.
+- 2017-03-06, Luca Sigalini: Diminuzione -9,71%, tutti i giorni bassi.
+- 2017-03-13, Luca Sigalini: Aumento +4,33%, tre giorni bassi.
+- 2017-03-20, Luca Sigalini: Diminuzione -18,17%, quattro giorni critici.
+- 2017-04-03, Luca Sigalini: Aumento +15,71%.
+- 2017-04-10, Luca Sigalini: Nuovo aumento +7,08%, tre giorni bassi.
+- 2017-04-18, Luca Sigalini: Aumento +1,44%, tre giorni bassi.
+- 2017-04-26, Luca Sigalini: Diminuzione -20,78% dopo Pasqua, settimana poco rappresentativa.
+- 2017-05-02, Luca Sigalini: Ulteriore calo -25,12%, tutti i giorni bassi.
+- 2017-05-08, Luca Sigalini: Aumento +37,09%, solo martedì sopra soglia.
+- 2017-05-15, Luca Sigalini: Nuovo aumento +19,91%, messaggio modificato.
+- 2017-05-22, Luca Sigalini: Diminuzione -12,26%, tutti i giorni bassi.
+- 2017-05-29, Luca Sigalini: Lieve aumento +4,47%, solo lunedì sopra soglia.
+- 2017-06-05, Luca Sigalini: Calo -19,04%, tutti bassi.
+- 2017-06-12, Luca Sigalini: Forte aumento +30,89%, solo lunedì sopra soglia.
+- 2017-06-19, Luca Sigalini: Diminuzione -3,87%, tutti bassi.
+- 2017-06-27, Luca Sigalini: Nuovo calo -10,11%, tutti i giorni bassi.
+- 2017-07-03, Luca Sigalini: Leggero aumento +1,33%, tutti giorni bassi.
+- 2017-07-10, Luca Sigalini: Lieve aumento +4,65%, tutti giorni bassi.
+- 2017-07-18, Luca Sigalini: Piccolissimo aumento +0,31%, lunedì sopra soglia.
+- 2017-07-24, Luca Sigalini: Quarto piccolo aumento +3,53%, venerdì sopra soglia.
+- 2017-07-31, Luca Sigalini: Calo -11,57%, tutti giorni sotto soglia.
+- 2017-09-04, Luca Sigalini: Nuovo aumento +3,10%, venerdì sopra soglia.
+- 2017-09-11, Luca Sigalini: Aumento +4,95%, tutti sotto soglia.
+- 2017-09-18, Luca Sigalini: Piccola diminuzione -0,36%, tutti sotto soglia.
+- 2017-10-02, Luca Sigalini: Aumento +8,43%, aggiorna tabella periodo.
+- 2017-10-09, Luca Sigalini: Nuovo incremento +11,74%.
+- 2017-10-16, Luca Sigalini: Lieve aumento +0,59%.
+- 2017-10-23, Luca Sigalini: Leggero calo -0,36%, messaggio modificato.
+- 2017-10-30, Luca Sigalini: Calo -16,66%, dato non attendibile per problemi Analytics.
+- 2017-11-06, Luca Sigalini: Lieve ripresa +1,07%, festività 1/11.
+- 2017-11-06, Luigi Meroni: Chiede analisi urgente dopo calo drastiche aperture (~50%), sospetta blacklist.
+- 2017-11-06, Luca Sigalini: Spiega che è un cambiamento delle metriche di Analytics, non un calo reale.
+- 2017-11-13, Luca Sigalini: Aumento +12,38%, considera festività.
+- 2017-11-28, Luca Sigalini: Lieve aumento +1,50%.
+- 2017-12-04, Luca Sigalini: Piccolo aumento +0,44%.
+- 2017-12-18, Luca Sigalini: Diminuzione -4,83%.
+- 2018-01-22, Luca Sigalini: Dopo pausa, rifacimento MIMNET, aumento +8,01%.
+- 2018-02-05, Luca Sigalini: Diminuzione -3,30%.
+- 2018-02-13, Luca Sigalini: Lieve aumento +2,70%.
+- 2018-02-19, Luca Sigalini: Nuova diminuzione -4,17%.
+- 2018-02-26, Luca Sigalini: Ulteriore diminuzione -6,36%.
+- 2018-03-05, Luca Sigalini: Inversione di tendenza +6,37%.
+- 2018-03-12, Luca Sigalini: Diminuzione -10,29%.
+- 2018-03-19, Luca Sigalini: Diminuzione +6,14% (probabile errore, sembra aumento).
+- 2018-03-26, Luca Sigalini: Secondo aumento +2,70%.
+- 2018-04-03, Luca Sigalini: Piccola diminuzione -0,99%.
+- 2018-05-14, Luca Sigalini: Diminuzione marcata -10,94%.
+- 2018-05-21, Luca Sigalini: Continua diminuzione -7,85%.
+- 2018-05-28, Luca Sigalini: Aumento +3,19%.
+- 2018-06-04, Luca Sigalini: Calo significativo -13,56%.
+- 2018-06-18, Luca Sigalini: Ulteriore diminuzione -7,31%.
+- 2018-06-25, Luca Sigalini: Accessi più stabili -1,71%.
+- 2018-07-02, Luca Sigalini: Stabilità -1,17%.
+- 2018-07-09, Luca Sigalini: Buon aumento +7,56%.
+- 2018-07-16, Luca Sigalini: Altro aumento +5,16%.
+- 2018-07-23, Luca Sigalini: Leggero calo -4,03%.
+- 2018-10-15, Luca Sigalini: Forte aumento +22,78%, picco il lunedì.
+- 2018-10-22, Luca Sigalini: Diminuzione -23,08%.
+- 2018-10-29, Luca Sigalini: Nuovo calo -9,93%, nota problema invio giovedì e doppio invio venerdì.
+- 2018-11-05, Luca Sigalini: Nessuna analisi dettagliata per festività e ponte.
+- 2018-11-12, Luca Sigalini: Aumento +19,74%.
+- 2018-11-19, Luca Sigalini: Nuovo aumento +14,61%.
+- 2018-11-26, Luca Sigalini: Diminuzione -10,38%.
+- 2018-12-03, Luca Sigalini: Diminuzione -4,73%.
+- 2018-12-10, Luca Sigalini: Aumento +11,04%.
+- 2018-12-17, Luca Sigalini: Calo -10,42%.
+- 2019-01-21, Luca Sigalini: Nuovo aumento +15,71%.
+- 2019-01-28, Luca Sigalini: Diminuzione marcata -12,54%.
+- 2019-02-04, Luca Sigalini: Aumento +11,40%.
+- 2019-02-11, Luca Sigalini: Secondo aumento +5,60%.
+- 2019-02-18, Luca Sigalini: Calo notevole -12,95%.
+- 2019-02-25, Luca Sigalini: Nuovo aumento +11,33%.
+- 2019-03-04, Luca Sigalini: Diminuzione lieve -3,01%.
+- 2019-03-11, Luca Sigalini: Ulteriore diminuzione -2,47%, segnala problema invio newsletter risolto.
+- 2019-03-18, Luca Sigalini: Segnala aumento +5,11%.
+- 2019-03-25, Luca Sigalini: Diminuzione -7,02%.
+- 2019-04-01, Luca Sigalini: Aumento +4,77%.
+- 2019-04-08, Luca Sigalini: Aumento +5,26%.
+- 2019-04-15, Luca Sigalini: Lieve diminuzione -0,35%.
+- 2019-05-06, Luca Sigalini: Confronto statistico riprenderà dopo festività; giorni non festivi normali.
+- 2019-05-13, Luca Sigalini: Diminuzione -9,80%.
+- 2019-05-20, Luca Sigalini: Ulteriore diminuzione -12,34%.
+- 2019-05-27, Luca Sigalini: Piccolo aumento +1,97%.
+- 2019-06-03, Luca Sigalini: Forte diminuzione -10,57%.
+- 2019-06-10, Luca Sigalini: Conferma diminuzione -10,57%, ma nella settimana attuale aumento +13,68%.
+- 2019-06-17, Luca Sigalini: Secondo aumento +14,48%.
+- 2019-06-24, Luca Sigalini: Nuovo calo -10,15%.
+- 2019-07-02, Luca Sigalini: Diminuzione -9,36%.
+- 2019-07-08, Luca Sigalini: Diminuzione -5,90%.
+- 2019-07-15, Luca Sigalini: Ulteriore calo -4,24%.
+- 2019-07-22, Luca Sigalini: Aumento importante +17,14%.
+- 2019-07-29, Luca Sigalini: Diminuzione -12,12%.
+- 2019-09-09, Luca Sigalini: Fortissimo aumento +112,75% dopo estate; risolto errore server SMTP lunedì, picco martedì negli accessi; coinvolta Federica Gozzini su verifica contenuti.
+- 2019-09-09, Federica Gozzini: Dubbi sul legare la variazione solo al rientro dalle ferie, suggerisce verifica sui dati.
+- 2019-09-16, Luca Sigalini: Pesante calo -48,10%, preannuncia reset del sistema.
+- 2019-09-23, Luca Sigalini: Ulteriore calo -9,60%, resetta il sistema invio.
+- 2019-09-30, Luca Sigalini: Terzo calo -1,95%, reset del sistema.
+- 2019-10-07, Luca Sigalini: Lieve ripresa +2,54%, reset del sistema.
+- 2019-10-14, Luca Sigalini: Nuovo aumento +10,25%, reset del sistema.
+- 2019-10-21, Luca Sigalini: Diminuzione -9,45%, reset del sistema.
+- 2019-10-28, Luca Sigalini: Piccolo aumento +3,73%, reset del sistema.
+- 2019-11-04, Luca Sigalini: Diminuzione -11,51% (festività), reset del sistema invio.
+- 2019-11-12, Luca Sigalini: Forte aumento +21,26%, legato a festività precedente, reset del sistema invio.
+- 2019-11-18, Luca Sigalini: Lieve calo -3,13%, reset del sistema invio.
+- 2019-11-25, Luca Sigalini: Aumento +4,65%, reset del sistema invio.
+- 2019-12-02, Luca Sigalini: Consistente diminuzione -10,72%, reset del sistema invio.
+- 2019-12-09, Luca Sigalini: Nuovo aumento +16,51%, reset sistema.
+- 2019-12-17, Luca Sigalini: Diminuzione -4,60%, reset sistema.
+- 2019-12-23, Luca Sigalini: Diminuzione -14,38%, mercoledì particolarmente basso, reset sistema.
+- 2020-01-13, Luca Sigalini: Nuovo aumento +12,04%, reset sistema.
+- 2020-01-20, Luca Sigalini: Aumento +31,64% (settimana precedente corta).
+- 2020-01-27, Luca Sigalini: Diminuzione -18,22%.
+- 2020-02-03, Luca Sigalini: Ulteriore leggera diminuzione -1,88%, reset sistema.
+- 2020-02-10, Luca Sigalini: Nuovo aumento +4,28%.
+- 2020-02-17, Luca Sigalini: Piccolo aumento +0,66%.
+- 2020-02-24, Luca Sigalini: Pesante diminuzione -9,43%.
+- 2020-03-02, Luca Sigalini: Forte aumento +63,80% per effetto “Coronavirus”.
+- 2020-03-09, Luca Sigalini: Lieve flessione -1,79%.
+- 2020-03-16, Luca Sigalini: Buon aumento +13,99%.
+- 2020-03-23, Luca Sigalini: Diminuzione -13,17%.
+- 2020-03-30, Luca Sigalini: Aumento +5,61%.
+- 2020-04-06, Luca Sigalini: Lieve aumento +0,64%.
+- 2020-04-14, Luca Sigalini: Nuovo aumento +4,27%.
+- 2020-04-20, Luca Sigalini: Altro aumento +4,15%, settimana con giorno in meno (Pasquetta).
+- 2020-04-27, Luca Sigalini: Aumento +24,28% (settimana corta).
+- 2020-05-04, Luca Sigalini: Diminuzione -17,58%, festività del 1° maggio e problemi tecnici senza impatto.
+- 2020-05-11, Luca Sigalini: Aumento +6,92%.
+- 2020-05-18, Luca Sigalini: Diminuzione -7,82%.
+- 2020-05-25, Luca Sigalini: Ulteriore calo -11,30%.
+- 2020-06-03, Luca Sigalini: Diminuzione notevole -15,56%.
+- 2020-06-08, Luca Sigalini: Calo marcato -19,90% (due NL in meno per ponte).
+- 2020-06-15, Luca Sigalini: Forte aumento +22,07%, favorita da più NL inviate.
+- 2020-06-22, Luca Sigalini: Piccolo aumento +1,32%.
+- 2020-06-29, Luca Sigalini: Calo netto -13,53%.
+- 2020-07-06, Luca Sigalini: Ulteriore calo -4,78%.
+- 2020-07-13, Luca Sigalini: Calo -19,79% rispetto settimana precedente.
+- 2020-07-20, Luca Sigalini: Aumento +15,60% rispetto settimana precedente.
+- 2020-07-27, Luca Sigalini: Riduzione -7,64%.
+- 2020-08-03, Luca Sigalini: Lieve aumento +1,51%.
+- 2020-08-10, Luca Sigalini: Lieve diminuzione -1,44%.
+- 2020-08-31, Luca Sigalini: Aumento +7,79% (newsletter del lunedì non uscita volontariamente).
+- 2020-09-07, Luca Sigalini: Nuovo aumento +17,43% (una NL in più).
+- 2020-09-14, Luca Sigalini: Diminuzione -9,26%.
+- 2020-09-21, Luca Sigalini: Ulteriore calo -8,42%.
+- 2020-09-28, Luca Sigalini: Continuo calo -1,98%.
+- 2020-10-05, Luca Sigalini: Tendenza negativa persiste (-1,63%).
+- 2020-10-12, Luca Sigalini: Inversione di tendenza +4,76%.
+- 2020-10-19, Luca Sigalini: Altro incremento +4,35%.
+- 2020-10-26, Luca Sigalini: Diminuzione -3,58%.
+- 2020-11-02, Luca Sigalini: Diminuzione marcata -10,13%.
+- 2020-11-09, Luca Sigalini: Ulteriore calo -13,97%.
+- 2020-11-16, Luca Sigalini: Forte aumento +36,08%.
+- 2020-11-23, Luca Sigalini: Lieve diminuzione -1,57%. Discussione tra TM, FG, SIG per integrare dati sulle NL inviate e calcolare redemption; FG segnala discordanze nei dati di lettura fra Dyndevice e altre rilevazioni, menzionando allegato/immagine su Dyndevice.
+- 2020-11-30, Luca Sigalini: Diminuzione -2,60%. TM ribadisce calcolo redemption, FG sottolinea reperibilità dati in piattaforma e chiede chiarimenti.
+- 2020-12-09, Luca Sigalini: Diminuzione -4,36%.
+- 2020-12-14, Luca Sigalini: Forte calo -29,52%, attribuito a festività e ponti.
+- 2020-12-21, Luca Sigalini: Aumento +4,94%; con FG verifica anomalie tecniche: nessun problema NL, ma problema su Google.
+- 2021-01-11, Luca Sigalini: Analisi sospesa fino al lunedì successivo.
+- 2021-01-18, Luca Sigalini: Forte aumento settimanale +59,19% rispetto a dicembre.
+- 2021-01-25, Luca Sigalini: Diminuzione -9,53%.
+- 2021-02-01, Luca Sigalini: Calo -4,82%.
+- 2021-02-08, Luca Sigalini: Sostanziale stabilità +0,04%.
+- 2021-02-15, Luca Sigalini: Diminuzione -5,56%.
+- 2021-02-22, Luca Sigalini: Aumento +10,45%; effettua pulizia notturna database NL.
+- 2021-03-01, Luca Sigalini: Leggera diminuzione -2,08%, pulizia database NL.
+- 2021-03-08, Luca Sigalini: Lieve aumento +0,26%, ribadisce effetto positivo pulizia.
+- 2021-03-15, Luca Sigalini: Calo -5,96%, conferma pulizia database.
+- 2021-03-22, Luca Sigalini: Aumento +11,61%, pulizia database.
+- 2021-03-29, Luca Sigalini: Diminuzione -6,90%, pulizia database.
+- 2021-04-06, Luca Sigalini: Piccolo aumento +0,67%, pulizia database.
+- 2021-04-12, Luca Sigalini: Aumento +13,94%, pulizia database.
+- 2021-04-19, Luca Sigalini: Nuovo aumento +1,80%.
+- 2021-04-26, Luca Sigalini: Diminuzione -5,66%.
+- 2021-05-03, Luca Sigalini: Aumento +11,65%.
+- 2021-05-10, Luca Sigalini: Forte calo -22,44%.
+- 2021-05-17, Luca Sigalini: Leggero aumento +1,16%.
+- 2021-05-31, Luca Sigalini: Diminuzione -11,70%.
+- 2021-06-14, Luca Sigalini: Aumento +7,36%.
+- 2021-06-21, Luca Sigalini: Diminuzione -15,12%.
+- 2021-06-28, Luca Sigalini: Ripresa +13,52%.
+- 2021-07-05, Luca Sigalini: Diminuzione -17,24%.
+- 2021-07-12, Luca Sigalini: Aumento +22,93%.
+- 2021-07-19, Luca Sigalini: Diminuzione -4,04%.
+- 2021-08-30, Luca Sigalini: Sospende statistiche settimanali fino a nuova settimana completa.
+- 2021-09-06, Luca Sigalini: Riprende statistiche; diminuzione -9,86%.
+- 2021-09-13, Luca Sigalini: Aumento +36,09%, dati delle settimane precedenti non corretti, risolto problema.
+- 2021-09-20, Luca Sigalini: Ulteriore aumento +8,99%.
+- 2021-09-27, Luca Sigalini: Altro aumento +16,19%.
+- 2021-10-04, Luca Sigalini: Quarto aumento consecutivo +1,92%.
+- 2021-10-11, Luca Sigalini: Quinto aumento consecutivo +32,57%.
+- 2021-10-18, Luca Sigalini: Diminuzione -6,64%.
+- 2021-10-25, Luca Sigalini: Secondo calo consecutivo -15,38%.
+- 2021-11-02, Luca Sigalini: Ulteriore calo -9,30%.
+- 2021-11-08, Luca Sigalini: Calo -17,24%, presenza festività lunedì.
+- 2021-11-15, Luca Sigalini: Ripresa +20,75%.
+- 2021-11-22, Luca Sigalini: Nuovo calo -17,50%.
+- 2021-11-29, Luca Sigalini: Deciso aumento +39,23%.
+- 2021-12-06, Luca Sigalini: Calo -28,11%.
+- 2021-12-13, Luca Sigalini: Stabilità (-0,86%), festività mercoledì; propone trasferimento controllo statistiche a MKTG/PS e interrompere il monitoraggio personale.
+- 2021-12-20, Luca Sigalini: Crescita +10,92%, affida formalmente controllo del progress al reparto MKTG (DDA, GR, MEL).
+
+**Persone e azioni chiave evidenziate:**
+- Luca Sigalini: monitoraggio costante accessi da newsletter, analisi settimanali dettagliate, risoluzione tecnica e proposte di miglioramento MailUP, gestione reset e manutenzione sistema invio, implementazione patch e nuovi sistemi SMTP; passa gradualmente la conduzione al reparto MKTG nei report finali.
+- Federica Gozzini: analisi sulle problematiche, coordinamento per attività di miglioramento ricezione utenti e comunicazione, segnalazioni problemi ricezione/mancato allineamento sistemi, verifica efficacia delle modifiche; interazione con TM per valorizzazione dati e controllo delle metriche di open.
+- Paolo Gaioni: proposte e analisi tecniche su piattaforma MailUP, gestione manutenzioni e forniture dati statistici, gestione rapporti con fornitori.
+- Luigi Meroni: impulso a soluzioni tecniche rispetto ai blocchi e alle criticità, approvazione periodica di attività tecniche.
+- TM: richiede integrazione tra dati invio e redemption per valutazioni performative.
+- Provider esterni occasionalmente coinvolti in caso di disservizi tecnici o blocchi (es. @tiscali.it, Seeweb).
+
+**Allegati segnalati:**
+- Nella quasi totalità dei casi NON risultano allegati ai messaggi, tranne menzioni specifiche di file tecnici (es: 2014-03-17, Paolo Gaioni allega graficoRiassuntivo.xls) e menzioni di allegato/immagine su Dyndevice (2020-11-23, FG), sebbene fisicamente non risulti nulla nei thread documentalizzati.
+
+---
+Original length: 302708 characters and 19175 words.
+Summary length: 37817 characters and 3727 words.
+Compression ratio: 0.13 (summary length / original length).
+Estimated input tokens: 75677.
+Estimated output tokens: 9489.
+Summary generated in 435.76882 seconds.

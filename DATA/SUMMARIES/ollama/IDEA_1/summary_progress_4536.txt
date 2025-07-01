@@ -1,0 +1,17 @@
+* **Marzo 2011:** Silvana Bresciani (AiFOS) avvia il percorso per estendere la certificazione ISO 9001 di AiFOS ai Centri di Formazione convenzionati (C.F.A.), con l'obiettivo di garantire la qualità dei corsi a marchio AiFOS. Viene fornito un modulo di adesione (allegato).
+* **Marzo 2012:** AiFOS comunica che, dopo tre anni, l'erogazione dei corsi dovrà conformarsi al sistema qualità ISO 9001, pena la perdita della convenzione. Richiesta di adempimento entro il 31/12/2012, con audit interni e RINA previsti. Viene fornito un modulo di richiesta (allegato).
+* **Aprile & Giugno 2012:** I C.F.A. sono invitati a compilare moduli di adesione per audit interni AiFOS. Mega Italia Media (MIM) invia la propria richiesta di adesione.
+* **Maggio 2013:** Audit da parte di AiFOS presso MIM (PDC e CAM presenti). Il sistema risulta efficace. Verbale di Audit allegato.
+* **Luglio 2013:** RINA rilascia il certificato di Centro di Formazione AiFOS per MIM, con link all'elenco dei CFA certificati sul sito AiFOS. Certificato di RINA allegato.
+* **Dicembre 2013:** Segnalazione di un errore nell'indirizzo di MIM riportato nel certificato RINA (via errata), comunicato a nirvana.salvi@aifos.it.
+* **Giugno 2014:** Viene effettuato un aggiornamento del sistema. Silvana Bresciani (AiFOS) ricorda a responsabili dei CFA l'applicazione del sistema di gestione qualità e l’imminente audit RINA, richiedendo la compilazione di verbali e la gestione di non conformità (allegati).
+* **Giugno 2014:** Pietro de' Castiglioni (PDC) solleva questioni relative alla documentazione dei corsi, elenchi formatori (MOD7406 - allegato) e fornitori (MOD7402 - allegato) a CAM, suggerendo una verifica con Alessandro Ronchi.
+* **Luglio 2016:** Alessandro Ronchi pubblica il certificato ISO 9001:08 aggiornato per MIM per l'erogazione di corsi a marchio AiFOS.
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 1890 characters and 241 words.
+Compression ratio: 0.15 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 506.
+Summary generated in 61.199384 seconds.

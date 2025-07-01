@@ -1,0 +1,42 @@
+*   **9 febbraio 34/2012 Pietro de' Castiglioni** crea il progetto "Fornitori tecnici" elencando una vasta gamma di contatti per varie esigenze tecniche.
+*   **Pietro de' Castiglioni** fornisce una lista dettagliata che include:
+    *   **Mondial srl (Belleri, Giancarlo):**  proprietario edificio.
+    *   **Arch. Baldoni:** lavori per Belleri.
+    *   **Elma:** ascensore.
+    *   **T&T telecomunicazioni (Simone Negro):** impianti di rete.
+    *   **Colt:** connettività e linee telefoniche (urgenze 192090).
+    *   **Telecom (Roberto Morandi):**  contatto Telecom Italia.
+    *   **Impresa Valtellina (Valpondi, Lupi):** predisposizione linee.
+    *   **Botti (Sandro, Pietro):** muratore per pozzetti.
+    *   **Ing. Treccani:** impianto trattamento aria.
+    *   **Soldi/Maggi:** elettricista.
+    *   **Gruppo elettrogeno (Lorinigroup):** noleggio.
+    *   **Franciacorta tende Zanotti (Maurizio Zanotti):** tende.
+    *   **Scaglia:** pareti divisorie e controsoffitti.
+    *   **ASL Roncadelle (Bani, Rossi):**  riferimenti ASL.
+    *   **Tekno Clean/Impresa Barbieri:** pulizie.
+    *   **Axitea (Bernardini, Nava):**  impianti (codice cliente 10172552, numero unico 800 800 000). Numerosi contatti e numeri di telefono per assistenza e allarme.
+    *   **Carlotti Roberto:** responsabile installazione Axitea.
+    *   **Polito serramenti (Giulio Polito):** serramenti esterni.
+    *   **Bresciana serramenti:** installazione elettroserrature.
+    *   **Dario Franzoni:** timbri e targhe.
+    *   **Forloni Stefano/Gobbini:** pittori.
+    *   **BC Impresa edile:** lavori esterni.
+    *   **Davide Campi:** insegna esterna.
+    *   **Sanyo (Biemmi):** condizionamento.
+    *   **Teknosistem (Nicola Pozzi):** scaffalature.
+    *   **Gruppo Argenta (Giorgio Grumelli):** macchina caffè.
+    *   **Carmeccanica (Federica Ghitti):** carrello elevatore.
+    *   **Domenegoni Nicola:** impianto elettrico.
+    *   **Loreto (Federica Ronchi):**  Centroufficio Loreto.
+    *   **LD (Andrea Mengalli):** supermercato LD.
+*   **14 marzo 34/2016 Pietro de' Castiglioni** modifica il documento.
+*   Non sono presenti allegati.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 2179 characters and 199 words.
+Compression ratio: 0.47 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 579.
+Summary generated in 26.863174 seconds.

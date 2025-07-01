@@ -1,0 +1,17 @@
+*   **2012-02-09 10:45:29:** **Pietro de' Castiglioni** ha redatto un messaggio dettagliato, creando un elenco esteso di fornitori per diverse esigenze tecniche. L'elenco include:
+    *   Contatti per la proprietà dell'edificio: **Mondial srl (Giancarlo Belleri), Arch. Baldoni**, e muratori (**Sandro e Pietro Botti**).
+    *   Fornitori per telecomunicazioni e rete: **T&T telecomunicazioni srl (Simone Negro), Colt, Telecom (Roberto Morandi), Impresa Valtellina (Massimiliano Valpondi, Lupi)**.
+    *   Specialisti per impianti: trattamento aria (**Ing. Treccani**), elettrico (**Soldi, Cristian, Tiziano e Diego Maggi**), condizionamento (**Sig. Biemmi**), e progettazione elettrica (**Domenegoni Nicola**).
+    *   Servizi vari: tende (**Franciacorta tende - Maurizio Zanotti**), pareti (**Alberto Scaglia**), pulizie (**Tekno Clean - Monica Deiuri, Impresa di Pulizie Barbieri**), sicurezza (**Axitea**, con riferimenti come **Luca Bernardini, Andrea Nava, Simone Scalvini, Roberto Carlotti, Viola Omar**), e **ASL Roncadelle (Sig.a Bani, Dott. Rossi)**.
+    *   Altri fornitori: serramenti (**Polito - Giulio Polito, Bresciana serramenti**), timbri (**Franzoni Dario**), pittori (**Forloni Stefano, Claudio Gobbini**), impresa edile (**BC Impresa, Davide Campi**), scaffalature (**Teknosistem - Nicola Pozzi**), macchina caffè (**Gruppo Argenta - Giorgio Grumelli**), carrelli (**Carmeccanica - Federica**), impermeabilizzazione (**Ghitti**), ufficio (**Centroufficio Loreto - Federica Ronchi**), e LD di zona (**Andrea Mengalli**).
+*   **2012-02-09 11:56:38:** Il progetto intitolato "- fornitori tecnici -" è stato creato, descritto come un elenco di fornitori da contattare per esigenze tecniche.
+*   **2016-03-14 19:11:22:** Il messaggio originale è stato modificato dall'autore, **Pietro de' Castiglioni**.
+*   Non è stato rilevato alcun allegato al messaggio.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1925 characters and 204 words.
+Compression ratio: 0.41 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 515.
+Summary generated in 17.514206 seconds.

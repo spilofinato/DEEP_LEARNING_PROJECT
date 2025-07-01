@@ -1,0 +1,17 @@
+Ecco un riassunto cronologico degli eventi principali, basato sui messaggi forniti:
+
+*   **05/06/2024:** Paolo Disetti introduce il progetto per ridistribuire le attività SIG. Propone l'implementazione di un SIEM per centralizzare i log. LOT estrarrà i log da macchine Windows, V-utility. Viene caricato un file Excel con le attività, priorità e data di validazione/previsione (Allegato: "2024-06-04 Attività SIG 2024 con note.xlsx"). LOT si incarica di trovare un software per password multiutente condiviso. Viene creato il tab "mail adm" per tracciare gli account creati con mail personali.
+*   **07/06/2024:** Si sceglie Bitwarden come portachiavi password condiviso. Vengono creati utenti test: MMA, SIG, LOT, DIS e IT\_ADMIN. Viene creato l'account it\_admin@megaitaliamedia.it, destinato a essere utente master per vari servizi. (Allegato: "2024-06-04 Attività SIG 2024 con note(1).xlsx").
+*   **11/06/2024:** Matteo Marcoli comunica il completamento della consegna di attività settimanali tra MMA e SIG, e la riprogrammazione della conservazione sostitutiva degli attestati. Luca Sigalini forma LOT sulle attività settimanali e mensili. (Allegato: "2024-06-11 Attività SIG 2024 con note.xlsx").
+*   **14/06/2024:** Matteo Marcoli carica un file aggiornato con i progressi. Paolo Disetti organizza una call con MMA, LOT e SIG. Viene aggiornato il file Excel delle attività SIG. LOT attiva l'account it\_admin@megaitaliamedia.it. Viene creato un account Bitwarden per it\_admin. Bitwarden viene installato su una VM Linux. Vengono acquistate licenze per IT\_ADMIN, MMA, SIG, LOT e DIS. SIG, MMA e LOT iniziano a popolare il DB di Bitwarden. (Allegato: "2024-06-14 Attività SIG 2024 con note.xlsx").
+*   **19/06/2024:** Paolo Disetti aggiorna la mappatura degli accessi a vari servizi (Bitwarden, AWS, Azure, Office 365, Seeweb, NAS, Google Mail, Active Directory, Amazon, GitLab, Aruba, etc.)  Vengono identificati utenti da togliere e aggiungere al gruppo admin. (Allegato: "2024-06-14 Attività SIG 2024 con note.xlsx").
+*   **25/06/2024:** Si discute dell'uso di MFA sui numeri interni disponibili. LOT estrae le proprie password. Si programma un merge delle password.  Si discute della necessità di formare il personale che utilizza ChatGPT (PG incaricato).
+*   **03/07/2024:** Paolo Disetti chiede di creare righe segnaposto per tutte le macchine in Bitwarden e chiede a LM di inserire le password di root Apache e SSH.
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 2482 characters and 308 words.
+Compression ratio: 0.38 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 654.
+Summary generated in 28.436706 seconds.

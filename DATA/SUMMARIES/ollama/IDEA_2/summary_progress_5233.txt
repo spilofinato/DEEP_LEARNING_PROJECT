@@ -1,0 +1,39 @@
+Ecco un riassunto cronologico delle attività di vendita e sviluppo del progetto, basato sui testi forniti:
+
+**2022:**
+
+*   **Gennaio:** Giulietta Poiatti registra guadagni di €1949 + IVA da provvigioni su segnalazioni.
+*   **Aprile:** Inviate newsletter per ricevere biglietti omaggio alla fiera Ambiente Lavoro 2022. Ulteriori invii di newsletter seguono.
+*   **Ottobre:** Entrata in vigore del DM 02/09/2021, che impone ai partner di creare nuovi master per i corsi antincendio (AD, J, CAM).
+*   **Dicembre:** Il form "Diventa partner" di CSI smette di funzionare.
+
+**2023:**
+
+*   **Luglio:** Implementazione di miglioramenti ai siti MIM e CSI e al modulo "E-Commerce" di DynDevice, su segnalazione di AD.
+*   **Novembre:** FBA presenta ad AD e MKGT i miglioramenti ai siti, con alcune problematiche non risolte.
+*   **Dicembre:** Giulietta Poiatti registra guadagni di €401,50 + IVA da provvigioni su segnalazioni.
+
+**2024:**
+
+*   **Aprile:** Pubblicazione di un publiregionale su PS, newsletter inviate da MKGT agli enti di formazione.
+*   **Maggio:** In programma un'azione di *recall* per i Centri Partner con incentivo promozionale (kit safety card).
+*   **Giugno:** Il form "Diventa partner" di CSI viene risolto.
+*   **Marzo:** Corsi RLS resi vendibili sull'e-commerce, semplificando il lavoro di AD.
+
+**2025:**
+
+*   **Febbraio:** Giulietta Poiatti definisce gli obiettivi: trovare nuovi centri di formazione qualificati, sollecitare i partner esistenti, verificare i requisiti aula/videoconferenza dei partner CSI, attivare un nuovo partner (GRUPPO G.M.B.), contattare AIFOS e richiedere collaborazione a diverse aziende del settore. Vengono attivate azioni per la pubblicazione dei partner esistenti e la ricerca di nuovi.
+*   **Maggio:** Giulietta Poiatti aggiorna i dettagli del progetto.
+*   **Giugno:** Creazione e aggiornamento di un documento relativo al progetto.
+*   **Budget 2025:** Aumento del 20% del budget complessivo del Team Vendite rispetto al 2024, per un totale di €2.482.000. Aumento dell'11.04% rispetto al 2024 per la sezione Group Sales.
+*   **Performance:** AD: 28% del target raggiunto; GIP: 37% del target raggiunto. Nel 2024, il target complessivo era stato raggiunto all'80%, con AD al 75%, AVA all'112% e GIP al 144%.
+*   **SDSs 2.0:** Focus sull'aggiornamento del sistema SDS e sull'implementazione di iniziative come campagne email con sconti, *personalized outreach* a clienti passati, programma “Presenta un Collega”, webinar, video tutorial e partecipazione a fiere ed eventi. Esplorazione di pubblicità online (vincolata dal budget), *LinkedIn prospecting* e un programma partner con CSID.
+*   **Azioni Aggiuntive & Note:** Implementazione di funzionalità DD sui siti CSI, integrazione DD a CSI, ricerca di accordi per corsi DLSPP, creazione di schede di valutazione per partner, *recall* per aggiornare calendari corsi, AD attende estrazione dati venduti per corsi RLS da MGR, necessità di contattare IFOA per collaborazione CSI per corsi di apprendistato.
+
+---
+Original length: 24620 characters and 3333 words.
+Summary length: 3057 characters and 388 words.
+Compression ratio: 0.13 (summary length / original length).
+Estimated input tokens: 6155.
+Estimated output tokens: 798.
+Summary generated in 102.748394 seconds.

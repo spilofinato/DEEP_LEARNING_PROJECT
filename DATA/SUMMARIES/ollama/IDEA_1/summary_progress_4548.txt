@@ -1,0 +1,35 @@
+Ecco un riassunto delle attività dell'Organismo di Vigilanza (ODV) di Mega Italia Media srl, organizzato cronologicamente e puntato:
+
+*   **2012 (Gennaio - Dicembre):** Si tengono 9 riunioni (numeri 1-9) per la revisione delle attività, il monitoraggio della conformità e la pianificazione futura. Si discutono piani, report, e l'aggiornamento normativo.
+*   **2013 (Gennaio - Dicembre):** Continuano le riunioni (10-13) secondo la routine stabilita. Il 7 Ottobre 2013 Emilio Del Bono si dimette dalla carica di Presidente dell’ODV e Alessandro Ronchi ne assume la presidenza. Il 16 Gennaio 2016 viene notificata formalmente la modifica della leadership al registro regionale 231.
+*   **2016 (Febbraio e Gennaio):** Il 16 Gennaio 2016, si notifica la modifica della leadership al registro 231. Il 9 Febbraio 2016, si tiene una riunione con il Collegio Sindacale per valutare la necessità di aggiornamenti al modello di organizzazione, gestione e controllo.
+*   **2021 (Gennaio 26):** Alessandro Ronchi finalizza la documentazione relativa a flussi informativi e relazione delle attività per il periodo 1 gennaio 2020 – 31 dicembre 2020 e pianifica le attività per il 2021.
+*   **2021 (Marzo 23):** Alessandro Ronchi finalizza la verifica del piano delle attività, concentrandosi sulla sicurezza operativa e la preparazione alle emergenze.
+*   **2021 (Giugno 9):** Alessandro Ronchi finalizza la documentazione relativa a formazione sulle comunicazioni sociali, approvazione del bilancio 2020 e pianifica incontri con gli organi di controllo della società.
+*   **2021 (Agosto 2):** Alessandro Ronchi finalizza l'audit interno di conti e aree sensibili riguardante la gestione del personale (selezione, assunzione, formazione).
+*   **2021 (Ottobre 4):** Alessandro Ronchi finalizza l'audit interno di conti e aree sensibili riguardante il ciclo passivo-attivo, la logistica e il magazzino, i servizi generali.
+*   **2021 (Novembre 2):** Alessandro Ronchi finalizza l'audit interno di conti e aree sensibili riguardante il ciclo attivo-passivo, prodotti LOB.
+
+**Persone coinvolte e loro azioni:**
+
+*   **Emilio Del Bono:** Reso la carica di Presidente dell’ODV nel 2013.
+*   **Alessandro Ronchi:** Assunto la carica di Presidente dell’ODV e successivamente responsabile della finalizzazione della documentazione delle riunioni.
+*   **Pietro de' Castiglioni:** Autore iniziale (fino a metà 2017) dei documenti relativi alle riunioni.
+*   **Collegio Sindacale:** Coinvolto in riunioni per valutare aggiornamenti al modello di organizzazione.
+
+**Temi ricorrenti:**
+
+*   **Conformità Legale:** Focus su Legislativo Decreto 231/2001 e aggiornamento del modello di organizzazione (Modello di Organizzazione, Gestione e Controllo).
+*   **Aggiornamenti:** Si discute e si implementano aggiornamenti, ad esempio in relazione a modifiche all’Articolo 15-bis del Legislativo Decreto 231/2001.
+*   **Audit Interni:** Si effettuano audit interni in diverse aree (personale, ciclo attivo/passivo, logistica, etc.).
+*   **Comunicazione:** Si mantiene comunicazione con il Collegio Sindacale.
+*   **Notifiche Formali:** Si inviano notifiche al registro regionale 231.
+*   **Reporting:** Viene preparato e finalizzato reporting sulle attività.
+
+---
+Original length: 34571 characters and 3964 words.
+Summary length: 3278 characters and 380 words.
+Compression ratio: 0.1 (summary length / original length).
+Estimated input tokens: 8642.
+Estimated output tokens: 853.
+Summary generated in 132.659283 seconds.

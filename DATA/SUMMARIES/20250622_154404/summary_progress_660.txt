@@ -1,3 +1,0 @@
-Ecco un riassunto integrato di tutte le parti, non superiore ai 1000 caratteri:
-
-Il progetto MIM (ID 660) mirava a ottimizzare il recupero crediti tramite standardizzazione dei pagamenti (carta, bonifico, contante) e monitoraggio degli scadenziati. Collaborazione tra LM, ALM, MAG e FOM con consulenza Datafin per risolvere problemi di fatturazione in ritardo, incongruenze nei pagamenti e necessità di automatizzare processi e interfacciamenti (e-commerce, corsi). Obiettivo: minimizzare i costi e massimizzare il recupero crediti.

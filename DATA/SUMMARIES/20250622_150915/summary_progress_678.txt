@@ -1,7 +1,0 @@
-Il progetto AP - Gestione commesse MIM (ID 678) è stato avviato nell'ottobre 2004. Il focus principale è la gestione di commesse interne ed esterne, con particolare attenzione alla definizione e all'inserimento di dati relativi a:
-*   **Definizione codice riassuntivo lavori:** Creazione di codici per riassumere componenti, spese e valori progetti.
-*   **Inserimento ore lavorate:** Ogni operatore inserisce giornalmente ore lavorate, con descrizione dettagliata nel campo note. Le ore possono essere inserite entro il 2 del mese successivo.
-*   **Gestione commesse AD HOC:** Utilizzo di file "commesse 2004" (gestito da PDC) per l'elenco delle commesse. Causale IMC per commesse senza ordine cliente.
-*   **Gestione preventivi:** Sostituzione del modulo preventivi con "Preventivi M.I." e reinserimento preventivi confermati come ordini.
-*   **Chiusura commesse:** Dopo la fatturazione, la commessa viene chiusa in AD HOC con data del documento, per i clienti.
-*   **Operatività commesse (08-12 gennaio 2004):** Lancio di commesse per attività varie (MS, MIT, e-learning MIM) e specifiche produzioni (CD MIM nuovi, video MIM, Banca dati Punto sicuro).

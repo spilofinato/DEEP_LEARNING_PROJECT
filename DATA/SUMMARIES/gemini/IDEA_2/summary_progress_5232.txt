@@ -1,0 +1,48 @@
+*   **5 giugno 2024:**
+    *   **Paolo Disetti** comunica che **SIG** propone di installare un SIEM per centralizzare i log di tutte le macchine. **LOT** è incaricato di estrarre i log dalle macchine Windows (inclusa V-utility) e salvarli su un disco fisso esterno.
+    *   **Paolo Disetti** allega `2024-06-04 Attività SIG 2024 con note.xlsx`, un file Excel con le attività SIG da ridistribuire, priorità, nuovo responsabile e data di validazione. Viene creato un nuovo tab "mail adm" per tracciare gli account con mail personali.
+    *   **LOT** è incaricato di individuare un software per salvare le password multiutente in una cartella condivisa.
+
+*   **7 giugno 2024:**
+    *   **Paolo Disetti** riporta la decisione di testare Bitwarden come portachiavi password condiviso, da installare su una macchina virtuale interna Linux o Windows V-utility.
+    *   Gli utenti per la fase di test saranno **MMA**, **SIG**, **LOT**, **DIS** e **IT_ADMIN**.
+    *   Viene creato l'utente `it_admin@megaitaliamendia.it` come account Master per tutti i servizi che attualmente usano account personali (es. **SIG** per Amazon), per mappare i servizi esistenti.
+    *   Allegato: `2024-06-04 Attività SIG 2024 con note(1).xlsx`.
+
+*   **11 giugno 2024:**
+    *   **Matteo Marcoli** informa dell'allineamento tra **MMA** e **SIG**, durante il quale è stata passata la consegna per l'attività settimanale di verifica delle ore dei collaboratori LOB e riprogrammata al 18/06 l'attività di conservazione sostitutiva degli attestati.
+    *   Allegato: `2024-06-11 Attività SIG 2024 con note.xlsx`.
+    *   **Luca Sigalini** ha fornito formazione a **LOT** sulle attività settimanali e mensili in sua gestione (verifica e approvazione aggiornamenti WSUS, pulizia WSUS mensile e verifica attività MGR per approvazione a LM).
+
+*   **14 giugno 2024:**
+    *   **Matteo Marcoli** carica un progress file con le ultime modifiche (`2024-06-11 Attività SIG 2024 con note.xlsx`), in quanto il precedente non era aggiornato.
+    *   **Paolo Disetti** comunica l'esito di una call con **MMA**, **LOT** e **SIG**. Il file Excel delle attività SIG è stato aggiornato (`2024-06-14 Attività SIG 2024 con note.xlsx`), confermando il rispetto delle formazioni previste.
+    *   **LOT** ha attivato la mail `it_admin@megaitaliamedia.it`, designata come utenza per creare tutti i servizi cloud e non necessari. `it_admin` è ora un gruppo con **MMA**, **SIG** e **LOT**.
+    *   È stato aperto un account Bitwarden con l'utente `it_admin@megaitaliamedia.it` per l'acquisto delle licenze.
+    *   **LOT** ha installato Bitwarden su una VM Linux (192.168.0.5) e configurato il sottodominio `bitwarder.dyndevice.com`.
+    *   Acquistate licenze Bitwarden per **IT_ADMIN**, **MMA**, **SIG**, **LOT**, **DIS** per i test.
+    *   **SIG**, **MMA** e **LOT** stanno popolando il database Bitwarden con i servizi MIM attualmente aperti con l'utente `luca.sigalini@megaitaliamedia.it`.
+    *   Vengono definite le procedure per la modifica della password Bitwarden dell'utente **IT_ADMIN** da parte di **LM**, l'aggiornamento delle utenze dei servizi e la condivisione delle password.
+    *   Descritte le procedure di backup notturno del file Bitwarden: in sede MIM, su Seeweb MIM07 e su "Tivoli Storage Manager".
+
+*   **19 giugno 2024:**
+    *   **Paolo Disetti** fornisce una dettagliata mappatura degli accessi ai servizi in Bitwarden per **LM**, **SIG**, **MMA**, **LOT** e **RES**, specificando i vari servizi (es. AWS, Azure, Office 365, server Seeweb SSH).
+    *   Vengono indicati gli utenti da rimuovere dal gruppo Admin di dominio e i nuovi assunti da aggiungere.
+    *   Allegato: `2024-06-14 Attività SIG 2024 con note.xlsx`.
+
+*   **25 giugno 2024:**
+    *   **Paolo Disetti** informa che l'MFA utilizzerà un numero interno quando disponibile.
+    *   **LOT** ha estratto le sue password per inserirle in Bitwarden; si attende l'estrazione da parte di **SIG** e **MMA** per un merge e un test delle password prima del caricamento finale.
+    *   È stata discussa la necessità di formare il personale che utilizza ChatGPT a causa dell'utente unico; **PG** è incaricato di gestire la questione.
+
+*   **3 luglio 2024:**
+    *   **Paolo Disetti** indica la necessità di creare righe segnaposto per tutte le macchine in Bitwarden.
+    *   **LM** inserirà le password di root (es. "Apache 0X SSH root").
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 4418 characters and 534 words.
+Compression ratio: 0.68 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 1138.
+Summary generated in 20.024558 seconds.

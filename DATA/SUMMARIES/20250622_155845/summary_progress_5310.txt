@@ -1,5 +1,0 @@
-*   Invio errato di newsletter a 7165 utenti invece di 400 (6/6/2025)
-*   Causa: modifiche ai filtri LMS per query ottimizzate (DynDevice timeout).
-*   Risoluzione: riscrittura query SQL (9/6/2025) e adattamento controlli aggiuntivi.
-*   Coinvolti: Alessandro Ronchi, DPO Federica Melis, Elisa Pau.
-*   Aggiornamento DynDevice pianificato (31/07/2025) con nuovo criterio di controllo.

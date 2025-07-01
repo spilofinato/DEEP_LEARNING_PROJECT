@@ -1,0 +1,153 @@
+- **03/12/2007 – Pietro de' Castiglioni:**  
+  - Definisce le basi e gli elementi del riesame del Sistema Gestione Qualità (SGQ), con riferimento al manuale qualità MIM (verifiche ispettive, feedback clienti, non conformità, formazione, ecc).
+  - Elenca risultati del riesame: decisioni per il miglioramento SGQ, prestazioni aziendali, bisogni di risorse.
+  - **Nessun allegato.**
+
+- **03/12/2007 – Pietro de' Castiglioni:**  
+  - Sintetizza strategie annuali, missione, mercato, concorrenza e risultati dettagliati del riesame 2007.
+  - Individua criticità nei processi (commerciale, magazzino, produzione, sicurezza, personale).
+  - Rende noto che sono in allegato i verbali e i riepiloghi dei riesami 2008 e 2009.
+  - **Nessun allegato.**
+
+- **17/12/2010 – Pietro de' Castiglioni:**  
+  - Analizza indicatori di qualità dei corsi (cruscotto dati) e gradimento utenti.
+  - Evidenzia soddisfazione utenti e focus sul miglioramento continuo.
+  - **Nessun allegato.**
+
+- **11/12/2011 – Pietro de' Castiglioni:**  
+  - Gruppo Coordinamento Qualità decide di spostare il riesame annuale a marzo, in prossimità dell’approvazione del bilancio.
+  - Indicatori aggiornati su cruscotto MimNet.
+  - **Allegato:** Riesame MIM 2012.pdf
+
+- **05/12/2013 – Pietro de' Castiglioni:**  
+  - Comunica approvazione riesame 2012 dopo CDA del 22/03/2013.
+  - **Allegato:** Riesame MIM 2013.doc
+
+- **13/11/2014 – Pietro de' Castiglioni:**  
+  - Comunica approvazione riesame 2013 dopo CDA del 28/04/2014.
+  - **Allegato:** Riesame MIM 2014.doc
+
+- **28/11/2014 – Pietro de' Castiglioni:**  
+  - Sintesi avanzamento 2014: MIM consolida la presenza, ma subisce calo lavoro dovuto a fine degli obblighi formativi ASR 21.12.11.
+  - Cita fatti rilevanti come audit, accordi e grandi clienti (Alenia Aermacchi).
+  - Descrive erogazione corsi, gestione piattaforma e procedure di convocazione.
+  - **Nessun allegato.**
+
+- **20/11/2015 – Pietro de' Castiglioni:**  
+  - Comunica approvazione del riesame 2014 dopo CDA del 31/03/2015.
+  - **Allegato:** Riesame MIM 2015.doc
+
+- **16/12/2015 – Pietro de' Castiglioni:**  
+  - Sintesi riunione CDA 18/11/2015: riduzione produzione e ricavi, gestione finanziaria, recupero crediti, nuove attività pianificate per 2016 (CRM, MBO, archiviazione documentale).
+  - Luigi Meroni (consigliere delegato) fornisce dettagli gestionali e di mercato.
+  - **Allegato:** 3VerbaleCDA18-11-2015-bilancio30-09-2015.doc
+
+- **25/05/2016 – Alessandro Ronchi:**  
+  - Comunica pubblicazione riesame relativo all’anno 2015.
+  - **Allegato:** Riesame MIM 2016.pdf
+
+- **30/11/2016 – Alessandro Ronchi:**  
+  - Sintesi CDA 09/11/2016 su situazione patrimoniale 2016; Luigi Meroni relaziona su risultati (produzione e ricavi in crescita, costi personale in calo), influenza nuovi accordi Stato-Regioni.
+  - Evidenziati MBO e CRM, riorganizzazione LOB e aggiornamento completo Sistema Qualità (ISO 9001:2015), gestione rischio integrata (database Valutazione rischi/opportunità).
+  - OdV (Organismo di Vigilanza) verifica aggiornamento Modello 231.
+  - Implementazione software gestionali per commesse, vendite e consuntivazione costi.
+  - **Nessun allegato.**
+
+- **02/12/2016 – Alessandro Ronchi:**  
+  - Pubblica valutazione rischio come da ISO 9001:2015 allegando FMEA.
+  - **Allegato:** FMEA Rischi.xlsx
+
+- **18/09/2018 – Alessandro Ronchi:**  
+  - Comunica pubblicazione riesame annuale 2017.
+  - **Allegato:** Riesame MIM 2018.doc
+
+- **10/12/2018 – Alessandro Ronchi:**  
+  - Allegato FMEA analisi rischi/opportunità integrata nel riesame.
+  - **Allegato:** FMEA Rischi.xlsx
+
+- **10/01/2019 – Alessandro Ronchi:**  
+  - Allegato analisi SWOT per SGSI.
+  - **Allegato:** analisi_SWOT SGSI.xlsx
+
+- **10/01/2019 – Alessandro Ronchi:**  
+  - Proposta nuovi indicatori di performance SGSI.
+  - **Allegato:** Indicatori sgsi.xlsx
+
+- **21/01/2019 – Alessandro Ronchi:**  
+  - Aggiorna indicatori SGSI con target e responsabilità da approvare nel riesame.
+  - **Allegato:** Indicatori_SGSI_2018.xlsx
+
+- **31/01/2019 - 01/02/2019 – Alessandro Ronchi:**  
+  - Allegati: Obiettivi e Indicatori SGSI aggiornati, Analisi contesto 21/01/2019, Fattori rilevanti per SGI, Requisiti delle parti interessate, Analisi SWOT, Analisi rischi/opportunità.
+  - **Allegati:** Indicatori_SGSI_2018.xlsx, s_po25_01 Analisi Contesto.doc, s_po25_02 Fattori rilevanti.xlsx, s_po25_03 Requisiti parti interessate.xlsx, s_po25_04 analisi_SWOT SGSI.xlsx, s_po25_05 Analisi Rischi ed Opportunita.xlsx
+
+- **04/02/2019 – Alessandro Ronchi:**  
+  - Allegato: Controlli e contromisure SOA per sicurezza delle informazioni.
+  - **Allegato:** s_po25_06 Controllo contromisure SGI SOA.xlsx
+
+- **02/12/2019 – Alessandro Ronchi:**  
+  - Pubblica il Riesame anno 2019.
+  - **Allegato:** Riesame MIM 2019_1.doc
+
+- **04/12/2020 – Alessandro Ronchi:**  
+  - Pubblica Riesame 2020, insieme a una serie di allegati aggiornati: analisi contesto (20/05), fattori rilevanti (01/10), requisiti delle parti interessate (01/10), analisi SWOT SGI (01/10), analisi rischi/opportunità (20/10), controlli e contromisure SOA rev. 03 (01/10).
+  - **Allegati:** Riesame MIM 2020.pdf, s_po25_01 Analisi Contesto.pdf, s_po25_02 Fattori rilevanti.xlsx, s_po25_03 Requisiti parti interessate.xlsx, s_po25_04 analisi_SWOT SGI.xlsx, s_po25_05 Analisi Rischi ed Opportunita.xlsx, s_po25_06 Controllo contromisure SGI SOA.xlsx
+
+- **18/05/2021 – Alessandro Ronchi:**  
+  - Allegato rapporto finale progetto AIB Brescia Regeneration (formazione, sostenibilità, sicurezza).
+  - **Allegato:** brescia regeneration.pdf
+
+- **03/11/2021 – Alessandro Ronchi:**  
+  - Pubblica riepilogo riesame e allega documenti su analisi contesto, fattori rilevanti, requisiti parti interessate, analisi SWOT (tutti aggiornati al 21/05/2021).
+  - **Allegati:** Riesame MIM 2021.pdf, s_po25_01 Analisi Contesto - 2021.pdf, s_po25_02 Fattori rilevanti - 2021.pdf, s_po25_03 Requisiti parti interessate - 2021.pdf, s_po25_04 analisi_SWOT SGI - 2021.pdf
+
+- **07/07/2022 – Alessandro Ronchi:**  
+  - Allegati aggiornati sul riesame 2022 (16/04/22) e tutti i documenti a corredo: analisi contesto, fattori rilevanti, requisiti parti interessate, SWOT, analisi rischi/opportunità (anche versione estesa), controllo contromisure SOA.
+  - **Allegati:** Riesame MIM 2022.pdf, s_po25_01 Analisi Contesto - 2022.pdf, s_po25_02 Fattori rilevanti - 2022.pdf, s_po25_03 Requisiti parti interessate - 2022.pdf, s_po25_04 analisi_SWOT SGI - 2022.pdf, s_po25_05 Analisi Rischi ed Opportunita - 2022.pdf, s_po25_05 Analisi Rischi ed Opportunita - 2022-estesa.pdf, s_po25_06 Controllo contromisure SGI SOA.pdf
+
+- **18/05/2023 – Paolo Disetti:**  
+  - Pubblica il riesame 2023 (21/04/2023) e allega analisi contesto, fattori rilevanti, requisiti parti interessate (14-16/04/23), analisi rischi/opportunità e SWOT (14/04/23).
+  - **Allegati:** Riesame MIM 2023.pdf, Contesto-fattori-parti interessate.pdf, rischi_opportunita-swot.pdf
+
+- **08/07/2024 – Paolo Disetti:**  
+  - Pubblica indicazione dei documenti aggiornati per il riesame 2024: Riesame, analisi contesto, requisiti parti interessate, SWOT, analisi rischi/opportunità.
+  - **Nessun allegato esplicito.**
+
+- **30/04/2025 – Alessandro Ronchi:**  
+  - Allegato verbale di riesame del SGI anno 2024 approvato in riunione 24/04/2025.
+  - **Allegato:** Riesame MIM 2025.pdf
+
+---
+
+**Persone coinvolte e loro azioni principali:**  
+- **Pietro de’ Castiglioni:** elaborazione e pubblicazione periodica di verbali e riesami, sintesi delle attività, individuazione criticità e miglioramenti, invio di allegati nei primi anni.
+- **Luigi Meroni:** consigliere delegato, illustrazione risultati aziendali, stato produzione, gestione delle problematiche finanziarie, proposte evolutive su CRM e MBO.
+- **Alessandro Ronchi:** curatore pubblicazione riesami e predisposizione/aggiornamento di allegati tecnici (analisi contesto, SWOT, rischi/opportunità, indicatori, ecc), standardizzazione processo documentale, comunicazione avanzamenti su aggiornamenti ISO 9001:2015.
+- **Paolo Disetti:** pubblicazione e allegazione dei documenti riepilogativi e delle analisi relative agli anni recenti (2023, 2024).
+
+---
+
+**Presenza di Allegati:**  
+- **Frequente e sistematica.**
+- Tipologie: verbali riesame annuale, analisi SWOT, FMEA rischi/opportunità, indicatori performance, analisi contesto, fattori rilevanti, requisiti parti interessate, controllo contromisure SOA, rapporti di progetto, documenti CDA.
+- Quasi ogni aggiornamento annuale è accompagnato da almeno un allegato tecnico.
+
+---
+
+**Eventi principali (cronologico):**
+- Avvio riesami con formalizzazione processi e indicatori (2007).
+- Aggiornamento annuale dei verbali e analisi approfondite su processi, criticità, avanzamento degli audit, con allegati dettagliati (2008-2010).
+- Modifica della tempistica dei riesami per allineamento con bilanci (2011).
+- Integrazione crescente di strumenti digitali (cruscotto MimNet, database, piattaforme e-learning).
+- Progetti e partnership rilevanti (es. Alenia Aermacchi per formazione e piattaforme remote 2013-2014).
+- Implementazione di strumenti gestionali avanzati: CRM, archiviazione documentale, processi MBO (dal 2015).
+- Adeguamento alle nuove normative (ISO 9001:2015), mappatura rischi e opportunità in ambito SGI e SGSI (dal 2016).
+- Progressiva e sistematica pubblicazione di analisi, indicatori, controlli e contromisure con esteso supporto di allegati tecnici sempre più dettagliati fino al 2025.
+
+---
+Original length: 30349 characters and 4090 words.
+Summary length: 9495 characters and 862 words.
+Compression ratio: 0.31 (summary length / original length).
+Estimated input tokens: 7587.
+Estimated output tokens: 2408.
+Summary generated in 46.316911 seconds.

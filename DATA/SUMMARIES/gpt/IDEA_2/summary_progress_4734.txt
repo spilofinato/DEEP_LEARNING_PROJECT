@@ -1,0 +1,131 @@
+- 13.04.2016:  
+  - Tiziano (TIZ) e Federica Gozzini (FG) analizzano articoli e componenti tecnologica/legale per area riservata; tutto OK, documento di sintesi da preparare entro fine aprile.
+- 20.05.2016:  
+  - FG lancia il forum PuntoSicuro: coordinamento generale, parte gratuita da giugno, consulenza a pagamento entro fine 2016. Contratto con Avv. Caruso in definizione.
+- 14.06.2016:  
+  - FG e TIZ propongono: lettura articoli gratuita per periodo limitato, poi trasferimento automatico in banca dati (BD). SIG prevede sviluppo in 30 giorni, avvio a settembre; forum avviato, pubblicazione articolo di lancio prevista entro giugno, Debora Russi contattata per collaborazione.
+- Maggio 2016:  
+  - J riceve incarico per campagna banner promozione attestazione lettura articoli, avvio a maggio.
+- 29.07.2016:  
+  - TIZ modera tavola rotonda a Modena, richiede materiale per pubblicazione PS, emerge la necessità di proposta standard PS per clienti.
+- 02.12.2016:  
+  - SIG consegna opzione multi-abbonamento aziendale, slittamento al 6 gennaio 2017. FG chiede a J nuova data campagna banner; forum ha 150 iscritti, si valuta coinvolgimento Francesco Cuccuini per popolarità; proposta standard PS non definita, bozza FG e TIZ.
+- 08.02.2017:  
+  - SIG comunica consegna (opzione multi-abbonamento), test da FG. Avvii su ampliamento BD PS su “Dati personali”; raccolta e analisi dati costi evento 2016 (Milano); J raccoglie dati per campagna banner Edilportale; landing page Adwords creata da FG e J per BD PS con sconto 20%; FG e SIG semplificano form iscrizione NL; LM richiede DB iscritti per verifica campo professione. LM con SIG intervengono su rapporto con Biasiotti (riduzione costo annuo servizio, pagamento a click); TIZ incontra Giorgio Bressi per ripresa collaborazione PS. Popsu proposta popup per promuovere iscrizione NL (TM raccomanda invasività controllata). Semplificazione modulo iscrizione BD (J fa testing ed evidenzia criticità).  
+    - PRESENZA ALLEGATI: nota allegata su calo sessioni/pagine PS 06-08 2017 e statistiche.
+- 09.02.2017:  
+  - LM riceve e analizza DB iscritti, decide mantenimento campi professione/provincia e accorpamento “Consulente Sicurezza”; J esegue testing su moduli acquisto.
+- 10.02.2017:  
+  - FG risolve telefonicamente iscrizione cliente, compila manualmente a causa di errori modulo.
+- 13.02.2017:  
+  - Attivo spostamento allegati articoli in area abbonati dopo 15 giorni; FG segnala feedback positivo, nessuna lamentela.
+- 12.04.2017:  
+  - TIZ invia a LM ultima versione proposta standard per revisione Caruso/pubblicazione area documenti. BD PS su “Dati personali” completata (annuncio FG e comitato); FG rende operativa revisione form, revisione modulo iscrizione BD completata. PDC fornisce link archivio immagini MIM per PS e consiglia uso immagini riutilizzabili Google, LM definisce nuova procedura pubblicazione. Bressi ricomincia a fornire articoli; LM verifica sito Bressi.  
+    - PRESENZA ALLEGATI: Documenti di sintesi, media kit, proposte, dati/statistiche scambiati internamente.
+- Da giugno 2017:  
+  - FG riduce gratuità articoli a 7 giorni, con avviso in newsletter.
+- 14.06.2017:  
+  - Tempi accessibilità ridotti a 7 giorni, sperimentazione positiva; a settembre previsto calo a 3 giorni. Accordo con Biasiotti: compenso da 400€ a 300€ con stesso numero articoli.
+- 2017-2018:  
+  - Valutazione e ottimizzazione conversioni: analisi profilazione utenti, attivazione/semplificazione form, popup, campagne Adwords/banner, variazione giorni gratuità (da 15 a 7/3 e ritorno); Analytics evidenzia calo sessioni su riduzione gratuità, ripresa tornando a 15 giorni. Focus su canali accesso, crescita mobile, proposta SIG implementazione AMP. Tracciamento codici sconto in landing, codici conversione su NL/abbonamenti; semplificazione tracciamento Analytics.
+  - Settembre: discussione animata tra FG, TM, SIG, Giulio, Matteo, J, PDC sulla diminuzione accessi, pratiche editoriali, qualità fonti, pubblicazione Security, FAQ NL, SEO; documento finale miglioramenti e raccolta feedback staff/lettori.
+- 02.10.2017:  
+  - SIG conferma ritorno a dati positivi: aumento sessioni e accessi dopo ripristino 15 giorni gratuita; forte miglioramento newsletter.
+- Dicembre 2017:  
+  - Bozza BP 2018 (LM): ridefinizione BD come “PS Premium”, sondaggio utenti, video tutorial su BD, maggior visibilità contenuti, testo informativo clienti pubblicità 2017, proposta aggiornamento infortuni/morti regionali a pagamento (FG/TIZ), promozione attestazione, analisi tecnica area riservata (salva/organizza articoli preferiti, tema FG/SIG entro gennaio), collaborazione evento “safety” fiera Ambiente Lavoro (TIZ-FG temi GDPR con Biasiotti), miglioramento SEO.  
+    - OBBLIGO ferie/ROL a tutti.  
+    - PRESENZA ALLEGATI: nota Tiziano su calo sessioni/pagine PS 06-08 2017 e relative statistiche.
+- Febbraio 2018:  
+  - LM propone “PuntoSicuro Premium”, previsti sondaggio iscritti per identificare servizi più usati (FG/SIG) e avvio ottimizzazione SEO con Marzorati. Riunione con Marzorati programmata. Analisi “area riservata” per abbonati a FG con SIG; discutere storytelling su salute/sicurezza, coinvolgimento collab. esterni.
+- Marzo 2018:  
+  - LM telefona a Agcom su contributo pubblicità (solo ricavi pubblicitari, comunicazione annuale a RP/FG); PDC tiene storica corrispondenza.
+- Maggio 2018:  
+  - LM fornisce consuntivo COGE PS 2017 (ricavi 152.565,28 euro).  
+    - ALLEGATO: “31-12-2017 COGE PS..xls”  
+  - LM segnala NL PS (25 maggio) con nuove privacy policy GDPR.  
+    - ALLEGATO: “Puntosicuro sommario del 25 maggio 2018.pdf”  
+  - FG richiede a SIG inserimento “categoria” articolo nei dati statistici PS.
+- Giugno 2018:  
+  - FG segnala lentezza sito, sollecita riduzione a 3 secondi di caricamento; Marzorati segnala problematico tracciamento url in Analytics, da risolvere; richiesta inserimento registrazione ricerche su sito.
+- Luglio 2018:  
+  - LM: sezione mensile attività SEO da aggiornare; suggerito corso formazione Analytics per redattori (da FG). FG: migliorie tecniche su velocità completate, SIG incaricato implementazione caricamento dinamico entro settembre.
+- Settembre 2018:  
+  - TM segnala necessità monitoraggio normativo su copyright e fiscalità proventi online; TIZ raccoglie info aggiornando LM.
+- Novembre 2018 - Gennaio 2019:  
+  - FG (LM) comunica WS inizia sviluppo area riservata per abbonati (archivio articoli preferiti, copia-incolla con menzione PS). Prima parte completata a fine gennaio 2019, prossimo lancio clienti febbraio; status seconda funzione da definire con SIG.
+- Novembre 2018:  
+  - FG e TIZ redigono piano sviluppo PS 2019 tramite fornitori esterni, inclusi stime ricavi/costi, recupero stimoli LM per area premium.
+- 31.12.2018:  
+  - Obbligo per tutti di utilizzare ferie e ridurre cumulo ferie/ROL.
+- 23.01.2019:  
+  - LM: monitoraggio rinnovi pubblicità 2019 (WKI, Aifos, Progtech rinnovano, valore 25k); da contattare Blumatica.
+- 29.03.2019:  
+  - FG annuncia migliorie grafiche versione mobile (banner/contenuti dx) con AB e J; TIZ aggiorna su riforma copyright UE per info ai colleghi.
+- 09.04.2019:  
+  - FG propone “PuntoSicuro PLUS” (abbonamento premium), app gratuita, documenti gratis per solo 1 giorno; strategia marketing da definire con LM, DDA, J. FG/MGR valutano servizio quesiti (con Anna Guardavilla) e offerte scontate MIM. AGI/GR valutano clip tutorial PS; protezione articoli dalla copia fraudolenta a LOB IT (scadenza maggio); servizio attestazione articoli letti a LOB IT (scadenza maggio); gestione mancati rinnovi: redazione sollecita e raccoglie cause. Criticità rinnovo automatico abbonamenti: vari problemi tecnici/amministrativi (FG, LOB IT, LOB AMM coinvolti); miglioramento modulo ricerca affidato a LOB IT. Proposta convegno Fiera Ambiente Lavoro; gadget fiera preventivi in attesa. Raccolta dati NL/abbonamenti/monitoraggio costi fornitori curata da RES/MGR/RP; vendita pubblicità aggiornata da MGR; analisi DB abbonati per cross-selling MIM.
+- 11.04.2019:  
+  - FG propone servizio informazione ai lavoratori integrando articoli PS sulle piattaforme MIM/LTI con tracciamento e attestazione. Fattibilità positiva da parte di PDC e SIG (attesi 1 mese di sviluppo dopo rilascio DynDevice 4.2). LM suggerisce sondaggio fra clienti principali prima del lancio (es: Fincantieri, Accenture).
+- 15.05.2019:  
+  - FG conferma sala per convegno, Biasiotti e Servadio disponibili; prima clip presentazione PS pronta (AGI al montaggio).
+- 31.05.2019:  
+  - LM conferma “PuntoSicuro PRIME” come nuovo nome per il servizio premium; riunione prevista a ottobre su logo/selling proposition (FG, J, DDA), massimo rilievo a bottone “Acquista Subito” e pagina “Perché iscriversi?”.
+- 17.07.2019:  
+  - FG aggiorna su pubblicazione clip presentazione PS su sito, social, fiera, NL. RES sviluppa alert su fonte articolo dopo copia testo, e attestazione generale riepilogativa per tutti i lettori; promozione tramite articolo. Convegno organizzato da DDA e LM. Due sondaggi preparati per utenti banca dati (gradimento, mancato rinnovo); invio bloccato da problemi raccolta dati e compatibilità smartphone. Evento “Vent’anni di PuntoSicuro” fissato per 16 ottobre 2019 a Bologna (DDA/LM). RES crea sistema raccolta dati (NL e abbonamenti).
+- 17.09.2019:  
+  - LM: proposta passaggio PS a pagamento (modello Corriere/Repubblica) con paywall; esperienza e test tecnici svolti da SIG, feedback utente in valutazione; analisi metriche accesso; progetto sospeso in attesa di chiarimenti 2020. LM e FG iniziano vendita pubblicità PS in fiera con media kit.
+- 21.11.2019:  
+  - FG: ventennale organizzato, registrazione disponibile. Servizio attestazioni generale creato e promosso (FG), chiusa attività convegno cybersecurity e gadget fiera. FG conferma 50% pagamenti abbonamenti con carta di credito; SIG prevede rilascio rinnovo automatico entro gennaio 2020, Caruso individua modifiche contrattuali necessarie.  
+    - 04/12/2019: confermato rilascio rinnovo automatico per fine gennaio 2020.
+  - J e FG propongono maggiore vendibilità servizio pagamento (alert, banner, inviti iscrizione NL). APP gratuita solo per utenti BD, gratuità 1 giorno. Collaborazione con ANMIL valutata per sezione AMBIENTE PS.
+- 14.02.2020 (FG):  
+  - Elencate azioni 2020: rinnovo automatico abbonamenti, rilancio vignette, campagna “NO cellulare alla guida”, maggior collaborazione ANMIL, inserimento popup NL/abbonamenti, sondaggio utenti, avvio tutorial, gestione mancati rinnovi, miglioramento modulo ricerca, richiesta articoli a docenti MIM. Rinnovo automatico solo per carte di credito, condizioni vendita modificate, rilascio tecnico da BANCA SELLA atteso (LM).  
+  - Avviata nuova serie vignette ad AM (una al mese), contenuti gestiti da FG/PDC.  
+  - Campagna “NO cellulare alla guida” partita con FG, AM, TIZ, MKT coinvolti.  
+  - TIZ incaricato di contattare ANMIL.  
+  - Inserimento popup NL/abbonamenti tra i “TODO”.  
+  - Preparazione tutorial clip servizi PS; sollecitati articoli docenti MIM.
+- 19.02.2020 (IB):  
+  - Entro fine marzo da contattare primi 5 docenti (LM) per articoli PS; prevista ripresa pubblicazione vignette da marzo (LM); scadenza campagna “NO cellulare alla guida” fissata per fine marzo.
+- 09.09.2020 (FG):  
+  - Completato rinnovo automatico abbonamenti da giugno. Collaborazione iniziale con ANMIL svolta (10 interviste radio via TIZ), ma sospesa per scarso vantaggio per PS. Richiesta articoli MIM chiusa (PDC). Pubblicazione vignette e campagna “NO cellulare alla guida” rinviate (priorità COVID); possibile ripresa ottobre e 2021. Aumentato listino pubblicità da giugno.
+- 05.11.2020 (FG):  
+  - FG aggiorna su nuovi servizi:  
+    - Servizio Q&A: problemi organizzativi, prezzo, responsabilità; AG conferma serve squadra di esperti e limiti giuridici per MIM.  
+    - Convegni/premi: poco interesse/risultati, meglio aree interne promozionali non redazionali.  
+    - Valutazione PS a pagamento: tecnicamente possibile, ma giudiziate rischiosa (FG/TIZ: rischio calo visite); linea di TM è no paywall, sì qualità/incremento BD.
+  - FG contatta AIFOS per collaborazione rubrica “Imparare dagli errori”, ingresso PS su schede AIFOS. TIZ porta avanti contatti/negoziazione.
+- 11.11.2020 (FG):  
+  - TM decide: PS non a pagamento, no consulenze/eventi, focus su valore NL per conversione a BD paganti e qualità testata. Pubblicità MIM da mantenere almeno al 50% valore tabellare rispetto ai terzi, controllo pubblicità di terzi max.  
+  - TM richiede report mensili pubblicità MIM su PS (NL/Banca Dati/annunci) e confronto mensile dati con la concorrenza (Semrush/GR).
+  - FG conferma pubblicità PS: 80% MIM, terzi entro limiti (fatturato annuo circa 50k euro).
+- 12.11.2020 (FG):  
+  - Pubblicazione vignette sospesa per difficoltà operative AM, tentativi falliti di sostituzione vignettista. Campagna “NO cellulare alla guida” sospesa causa Covid/disinteresse sul tema.  
+    - Problemi invio sondaggio con DYNDEVICE, J esamina piattaforme alternative per fine anno.
+- 13.11.2020 (FG):  
+  - TM boccia nuove attività non coerenti: aumento servizi abbonati, campagna pop-up/sondaggi/clip tutorial, PS a pagamento. Approva invece unico modulo di ricerca/sondaggio (parere Lorenza Menduto), continuo controllo qualità/costi fornitori, monitoraggio pubblicità, uso regole su qualità immagine PS e gestione argomenti BD/PS senza sperimentazioni fuorvianti.
+- 18.11.2020 (FG):  
+  - FG crea nuove categorie tematiche su PS (cultura sicurezza, promozione salute, smart working…); controllo costi fornitori garantito da tabella aggiornata da RP.
+- 2020:  
+  - Identificazione necessità miglioramenti sito, priorità IT bassa. Criticità modulo ricerca; focus su rinnovo automatico, rilancio vignette, campagna “NO cellulare alla guida”, collaborazione ANMIL, pop-up conversioni, sondaggi abbonati, tutorial servizi, gestione mancati rinnovi, richiesta articoli docenti MIM, introduzione abbonamento premium e servizi aggiuntivi. Target economici e di crescita fissati.
+- 2021:  
+  - Obiettivi: fatturato 231k, incremento utenti BD/clienti/sessioni/NL, campagne “Bonus Pubblicità”, Facebook “mi piace”, nuove NL e A/B test (entro luglio), campaign engagement sito/social, sistemazione canale YouTube entro settembre. Tutti obbligati a utilizzare ferie/ridurre ferie/ROL.
+- 05.05.2021 (FG):  
+  - ADS Google: richiesto landing pages dedicate per conversioni. Campagna Adwords non converte; attività ancora da valutare.  
+  - Pulizia database NL: eliminati 18mila iscritti sospesi; leggera ripresa iscrizioni NL.  
+  - Invio NL ai clienti su bonus pubblicità, migliorata fatturazione BD (MGR).  
+  - Analisi e miglioramento conversione moduli d’ordine da attuare dopo “switch” piattaforma PS (Google Optimize); migliorate grafiche NL, test A/B futura su nuova piattaforma; engagement basso su sito/social (Facebook pochi like/commenti, meglio LinkedIn); MKT coordina social e adatta tone of voice.  
+    - Nessun allegato.
+- 05.05.2021 (FG, aggiornamento di TIZ):  
+  - TIZ tratta sinergie con AiFOS su progetto “Imparare dagli errori – ATS Brianza”; mantiene pubblicazione di articoli ATS.
+    - Nessun allegato.
+- 10.11.2021 (LM):  
+  - Campagna inserzionisti bonus pubblicità non converte. Completata campagna Facebook e migliorato engagement (ancora basso). Supporto richiesto a MKT interno o GR per soluzione. TIZ tratta premio AiFOS per tesi laurea. FG e TIZ valutano partecipazione ad Ambiente Lavoro.
+    - Nessun allegato.
+
+---
+Original length: 79034 characters and 11490 words.
+Summary length: 15530 characters and 1836 words.
+Compression ratio: 0.2 (summary length / original length).
+Estimated input tokens: 19758.
+Estimated output tokens: 3917.
+Summary generated in 232.315151 seconds.

@@ -1,0 +1,20 @@
+- 24/10/2013, Rita Parisi evidenzia che l’emissione ordini demandata a FOM a posteriori manca di controllo; suggerisce modifiche procedurali e segnala assenza di RDA, approvazione e consuntivazione nelle procedure (rinnova la segnalazione il 12/11).
+- 28/10/2013, Pietro de' Castiglioni ridefinisce il modello di processo e invia l’allegato p_acq_approvvigionamenti.xls; sottolinea la necessità di rafforzare le fasi di richiesta e approvazione ordini; programma incontro con Rita Parisi per il 21/11.
+- 20-21/11/2013, si svolge incontro tra LM, Rita Parisi e Pietro de’ Castiglioni per discutere approfonditamente ruoli e responsabilità nella gestione ordini per diverse tipologie (materiali, corsi, servizi, ecc.).
+- 19/11/2013, Alessandro Ronchi riassume le decisioni operative: LM, RP e PDC responsabili delle tipologie di ordine e relative fasi; PG e Ronchi formalizzano il workflow; specifiche tecniche da definire con SIG, sviluppo affidato a MMA (tempi oltre gennaio 2014); formazione Infinity prevista per LM e PDC, RP pianifica delega a FOM per acquisti MIM; MM, SIG e CAM collaborano per i flussi su Mimnet e Infinity; la verifica di RP diventa flessibile.
+- 26/11/2013, Rita Parisi analizza lo schema ciclo passivo: sottolinea l’importanza di verificare gli ordini provvisori, richiama mancanze su provvigioni e royalties, chiede chiarimenti su registrazione fatture e flusso bonifici.
+- 02/12/2013, Pietro de’ Castiglioni invia a tutti gli stakeholder lo “schema acquisti MIM.xlsx” (allegato), chiedendo verifica e validazione con Rita Parisi; risalta la collaborazione tra PDC, RP, LM, SIG, MMA, PG, CAM, FG, FOM, Ronchi e Matteo Meroni.
+- 09/05/2014, Pietro de’ Castiglioni segnala per FOM una criticità: ordini confermati da LM restano modificabili senza tornare a “provvisorio”.
+- 23/05/2014, PDC propone a PG e MGR verifica tecnica di ritorno in stato “provvisorio”; suggerisce aggiunta in stampa della nota sullo status del documento.
+- 04/06/2014, Paolo Gaioni comunica implementazione blocco modifica/cancellazione ordini confermati; per ordini provvisori in stampa/PDF si aggiunge nota di provvisorietà (allegato: Ordine-ACQ-PROV.pdf).
+- 27-30/06/2014: Rita Parisi chiede info su autorizzazione e modifica ordini, accesso remoto; MM segnala difficoltà accesso, PDC prende in carico l’approvazione; Ronchi conferma competenza di PDC; RP espone caso carico senza prezzo e propone modifica procedura/listino; PDC risponde e preannuncia revisione.
+- 08/08/2014, PDC informa che in MimNet è disponibile il Questionario fornitori (nuovo allegato); ricorda riunione del 26 agosto sulle nuove gestione ordini.
+- 27/05/2017, Alessandro Ronchi chiude il progetto di attivazione Gestione ciclo passivo, riepilogando le azioni aperte; nessun allegato.
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 2815 characters and 363 words.
+Compression ratio: 0.29 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 738.
+Summary generated in 30.948676 seconds.

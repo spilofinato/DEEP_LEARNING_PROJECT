@@ -1,0 +1,80 @@
+- 01.01.2001: Creato il progetto "MIM - gestione"
+- 2001: Analisi di mercato sulle vendite per catalogo viene messa a disposizione per i collaboratori MIM (senza specificare l’autore del messaggio).
+- 2001-2002: MIM gestisce spedizioni cataloghi e clienti tramite raccolta dati e uso di liste (MGR coinvolto per estrazione, LM e MAD per categorizzazione);
+  - Vengono usate liste RCM, Telextra, Infocamere per selezione destinatari;
+  - LM, FOM, MTP analizzano la redemption delle varie categorie;
+  - 18.06.2001: saldo sul libretto del catalogo risulta di 1.700.000 lire.
+- 23.10.2001: LM incaricato di definire corso per uso di Adhoc con MGR e LB.
+- 31.10.2001: LM organizza corso Flash per CD e Videi, avvisando LB e BET; parteciperanno ELE, PIO, BAN.
+- 12.12.2001: Ricevuta approvazione finanziamento Legge 35 (193.627.000 lire a fondo perduto per sistema e-learning); LM incaricato della rendicontazione, Rita e ALM della valutazione di bilancio.
+- 2002: 
+  - Nuove spedizioni cataloghi, con timing e target differenziati. MGR elabora e fornisce le liste; MAD verifica e segnala problematiche sulle liste acquistate (fino al 40% indirizzi errati da Infocamere).
+  - Proposta di produzione cd-rom AIAS/AIB: LM incontra Rag. Casati e Ing. Bianchi (AIAS): viene definito accordo tra MIM e AIAS/IDP con suddivisione tra diffusione culturale (AIAS) e parte economica (IDP);
+    - PDC responsabile riprese/montaggio;
+    - Primo seminario/test previsto il 07.06.02;
+    - LM resta in contatto con AIAS per definizione accordo;
+    - 10.07.02: Appuntamento fissato a Milano per chiusura intese.
+  - MAD assunto in prova dall’11.04.02 al 11.07.02 e poi assegnato a MI. Deve acquisire competenze in Access, Contact Pro, DBM, lavorando con LAG.
+  - Nuova procedura gestione dati prospect/clienti in Contact Pro: MAD e FOM principali referenti; suddivisione in due database per analisi redemption con supporto di MGR.
+- 2002: 
+  - Analizzati costi/strategie per invio CD demo/cataloghi, tariffe postali e gestione abbonamenti;
+  - LM e MAD responsabili revisione tariffe e inserimento dati per confermare riduzioni.
+  - Problema decadimento abbonamento “Banx News” causa mancato invio rivista (LM monitora soluzioni).
+- 2002: 
+  - Corsi interni formazione personale:
+    - LM segue corsi per Adhoc (PDC, FOM, MFB già installato);
+    - MGR spiega a MFB uso sistema bar code, operativo dal 21.05.02 (magazzino MIM).
+    - MS incaricato di tenere corsi ad-hoc per gestione magazzino con FOM e MFB.
+    - 27.05.02: TM chiede a LM di organizzare incontro tra ELE e MAD con Seton su strategie catalogo/mailing; LB viene tenuto informato sugli sviluppi.
+    - MAD e FOM ricevono copia corso Wage da LM (22.10.02).
+- 2002: 
+  - Gestione finanziamenti e rendicontazione: 
+    - TM, LB, LM e Rita coinvolti ora nella preparazione dei progetti/consuntivi INAIL, legge 140, legge 35;
+    - File allegati e rendicontazioni a cura di LM, BET, RP;
+    - BET segnala limitazioni benefici fiscali Tremonti investimenti (solo beni immateriali identificabili).
+- 2002: 
+  - Partecipazione a fiere (Ambiente Lavoro, Sikura…):
+    - LM e FOM organizzano stand, allestimento e raccolta contatti/ordini/omaggi;
+    - Seton e Laerdal partner in alcune partecipazioni;
+    - MAD coordina questionari e raccolta risultati contatto clienti presso fiere; feedback e analisi da migliorare per future edizioni.
+- 2002: 
+  - Pratiche di acquisto/vendita nuovi prodotti, produzione personalizzata e lancio corsi multimediali e conversioni al formato digitale per piattaforma e-learning.
+  - Collaborazioni valutate con fornitori esterni (Media Train e partnership tecnologiche).
+- 2002-2003:
+  - Strategia mailing e co-marketing:
+    - Invii pianificati per target e mailing list segmentate (analisi redemption e correzione liste);
+    - MAD e LM supervisionano, FOM inserisce codici identificativi per prospect/clienti (etichettatura cataloghi e gestione ordini).
+    - LM tratta contestazioni e sconti con fornitori (es. Coptip, Media Train).
+  - 27.05.02: ELE raccoglie cataloghi VPC italiani, implementa questionari su copertine/catalogo con MAD e LM supervisionano test/questionari clienti.
+  - Collaborazioni con Seton su co-marketing: invii incrociati cataloghi da/per Seton; LM monitora tasso di redemption.
+  - 24.09.02: LM e TM incontrano Bongiorno per possibili sinergie e abbinamenti catalogo (verifica svolta).
+- 2003:
+  - Statistiche e consuntivi cataloghi: MGR fornisce dati invii e categorizzazione; consuntivi di vendita a cura FOM, revisione e controllo RP.
+  - Oneri e tariffe di spedizione, costi di trasporto monitorati costantemente (LM monitora, FOM a supporto). 
+  - 11.06.2003: LM fornisce dettagli su quantità stampate (302.000 copie); tracking invii mensili e risultati redemption.
+- 2003-2004:
+  - Consuntivi annuali di fatturato, analisi comparativa con anni precedenti, breakdown per canale di vendita e prodotto;
+    - FOM cura sintesi numerica, LM e RP validano dati;
+    - Pianificati obiettivi prioritari per sviluppo servizi digitali/web, incremento pubblicità PuntoSicuro, crescita reti distributive e sviluppo corsi/e-learning.
+- Maggio/Agosto 2004:
+  - LM riscontra anomalia tra costi e ricavi di trasporto (19.05); suggerisce aumento costi addebitati ai clienti e individuazione vettori più economici (ELE incaricata pratica corretta);
+  - Agosto 2004: Allarme di LM su extra costi trasporto (+15.000 euro), richiede collaborazione attiva di FOM, MFB, AGI, CICCIO, PIO, PDC; monitoraggio errori e tracciamento errori spedizione affidato a FOM/MFB.
+  - Lavoro su pesatura articoli e revisione addebiti trasporto web affidato a ELE e MFB.
+  - Pianificate riunioni di controllo post ferie per monitoraggio problemi.
+- 2004:
+  - MAD responsabile distribuzione cataloghi ai venditori diretti (CSMI), con coordinamento LM-FBR-FA.
+- 2001-2004:
+  - Consolidamento partnership, definizione budget, suddivisione attività per canale (MI, Punto Visione, rivenditori, web, ad-hoc, Ambiente Lavoro, finanziamenti/capitalizzazione) e reporting mensili (RP).
+  - Segnalate all’interno dei messaggi varie fasi e file allegati: tra cui files rendicontazione, fogli riassuntivi controlli indirizzi, schemi di analisi redemption, dettaglio fatturati (indicazione ricorrente "allegato: nan" suggerisce presenza di allegati anche se non sempre forniti nel dettaglio messaggi).
+- 2002-2004:
+  - Rilevazioni e dettaglio delle ore lavorate per progetto/AIB a cura LM.
+- 2002-2004:
+  - Diverse attività cross tra sviluppo organizzativo, gestione abbonamenti, analisi dati prospect/clienti/cataloghi, formazione interna, produzione nuovi prodotti, monitoraggio costi, strategie commerciali e marketing, tutte coordinate prevalentemente da LM, con il coinvolgimento di MAD, FOM, MGR, ELE, TM, RP, BET, AGI, PDC, MFB, Seton, AIAS e altri partner esterni di supporto.
+
+---
+Original length: 48310 characters and 5374 words.
+Summary length: 6894 characters and 822 words.
+Compression ratio: 0.14 (summary length / original length).
+Estimated input tokens: 12077.
+Estimated output tokens: 1758.
+Summary generated in 50.039121 seconds.

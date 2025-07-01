@@ -1,0 +1,141 @@
+- 2022  
+  - Giulietta Poiatti (AD) segnala obiettivo vendita prodotti: rendere il processo di acquisto sul sito più fluido (“la compri -> la paghi -> la scarichi”), con passaggio commerciale completato entro fine giugno.  
+  - Assegnazione ruoli:  
+    - Trattative commerciali/vendita: AD  
+    - Questioni tecniche/logistiche/post vendita: MFB  
+    - Acquisto prodotti da fornitori/giacenze/corrieri: MFB  
+    - Fatturazione/servizi amministrativi: FOM  
+    - Codifica prodotti: FOM  
+    - Sito web: MKGT  
+    - Ricerca fornitori: LM  
+  - Implementate migliorie sui siti e modulo E-Commerce DynDevice su segnalazione AD per snellire il processo acquisto.
+
+- 2023  
+  - Attivazioni piattaforma whistleblowing: 8 (4 AD + 4 AVA).  
+  - Guadagni provvigioni CSI sulle segnalazioni: € 401,50 + iva.
+  - Migliorie ai siti e moduli e-commerce implementate da area IT + MKGT su segnalazione AD (luglio): processo di acquisto più a step, con ulteriori migliorie tecniche da implementare.
+
+- 2024  
+  - Attivazioni piattaforma whistleblowing: 5 (2 AD + 3 AVA).
+  - Pianificata azione con MKTG per proporre nuove azioni in vista dell’obbligo 2024 (Giulietta Poiatti in coordinamento con MKTG).
+  - Gestione CRM  
+    - Aggiornata a marzo la guida CRM (“Utilizzo omogeneo CRM_Febbraio 2025”).  
+    - Associazione azienda/contatto per gli anni 2024 e 2025 (AD: 12h di lavoro, GIP: 3h).
+    - Da aprile 2025, MKTG attiverà controllo mensile sul corretto utilizzo CRM, che diventa KPI per il Team Vendite.
+    - Integrata guida uso omogeneo CRM, incluso caricamento preventivi/ordini accettati.
+  - CORSI - Centri partner CSI  
+    - Obiettivo: nuovi centri di formazione in grandi città e sollecitare partner esistenti.
+    - Nuovi partner attivati: 4 (Nuovi Servizi Brino, Power Emergency, Vertika, IS&FM).
+    - Ricerca nuovi centri partner AIFOS in corso; GIP contatta settimanalmente nuovi partner (es. GSA Ingegneria, Ambiente & Lavoro, Zenit Srl, ecc.).
+    - Azioni di miglioramento:  
+      - Maggiore pubblicazione dei partner esistenti (previsti test con 5 partner medio-grandi incarico GIP).  
+      - Pulizia database partner non attivi.  
+      - NL manuali MKTG a tabelle CSI e MIM su corsi sincroni.  
+      - Pubbliredazionali mensili a cura MKTG.
+    - Collaborazione con sales (GAD, SAL) su elenco rivenditori e formazione sincrona.
+    - Pubbliredazionale pubblicato su PS (aprile).
+  - CROSS-SELLING & UP-SELLING  
+    - Diverse campagne in corso (NL, mail, analisi mensile AD, invii promo, proposte Sicurflix a ex clienti prodotti, up-selling a clienti percorsi parziali, sconti a nuovi abbonati, ecc.).
+    - CROSS-SELLING da PS a MIM: NL massiva ai clienti PS con sconto 20% su corsi aggiornamento RSPP.
+    - “Gruppo Azienda” passati a GAD i clienti a potenziale per cross-selling.
+    - Monitoraggio continuo di azioni di cross e up-selling con stato di avanzamento diverso, personalizzo per canale/prodotto/cliente.
+  - SICURFLIX  
+    - Da settembre Team Vendite e MKTG sospendono azioni push; servizio resta in vendita su e-commerce MIM, gestito commercialmente solo su interesse esplicito.
+    - Conferma vendita da LM.
+    - Risultati 2024:  
+      - Nuovi: 28 (7 AD, 17 AVA, 2 SAL, 2 GIP).  
+      - Disdette: 12.  
+    - Azioni migliorative in corso:  
+      - Proposta a clienti prodotti 2019–2022.  
+      - Aggiornamento slide 40 videocorsi da parte MKTG entro fine 2024, per rilancio promozionale futuro.
+  - GRUPPO AZIENDA  
+    - Obiettivi: aumentare consumo corsi con formazione finanziata e ridurre disdette.
+    - Attività anno 2024:  
+      - Nuovi 20 (14 AD, 2 AVA, 2 GAD, 2 GIP), 4 disdette.  
+      - Incentivi all’attivazione (mail con listino corsi).  
+      - Azioni di cross-selling con GAD (segnalazioni gruppi ad alto fatturato).  
+      - Analisi condizioni contrattuali in attesa da GAD/Caruso.  
+      - Azione di incentivo consumo corsi (es. validità scadenza segnalata automatica, comunicazioni per corsi SKILLA, EXCEL, Form Spec Basso Rischio, ecc.).
+      - Ridefinizione caratteristiche e offerta con MKGT (possibile inglobamento in SDS) non fattibile tecnicamente ma promozionalmente lavorabile da MKGT.
+      - Task in corso: elenco aggiornato clienti e invio NL da MKGT (attesa lavoro da LOT), task con ultimo accesso per recall, proposta Gruppo Azienda ai Gruppi Scorm1 segnalati da cam.
+  - SCUOLA DELLA SICUREZZA (SDS)  
+    - Obiettivi: aumentare consumo corsi, ridurre disdette, riunioni periodiche con MKGT, incremento eventi coinvolgimento clienti.
+    - Attività 2024:  
+      - Nuove 18 (11 AD, 3 AVA, 2 SAL, 2 GIP), disdette 9, passati a DD 1.
+      - In corso invio mail mensile (listino corsi + corso del mese/manuale da mkgt/novità).
+      - Promozioni: coupon sconto SDS 45% (primavera/SSL/eventi periodici come Ad Maiora riservata a clienti migliori – 12 coinvolti), pubblicati publiredazionali SDS su PS.
+      - Incentivi e monitoraggio: guida scadenza validità, recall su ultimi accessi, raccolta testimonianze clienti (MEL), analisi condizioni contrattuali.
+      - Cross selling SDS: campagna presentazione a partner CSI, up-selling videoconferenza + aula (Newsletter MKTG, webinar, proposta nuovi format).
+      - Raccolta feedback: invio questionario gradimento (valutazione microlearning e videoconferenza – risultati raccolti).
+      - Engagement per nuovi clienti via LinkedIn (scouting autonomo da AVA e AD), proposte riprese clienti disdette non recenti all’uscita di SDS 2.0.
+      - In programma: prosecuzione pillole video sulla piattaforma, organizzazione webinar tematici, azioni di presentazione “Presentaci un collega” (con NL dedicate, one to one, non più eventi generalisti).
+      - Diverse attività in sospeso o da valutare (sales navigator, lead champion per SDS, rinnovo AIFOS, questionari di gradimento a fine anno).
+  - Whistleblowing  
+    - Totale attivazioni annuali 2024: 5 (2 AD, 3 AVA) rispetto a 8 nel 2023.
+    - Attiva collaborazione tra Giulietta Poiatti e MKTG per nuove proposte in vista obbligo 2024.
+
+- 2025  
+  - Gestione CRM  
+    - Da aprile, controllo mensile di MKTG sull’utilizzo, diventando KPI del Team Vendite.
+    - Miglioria su codici corsi obsoleti in corso dopo ticket 03244.
+  - CORSI Centri Partner  
+    - Primo quadrimestre: nuovi centri CSI attivati (GRUPPO G.M.B.), verifica requisiti aula e videoconferenza partner a calendario.
+    - Continua ricerca nuovi centri AIFOS e altre regioni.  
+    - GIP prosegue con il contact center a nuovi partner ogni settimana, elenco di nominativi gestiti, nuova pubblicazione di NL agli enti di formazione.
+    - Migliorie pianificate:  
+      - Testing pubblicazione corsi con partner selezionati.  
+      - Incentivi recall per pubblicazione corsi (con kit safety card).  
+      - Possibile coinvolgimento di SAL in supporto recall.  
+      - Proposte Center Area in DD in travaso/interscambio con CSI.
+    - Implementata Center Area CSI per clienti DD/partner, con inserimento dati corsi e gestione vendita autonoma.  
+    - Nuovo tipo d’integrazione DD <=> CSI abilitata (es. Sicurnet).
+  - CROSS-SELLING & UP-SELLING  
+    - Prosegue analisi mensile AD per invio promo targeted, proposte verso clienti, NL specifiche/coupon, sinergie tra prodotti e servizi.
+    - Diversi task attivati e da attivare su diversi segmenti (vedi dettaglio 2024).
+  - SICURFLIX  
+    - Obiettivo annuale nuovi: 11 (5 AD, 6 GIP).  
+    - Disdette in anagrafica: 6.
+    - Programmate azioni:  
+      - Proposta a clienti 2019-2022.  
+      - Richiesta a MKGT per sponsorizzazione.  
+      - Riproposizione Sicurflix ai clienti SDS a dicembre.
+    - In corso: aggiornamento slide 40 videocorsi (MKTG, deadline fine 2024).
+  - GRUPPO AZIENDA  
+    - Primi quattro mesi: nuovi 7 clienti (4 AD, 3 GIP), 1 disdetta (MUNDIPHARMA).
+    - Incentivi/recall continuativi: mail automatica con listino, task su aggiornamento situazione utenti.
+    - In corso: ridefinizione offerta con MKGT, task per recall clienti su validità corsi in scadenza, segnalazione opportunità cross-selling con GAD.
+    - Da fare: comunicazioni per corsi SKILLA/EXCEL, azioni di incentivo per attivazione corsi con validità scaduta.
+    - New business: recupero opportunità “end user” chiuse perse per proporre Gruppo Azienda (da GAD), scouting su aziende holding per proporre GAZ a tutte le società del gruppo.
+  - SCUOLA DELLA SICUREZZA  
+    - Obiettivi nuovi 2025: 8 (tra AD e GIP), 1 nuovo up-selling (Virbium).
+    - Disdette: 7.  
+    - Passaggi a DD: 1 (ArcaService).
+    - Attività: analisi condizioni contrattuali, mail mensili automatiche, raccolta testimonianze da clienti (MEL), azione Ad Maiora sconto maggiore ai performer, invio NL per eventi e fiere.
+    - Programmate: webinar, coupon sconto continuativi, cross-selling su CSI, strumenti lead generation avanzati valutati (Sales Navigator, Lead Champion).
+  - BUDGET  
+    - Target Team Vendite 2025: +11,04%.
+    - Fatturato previsto 2025: AD + GIP 528.000 €; raggiunto 28% al 30.04.2025.
+    - Fatturati parziali 2025: AD 408.000 €, GIP 120.000 €.
+    - BUDGET 2024 Team Vendite: 2.482.000 € (+20%), con dettagli per canale/persona coinvolta (AD, AVA, GIP).
+
+Persone e ruoli principali:  
+- Giulietta Poiatti (coordinamento generale, stesura messaggi, attività commerciali, gestione CRM, azioni strategiche).  
+- AD (responsabile trattative commerciali, partecipa a task di analisi e promozioni, segnalazioni tecniche).  
+- GIP (coinvolto in scouting partner, contatti one-to-one, recall, gestione dati e supporto).  
+- MFB (gestione tecnica/post vendita/prodotti).  
+- FOM (amministrazione, codifica prodotti).  
+- MKGT (marketing strategico, azioni promo/NL, aggiornamento contenuti, ridefinizione offerte, gestione CRM).  
+- LM (vendite e conferme strategiche).  
+- GAD/SAL (supporto su segnalazioni, scalabile su richieste DD, elenco clienti e rivenditori).  
+- MEL (raccolta/gestione testimonianze clienti).
+
+Presenza allegati ai messaggi:  
+- Nessun allegato presente in nessun messaggio del progetto.
+
+---
+Original length: 24620 characters and 3333 words.
+Summary length: 10052 characters and 1127 words.
+Compression ratio: 0.41 (summary length / original length).
+Estimated input tokens: 6155.
+Estimated output tokens: 2547.
+Summary generated in 40.590883 seconds.

@@ -1,5 +1,0 @@
-* 2004-01-08: Inserimento procedure gestione commesse MIM (interni/esterni).
-* 2004-01-08: Gestione codici riassuntivi lavori, preventivi M.I. e inserimento ore.
-* 2004-01-08: Operative nuove commesse: vari MI, CD/video MIM, e-learning MIM, progetti Banca.
-* 2004-01-08: Inserimento ore giornaliere da operatori, con note descrittive.
-* 2004-01-08: Fatturazione come chiusura commessa (con data fattura).

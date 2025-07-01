@@ -1,0 +1,43 @@
+- 2013-10-28: Pietro de' Castiglioni propone la ridefinizione del modello di processo di approvvigionamenti, allegando il file "p_acq_approvvigionamenti.xls". Segnala la necessità di ridefinire le fasi autorizzative (RDA, approvazione responsabile, emissione ordine) e pianifica un incontro con Rita Parisi (RP) per il 21.11. Riporta inoltre un messaggio ricevuto da RP che evidenzia criticità dei controlli nel ciclo passivo e la necessità di apportare cambiamenti alle procedure ordini.  
+    - Coinvolti: Pietro de' Castiglioni, Rita Parisi
+    - Presenza di allegato: "p_acq_approvvigionamenti.xls"
+
+- 2013-12-02: Pietro de' Castiglioni riporta osservazioni di Matteo Meroni e Alessandro Ronchi riguardo l'inclusione del materiale di magazzino e servizi editoriali nel processo, con dettaglio delle responsabilità di ordine, verifica e approvazione per ogni tipologia d’acquisto. Riporta la necessità di formazione su Infinity per LM e PDC, ed evidenzia suggerimenti e la necessità di pianificare specifiche con SIG per lo sviluppo tecnologico.  
+    - Coinvolti: Matteo Meroni, Alessandro Ronchi, RP, PG, SIG, CAM, LM, PDC, FOM, MMA
+    - Nessun allegato
+
+- 2013-12-02: Pietro de' Castiglioni inoltra un messaggio di Rita Parisi che analizza lo schema di ciclo passivo (allegato: “schema acquisti MIM.xlsx”), individuando mancanze e suggerendo di anticipare la verifica degli ordini, sottolineando l'importanza dei dati contabili e chiedendo chiarimenti su specifici aspetti della procedura. Alessandro Ronchi invita a confermare lo schema per passare alla verifica funzionale con PG.  
+    - Coinvolti: Rita Parisi, Pietro de' Castiglioni, Alessandro Ronchi, PG, LM
+    - Presenza di allegato: "schema acquisti MIM.xlsx"
+
+- 2014-05-23: FOM tramite segnalazione a Pietro de' Castiglioni evidenzia che dopo la conferma di un ordine da parte di LM, questo può comunque essere modificato senza tornare in stato "provvisorio", compromettendo il controllo del processo.  
+    - Coinvolti: FOM, Pietro de' Castiglioni, LM
+    - Nessun allegato
+
+- 2014-05-23: Pietro de' Castiglioni comunica che PG e MGR verificheranno la possibilità di far tornare ogni ordine in stato "provvisorio" se modificato dopo la conferma da LM, aggiungendo inoltre apposita nota su eventuali stampe del documento.  
+    - Coinvolti: PG, MGR, Pietro de' Castiglioni, LM
+    - Nessun allegato
+
+- 2014-06-04: Paolo Gaioni aggiorna il team che sono state implementate due soluzioni: gli ordini confermati non sono più modificabili o eliminabili; qualora un ordine sia in stato provvisorio e venga stampato o generato in PDF, appare il messaggio di attenzione e viene usata la dicitura "PROVVISORIO" (allegato: "Ordine-ACQ-PROV.pdf").  
+    - Coinvolti: Paolo Gaioni, Pietro de' Castiglioni
+    - Presenza di allegato: "Ordine-ACQ-PROV.pdf"
+
+- 2014-06-30: Rita Parisi sottopone un problema di carico a magazzino senza prezzo e necessità di modifica dell'ordine in caso di differenza tra ordine e fattura; Pietro de' Castiglioni risponde di parlarne di persona. Vengono condivise alcune email in cui Alessandro Ronchi suggerisce la richiesta di conferma d'ordine con prezzo corretto dal fornitore e si affronta il tema delle autorizzazioni in assenza di LM, che possono essere gestite da PDC.  
+    - Coinvolti: Rita Parisi, Pietro de' Castiglioni, Alessandro Ronchi, Paolo Gaioni, Matteo Meroni, LM
+    - Nessun allegato
+
+- 2014-08-08: Pietro de' Castiglioni comunica l'inserimento del Questionario fornitori nella sezione "Istruzioni e Moduli" di MimNet, da inviare a tutti i nuovi fornitori prima dell’ordine. Annuncia una riunione il 26 agosto per il riassunto delle nuove modalità di gestione ordini fornitori.  
+    - Coinvolti: Pietro de' Castiglioni, MIM
+    - Nessun allegato
+
+- 2017-05-27: Alessandro Ronchi dichiara chiusa l’iniziativa a fronte dell’attivazione della Gestione ciclo passivo e riepiloga le azioni aperte relative allo stesso ciclo.  
+    - Coinvolti: Alessandro Ronchi
+    - Nessun allegato
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 4041 characters and 518 words.
+Compression ratio: 0.41 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 1044.
+Summary generated in 16.919108 seconds.

@@ -1,0 +1,17 @@
+- 2012-02-09, Pietro de' Castiglioni compila e trasmette l’elenco dei fornitori tecnici da contattare per esigenze della nuova sede, con dettagli di contatti, ruoli e responsabilità.
+- Proprietà edificio: Mondial srl, referenti Giancarlo Belleri, Arch. Baldoni (lavori per Belleri) e fornitori collegati (es. pittori, muratori).
+- Gestione impianti tecnici e infrastrutturali: Ascensore Elma, Impianto di rete T&T telecomunicazioni (Simone Negro), Connettività Colt e Telecom (Roberto Morandi), predisposizione linee (Impresa Valtellina con Valpondi Massimiliano e Lupi), modifiche reti/murature (Botti Sandro e Pietro).
+- Fornitori specifici: Impianto aria (Ing. Treccani), elettricisti (Soldi, Cristian, Tiziano e Diego Maggi), gruppo elettrogeno (Lorini Group), tende (Franciacorta tende, Maurizio Zanotti), pareti divisorie (Alberto Scaglia).
+- Collaboratori per servizi: Pulizie (Tekno Clean - Monica Deiuri; Impresa Barbieri), ASL Roncadelle (Sig.a Bani, Dott. Rossi).
+- Sicurezza e allarmi: Axitea (Luca Bernardini, Andrea Nava, Simone Scalvini, altri responsabili tecnici e installatori, centrale operativa di contatto per eventuali allarmi, comunicazione a LM, PDC, PG).
+- Gestione serramenti, vetri, chiusure: Polito serramenti (Sig. Giulio Polito), Bresciana serramenti (Massimiliano, Gianluca Franzoni).
+- Varie: Timbri e targhe (Dario), pitture (Forloni Stefano, Claudio Gobbini), imprese edili, segnaletica (Davide Campi), condizionamento (Sig. Biemmi, BZ), scaffalature magazzino (Nicola Pozzi), attrezzature varie.
+- Non sono presenti allegati al messaggio.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1626 characters and 193 words.
+Compression ratio: 0.35 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 440.
+Summary generated in 16.522634 seconds.

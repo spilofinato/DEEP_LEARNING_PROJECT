@@ -1,0 +1,16 @@
+*   **2011-03-09:** AiFOS, tramite Silvana Bresciani, annuncia l'avvio del percorso per estendere la certificazione ISO 9001 RINA ai Centri di Formazione AiFOS (C.F.A.) per i corsi a marchio AiFOS. Viene richiesta l'adesione compilando un modulo (allegato) da restituire entro il 23 aprile. Nello stesso giorno, viene creato il progetto "Certificazione Qualità AiFOS - Progress sempre attivo".
+*   **2012-03-05:** Il Segretario Generale AiFOS, Dr. Francesco Naviglio, ribadisce l'obbligo di adesione al progetto entro il 31/12/2012, comunicando costi e nuove scadenze per l'invio di un modulo di adesione (allegato).
+*   **2012-06-25:** Pietro de' Castiglioni (MIM) invia ad AiFOS il modulo di richiesta di adesione alla Certificazione del Sistema Qualità MIM. Era allegato il file "AIFOS - Richiesta certificazione.pdf".
+*   **2013-05-07:** AiFOS, con la partecipazione di Pietro de' Castiglioni e Marco Camisani, effettua un audit presso Mega Italia Media (MIM), valutando il sistema qualità come efficace e conforme. Il verbale di audit "Aifos - Audit certificazione.pdf" era allegato.
+*   **2013-07-16:** RINA, la società di certificazione, emette il certificato a Mega Italia Media (MIM) come Centro di Formazione AiFOS certificato.
+*   **2013-12-11:** Pietro de' Castiglioni allega il certificato RINA del 16.07.2013 ("AIFOS - Certificazione RINA.pdf"). Successivamente, Pietro de' Castiglioni segnala a Nirvana Salvi (AiFOS), con Matteo Meroni e Marco Camisani in copia, un errore nell'indirizzo di Mega Italia Media sul certificato RINA.
+*   **2014-06-03:** Pietro de' Castiglioni contatta CAM in merito all'audit RINA per la Certificazione Qualità AiFOS, citando un'email di Silvana Bresciani (AiFOS) che aveva comunicato l'audit (12-30 giugno 2014) e richiesto la compilazione di un Verbale di audit MOD8204 (allegato alla sua email) e altra documentazione. Pietro de' Castiglioni conferma la documentazione dei corsi AiFOS in ordine e solleva dubbi sui formati richiesti.
+*   **2016-07-21:** Alessandro Ronchi pubblica nella Sezione Documentazione il certificato ISO 9001:08 AiFOS aggiornato per il Centro Formazione Mega Italia Media.
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 2201 characters and 266 words.
+Compression ratio: 0.17 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 584.
+Summary generated in 60.135435 seconds.

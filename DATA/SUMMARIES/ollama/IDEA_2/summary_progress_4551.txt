@@ -1,0 +1,30 @@
+Ecco un riassunto cronologico del progetto "AP - Miglioramento gestione acquisti":
+
+* **2013-10-28:** Pietro de' Castiglioni definisce una revisione del processo di approvvigionamento (p_acq_approvvigionamenti.xls, allegato). Rita Parisi esprime dubbi sull'emissione degli ordini tramite FOM e sull'importanza di un processo strutturato.
+
+* **2013-11-19:** Alessandro Ronchi suggerisce una revisione approfondita del workflow con PG e SIG. Matteo Meroni sottolinea la necessità di definire le specifiche per Mimnet. Alessandro Ronchi propone una suddivisione delle responsabilità per tipologia di ordine e il coinvolgimento di PG e Ronchi nella formalizzazione del workflow.
+
+* **2013-11-20:** Matteo Meroni segnala la necessità di gestire l'acquisto di materiale di magazzino e servizi editoriali, definendo i percorsi di approvazione e le specifiche per Mimnet.
+
+* **2013-11-26:** Rita Parisi esprime apprezzamento ma solleva dubbi su ordini provvisori, specifiche voci (provvigioni, royalties) e la gestione del controllo evasione e registrazione fatture in Infinity. Menziona che i bonifici sono gestiti da FOM.
+
+* **2013-12-02:** Pietro de' Castiglioni invia lo schema concordato (schema acquisti MIM.xlsx, allegato) per verifica da parte di Rita Parisi, in attesa dell'approvazione funzionale da parte di PG.
+
+* **2014-05-23:** Pietro de' Castiglioni segnala che gli ordini confermati da LM possono essere modificati senza ritornare allo stato "provvisorio". PG e MGR verificano la possibilità di riportare gli ordini modificati in stato provvisorio.
+
+* **2014-06-04:** Paolo Gaioni comunica le modifiche apportate: gli ordini confermati non sono più modificabili; aggiunta di un messaggio di avviso sulla provvisorietà e sostituzione del numero di protocollo con "PROVVISORIO" (Ordine-ACQ-PROV.pdf, allegato).
+
+* **2014-06-30:** Rita Parisi solleva la questione della gestione delle fatture differite con prezzi non contestabili. Viene discussa la necessità di modificare l'ordine, potenzialmente il listino, per evitare errori di valorizzazione. Paolo Gaioni indica la necessità di connessione VPN MIM e una discussione con LM. LM esprime difficoltà di accesso a Infinity e propone l'approvazione da parte di PDC.
+
+* **2014-08-08:** Pietro de' Castiglioni informa dell'inserimento del Questionario fornitori in MimNet e ricorda una riunione MIM per il 26 agosto.
+
+* **2017-05-27:** Alessandro Ronchi chiude il progetto, motivato dall'attivazione della "Gestione ciclo passivo".
+
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 2540 characters and 308 words.
+Compression ratio: 0.26 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 669.
+Summary generated in 76.034609 seconds.

@@ -1,0 +1,43 @@
+- 2011-11-21: Luca Sigalini analizza gli accessi a PS dalla newsletter della settimana precedente, evidenziando picchi bassi nei giorni tipici (venerdì, dovuto a minore interesse e mercoledì in assenza di eventi segnalati). Accessi considerati regolari.
+- 2011-11-28: Luca Sigalini monitora gli accessi giornalieri, notando un netto calo il martedì (-43,01% rispetto al martedì precedente) quando era segnalato ExpoTraining. Il calo complessivo settimanale è del -7,75%. Viene segnalato un problema di ricezione su Tiscali.
+- 2011-12-05: Analisi accessi settimanali. Martedì si nota il calo abituale dovuto alla pubblicizzazione di un evento, chiusura della settimana con un leggero incremento (+0,83%) rispetto alla precedente.
+- 2011-12-12: Vengono riportati i dati, ma la settimana è influenzata dalla festività dell’8 dicembre, motivo per cui non viene calcolata la percentuale di variazione.
+- 2011-12-19: Vengono segnalati picchi negativi (martedì e mercoledì), anomali anche senza presenza di eventi. Sabato niente sommario settimanale per riavvio server non giustificato; Luca chiede al provider spiegazioni.
+- 2012-01-18: Luca Sigalini nota accessi in forte crescita in concomitanza di argomenti particolarmente interessanti (+37,56%), senza problemi tecnici.
+- 2012-01-24: Segnalato un forte calo il martedì, dovuto a blocco sull’invio verso Tiscali dopo l’invio della newsletter pubblicitaria CSI.
+- 2012-01-24: Luigi Meroni propone di trovare una soluzione tecnica per evitare i blocchi sulle newsletter commerciali e chiede di valutare server alternativi.
+- 2012-01-24: Paolo Gaioni risponde che per invii attraverso altri server bisogna dotarsi di una nuova console MailUp (costi doppi). Propone una pulizia database utenti e conferma d’iscrizione per ridurre le segnalazioni di “spam” causate da utenti non realmente interessati.
+- 2012-01-24: Paolo Gaioni aggiorna sul preventivo MailUp (base 336€/anno, fino a 1000€ con più banda).
+- 2012-01-30: Luca Sigalini monitora i dati settimanali, sottolineando il valore basso di martedì ma senza segnali allarmanti.
+- 2012-02-06: Report settimana positiva dopo l’implementazione di MailUp indipendente e applicazione di una patch a DynDevice per la gestione delle iscrizioni/disiscrizioni. Non si prevedono più blocchi legati all’invio di email marketing.
+- 2012-02-13: Segnalato calo accessi martedì, spiegato dalla presenza di una pubblicità di convegno tra gli articoli, non da problemi tecnici.
+- 2012-02-20: Picco negativo giovedì nonostante fossero presenti 5 articoli veri; Paolo Gaioni verifica che MailUp ha gestito regolarmente l'invio; Federica Gozzini chiede dati sui click degli articoli, Luca fornisce una suddivisione dettagliata.
+- 2012-02-27: Altro calo (mercoledì), pur con regolare invio MailUp.
+- 2012-03-05: Settimana di aumento accessi (+8,69%), miglior valore “basso” storico.
+- 2012-03-12: Settimana disastrosa con forte diminuzione accessi, nessun problema tecnico rilevato, eventuale calo d’interesse ipotizzato.
+- 2012-03-14: Paolo Gaioni verifica: nessun problema segnalato dalla console MailUp.
+- 2012-03-19: Lieve recupero settimana successiva, con giorno negativo mercoledì (segnalazione convegno tra gli articoli).
+- 2012-04-02 / 2012-05-28: Segue un fitto monitoraggio settimanale con oscillazioni, flessioni in corrispondenza di festività, minor numero di articoli e problematiche server.
+- 2012-10-17: Federica Gozzini riporta in una riunione con LM, FG, SIG, PG problemi di disallineamento tra MailUp e DynDevice (10225 email disiscritte su MailUp ancora attive), propone invio di una NL di verifica dagli indirizzi “orfani”. SIG predispone la newsletter, PG verifica risultati e comunica a MailUp gli utenti da reinserire. LM valuta anche la possibilità di passare a sistema SMTP con DynDevice come piattaforma logica centrale.
+- 2012-11-19 in poi: Continua la rilevazione settimanale degli accessi, sistematicamente aggiornata da Luca, che monitora e confronta i dati dopo ogni intervento tecnico o aggiornamento, sottolineando se le variazioni sono dovute a festività/situazioni anomale o a trend di interesse reale.
+- 2013: Ripetuti cicli di cali e rialzi; segnalazione di problemi di ricezione, discussioni su sincronizzazione e tecniche per migliorare la consolidazione tra MailUp e DynDevice.
+- 2015-02-09: FG segnala che il passaggio a SMTP è atteso da più di 2 anni, SIG pianifica la migrazione per metà marzo. Nuovi sviluppi su charset e miglioramenti della funzione di invio email.
+- 2015-02-12: FG segnala problemi specifici con utenti libero.it e raccomanda l’inserimento di FAQ e messaggi specifici per aiutare gli utenti nella gestione delle email cassificate in offerte/spam.
+- 2015-03-13: FG conferma che le FAQ, i messaggi di avviso e la newsletter tramite SMTP sono stati implementati.
+- 2015-04: L’invio su SMTP e i nuovi messaggi sembrano normalizzare/sollevare le performance di accesso.
+- 2016-2018: La serie dei report settimanali evidenzia cicli tipici di incremento (dopo pulizia DB o aggiornamenti tecnici) seguiti da graduali cali (attribuiti a disinteresse, festività, problemi tecnici). Ogni volta che viene fatto il reset degli errori sul sistema (MailUp/SMTP), si nota un'impennata degli accessi, seguita da una lenta flessione.
+- 2016-03: Paolo Gaioni allega file excel con grafico/statistiche aggiornate (allegato: graficoRiassuntivo.xls).
+- 2017-2021: Il monitoraggio diventa un processo fisso: Luca Sigalini invia settimanalmente i dati su base Excel/Google Analytics, effettua cicli di reset errori ogni mese (o anche più frequentemente dopo verifiche), discute in vari momenti con FG, LM, PG, e DDA delle continue fluttuazioni tra cali e riprese causati in parte da blocchi, pulizia DB, festività, interventi tecnici.
+- 2020-11/12: TM (probabilmente amministratore/manager) chiede ufficialmente di integrare le statistiche con nuove elaborazioni: redemption (aperture/click rispetto a invii), correlazione tra comunicazioni e dati economici (progress vendite spot/banner/pubbliredazionali). FG spiega le complessità operative e le difformità tra dati Dyndevice e calcoli di TM. Luca dichiara che il compito di raccolta statistica non può rientrare in ambito tecnico e che va assegnato a MKTG.
+- 2021-12: La gestione e il reporting periodico dei dati passa ufficialmente da Luca Sigalini al reparto MKTG, nella persona di DDA, con l’iscrizione di GR e MEL.
+- Durante il periodo descritto, tutti i file di dettaglio allegati sono riportati come “nan” a eccezione di un file excel fornito a marzo 2016 ("graficoRiassuntivo.xls" allegato da Paolo Gaioni) e del progress di email (cfr. grafici di accesso).
+- Personaggi chiave: Luca Sigalini (monitoraggio costante, analisi accessi, interventi tecnici, rilievo problemi), Federica Gozzini (feedback, controllo errori ricezione, richieste di integrazione statistica, gestione contenuti/FAQ), Paolo Gaioni (supporto tecnico su MailUp e pulizia DB), Luigi Meroni (proposte tecniche e coordinamento), TM (richieste dati avanzate e reporting economico), DDA, GR, MEL (prendono in carico il progress statistiche da fine 2021).
+- Il flusso delle attività ruota attorno a: monitoraggio settimanale accessi, gestione tecnica piattaforma invio, pulizia DB e reset errori, analisi delle cause di cali/riprese e implementazione di strumenti per migliorare la deliverability, oltre che alla graduale integrazione delle statistiche per finalità marketing/commerciali.
+
+---
+Original length: 302708 characters and 19175 words.
+Summary length: 7489 characters and 961 words.
+Compression ratio: 0.02 (summary length / original length).
+Estimated input tokens: 75677.
+Estimated output tokens: 1906.
+Summary generated in 27.051988 seconds.

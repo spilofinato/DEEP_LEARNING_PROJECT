@@ -1,0 +1,85 @@
+*   **Dicembre 2021 (circa)**: Il form "Diventa partner" di CSI non funzionava.
+*   **26 gennaio 2022**: Il guadagno da provvigioni sulle segnalazioni per il 2022 ammontava a 1949 € + IVA.
+*   **Marzo 2022**: I corsi RLS sono stati resi vendibili sull'e-commerce, snellendo l'attività manuale di **AD** (preparazione carrelli e-commerce, gestione pratiche).
+*   **01 aprile 2022**: Il form "Diventa partner" di CSI è stato risolto.
+*   **14 aprile 2022**: Eco Green è diventato un nuovo centro partner. Le difficoltà nella compilazione del modulo di registrazione sono state risolte dopo l'apertura di un ticket da parte di **AD**.
+*   **21 aprile 2022**: È stata pianificata un'azione per proporre SDS ai centri CSI.
+*   **13 maggio 2022**: È stata programmata un'azione di recall per i Centri Partner con un incentivo promozionale (kit safety card) per la pubblicazione, seguita da una presentazione SDS. **AD** ha valutato l'inclusione di **SAL** a supporto di questa attività.
+*   **20 maggio 2022**: **FBA** e **AD** stavano lavorando sui To Do per CSI, incluso l'E-Commerce. L'organizzazione di un recall ai centri partner per l'aggiornamento del calendario corsi era importante, ma **Spizzi** non poteva svolgere questa attività.
+*   **01 luglio 2022**: **AD** era in attesa da **MGR** di un'estrazione del venduto dei corsi RLS mese per mese da gennaio 2020.
+*   **27 luglio 2022**: L'esecuzione del "todo" per CSI è stata sollecitata ed era in attesa.
+*   **01 agosto 2022**: Era in programma il contatto con IFOA per una collaborazione CSI sui corsi di APPRENDISTATO.
+*   **04 ottobre 2022**: È entrato in vigore il nuovo DM 02/09/2021. I centri partner dovevano creare nuovi master per i corsi antincendio. **AD**, **J** e **CAM** seguivano la questione.
+*   **19 ottobre 2022**: È stata inviata una NL per ricevere biglietti omaggio per la fiera Ambiente Lavoro 2022.
+*   **26 ottobre 2022**: Una seconda NL è stata inviata. Hanno risposto accettando il biglietto omaggio 6 entità, di cui uno è anche partner SDS.
+*   **16 novembre 2022**: **FBA** ha presentato le migliorie ad **AD** e **MKGT**: le migliorie minori sono state accettate, altre problematiche no. Era previsto ulteriore lavoro.
+*   **01 dicembre 2022**: Riaperto un ticket per un problema di classificazione dei corsi aula/web-conference.
+*   **16 dicembre 2022**: Era necessario trovare un accordo con i centri di formazione partner per i corsi DLSPP, affinché eroghino i moduli 3 e 4 e attestino l'intero percorso (incluso mod. 1+2), poiché MIM non poteva più rilasciare gli attestati dei moduli 1+2. Era in attesa di AIFOS.
+*   **Luglio 2023**: In seguito a un confronto con l'area IT e **MKGT**, sono state implementate migliorie ai siti MIM e CSI e al modulo "E-Commerce" di DynDevice. Il processo di acquisto era a step, ma la scheda di iscrizione e altri aspetti tecnici di TODO CSI necessitavano ancora di miglioramenti. La chat del sito MIM era operativa con **AD**, **AVA** e un collega dell'area corsi (il 60% delle richieste riguardava l'area corsi).
+*   **31 dicembre 2023**: Il guadagno da provvigioni sulle segnalazioni per il 2023 ammontava a 401,50 € + IVA.
+*   **2024 (Anno)**:
+    *   Sono stati attivati 4 nuovi partner (Nuovi Servizi Brino, Power Emergency, Vertika, IS&FM).
+    *   La piattaforma Whistleblowing ha registrato 5 attivazioni (vs 8 nel 2023). **Giulietta Poiatti** ha riportato che era in corso un confronto con il **MKTG** per definire azioni in vista del nuovo obbligo 2024. Nessun allegato.
+    *   Per il servizio Sicurflix, si sono registrati 28 nuovi abbonati e 12 disdette. Il **MKTG** stava aggiornando le slide di 40 videocorsi per svecchiare i contenuti. Nessun allegato.
+    *   Il Gruppo Azienda ha avuto un totale di 62 clienti, con 20 nuovi e 4 disdette. Azioni completate includono il passaggio dei migliori GruppiAzienda a **GAD** per opportunità di cross-selling DD e incentivi al consumo corsi. In corso: ulteriori incentivi (in attesa di LOT), ridefinizione del servizio con **MKGT**, e proposte a Gruppi Scorm1 segnalati da **cam**. Gruppo Azienda non migrerà in SDS; il **MKGT** si concentrerà sugli aspetti promozionali e commerciali. Nessun allegato.
+    *   Il budget 2024 totale del Team Vendite era di 2.482.000 € (+20%), con un fatturato all'80%. Il **GIP** ha raggiunto il 144% del suo budget (20.000 €). Nessun allegato.
+    *   **Giulietta Poiatti**, **AD** e **AVA** sono stati impegnati nello scouting autonomo (tramite LinkedIn).
+    *   **Giulietta Poiatti** ha valutato con **MKGT** l'attivazione di strumenti a pagamento per lead generation (Sales Navigator, Lead Champion).
+    *   **AVA** è stato impegnato nello scouting di eventi per consulenti SDS.
+    *   **Giulietta Poiatti** ha sviluppato campagne di cross-selling e presentazione SDS a partner CSI.
+    *   Per la gestione CRM, l'aggiornamento e l'integrazione di guide CRM e l'associazione azienda/contatto per il 2024 sono stati completati. Nessun allegato.
+*   **2024 (Primo quadrimestre)**:
+    *   **Giulietta Poiatti** ha gestito la pubblicazione di publiredazionali sulla Scuola della Sicurezza (SDS) su Punto Sicuro (22/01 e 25/02).
+    *   **Giulietta Poiatti** ha implementato l'azione "Ad Maiora" per incentivare l'acquisto di corsi (beneficiando 12 SDS) e ha lavorato sull'incentivo al consumo corsi.
+    *   **Giulietta Poiatti** ha avviato contatti mirati con clienti (email a **GAD**) basati sull'ultimo accesso.
+*   **2024-04**: **Giulietta Poiatti** ha lanciato un coupon sconto del 45% per clienti SDS in occasione della giornata mondiale SSL.
+*   **2024-04/05**: **Giulietta Poiatti** ha applicato un coupon sconto del 45% per la giornata SSL primavera (20 coupon utilizzati per 16.654,99 € + IVA).
+*   **2024-05/06**: **Giulietta Poiatti** ha attuato un'azione di incentivo al consumo corsi (Formazione Specifica Basso Rischio).
+*   **2024-06**:
+    *   **AD** ha completato il passaggio di occuparsi di trattative e vendite.
+    *   **Giulietta Poiatti** ha avviato la campagna "Presentaci un collega" (tramite NL Marketing).
+*   **2024-06-07**: Creazione del progetto "VENDITA GIP" (ID: 5233).
+*   **2024-07-01**:
+    *   **Giulietta Poiatti** ha delineato gli obiettivi di digitalizzazione per la vendita prodotti, definendo i ruoli: **AD** (trattative/vendite, completato entro fine giugno), **MFB** (aspetti tecnici/logistici/acquisti), **FOM** (fatturazione/amministrazione/codifica), **MKGT** (ottimizzazione sito), **LM** (ricerca nuovi fornitori). Nessun allegato.
+    *   **Giulietta Poiatti** ha inviato un messaggio riassuntivo sulle attività SDS, delineando obiettivi per il 2025 (es. aumento consumo corsi, riduzione disdette, incontri fisici con clienti), lo stato di nuove acquisizioni (8) e disdette (7) per il 2025, e le attività svolte e in corso per il 2024 (es. invio video e guida SDS, questionari di gradimento positivi, iniziative premianti). Nessun allegato.
+    *   **Giulietta Poiatti** ha inviato un messaggio con i dati di budget e fatturato del Team Vendite per il 2024 e il 2025, indicando che il **GIP** ha superato il budget 2024 del 144% e i progressi del fatturato 2025. Nessun allegato.
+*   **2024 (Terzo quadrimestre)**:
+    *   **Giulietta Poiatti** ha analizzato le condizioni contrattuali e raccolto testimonianze (tramite **MEL**).
+    *   **Giulietta Poiatti** ha gestito l'invio mensile di mail con listino corsi e "il corso del mese" (con **MKGT**).
+*   **2024-09 (da)**: **Giulietta Poiatti** ha comunicato la decisione di ridurre le azioni di "push" sul servizio Sicurflix; il servizio resterà acquistabile su e-commerce MIM e proponibile su richiesta. **LM** ha confermato che il servizio era in vendita. Azioni in stand-by: Proposta a ex-clienti; **AVA** avrebbe chiesto a **MKGT** di sponsorizzare; riproposta a clienti SDS (dicembre). Nessun allegato.
+*   **2024-09-02 (da)**: La gestione di gruppi Scorm1 per proporre Gruppo Azienda era in corso.
+*   **2024-09-05**: **Giulietta Poiatti** ha proposto la Banca Dati Punto Sicuro (NL Marketing).
+*   **2024-09-06**: **Giulietta Poiatti** ha aggiornato sulle iniziative di cross-selling e up-selling. Iniziative completate: Campagne **MKTG** (newsletter a SDS e CSI), passaggi di clienti Gruppo Azienda a **GAD** per cross-selling DD, e promozioni PS (newsletter massiva con sconto 20% su corsi RSPP). Iniziative in corso: Analisi di **AD** per **GAD** (cross-selling da corsi SPA a DD), contatto clienti USB/DVD per proporre Sicurflix, gestione di gruppi Scorm1 per proporre Gruppo Azienda (dal 02.09.2024), e proposta di completamento/aggiornamento corsi ai clienti. Iniziative da fare: cross-selling tra i vari servizi (SDS, SFX, MIM, MML, PS, SPA, DD), inclusa una proposta di **AVA** a **MKGT** per newsletter dedicate. Nessun allegato.
+*   **2024-09-15**: **LM** è stato incaricato di lanciare un coupon sconto del 45% per i clienti SDS.
+*   **2024-10**: **Giulietta Poiatti** ha organizzato e promosso un Webinar SDS 2.0 e ha richiesto a **MEL** un aumento del budget per campagne online SDS (richiesta negata).
+*   **2024-11**: **Giulietta Poiatti** ha invitato i clienti SDS alla fiera Ambiente Lavoro 2024 (tramite NL Marketing).
+*   **2024-11-04**: Prevista la riproposizione della campagna "Presentaci un collega".
+*   **2024-11 (metà)**: Prevista la ripresa dell'azione "AD MAIORA".
+*   **2024-12**: Sarà riproposto Sicurflix ai clienti SDS.
+*   **2025 (Pianificazioni generali)**:
+    *   **Giulietta Poiatti** prevedeva l'acquisizione di 24 nuove SDS e la gestione di obiettivi SDS specifici (es. aumentare consumo corsi, ridurre disdette, incontri fisici con clienti).
+    *   Programmati coupon sconto del 45% e un evento per tutti i clienti SDS.
+    *   **MKGT** avrebbe sviluppato casi di successo per il sito MIM.
+    *   **Giulietta Poiatti** avrebbe valutato l'aggiornamento della guida SDS 2.0 e la produzione continua di pillole video.
+    *   **LM** avrebbe gestito la mail "Rinnovo AIFOS".
+    *   **Giulietta Poiatti** ha deciso di non riproporre Sicurflix ai clienti SDS e di preferire incontri individuali.
+    *   Il budget 2025 del Team Vendite è previsto in aumento (+11.04%).
+*   **2025-01-17**: **Giulietta Poiatti** ha fornito aggiornamenti sugli obiettivi e azioni relativi ai Centri Partner. Per i partner esistenti, **Giulietta Poiatti** avrebbe testato e gestito la pubblicazione dei corsi per 5 partner, sarebbe stata effettuata una pulizia del database e il **MKTG** avrebbe inviato newsletter. Per i nuovi partner, la ricerca era in corso tra i centri AIFOS e i clienti DD/MML (**@gad** e **@sal** avrebbero fornito elenchi); erano previste azioni di contatto prospect (**MKTG** avrebbe recuperato un DB) e pubblicazioni promozionali. Nuovi partner AIFOS erano stati contattati nel 2025. Nessun allegato.
+*   **2025-02-03**:
+    *   **Giulietta Poiatti** ha fornito un aggiornamento dettagliato sugli obiettivi CSI Centri Partner (trovare nuovi centri qualificati in grandi città e seguire i partner esistenti). La verifica dei requisiti aula e videoconferenza dei partner CSI a calendario 2025 era in corso. Un nuovo partner, GRUPPO G.M.B., è stato attivato. **GIP** contattava settimanalmente nuovi possibili partner tra quelli di AIFOS. Per la prima settimana di aprile [2025] era stato pubblicato un publiredazionale su PS+, e per la seconda settimana di aprile [2025] **MKTG** avrebbe inviato una NL agli enti di formazione. Azioni di miglioramento includevano: aumentare la pubblicazione dei partner esistenti (testare con 5 partner medio-grandi, **GIP** poteva fare il lavoro per loro); fare pulizia dei partner non pubblicanti e non rispondenti; inviare NL manuali da parte di **MKGT** per informare partner e contatti su corsi sincroni. Si cercavano nuovi partner tra i centri AIFOS e i clienti DD e MML (**@gad** e **@sal** avrebbero fornito elenchi rivenditori DD). Si sarebbero contattati prospect da webinar e affiliati AIFOS e **MKGT** avrebbe recuperato un DB di enti di formazione per NL. Si prevedeva la pubblicazione di due publiredazionali PS al mese. Nessun allegato.
+    *   È stata suggerita l'idea di creare schede di valutazione/segnalazione annuali per la qualità dei centri (da **Paolo Qualità**).
+    *   Sono state implementate integrazioni Center Area DD => CSI per clienti che gestiscono solo la vendita (Farco Italia, Consulenze & Formazione Prometeo, Ecotarget) e integrazione DD cliente => CSI per clienti che usano DD per erogazione e travasano dati su CSI per vendita (Sicurnet).
+*   **2025-04 (da)**: Il **MKTG** avrebbe avviato un controllo mensile sull'utilizzo del CRM, rendendolo un KPI per il Team Vendite.
+*   **2025-04-30**: Il fatturato 2025 di **AD**+**GIP** aveva raggiunto il 28%, e **GIP** il 37%.
+*   **2025-05-23**:
+    *   **Giulietta Poiatti** ha comunicato la decisione di ridurre le azioni di "push" sul servizio Sicurflix da settembre 2024; il servizio restava acquistabile su e-commerce MIM e proponibile su richiesta. **LM** ha confermato che il servizio era in vendita. Per il 2025 l'obiettivo era di 11 nuovi abbonati, con 6 disdette. Nessun allegato.
+    *   **Giulietta Poiatti** ha aggiornato sullo stato delle attività di gestione del CRM. Completati l'aggiornamento e l'integrazione di guide CRM e l'associazione azienda/contatto per il 2024 e 2025. In corso una miglioria suggerita tramite ticket 03244. Nessun allegato.
+*   **2025-05-30**: **Giulietta Poiatti** ha riepilogato gli obiettivi (aumentare il consumo dei corsi e ridurre le disdette) e lo stato delle azioni relative al Gruppo Azienda. Nel 2025 acquisiti 7 nuovi clienti, con 1 disdetta. Per i clienti esistenti, completate analisi contrattuali (da **GAD**/**Caruso**) e invio mail di incentivo. In corso proposte a Gruppi Scorm1 (**cam**), aggiornamenti da **GAD**, e ridefinizione del servizio con **MKGT**. Da fare: passaggi a **GAD** e ulteriori incentivi. Per il New business, in corso proposte a Gruppi Scorm1 (**cam**) e recupero opportunità perse (**GAD**). **GIP** stava lavorando per identificare holding. Nessun allegato.
+
+---
+Original length: 24620 characters and 3333 words.
+Summary length: 14085 characters and 1787 words.
+Compression ratio: 0.57 (summary length / original length).
+Estimated input tokens: 6155.
+Estimated output tokens: 3556.
+Summary generated in 234.534839 seconds.

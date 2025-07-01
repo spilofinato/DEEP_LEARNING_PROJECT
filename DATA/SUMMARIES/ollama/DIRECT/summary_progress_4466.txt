@@ -1,0 +1,31 @@
+Okay, let's break down the data from these email snippets. I'm going to extract the date ranges, the key metrics (presumably "accessi a PS" or "PS access"), and the percentage change from the previous week.  I'm also extracting any notes about the statistics being tracked.
+
+**Here's a table summarizing the information, organized by the date of the email:**
+
+| Email Date | Date Range | Metric (Accessi a PS) | % Change from Previous Week | Notes |
+|---|---|---|---|---|
+| 2021-12-20 | 25-01/11/21 - 13-20/12/21 | N/A (Data from previous weeks is available below) | N/A |  Luca Sigalini passes ownership of progress to DDA; MKTG will decide future management. |
+| 2021-12-20 | 25-01/11/21 | 4277 | N/A | |
+| 2021-12-20 | 02-07/11/21 | 263 | N/A | |
+| 2021-12-20 | 08-14/11/21 | 2683 | N/A | |
+| 2021-12-20 | 15-21/11/21 | 2516 | N/A | |
+| 2021-12-20 | 22-28/11/21 | 2554 | N/A | |
+| 2021-12-20 | 29-05/12/21 | 2873 | N/A | |
+| 2021-12-20 | 06-12/12/21 | 2094 | N/A | |
+| 2021-12-20 | 13-20/12/21 | 2888 | +10.92% | |
+
+**Key Observations & Trends:**
+
+*   **Data Gathering Hand-off:** The emails document a shift in responsibility for tracking and managing these statistics.  Luca Sigalini initially handled it and then passed it on to DDA and, ultimately, the MKTG department.
+*   **Volatile Metric:** The "Accessi a PS" metric is quite variable from week to week.
+*   **Festive Influence**: A remark made about a holiday impact (-0,86%)
+
+Let me know if you would like me to analyze any other aspect of these email snippets!
+
+---
+Original length: 302708 characters and 19175 words.
+Summary length: 1581 characters and 171 words.
+Compression ratio: 0.01 (summary length / original length).
+Estimated input tokens: 75677.
+Estimated output tokens: 429.
+Summary generated in 27.828952 seconds.

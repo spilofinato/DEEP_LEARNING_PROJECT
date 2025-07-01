@@ -1,0 +1,29 @@
+Ecco un riassunto cronologico delle attività relative al progetto di internazionalizzazione di MIM, basato sui documenti forniti:
+
+* **2017:** MIM avvia un percorso di internazionalizzazione.
+* **2018-09-26:** Inizio del progetto "Vendita Internazionalizzazione" (ID progetto: 4889) per raccogliere iniziative, opportunità e strategie di internazionalizzazione.
+* **2018-10-03:** Primo scambio di email con la Saudi Arabian Center for Education and Training, per una call introduttiva.
+* **2018-10-03:** Analisi del bando di gara internazionale indetto da NALA (National Adult Literacy Agency) in Irlanda, con divisione attività con Luca Orselli. Vengono inseriti tre quesiti di chiarimento sul portale del bando. Luca Orselli invia documenti relativi al bando (allegato: QA%20NALA%20tender%20RFT%20140061.pdf e poi nan, poi nan).
+* **2018-10-04:** Lorenzo Gadaleta documenta una chiamata Skype con Oussama Anouar El-jacif (sales rep per aziende e-learning in Marocco, presentato da Benyoussef). Si attiva un accesso DEMO e si prevede un brainstorming.
+* **2018-10-09:** Lorenzo Gadaleta documenta una chiamata con Sara Degan di Smau Italia. Discussione sull'evento Smau di Milano e la possibilità di partecipare a eventi a Londra e Berlino nel 2019. Richiesta di un'offerta commerciale.
+* **2018-10-10:** Luca Orselli invia ulteriori documenti relativi alla call.
+* **2018-10-15:** Luca Orselli invia documenti per la call.
+* **2018-10-16:** Antonio D'Angiò suggerisce un approccio in tre fasi (costruzione pacchetto corsi in inglese, accordo società HR – GI Group, analisi mercato Cina – costo stimato 10-15K). Consiglia di non usare ICE, evitare branch e distributori.
+* **2018-10-20:** Scadenza per l'upload della documentazione per il bando di gara NALA. Luca Orselli invia l'offerta (allegato: 181019_Open Procedure OJEU_Offer MegaItaliaMedia_signed.pdf) segnalando impossibilità di caricare file con firma digitale.
+* **2018-10-30:** Discussione sulla partecipazione a fiere MOS e Adria Security Summit in Slovenia. Alice Morosini (Enterprise Europe Network) viene contattata per trovare partner sloveni.
+* **2023-02-10:** Ilaria Zacconi suggerisce la traduzione di un corso pilota in slovena, valutando corsi già in inglese. Si sottolinea l'importanza di studiare la normativa slovena in materia di SSL.
+* **2023-04-08:** Formazione interna ad Ilaria Zacconi svolta da LM/GAD/PDC/SIG/SR.
+* **2023-07-13:** Inizio collaborazione con Ilaria Zacconi (Uni BS) per Project Work finalizzato al Business Plan (BP) per espansione nel mercato austriaco/Est europeo. Firma accordo di riservatezza MIM.
+* **2023-10-13:** LM sonda Skilla per pillole in lingua tedesca e inglese (cybersecurity).
+* **2023-10-14:** Ilaria Zacconi sta predisponendo il BP, concentrandosi su Albania, Romania e Slovenia. SR non ha prodotto risultati dal contatto austriaco.
+* **2023-02-24:** Discussione con IB e TM, allineamento sulle strategie. Si valuta l'acquisto di una piccola azienda di formazione in Austria.
+* **2023-05-23:** Lorenzo Gadaleta presenta un nuovo Piano d'azione per l'Estero, definendo il team estero (GAD, SR, AVA). Si programma una call con ICE Slovenia per discussione su Slovenia come partner per l'Italia nell'area ex Jugoslavia e possibili collaborazioni in settori come l'intelligenza artificiale, aerospazio e cultura. Si valuta l'utilizzo di soluzioni di vendita in lingua locale, corsi SSL e prodotti customizzati.  Si prevede la condivisione del Business Plan con SIG e il coinvolgimento di Conf. BS per finanziamenti internazionali. MIM può stanziare 50K per l'estero nel 2024.
+* **2023-11-24:** Il documento viene modificato con l'aggiunta di dettagli sul piano strategico.
+
+---
+Original length: 42745 characters and 6119 words.
+Summary length: 3739 characters and 450 words.
+Compression ratio: 0.09 (summary length / original length).
+Estimated input tokens: 10686.
+Estimated output tokens: 969.
+Summary generated in 187.974747 seconds.

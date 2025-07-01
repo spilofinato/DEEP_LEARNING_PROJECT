@@ -1,0 +1,19 @@
+Ecco un riassunto cronologico del progetto di certificazione qualità AiFOS:
+
+*   **Marzo 2011:** Silvana Bresciani (AiFOS) annuncia l'estensione della certificazione ISO 9001 di AiFOS a tutti i centri convenzionati, con l'obiettivo di garantire la qualità dei corsi. Viene allegato un modulo di adesione.
+*   **Marzo 2012:** Francesco Naviglio (Segretario Generale AiFOS) comunica che, dopo tre anni, l'adesione alla certificazione sarà obbligatoria per erogare corsi a marchio AiFOS, con verifiche da parte di RINA. Viene chiesto di compilare un modulo di adesione con scadenza 13 aprile 2012. Previsti audit interni e certificazione in maggio/giugno.
+*   **Giugno 2012:** Pietro de' Castiglioni (Mega Italia Media) invia il modulo di richiesta di adesione.
+*   **Maggio 2013:** Pietro de' Castiglioni e Marco Camisani (Mega Italia Media) partecipano all'audit interno AiFOS, che valuta il sistema di qualità come efficace. Viene allegato il verbale dell'audit.
+*   **Luglio 2013:** RINA emette il certificato di Centro di Formazione AiFOS per Mega Italia Media. Viene segnalato un errore nell'indirizzo sul certificato.
+*   **Dicembre 2013:** Pietro de' Castiglioni (Mega Italia Media) segnala l’errore nell'indirizzo del certificato a Nirvana Salvi (AiFOS), informando Matteo Meroni e Marco Camisani. Viene allegato un documento con l'errore.
+*   **Maggio 2014:** Silvana Bresciani invia una comunicazione con indicazioni sull'implementazione del sistema qualità AiFOS, ricordando gli audit RINA e la compilazione del Verbale di audit MOD8204 (allegato).
+*   **Giugno 2014:** Pietro de' Castiglioni sollecita verifiche documentali, aggiornamento elenchi formatori (MOD7406, allegato) e fornitori (MOD7402, allegato), verifica materiali didattici e compilazione del MOD8301.
+*   **Luglio 2016:** Alessandro Ronchi pubblica nella sezione "Documentazione" il certificato ISO 9001:08 AIFOS aggiornato per Mega Italia Media.
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 1977 characters and 233 words.
+Compression ratio: 0.15 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 528.
+Summary generated in 62.593816 seconds.

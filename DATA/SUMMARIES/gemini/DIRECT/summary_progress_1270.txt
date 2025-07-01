@@ -1,0 +1,238 @@
+*   **2007-12-03 15:27:57**
+    *   **Pietro de' Castiglioni** delinea gli elementi fondamentali su cui si basa il riesame del sistema integrato, come i risultati delle verifiche ispettive, le informazioni dai clienti, le Non Conformità, l'efficacia della formazione del personale, le azioni decise in precedenti riesami, le decisioni con effetti sul SGQ e le raccomandazioni per il miglioramento.
+    *   Descrive inoltre i risultati attesi dei riesami, che includono decisioni e azioni relative al miglioramento dell'efficacia del SGQ e dei suoi processi, delle prestazioni aziendali e dei bisogni di risorse.
+    *   **Nessun allegato**.
+
+*   **2007-12-03 15:30:35**
+    *   **Pietro de' Castiglioni** riferisce la disponibilità dei riesami 2008 e 2009 in allegato (sebbene l'indicazione di allegato per il messaggio sia "nan"). Il messaggio include il verbale dell'incontro di riesame del Sistema di gestione della Qualità del 27.11.07.
+    *   Questo verbale definisce la Missione MIM (leader nella formazione multimediale sulla sicurezza), approva la Politica della Qualità e il sistema qualità.
+    *   Dettaglia le Strategie MIM per aggiornare i corsi, realizzarne di nuovi, implementare la formazione a distanza, e migliorare prodotti, offerte e posizionamento online.
+    *   Analizza il Mercato MIM, esteso a tutte le imprese italiane, e la Concorrenza (Vincenzi, AIAS, EPC, Coastal Training Technologies).
+    *   Presenta il Riesame basato sul Manuale della Qualità, evidenziando:
+        *   **Risultati delle verifiche ispettive**: Esito positivo generale, ma numerose Non Conformità (NC) legate all'avviamento del SGQ, in particolare nei processi commerciali, di acquisto, di gestione piani di produzione, MKT, magazzino, produzione (Punto Sicuro, VI-MM, controlli non formalizzati) e qualità (cruscotto, KPI, piano qualità). L'audit del sistema sicurezza ha avuto esito negativo, con anomalie strutturali nel magazzino.
+        *   **Informazioni da clienti e indicatori di qualità**: Indagine di soddisfazione del cliente molto soddisfacente, con necessità di maggiore integrazione con MKT e potenziamento della registrazione delle anomalie.
+        *   **Prestazioni dei processi**: Monitorate tramite cruscotto informatizzato, con necessità di allineamento agli obiettivi SGQ e introduzione di KPI. Avviata qualifica dei fornitori critici con risultati parzialmente soddisfacenti.
+        *   **Non Conformità e azioni correttive/preventive**: Riscontrata una NC interna (mancato arrivo attestati) in fase di analisi e una NC di fornitura significativa. Necessità di potenziare la registrazione delle anomalie.
+        *   **Addestramento personale e formazione**: 5 corsi di qualità e sicurezza su 7 programmati sono stati efficaci. Mansionari predisposti ma da perfezionare. Necessità di definire e verificare gli obiettivi personali tramite Meganet.
+        *   **Azioni decise in precedenti riesami**: Nessuna.
+        *   **Decisioni con effetti sul SGQ**: Il progetto SGQ, avviato ad agosto 2007, mira a realizzare un modello organizzativo efficace. Nonostante l'accelerazione per la certificazione e l'inserimento del SGQ in Meganet, i processi produttivi necessitano ancora di miglioramento nel 2008.
+        *   **Raccomandazioni per il miglioramento**: Integrare il monitoraggio degli obiettivi del personale, aggiornare i criteri di riesame, validare il piano di qualità/controllo, sviluppare ulteriormente la formazione SGQ.
+    *   **Risorse Umane**: Necessario l'inserimento di 2 nuove risorse part-time per commerciale e PuntoSicuro.
+    *   **Nessun allegato**.
+
+*   **2010-12-17 15:48:54**
+    *   **Pietro de' Castiglioni** riporta la valutazione degli indicatori di qualità dei corsi, attribuita a **Luigi Meroni (LM)**. Viene evidenziato il buon andamento complessivo della soddisfazione degli utenti per i corsi erogati da Mega Italia Media (in aula e online), con particolare soddisfazione per i corsi online. Si mira al miglioramento continuo lavorando sui corsi con risultati inferiori.
+    *   **Nessun allegato**.
+
+*   **2011-12-11 20:19:40**
+    *   **Pietro de' Castiglioni** annuncia la decisione del Gruppo Coordinamento Qualità di spostare la data del riesame annuale a marzo, in prossimità dell'approvazione della bozza di bilancio da parte del Consiglio di Amministrazione (CDA). Gli indicatori sono continuamente aggiornati sul cruscotto MimNet.
+    *   **Allega**: Riesame MIM 2012.pdf (riferito al riesame 2011).
+
+*   **2013-12-05 15:44:08**
+    *   **Pietro de' Castiglioni** allega il riesame 2012, approvato a seguito del CDA del 22.03.2013 relativo all'approvazione della bozza di bilancio d'esercizio al 31/12/2012.
+    *   **Allega**: Riesame MIM 2013.doc (riferito al riesame 2012).
+
+*   **2014-11-13 14:55:31**
+    *   **Pietro de' Castiglioni** allega il riesame 2013, approvato a seguito del CDA del 28.04.2014 relativo all'approvazione del bilancio d’esercizio al 31/12/2013.
+    *   **Allega**: Riesame MIM 2014 .doc (riferito al riesame 2013).
+
+*   **2014-11-28 18:19:45**
+    *   **Pietro de' Castiglioni** riporta la riunione del Gruppo Coordinamento Qualità sull'avanzamento 2014.
+    *   L'attività ha sofferto di un calo legato all'adempimento degli obblighi formativi dell'ASR 21.12.11, ma la presenza in importanti realtà industriali italiane è stata consolidata.
+    *   Vengono elencati fatti rilevanti come un audit PSAL Brescia, implementazioni Audit ASL e il completamento del progetto Formazione MIM in Alenia Aermacchi.
+    *   Il progetto Alenia Aermacchi ha coinvolto l'erogazione di corsi in aula ed e-learning per oltre 5.680 impiegati e 1.369 operai, con un gradimento medio elevato (78,81 su 100) per il corso di formazione generale e-learning.
+    *   **Nessun allegato**.
+
+*   **2015-11-20 13:25:52**
+    *   **Pietro de' Castiglioni** allega il riesame relativo all'anno 2014, approvato a seguito del CDA del 31.03.2015 relativo all'approvazione del bilancio d’esercizio al 31/12/2014.
+    *   **Allega**: Riesame MIM 2015.doc (riferito al riesame 2014).
+
+*   **2015-12-16 14:36:39**
+    *   **Pietro de' Castiglioni** presenta il riesame del Gruppo Coordinamento Qualità sull'avanzamento 2015, basato sul CDA del 18 novembre 2015.
+    *   **Luigi Meroni** illustra l'andamento generale della società, con un calo del valore della produzione e dei ricavi (circa -10% e -13%) e un peggioramento del risultato rispetto al 2014, dovuto alla diminuzione della richiesta di corsi sulla sicurezza post-Accordi Stato Regione 21.12.2011.
+    *   Nonostante ciò, l'azienda ha incrementato la forza vendita e ampliato la disponibilità di corsi. Mantiene ottima liquidità, con saldo cash pooling negativo ma vincoli finanziari attivati.
+    *   Prosegue l'attività di consulenza legale con l'**avv. Caruso Giampietro** per la revisione contrattuale e il recupero crediti (circa 139.602 euro di crediti scaduti).
+    *   Per il 2016, **Luigi Meroni** pianifica l'attivazione di Management By Objectives (MBO), l'implementazione del Customer Relationship Management (CRM), il miglioramento del flusso dati per il controllo di gestione e l'implementazione di sistemi di archiviazione sostitutiva.
+    *   **Allega**: 3VerbaleCDA18-11-2015-bilancio30-09-2015.doc.
+
+*   **2016-05-25 10:34:03**
+    *   **Alessandro Ronchi** allega il riesame relativo all'anno 2015.
+    *   **Allega**: Riesame MIM 2016.pdf (riferito al riesame 2015).
+
+*   **2016-11-30 10:34:36**
+    *   **Alessandro Ronchi** presenta l'avanzamento 2016, basato sul CDA del 09/11/2016.
+    *   **Luigi Meroni** evidenzia un miglioramento rispetto al 2015, con un aumento del 5% del valore della produzione e dei ricavi. I costi per materie prime sono diminuiti del 18%, mentre quelli per servizi sono aumentati dell'8%. I costi del personale sono diminuiti del 4%.
+    *   Vengono menzionati i nuovi Accordi Stato Regioni (07/07/2016) sulla formazione sicurezza, che porteranno a modifiche nel catalogo corsi e-learning, con un impatto positivo stimato per il 2017.
+    *   La società mantiene ottima liquidità e prosegue l'attività di recupero crediti con l'**avv. Caruso Giampietro** (circa 153.717 euro di crediti scaduti). Sono in corso per il 2016 le attività di MBO, implementazione CRM e miglioramento del flusso dati.
+    *   La società ha completato la modifica dell'assetto organizzativo con l'introduzione di MBO e Line of Business (LOB) e l'emissione dell'organigramma aggiornato al 31/10/2016.
+    *   Il Sistema Qualità è stato completamente aggiornato in conformità alla norma ISO 9001:2015, introducendo la gestione del rischio di impresa. L'Organismo di Vigilanza (OdV) ha verificato i documenti e proposto integrazione con la valutazione del rischio reato del Modello Organizzativo 231.
+    *   Il processo del ciclo attivo è in revisione per la riorganizzazione in LOB e l'utilizzo del gestionale CRM, con la pubblicazione delle istruzioni operative. Sono in corso di predisposizione strumenti per la consuntivazione dei lavori in corso.
+    *   **Nessun allegato**.
+
+*   **2016-12-02 07:48:08**
+    *   **Alessandro Ronchi** allega il risultato della valutazione dei rischi secondo ISO 9001:15 (VALUTAZIONE DEL RISCHIO - FMEA).
+    *   **Allega**: FMEA Rischi.xlsx.
+
+*   **2018-09-18 12:43:04**
+    *   **Alessandro Ronchi** allega il riesame per l'anno 2017.
+    *   **Allega**: Riesame MIM 2018.doc (riferito al riesame 2017).
+
+*   **2018-12-10 10:58:19**
+    *   **Alessandro Ronchi** allega l'analisi FMEA Rischi Opportunità elaborata durante il riesame.
+    *   **Allega**: FMEA Rischi.xlsx.
+
+*   **2019-01-10 10:08:57**
+    *   **Alessandro Ronchi** menziona l'analisi rischi e opportunità SWOT SGSI.
+    *   **Allega**: analisi_SWOT SGSI.xlsx.
+
+*   **2019-01-10 10:12:59**
+    *   **Alessandro Ronchi** propone indicatori di performance SGSI.
+    *   **Allega**: Indicatori sgsi.xlsx.
+
+*   **2019-01-21 18:52:52**
+    *   **Alessandro Ronchi** ha aggiornato il documento Indicatori_SGSI_2018 con target e responsabilità, e sarà approvato nel riesame SGSI previsto per il 25/01/19.
+    *   **Allega**: Indicatori_SGSI_2018.xlsx.
+
+*   **2019-01-31 16:59:42**
+    *   **Alessandro Ronchi** allega Obiettivi e Indicatori SGSI aggiornati secondo le indicazioni emerse in audit interno SGSI.
+    *   **Allega**: Indicatori_SGSI_2018.xlsx.
+
+*   **2019-02-01 05:15:37**
+    *   **Alessandro Ronchi** allega il documento s_po25_01 Analisi Contesto del 21/01/2019.
+    *   **Allega**: s_po25_01 Analisi Contesto.doc.
+
+*   **2019-02-01 05:16:22**
+    *   **Alessandro Ronchi** allega il documento s_po25_02 Fattori rilevanti per il SGI del 21/01/2019.
+    *   **Allega**: s_po25_02 Fattori rilevanti.xlsx.
+
+*   **2019-02-01 05:16:58**
+    *   **Alessandro Ronchi** allega il documento s_po25_03 Requisiti delle parti interessate del 21/01/2019.
+    *   **Allega**: s_po25_03 Requisiti parti interessate.xlsx.
+
+*   **2019-02-01 05:17:39**
+    *   **Alessandro Ronchi** allega il documento s_po25_04 Analisi SWOT SGSI del 21/01/2019.
+    *   **Allega**: s_po25_04 analisi_SWOT SGSI.xlsx.
+
+*   **2019-02-01 05:18:49**
+    *   **Alessandro Ronchi** allega il documento s_po25_05 Analisi Rischi ed Opportunità del 21/01/2019.
+    *   **Allega**: s_po25_05 Analisi Rischi ed Opportunita.xlsx.
+
+*   **2019-02-04 11:24:21**
+    *   **Alessandro Ronchi** allega il documento s_po25_06 Controlli e contromisure del sistema di gestione della sicurezza delle informazioni (SOA) del 21/01/2019.
+    *   **Allega**: s_po25_06 Controllo contromisure SGI SOA.xlsx.
+
+*   **2019-12-02 14:33:32**
+    *   **Alessandro Ronchi** allega il Riesame 2019.
+    *   **Allega**: Riesame MIM 2019_1.doc.
+
+*   **2020-12-04 00:03:43**
+    *   **Alessandro Ronchi** allega il Riesame 2020.
+    *   **Allega**: Riesame MIM 2020.pdf.
+
+*   **2020-12-04 02:06:00**
+    *   **Alessandro Ronchi** allega l'Analisi del contesto aggiornata in data 20/05/2020.
+    *   **Allega**: s_po25_01 Analisi Contesto.pdf.
+
+*   **2020-12-04 02:07:10**
+    *   **Alessandro Ronchi** allega il documento s_po25_02 Fattori rilevanti aggiornata al 01/10/2020.
+    *   **Allega**: s_po25_02 Fattori rilevanti.xlsx.
+
+*   **2020-12-04 02:07:58**
+    *   **Alessandro Ronchi** allega il documento s_po25_03 Requisiti parti interessate aggiornata al 01/10/2020.
+    *   **Allega**: s_po25_03 Requisiti parti interessate.xlsx.
+
+*   **2020-12-04 02:09:54**
+    *   **Alessandro Ronchi** allega il documento s_po25_04 analisi_SWOT SGI aggiornata al 01/10/2020.
+    *   **Allega**: s_po25_04 analisi_SWOT SGI.xlsx.
+
+*   **2020-12-04 02:11:52**
+    *   **Alessandro Ronchi** allega il documento s_po25_05 Analisi Rischi ed Opportunità aggiornata al 20/10/2020.
+    *   **Allega**: s_po25_05 Analisi Rischi ed Opportunita.xlsx.
+
+*   **2020-12-04 02:13:33**
+    *   **Alessandro Ronchi** allega il documento s_po25_06 Controllo contromisure SGI SOA rev. 03 aggiornata al 01/10/2020.
+    *   **Allega**: s_po25_06 Controllo contromisure SGI SOA.xlsx.
+
+*   **2021-05-18 10:22:10**
+    *   **Alessandro Ronchi** allega il rapporto finale del progetto AIB Brescia Regeneration, che analizza il futuro dell'industria bresciana con focus su formazione, sostenibilità e sicurezza.
+    *   **Allega**: brescia regeneration.pdf.
+
+*   **2021-11-03 15:23:58**
+    *   **Alessandro Ronchi** allega il Riesame 2021.
+    *   **Allega**: Riesame MIM 2021.pdf.
+
+*   **2021-11-03 15:25:54**
+    *   **Alessandro Ronchi** allega l'Analisi del contesto aggiornata in data 21/05/2021.
+    *   **Allega**: s_po25_01 Analisi Contesto - 2021.pdf.
+
+*   **2021-11-03 15:27:12**
+    *   **Alessandro Ronchi** allega il documento s_po25_02 Fattori rilevanti aggiornata al 21/05/2021.
+    *   **Allega**: s_po25_02 Fattori rilevanti - 2021.pdf.
+
+*   **2021-11-03 15:28:33**
+    *   **Alessandro Ronchi** allega il documento s_po25_03 Requisiti parti interessate aggiornata al 21/05/2021.
+    *   **Allega**: s_po25_03 Requisiti parti interessate - 2021.pdf.
+
+*   **2021-11-03 15:30:09**
+    *   **Alessandro Ronchi** allega il documento s_po25_04 analisi_SWOT SGI aggiornata al 21/05/2021.
+    *   **Allega**: s_po25_04 analisi_SWOT SGI - 2021.pdf.
+
+*   **2022-07-07 10:32:41**
+    *   **Alessandro Ronchi** allega il riesame 2022 del 16/04/2022.
+    *   **Allega**: Riesame MIM 2022.pdf.
+
+*   **2022-07-07 10:32:51**
+    *   **Alessandro Ronchi** allega l'Analisi del contesto aggiornata in data 04/04/2022.
+    *   **Allega**: s_po25_01 Analisi Contesto - 2022.pdf.
+
+*   **2022-07-07 10:35:03**
+    *   **Alessandro Ronchi** allega il documento s_po25_02 Fattori rilevanti aggiornata al 16/04/2022.
+    *   **Allega**: s_po25_02 Fattori rilevanti - 2022.pdf.
+
+*   **2022-07-07 10:35:28**
+    *   **Alessandro Ronchi** allega il documento s_po25_03 Requisiti parti interessate aggiornata al 16/04/2022.
+    *   **Allega**: s_po25_03 Requisiti parti interessate - 2022.pdf.
+
+*   **2022-07-07 10:36:30**
+    *   **Alessandro Ronchi** allega il documento s_po25_04 analisi_SWOT SGI aggiornata al 16/04/2022.
+    *   **Allega**: s_po25_04 analisi_SWOT SGI - 2022.pdf.
+
+*   **2022-07-07 10:37:43**
+    *   **Alessandro Ronchi** allega il documento s_po25_05 Analisi Rischi ed Opportunità aggiornato in data 16/04/2022.
+    *   **Allega**: s_po25_05 Analisi Rischi ed Opportunita - 2022.pdf.
+
+*   **2022-07-07 10:38:31**
+    *   **Alessandro Ronchi** allega il documento s_po25_05 Analisi Rischi ed Opportunità completa aggiornata in data 16/04/2022.
+    *   **Allega**: s_po25_05 Analisi Rischi ed Opportunita - 2022-estesa.pdf.
+
+*   **2022-07-07 10:39:32**
+    *   **Alessandro Ronchi** allega il documento s_po25_06 Controllo contromisure SGI SOA aggiornata in data 16/04/2022.
+    *   **Allega**: s_po25_06 Controllo contromisure SGI SOA.pdf.
+
+*   **2023-05-18 10:24:00**
+    *   **Paolo Disetti** allega il riesame 2023 del 21/04/2023.
+    *   **Allega**: Riesame MIM 2023.pdf.
+
+*   **2023-05-18 10:29:51**
+    *   **Paolo Disetti** allega i documenti s_po25_01 Analisi Contesto del 14/04/2023, s_po25_02 Fattori rilevanti del 16/04/2023 e s_po25_03 Requisiti parti interessate del 16/04/2023.
+    *   **Allega**: Contesto-fattori-parti interessate.pdf.
+
+*   **2023-05-18 10:31:39**
+    *   **Paolo Disetti** allega i documenti s_po25_05 Analisi Rischi ed Opportunità del 14/04/2023 e s_po25_04 analisi_SWOT SGI del 14/04/2023.
+    *   **Allega**: rischi_opportunita-swot.pdf.
+
+*   **2024-07-08 11:45:33**
+    *   **Paolo Disetti** elenca le pubblicazioni del Riesame e relativi allegati per l'anno 2024 (Riesame MIM 2024, s_po25_01 Analisi Contesto - 2024, s_po25_03 Requisiti parti interessate - 2024, s_po25_04 analisi_SWOT SGI - 2024, s_po25_05 Analisi Rischi ed Opportunità - 2024).
+    *   **Nessun allegato**.
+
+*   **2025-04-30 19:21:23**
+    *   **Alessandro Ronchi** allega il verbale del riesame del Sistema di gestione integrato per l'anno 2024, approvato nella riunione del 24/04/2025.
+    *   **Allega**: Riesame MIM 2025.pdf (riferito al riesame 2024).
+
+---
+Original length: 30349 characters and 4090 words.
+Summary length: 16987 characters and 1580 words.
+Compression ratio: 0.56 (summary length / original length).
+Estimated input tokens: 7587.
+Estimated output tokens: 4281.
+Summary generated in 63.219949 seconds.

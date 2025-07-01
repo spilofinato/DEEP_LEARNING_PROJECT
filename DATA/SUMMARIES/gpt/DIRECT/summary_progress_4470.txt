@@ -1,0 +1,114 @@
+- **2006-11-02**
+  - Progetto creato "Accreditamento - Regione Lombardia - Gestione" (ID: 4470).
+
+- **2007-2009: Avvio dell’iter di accreditamento**
+  - Pietro de' Castiglioni (PDC) coordina l’analisi dei requisiti per accreditare MIM come centro di formazione presso Regione Lombardia.
+  - Coinvolgimento di LM, TM, CP, Ronchi, Beccalossi, Maggi e altri per:
+    - Inizio programmazione attività.
+    - Adeguamento spazi (bagni disabili, aule, aree e contratti affitto).
+    - Raccolta documentazione: agibilità, igienico-sanitaria, prevenzione incendi, perizie d’accessibilità, planimetrie.
+    - Presentazioni pratiche edilizie e DIA, modifiche contrattuali.
+    - Sopralluogo tecnico ASL (agosto 2009), richieste di ulteriori interventi (utenze separate, conformità impianti).
+
+- **2009**
+  - Completati tutti i lavori e ottenuto il parere igienico-sanitario favorevole da ASL Roncadelle (25/11).
+  - Inoltrata domanda elettronica di accreditamento alla Regione Lombardia (22/12). Numero iscrizione albo: 589. Id operatore: 406562. MIM risulta “accreditato”.
+
+- **2010-2011: Ampliamento e nuova sede**
+  - Attività di aggiornamento modello 231 e processi di compliance.
+  - Avvio pratiche per accreditamento nuova sede a Castel Mella, risoluzione di problematiche informatiche con la regione. Attivazione assicurazioni utenti corsi (INAIL, Zurich).
+
+- **2012-2015: Mantenimento requisiti e compliance**
+  - Dichiarazioni annuali di mantenimento requisiti caricate nel portale regionale, sempre firmate digitalmente dal rappresentante legale Tullio Meroni (TM).
+  - Aggiornamenti docenti, completamento dossier economici e inserimento bilanci, aggiornamento collaborazioni CFP Zanardelli.
+  - Questionari compliance 231, caricamento Piano di Attività ODV, relazione finale, dati economici/personal e caricamento verbali ODV (PDC, RP, AR).
+
+- **2013-2015: Aggiornamento normativo e accreditamento**
+  - Inserimento documenti obbligatori, gestione comunicazioni e implementazione regolamenti regionali.
+  - Adeguamento piattaforme gestionali (Cruscotto Lavoro, Gefo, Portale 231).
+  - Introduzione della formazione e-learning (Circolare 17/2013).
+  - Esecuzione ispezioni e aggiornamenti sedi e personale.
+
+- **2016-2018: Procedure e nuove funzioni**
+  - PDC, con supporto di RP e CAM, continua attività di mantenimento e aggiornamento dei dati su ruoli, docenti, compliance e documentazione.
+  - Inserimento e aggiornamento documenti obbligatori nel portale; aggiornamento CV e contratti.
+  - Audit interni, tenuta e caricamento allegati (elenco docenti, moduli mantenimento, verbali ispezioni ATS).
+
+- **2019: Modifiche societarie e GDPR**
+  - MIM comunica a Regione Lombardia la trasformazione in S.p.A., integrando documenti (decreto modifica, verbali CDA/ODV).
+  - Adeguamento obblighi Privacy-GDPR, caricamento atti nomina Responsabile Trattamento dati personali (TM nomina Seeweb Srl sub-responsabile).
+  - Problematiche e risposte su trasparenza e pubblicità (riscontro ANAC, discussione interna).
+
+- **2020: Digitalizzazione portali e aggiornamento compliance**
+  - Introduzione e migrazione su Cruscotto Lavoro 2.0, registrazione utenti via SPID/CNS.
+  - Aggiornamenti dichiarazioni, Modello 231, valutazione rischi; gestione delle deleghe di accesso (PDC, CM); verifica inserimenti, compliance ai nuovi criteri regionali.
+
+- **2021: ATS, SIUO e aggiornamenti procedurali**
+  - Allegato verbale ATS ispezione conformità locali.
+  - Annuncio e avvio della nuova piattaforma unica SIUO per la gestione dell’accreditamento.
+  - Trasferimento integrale della gestione da GeFo/Cruscotto a SIUO: validazione e profilazione utenti (PDC, CM, BRI).
+  - Aggiornamento dati societari, bilanci (con RP), dichiarazioni mantenimento (firmate digitalmente TM), inserimento relazioni finali ODV.
+
+- **2022: Nuova normativa, ruoli e piattaforma SIUO**
+  - Aggiornamenti sui nuovi requisiti normativi regionali (DGR n. 6696/2022, decreti 15225/2022, 14056/2022, 15516/2022).
+  - Obbligo di revisione profili, orari, ruoli/funzioni secondo la nuova normativa e gestione delle difficoltà di profilazione e accesso.
+  - Coinvolgimento diretto di CM e BRI.
+  - Aggiornamenti/eliminazioni di docenti non conformi, inserimento contratti e CV aggiornati.
+  - Sollecito Regione per allineamento portale a nuovi requisiti (es. orari di apertura sede).
+
+- **2023: Mantenimento requisiti e nuove procedure di trasparenza**
+  - Inserti tematici sulla trasparenza ANAC (discussioni PDC, AR, Avv. Caruso), avvio progetto compliance.
+  - Nuova funzione "coordinamento disabilità" valutata ma non attivata (solo da attivare su richiesta, come da normativa).
+  - Proroghe regionali su scadenze per cause tecniche; focus sulle autodichiarazioni onorabilità (AR con RP).
+  - Gestione e caricamento dichiarazioni annuali mantenimento firmate TM.
+
+- **2024: Mantenimento requisiti e adempimenti annuali**
+  - PDC, con supporto di DIS, CM, AR, coordina raccolta e caricamento di tutti i documenti/attestazioni per il mantenimento 2024 (dati bilancio, attestazione revisore, affidabilità bancaria, documenti 231, relazione ODV).
+  - Introduzione nuovi requisiti per la funzione della vigilanza e ricognizione delle figure minime obbligatorie.
+  - Scadenza dichiarazione mantenimento: 31 gennaio (differita una sola volta, ma MIM ottempera in anticipo).
+
+- **Fine 2024 - Inizio 2025: attività propedeutiche al mantenimento**
+  - Pubblicazione da RL dei requisiti per mantenimento anno 2025, apertura portale SIUO dal 1/1/2025.
+  - AR organizza audit ISO 9001/ISO 27001 interne (13/01/2025, veriﬁca CV, contratti, requisiti minimi risorse funzioni obbligatorie in SIUO).
+  - LM/AR firmano dichiarazione di ricognizione risorse; compilazione format Relazione ODV confermando la ricognizione e assenza anomalie.
+  - Aggiornamento dell’organigramma e caricamento degli allegati previsti per tutti i ruoli/funzioni obbligatorie.
+  - In caso di variazioni ancora “in istruttoria” al 31 gennaio, differimento termine dichiarazione automatica.
+
+- **2025: Norme future e aggiornamenti**
+  - Delibera regionale 4499/2025: avvio iter per piattaforma unica corsi SSL, nuovo albo erogatori; tutti i soggetti dovranno registrarsi e comunicare dati corsi/discenti entro 30/06/2026.
+  - Delibera regionale 4515/2025: recepimento Accordo Stato-Regioni sui corsi di formazione SSL, nuove procedure per comunicazione corsi, attestati, adempimenti enti accreditati e ATS; periodo transitorio 12 mesi.
+
+**Persone maggiormente coinvolte, azioni e responsabilità:**
+- Pietro de' Castiglioni (PDC): referente, coordinamento dell’intero processo operativo, documentale e gestionale; caricamento e aggiornamento dati/docenti, gestione compliance, interlocuzione con Regione Lombardia.
+- Luigi Meroni (LM): sostegno decisionale, validazione dati/utenze, coordinamento con AR.
+- Tullio Meroni (TM): legale rappresentante, firma digitale dichiarazioni mantenimento e documenti ufficiali.
+- Alessandro Ronchi (AR): presidente ODV, supporto compliance 231, mappatura e validazione ruoli, audit ISO/accreditamento.
+- Rita Parisi (RP): supporto tecnico contabile (raccolta/stesura dati di bilancio, verifiche amministrative).
+- Roberto Brignani (BRI): delegato SIUO, supporto documentale e sistemistico.
+- CAM, CM, DIS: supporto operativo nella gestione delle risorse umane; raccolta CV, contratti, monitoraggio funzioni.
+- Avv. Caruso: consulenza legale sulla trasparenza.
+
+**Presenza Allegati Importanti:**
+- Caricamento periodico di documentazione obbligatoria (Moduli mantenimento requisiti, CV, contratti, bilanci, certificazioni di qualità, relazioni ODV, lettere incarico, check-list, questionari compliance, dichiarazioni firmate digitalmente, format regionali, circolari e linee guida).
+- Documenti privacy e GDPR (atti nomina responsabile trattamento dati, procedure whistleblowing, atti del revisore).
+- Procedura dettagliata e revisione allegati sia per adempimenti annuali, sia in risposta a nuove normative o modifiche societarie.
+
+**Sintesi Allegati segnalati:**
+- ModuloMantenimentoRequisiti.pdf
+- Relazioni e verbali ODV (S_P22_03, S_P23_01)
+- Documentazione economica e patrimoniale (bilanci, attestazioni revisore, affidabilità bancaria, ecc.)
+- Manuali e guide operative regione, checklist, allegati normativi e circolari regionali.
+- Audit_personale_RL.doc / .pdf, dichiarazioni audit interni.
+- Schede mantenimento requisiti (2024-2025).
+- Documentazione GDPR e privacy gestionale (AttoNominaResponsabile.pdf, procedure dedicate).
+
+**Nota generale:**
+Il flusso delle attività mostra una puntuale e rigorosa gestione degli adempimenti di accreditamento, con costante monitoraggio degli aggiornamenti normativi, efficace coordinamento delle persone e presenza di tutti gli allegati indispensabili ai fini della conformità e della trasparenza.
+
+---
+Original length: 168720 characters and 20597 words.
+Summary length: 8855 characters and 950 words.
+Compression ratio: 0.05 (summary length / original length).
+Estimated input tokens: 42180.
+Estimated output tokens: 2248.
+Summary generated in 39.147698 seconds.

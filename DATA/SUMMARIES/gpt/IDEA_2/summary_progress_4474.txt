@@ -1,0 +1,34 @@
+- 2012-02-09 10:45:29: Pietro de' Castiglioni redige un elenco dettagliato dei fornitori tecnici da contattare per esigenze legate alla sede.
+    - Indica riferimenti di contatto e professionali per ciascun fornitore.
+    - Proprietà edificio: Mondial srl, referente Giancarlo Belleri.
+    - Architetto coinvolto: Arch. Baldoni (lavori su incarico di Belleri).
+    - Segnalati fornitori per pittura, ascensori (Elma), impianti di rete (T&T Telecomunicazioni, Simone Negro), connettività (Colt, Telecom, Impresa Valtellina, Valpondi Massimiliano, Lupi).
+    - Opere murarie: Botti Sandro e Botti Pietro.
+    - Trattamento aria: Ing. Treccani.
+    - Elettricista installatore: Soldi. Modifiche: Tiziano Maggi e Diego Maggi.
+    - Gruppo elettrogeno: Lorini Group.
+    - Tende: Franciacorta tende, Maurizio Zanotti.
+    - Pareti divisorie/controsoffitti: Alberto Scaglia.
+    - Rapporti con ASL: Sig.a Bani e dott. Rossi per Roncadelle.
+    - Pulizie: Monica Deiuri (Tekno Clean), Impresa di Pulizie Barbieri.
+    - Sicurezza: Axitea (Luca Bernardini, Andrea Nava, Simone Scalvini, Bertani, Carlotti Roberto, Viola Omar), dettagli operative e numeri allarme.
+    - Serramenti e vetri: Polito (Sig. Giulio Polito), Bresciana serramenti (Massimiliano, Gianluca, Franzoni Dario).
+    - Timbri e targhe: Forloni Stefano, Claudio Gobbini.
+    - Lavori edili: BC Impresa, Davide Campi, Ghitti (impermeabilizzazioni).
+    - Condizionamento: Sanyo (Sig. Biemmi).
+    - Scaffalature: Teknosistem, Nicola Pozzi.
+    - Gruppo Argenta: Giorgio Grumelli (macchine caffè).
+    - Carmeccanica: Federica.
+    - Progettista elettrico: Domenegoni Nicola.
+    - Centroufficio Loreto: Federica.
+    - Supermercato LD: Andrea Mengalli.
+- Modificato dall’autore il 14/03/2016 alle 19:11:22.
+- Presenza di riferimento a un allegato (“nan”), ma nessun allegato effettivamente incluso.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1910 characters and 206 words.
+Compression ratio: 0.41 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 511.
+Summary generated in 8.52747 seconds.

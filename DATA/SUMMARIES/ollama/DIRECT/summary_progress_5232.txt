@@ -1,0 +1,21 @@
+*   **05.06.2024 (Paolo Disetti):** Paolo Disetti propone l'installazione di un SIEM per centralizzare i log. LOT estrarrà i log di macchine Windows e V-utility. Viene caricato un file Excel con le attività SIG da ridistribuire, priorità, responsabili e date. Viene creato un tab "mail adm" per tracciare gli account personali. LOT si incarica di trovare un software per password multiutente.
+    *   Allegato: 2024-06-04 Attività SIG 2024 con note.xlsx
+*   **07.06.2024 (Paolo Disetti):** Si decide di testare Bitwarden come portachiavi password condiviso. Vengono creati account temporanei per i test (MMA, SIG, LOT, DIS, IT_ADMIN). Viene creato l'account it_admin@megaitaliamedia.it per centralizzare i servizi.
+    *   Allegato: 2024-06-04 Attività SIG 2024 con note(1).xlsx
+*   **11.06.2024 (Matteo Marcoli & Luca Sigalini):** Matteo Marcoli allinea le attività MMA e SIG. Luca Sigalini forma LOT sulle attività settimanali e mensili.
+    *   Allegato (Luca Sigalini): nan
+    *   Allegato (Matteo Marcoli): 2024-06-11 Attività SIG 2024 con note.xlsx
+*   **14.06.2024 (Matteo Marcoli & Paolo Disetti):** Matteo Marcoli carica un file di stato aggiornato. Paolo Disetti effettua una call con MMA, LOT e SIG. Viene aggiornato il file Excel con le attività SIG, le formazioni sono state riprogrammate. LOT attiva l'account it_admin@megaitaliamedia.it. Viene aperto un account Bitwarden per l'acquisto delle licenze. LOT installa Bitwarden. Vengono acquistate licenze per test (IT_ADMIN, MMA, SIG, LOT, DIS). SIG, MMA e LOT popolano il DB legato a IT_ADMIN.
+    *   Allegato: 2024-06-14 Attività SIG 2024 con note.xlsx
+*   **19.06.2024 (Paolo Disetti):** Vengono mappati gli accessi ai servizi BITWARDEN. Si discute dell'uso di MFA sui numeri interni e dell'uso di ChatGPT. PG si occuperà della formazione sul corretto utilizzo di ChatGPT.
+    *   Allegato: 2024-06-14 Attività SIG 2024 con note.xlsx
+*   **25.06.2024 (Paolo Disetti):** LOT estrae le proprie password da inserire su Bitwarden. Si attende SIG e MMA per il merge delle password. Si discuterà del caricamento su Bitwarden di LM.
+*   **03.07.2024 (Paolo Disetti):** Si creano righe segnaposto per tutte le macchine in Bitwarden. LM inserirà le password di root Apache 0X SSH root.
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 2297 characters and 282 words.
+Compression ratio: 0.35 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 608.
+Summary generated in 27.726577 seconds.

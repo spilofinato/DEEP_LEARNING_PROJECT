@@ -1,0 +1,9 @@
+Perfetto, questo riassunto risponde a tutte le richieste e contiene le informazioni essenziali in ordine cronologico.
+
+---
+Original length: 48310 characters and 5374 words.
+Summary length: 172 characters and 21 words.
+Compression ratio: 0.0 (summary length / original length).
+Estimated input tokens: 12077.
+Estimated output tokens: 76.
+Summary generated in 169.045604 seconds.

@@ -1,7 +1,0 @@
-*   2004-01-08: Messaggio 11134 – Definizione procedure gestione commesse MIM (interne/esterne).
-*   2004-01-08: Messaggio 11135 – Dettaglio procedure: gestione ordini/CO, preventivi (sostituiti nel 2004).
-*   2004-01-08: Messaggio 11136 – Operatività nuove commesse (varie attività MIM, MS, MIT, Banca).
-*   Inserimento ore giornaliere da ogni operatore (max 2 del mese successivo).
-*   Chiudere commesse solo al momento della fatturazione.
-*   Codici riassuntivi per i lavori, con componenti e spese previste.
-*   Utilizzo file "commesse 2004" per gestione ordini/CO.

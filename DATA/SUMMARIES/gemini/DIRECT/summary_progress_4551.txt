@@ -1,0 +1,56 @@
+*   **2013-10-28:**
+    *   **Pietro de' Castiglioni (PDC)** propone di ridefinire il modello di processo `p_acq_approvvigionamenti.xls` (allegato), includendo autorizzazione richieste d'ordine (RDA), approvazione da parte del responsabile del richiedente ed emissione ordine.
+    *   Viene fissato un incontro con **RP (Rita Parisi)** per il 21 novembre.
+    *   Precedentemente, **Rita Parisi (RP)** (24/10/2013) aveva segnalato problemi con ordini emessi da **FOM** a posteriori sulla base di fatture, evidenziando una mancanza di controllo e utilità del ciclo passivo, suggerendo modifiche alla procedura.
+    *   Successivamente, **Rita Parisi (RP)** (12/11/2013) ha evidenziato la mancanza di RDA, approvazione, consuntivazione/chiusura/SAL dell'ordine.
+
+*   **2013-12-02 (Messaggio 1):**
+    *   **Pietro de' Castiglioni (PDC)** riepiloga varie comunicazioni interne.
+    *   **Matteo Meroni (MM)** (20/11/2013) suggerisce di includere la gestione di materiale di magazzino e servizi editoriali con ordini provvisori in Infinity, verifica di **RP** e approvazione di **LM**.
+    *   Per gli acquisti di servizi, le RDA in Mimnet potranno essere inserite anche da **PDC**, **SIG**, **CAM**, **LM** (oltre a **PG**).
+    *   **Alessandro Ronchi (AR)** (19/11/2013) conferma che la verifica di **RP** non blocca l'emissione dell'ordine e che le specifiche per la RDA in Mimnet saranno approfondite con **PG** e **SIG**.
+    *   **Matteo Meroni (MM)** (19/11/2013) concorda, purché la verifica di **RP** non sia obbligatoria per tutti gli ordini, e sottolinea la necessità di definire le specifiche per lo sviluppo di Mimnet da parte di **SIG** (il cui programma lavori è saturo fino a Gennaio 2014). Propone formazione su Infinity per l'approvazione degli ordini per **LM** e **PDC**, e che **RP** pianifichi la delega a **FOM** per gli acquisti di materiale a listino MIM.
+    *   **Alessandro Ronchi (AR)** (19/11/2013) propone di definire le responsabilità (chi inserisce e chi approva) per ogni tipologia di ordine con **LM**, **RP** e **PDC**, e che **PG** e **Ronchi** formalizzino il workflow del processo.
+
+*   **2013-12-02 (Messaggio 2):**
+    *   **Pietro de' Castiglioni (PDC)** inoltra lo schema acquisti MIM (allegato) concordato da **LM** e **PDC** per la verifica di **Rita Parisi (RP)**.
+    *   **Rita Parisi (RP)** (26/11/2013) analizza lo schema del ciclo passivo, evidenziando: la necessità della verifica degli ordini provvisori per tutti gli ordini; la mancanza di indicazioni per provvigioni, royalties e prestazioni amministrative; l'incertezza sulla fase di "Controllo evasione" e la sua interazione con Infinity; la necessità che la registrazione della fattura di acquisto in Infinity (a cura di **RP**) preceda il pagamento; e chiarimenti sul campo "Definizione RDA 'infinity lista riordino'" per i materiali di consumo. I bonifici a fornitore sono generati da **FOM** e approvati/inviati da **LM**.
+    *   **Allegato:** `schema acquisti MIM.xlsx`
+
+*   **2014-05-23 (Messaggio 1):**
+    *   **Pietro de' Castiglioni (PDC)** segnala un'osservazione di **FOM** (09/05/2014): un ordine confermato da **LM** può essere modificato (quantità, importo) senza tornare allo stato "provvisorio", rendendo nulla la procedura.
+
+*   **2014-05-23 (Messaggio 2):**
+    *   **Pietro de' Castiglioni (PDC)**, in risposta al messaggio precedente, comunica che **PG (Paolo Gaioni)** e **MGR** verificheranno la possibilità di far tornare in stato "provvisorio" ogni ordine modificato dopo la conferma di **LM**.
+    *   Si prevede di aggiungere una nota "Attenzione: questo documento è provvisorio, e non costituisce impegno di acquisto da parte di Mega Italia Media." in caso di stampa del documento.
+
+*   **2014-06-04:**
+    *   **Paolo Gaioni (PG)** informa di un intervento: un ordine d'acquisto confermato non è più modificabile o eliminabile.
+    *   Se un ordine d'acquisto è in stato provvisorio, la stampa (o generazione PDF) mostra il messaggio di attenzione e sostituisce il numero di protocollo con "PROVVISORIO".
+    *   **Allegato:** `Ordine-ACQ-PROV.pdf`
+
+*   **2014-06-30:**
+    *   **Pietro de' Castiglioni (PDC)** inoltra una conversazione.
+    *   **Rita Parisi (RP)** (30/06/2014) afferma che la registrazione deve essere modificata per la valorizzazione delle rimanenze finali.
+    *   **Alessandro Ronchi (AR)** (30/06/2014) suggerisce che la prassi corretta sarebbe una conferma d'ordine dal fornitore con il prezzo corretto, altrimenti l'ordine e il listino devono essere modificati.
+    *   **Rita Parisi (RP)** (30/06/2014) solleva una casistica: carico a magazzino con DDT (senza prezzo) che evade l'ordine, seguito da fattura differita con prezzo diverso ma non contestabile. Si necessita di modificare l'ordine, il listino e il carico di magazzino per evitare valorizzazioni errate delle rimanenze.
+    *   **Paolo Gaioni (PG)** (29/06/2014) comunica la necessità di un collegamento VPN MIM per **LM** per approvare gli ordini da remoto.
+    *   **Matteo Meroni (MM)** (28/06/2014) conferma di non riuscire ad accedere al link di Infinity da casa.
+    *   **Alessandro Ronchi (AR)** (27/06/2014) conferma che **PDC** ha il potere di spesa in assenza di **MM**.
+    *   **Matteo Meroni (MM)** (27/06/2014) ha provato ad approvare gli ordini ma non riesce ad accedere a Infinity via smartphone. Chiede se **PDC** può autorizzare gli ordini in sua assenza.
+    *   **Rita Parisi (RP)** (27/06/2014) chiede le impostazioni del ciclo autorizzativo degli ordini e delle variazioni, e se **LM** può confermare gli ordini da remoto o se **PDC** può autorizzarli durante l'assenza di **LM**.
+
+*   **2014-08-08:**
+    *   **Pietro de' Castiglioni (PDC)** informa che un "Questionario fornitori" è stato inserito nell'area "Qualità" della MimNet ("Istruzioni e Moduli") e deve essere inviato a ogni nuovo fornitore MIM (inclusi professionisti) prima dell'ordine.
+    *   Ricorda una riunione MIM prevista per il 26 agosto per riassumere le nuove modalità di gestione degli ordini ai fornitori.
+
+*   **2017-05-27:**
+    *   **Alessandro Ronchi (AR)** dichiara il progetto chiuso per l'attivazione della "Gestione ciclo passivo", che riepiloga le azioni aperte relative al ciclo passivo.
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 6270 characters and 779 words.
+Compression ratio: 0.63 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 1601.
+Summary generated in 21.542839 seconds.

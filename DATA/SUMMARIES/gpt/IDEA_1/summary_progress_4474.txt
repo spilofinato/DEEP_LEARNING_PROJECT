@@ -1,0 +1,17 @@
+- 2012-02-09: Pietro de' Castiglioni crea il progetto “fornitori tecnici” e inserisce un elenco dettagliato dei fornitori da contattare per esigenze tecniche.
+- Pietro de' Castiglioni indica come riferimento anche il percorso file “F:\documenti MIM\nuova sede\fornitori”.
+- Viene specificata la proprietà dell’edificio (Mondial srl) e i contatti di Giancarlo Belleri, Arch. Baldoni e altri operatori tecnici coinvolti nei lavori dell’edificio.
+- Sono elencati fornitori per ascensore (Elma), rete e connettività (T&T telecomunicazioni srl, Colt, Telecom, Impresa Valtellina, con referenti Simone Negro e Roberto Morandi), impianto trattamento aria (Ing. Treccani), elettricisti (Soldi, Cristian, Tiziano e Diego Maggi), gruppo elettrogeno (Lorini group), tende (Zanotti/Franciacorta tende), pareti divisorie (Alberto Scaglia).
+- Sono citati riferimenti ASL Roncadelle (Sig.a Bani, dott. Rossi), imprese di pulizie (Tekno Clean – Monica Deiuri, Barbieri – orari di intervento elencati), e diversi fornitori per sicurezza, Axitea (Luca Bernardini, Andrea Nava, Simone Scalvini e altri).
+- Indicati fornitori per serramenti, marchiatura, pittori, impresa edile (BC), condizionamento (Sanyo – tecnico Biemmi), scaffalature (Nicola Pozzi), distributori automatici (Giorgio Grumelli), carrelli elevatori (Federica), impermeabilizzazione tetto (Ghitti), impianto elettrico (Domenegoni Nicola), fornitore arredi ufficio (Federica – Centroufficio Loreto).
+- Vengono citati i responsabili supermercato LD (Andrea Mengalli).
+- Il messaggio è stato modificato da Pietro de' Castiglioni il 14/03/2016.
+- Presenza di allegato segnalata come “nan” (non disponibile).
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1704 characters and 202 words.
+Compression ratio: 0.37 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 460.
+Summary generated in 11.131384 seconds.

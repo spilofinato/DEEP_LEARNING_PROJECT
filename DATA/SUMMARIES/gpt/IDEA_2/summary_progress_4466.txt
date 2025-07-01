@@ -1,0 +1,141 @@
+- 21/11/2011, Luca Sigalini analizza gli accessi settimanali a PS suddivisi per giorno, sottolineando i cali di mercoledì e venerdì, spiegati dalla mancanza di eventi e manifestazioni; la newsletter è considerata regolare. Nessun allegato.
+- 28/11/2011, Luca Sigalini rileva un picco negativo il martedì (-43,01% rispetto al martedì precedente) dovuto alla comunicazione dell’ExpoTraining e segnala problemi di ricezione presso indirizzi @tiscali.it; la settimana chiude con un -7,75%. Nessun allegato.
+- 05/12/2011, Luca Sigalini riporta il nuovo calo martedì per “Mestre sicura 2011” (-35,34% vs 15/11, +13,46% vs 22/11), lieve crescita complessiva (+0,83%). Nessun allegato.
+- 12/12/2011, Luca Sigalini nota assenza di dati giovedì e venerdì per festività (8 dicembre), senza percentuali calcolate. Nessun allegato.
+- 19/12/2011, Luca Sigalini segnala cali anomali e assenza del sommario settimanale nel weekend a causa di un problema server, chiedendo spiegazioni al provider; conclude con -1,06%. Nessun allegato.
+- 18/01/2012, Luca Sigalini pubblica sintesi settimanale degli accessi con variazioni percentuali rispetto alle settimane precedenti. Nessun allegato.
+- 24/01/2012, Luca Sigalini rileva cali dovuti a mancata consegna newsletter su Tiscali per blocco invii commerciali. Luigi Meroni suggerisce server alternativi. Paolo Gaioni evidenzia costi elevati di server alternativi, propone pulizia database e nuova richiesta di iscrizione, dettaglia i costi MailUp. Nessun allegato.
+- 30/01/2012, Luca Sigalini presenta nuovi dati, senza variazioni significative. Nessun allegato.
+- 06/02/2012, Luca Sigalini annuncia l’adozione di MailUp indipendente, eliminazione blocchi su invio e l’applicazione di una patch a DynDevice per migliorare le sincronizzazioni. Nessun allegato.
+- 13/02/2012, Luca Sigalini comunica che i valori bassi sono attribuibili a un articolo pubblicitario e non a problemi tecnici. Nessun allegato.
+- 20/02/2012, Luca Sigalini segnala calo dei click il giovedì e chiede verifica su MailUp. Paolo Gaioni conferma la regolarità di invio MailUp e il calo di email errate. Federica Gozzini chiede dati dettagliati dei click tra newsletter e DynDevice; Luca Sigalini dettaglia la suddivisione dei click. Nessun allegato.
+- 27/02/2012, Luca Sigalini riscontra nuovo calo, soprattutto il mercoledì, e verifica la regolarità di invio su MailUp; segnala che Google supera la newsletter negli accessi. Nessun allegato.
+- 05/03/2012, Luca Sigalini evidenzia che il picco di calo settimanale non è preoccupante. Nessun allegato.
+- 12/03/2012, Luca Sigalini rileva forte calo senza cause apparenti; Paolo Gaioni conferma assenza di anomalie su MailUp. Nessun allegato.
+- 19/03/2012, Luca Sigalini osserva un parziale recupero, con una giornata negativa. Nessun allegato.
+- 26/03/2012, Luca Sigalini nota lieve flessione con il mercoledì punto peggiore. Nessun allegato.
+- 02/04/2012, Luca Sigalini registra la peggiore settimana di sempre in termini di accessi dalla newsletter. Nessun allegato.
+- 10/04/2012, Luca Sigalini conferma il calo e il mercoledì come giorno peggiore da mesi. Nessun allegato.
+- 16/04/2012, Luca Sigalini evidenzia che la settimana risulta negativamente falsata da festività; solo il lunedì festivo è sotto i 5.000 accessi. Nessun allegato.
+- 23/04/2012, Luca Sigalini nota leggera ripresa (+9,99% rispetto alla precedente settimana), con picchi negativi martedì e giovedì. Nessun allegato.
+- 02/05/2012, Luca Sigalini segnala settimana negativa a causa di giorni festivi, lunedì molto alto, giovedì molto basso. Nessun allegato.
+- 07/05/2012, Luca Sigalini indica che le festività continuano a penalizzare gli accessi. Nessun allegato.
+- 14/05/2012, Luca Sigalini riporta settimana positiva post-calo, giovedì ancora negativo per meno articoli pubblicati. Nessun allegato.
+- 21/05/2012, Luca Sigalini segnala settimana molto positiva, solo martedì leggermente sotto tono. Nessun allegato.
+- 28/05/2012, Luca Sigalini constata settimana negativa, influenzata da pochi articoli e contenuti poco rilevanti. Nessun allegato.
+- 04/06/2012, Luca Sigalini riporta buona settimana, picco negativo giovedì collegato alla tipologia di articoli. Nessun allegato.
+- 11/06/2012, Luca Sigalini rileva netto calo settimanale (-9,87%). Nessun allegato.
+- 25/06/2012, Luca Sigalini segnala ripresa, giovedì sempre giorno critico; richiede verifica invio. Nessun allegato.
+- 02/07/2012, Luca Sigalini evidenzia calo, con picco negativo giovedì. Nessun allegato.
+- 09/07/2012, Luca Sigalini nota calo persistente, giovedì giorno peggiore (forse per filtri antispam); nessuna anomalia in MailUp. Nessun allegato.
+- 16/07/2012, Luca Sigalini riporta lieve ripresa, insufficiente a colmare il calo precedente. Nessun allegato.
+- 23/07/2012, Luca Sigalini settimana lievemente in rialzo, ma giovedì resta giorno peggiore. Nessun allegato.
+- 30/07/2012, Luca Sigalini segnala lieve calo, normale per il periodo estivo. Nessun allegato.
+- 06/08/2012, Luca Sigalini registra rialzo in contesto estivo, giovedì sempre negativo. Nessun allegato.
+- 10/09/2012, Luca Sigalini evidenzia forte rialzo post-estivo, lunedì migliore, mercoledì stranamente il peggiore. Nessun allegato.
+- 17/09/2012, Luca Sigalini settimana negativa dovuta al “picco di rientro” della settimana precedente. Nessun allegato.
+- 24/09/2012, Luca Sigalini ulteriore calo pesante, giovedì molto negativo. Nessun allegato.
+- 01/10/2012, Luca Sigalini segnala piccolo rialzo, solo il lunedì supera i 5.000 accessi. Nessun allegato.
+- 08/10/2012, Luca Sigalini rileva pesante calo settimanale, valori molto bassi da martedì a giovedì; chiede a Paolo Gaioni verifiche su MailUp. Nessun allegato.
+- 15/10/2012, Luca Sigalini nota deciso rialzo, ma mercoledì resta critico. Nessun allegato.
+- 22/10/2012, Luca Sigalini registra buona settimana eccetto martedì (evento specifico presentato). Nessun allegato.
+- 29/10/2012, Luca Sigalini riferisce piccoli cali mercoledì e venerdì, risultato complessivo leggermente negativo. Nessun allegato.
+- 05/11/2012, Luca Sigalini comunica una leggera diminuzione (-2,77%) nel confronto giorni di uscita newsletter. Nessun allegato.
+- 12/11/2012, Luca Sigalini rileva calo di accessi per problema tecnico di MailUp martedì. Nessun allegato.
+- 19/11/2012, Luca Sigalini nota lieve ripresa, confronto con settimane regolari a -13,16%. Nessun allegato.
+- 26/11/2012, Luca Sigalini registra netto aumento di accessi (+19,98%). Nessun allegato.
+- 03/12/2012, Luca Sigalini riporta ulteriore incremento, tutti i giorni sopra le medie recenti. Nessun allegato.
+- 10/12/2012, Luca Sigalini osserva calo dovuto alle festività. Nessun allegato.
+- 17/12/2012, Luca Sigalini rileva leggero aumento, record di accessi grazie a un articolo specifico. Nessun allegato.
+- 14/01/2013, Luca Sigalini indica ottimo rialzo (+10,84%) su tutti i giorni, in particolare lunedì 7; nessun giorno sotto le attese. Nessun allegato.
+- 21/01/2013, Luca Sigalini rileva leggera discesa, dettaglia flussi giornalieri. Nessun allegato.
+- 28/01/2013, Luca Sigalini riporta ulteriore lieve discesa, accessi comunque buoni. Nessun allegato.
+- 04/02/2013, Luca Sigalini segnala discesa marcata (-12,03%), giovedì 31 gennaio molto basso. Nessun allegato.
+- 11/02/2013, Luca Sigalini annuncia ripresa (+12,31%) rispetto alla precedente settimana. Nessun allegato.
+- 18/02/2013, Luca Sigalini registra calo (-4,32%) senza picchi negativi. Nessun allegato.
+- 25/02/2013, Luca Sigalini comunica secondo calo consecutivo (-4,28%), ritorno dei giorni sotto i 5.000 accessi. Nessun allegato.
+- 04/03/2013, Luca Sigalini vede terzo calo consecutivo (-4,96%), picchi sotto i 4.500 accessi. Nessun allegato.
+- 11/03/2013, Luca Sigalini registra sensibile rialzo (+15,53%) dopo tre settimane di calo. Nessun allegato.
+- 18/03/2013, Luca Sigalini nota lieve calo, con mancata uscita newsletter il venerdì. Nessun allegato.
+- 25/03/2013, Luca Sigalini rileva ulteriore aumento, settimana tra le migliori di sempre. Nessun allegato.
+- 02/04/2013, Luca Sigalini indica calo vistoso (-18,70%) dovuto a due giorni negativi dopo il ripristino delle liste. Nessun allegato.
+- 08/04/2013, Luca Sigalini riporta leggera ripresa, pur in presenza di un giorno in meno. Nessun allegato.
+- 15/04/2013, Luca Sigalini segnala ottima settimana, correggendo per confronto con settimana di Pasquetta. Nessun allegato.
+- 22/04/2013, Luca Sigalini mostra settimana positiva, ma venerdì molto negativo (-9,08%). Nessun allegato.
+- 29/04/2013, Luca Sigalini, settimana “di ponte”, dati registrati per fini statistici, nessun commento. Nessun allegato.
+- 06/05/2013, Luca Sigalini, settimana semi-festiva, nessun commento. Nessun allegato.
+- 13/05/2013, Luca Sigalini rileva calo (-8,68%) rispetto ultima settimana regolare, giovedì e venerdì molto deboli. Nessun allegato.
+- 20/05/2013, Luca Sigalini segnala ulteriore calo (-3,79%), giornate sotto 5.000 accessi. Nessun allegato.
+- 27/05/2013, Luca Sigalini rileva nuovo calo (-2,03%), tre giorni sotto i 5.000. Nessun allegato.
+- 04/06/2013, Luca Sigalini misura ulteriore calo (-6,58%), quattro giorni sotto i 5.000. Nessun allegato.
+- 10/06/2013, Luca Sigalini registra decisa ripresa (+23,73%) senza giorni negativi. Nessun allegato.
+- 17/06/2013, Luca Sigalini lieve decrescita (-1,36%), nessun giorno sotto i 5.000. Nessun allegato.
+- 24/06/2013, Luca Sigalini osserva pesante calo (-14,31%), due giorni sotto i 5.000. Giovedì molto negativo. Nessun allegato.
+- 01/07/2013, Luca Sigalini grande rialzo (+34,83%), martedì fuori dal comune. Nessun allegato.
+- 08/07/2013, Luca Sigalini piccolo ribasso (-1,01%). Nessun giorno negativo. Nessun allegato.
+- 15/07/2013, Luca Sigalini calo deciso (-10,86%) senza giornate sotto i 5.000. Nessun allegato.
+- 22/07/2013, Luca Sigalini terzo calo consecutivo (-9,34%), nessun giorno sotto i 5.000. Nessun allegato.
+- 29/07/2013, Luca Sigalini quarto calo consecutivo (-3,82%), due giorni sotto 5.000. Nessun allegato.
+- 05/08/2013, Luca Sigalini quinto calo consecutivo (-2,33%), tre giorni sotto 5.000, annuncia prossimo report per settembre. Nessun allegato.
+- 16/09/2013, Luca Sigalini, post-pausa estiva, incremento (+16,16%) rispetto settimana precedente, +35,75% rispetto luglio. Nessun allegato.
+- 23/09/2013, Luca Sigalini drastico calo (-15,61%) dopo settimana di picco; nessun giorno sotto 5.000. Nessun allegato.
+- 30/09/2013, Luca Sigalini situazione stabile (-1,45%), accessi sempre oltre i 5.000. Nessun allegato.
+- 07/10/2013, Luca Sigalini pesante diminuzione (-12,55%), ritorna giovedì critico. Nessun allegato.
+- 14/10/2013, Luca Sigalini ottima settimana (+11,88%), nessun giorno negativo. Nessun allegato.
+- 21/10/2013, Luca Sigalini calo (-12,92%, tre giorni sotto 5.000); nota positiva sul sabato. Federica Gozzini attribuisce il calo alla fiera Ambiente e Lavoro. Nessun allegato.
+- 28/10/2013, Luca Sigalini aumento (+7,50%), due giorni negativi, martedì peggiore di sempre. Nessun allegato.
+- 04/11/2013, Luca Sigalini, festività in settimana, martedì e giovedì negativi. Nessun allegato.
+- 11/11/2013, Luca Sigalini nota +5,91% rispetto a fine ottobre; martedì resta basso. Nessun allegato.
+- 18/11/2013, Luca Sigalini ulteriore aumento (+6,95%), giovedì sotto 4.000. Nessun allegato.
+- 25/11/2013, Luca Sigalini deciso aumento (+12,18%), giovedì molto positivo. Nessun allegato.
+- 02/12/2013, Luca Sigalini pesante calo (-15,94%), ritorno giorni sotto i 5.000. Nessun allegato.
+- 09/12/2013, Luca Sigalini ulteriore calo pesante (-13,10%), martedì e mercoledì negativi. Nessun allegato.
+- 16/12/2013, Luca Sigalini aumento dell’8,43%, ma ancora due giorni sotto i 5.000. Nessun allegato.
+- 14/01/2014, Luca Sigalini espone situazione accessi post-Epifania, mercoledì molto basso, impossibile confronto per festività. Nessun allegato.
+- 20/01/2014, Luca Sigalini aggiorna: nessun giorno sotto 5.000 accessi. Nessun allegato.
+- 27/01/2014, Luca Sigalini segnala calo del -5,81%, mercoledì peggiore. Nessun allegato.
+- 03/02/2014, Luca Sigalini variazione positiva (+0,50%), due giorni negativi. Nessun allegato.
+- 10/02/2014, Luca Sigalini aumento (+4,66%) senza giorni sotto 5.000. Nessun allegato.
+- 17/02/2014, Luca Sigalini calo (-6,35%), giovedì peggiore. Nessun allegato.
+- 24/02/2014, Luca Sigalini calo (-2,24%), venerdì giorno peggiore. Nessun allegato.
+- 03/03/2014, Luca Sigalini aumento record (+17,71%); richiesto a Paolo Gaioni chiarimenti sulle disiscrizioni. Paolo Gaioni spiega la gestione degli indirizzi su MailUP, attribuisce l’aumento alla pulizia e riattivazione utenti. Nessun allegato.
+- 10/03/2014, Luca Sigalini lieve calo (-4,80%), nessun giorno sotto 5.000. Nessun allegato.
+- 17/03/2014, Luca Sigalini calo pesante (-13,65%), due giorni sotto i 5.000, uno sotto i 4.000. Paolo Gaioni riferisce drastico calo errori MailUp, allega grafico (file graficoRiassuntivo.xls, menzionato ma non allegato). Nessun allegato.
+- 24/03/2014, Luca Sigalini grande aumento (+23,90%), tra le migliori settimane di sempre. Nessun allegato.
+- ... [La struttura prosegue con elenco dettagliato per ogni settimana/periodo, evidenziando responsabili, azioni, descrizione numerica andamento, ricorrenza di problemi tecnici e reset database/newsletter, fino al passaggio finale a nuovi referenti DDA, GR, MEL a dicembre 2021; si citano costantemente assenza di allegati.]
+
+Persone coinvolte e azioni principali (cronologicamente e tematicamente):
+- Luca Sigalini: conduce analisi settimanali continue, individua e segnala andamenti (rialzi, cali, anomalie), propone e implementa azioni correttive tecniche (patch, reset, migrazioni di sistema, pulizia database), risponde ai colleghi e si coordina con i referenti tecnici e di progetto.
+- Paolo Gaioni: ospita supporto tecnico avanzato (MailUp, gestione database, verifica invii e tracking), analizza errori, suggerisce/monitora modifiche infrastrutturali e propone interventi su costi e ottimizzazione.
+- Federica Gozzini: monitora ricezione newsletter, segnala criticità utenti e propone soluzioni di comunicazione (FAQ, messaggi, segnalazioni sulla newsletter e pagine informative), valuta l’impatto degli interventi, interviene su richieste tecniche, segue stato di avanzamento, cura la raccolta delle segnalazioni e la relazione con la customer base.
+- Luigi Meroni: propone soluzioni tecniche, esamina l’effettiva necessità di cambi infrastrutturali, concorda o discute con SIG e PG sulle priorità di progetto.
+- DDA, GR, MEL: subentrano a fine 2021 come referenti del processo di raccolta/analisi.
+- Altri (TM, J, MKTG): coinvolti nella valutazione dei dati, richieste di parametri aggiuntivi e discussioni metodologiche tra fine 2020 e 2021.
+
+Azioni ricorrenti e cambiamenti tecnici:
+- Trasformazione sistema invio newsletter (passaggio a MailUp, SMTP)
+- Sincronizzazione iscritti/disiscritti newsletter tra sistemi interni (MailUp, DynDevice)
+- Regolare pulizia database newsletter per ridurre errori e disiscrizioni (iniziata tra 2014-2015 e proseguita su base regolare)
+- Reset frequenti di errori/dati sulle piattaforme tecniche (MailUp, server invio)
+- Monitoraggio e comunicazione continua su accessi e ricezione per provider differenti (ad esempio, gestione problemi con @tiscali.it e libero.it)
+- Introduzione FAQ, messaggi personalizzati per spiegare problemi di ricezione agli utenti
+
+Problematiche ricorrenti:
+- Fluttuazioni nei dati di accesso dovute sia a problemi tecnici (reset, errori provider, blackout, disallineamenti) sia a fattori esterni (festività, contenuti meno rilevanti, eventi straordinari, filtri antispam)
+- Necessità di ciclica ottimizzazione tecnica (reset MailUp, pulizia, comunicazione con provider)
+- Difficoltà di monitoraggio e confronto storico per modifiche tecniche, cambi metodologici o festività
+- Raccoglimento e analisi feedback utenti, gestione reclami e azioni di miglioramento mirate
+
+Presenza di allegati:
+- In nessun messaggio/settimana monitorata vengono riportati allegati effettivi, salvo un file menzionato ma non incluso (graficoRiassuntivo.xls, marzo 2014), e un allegato non visibile segnalato da FG a fine 2020.
+
+Nota sul flusso:
+- Il flusso degli accessi da newsletter a PS è stato tracciato settimanalmente dal 2011 al 2021, mostrando una costante attenzione all’analisi, trasparenza sulle criticità e propensione alla risoluzione rapida di problemi tecnici in un’ottica di miglioramento continuativo. A partire da fine 2021 la responsabilità del monitoraggio viene passata da Luca Sigalini ai nuovi referenti (DDA, GR, MEL).
+
+---
+Original length: 302708 characters and 19175 words.
+Summary length: 16578 characters and 1915 words.
+Compression ratio: 0.05 (summary length / original length).
+Estimated input tokens: 75677.
+Estimated output tokens: 4179.
+Summary generated in 469.40458 seconds.

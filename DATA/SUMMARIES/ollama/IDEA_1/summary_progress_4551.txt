@@ -1,0 +1,21 @@
+**Riassunto Cronologico Progetto: AP - Miglioramento Gestione Acquisti**
+
+*   **2013-10-28:** Pietro de' Castiglioni definisce un nuovo modello di processo per gli approvvigionamenti (p\_acq\_approvvigionamenti.xls allegato). Il processo prevede: autorizzazione alla richiesta di ordini (RDA), approvazione richiesta dal responsabile del richiedente, emissione ordine. Si pianifica un incontro con RP. Rita Parisi solleva dubbi riguardo all'emissione degli ordini tramite FOM, sottolineando la mancanza di controllo e competenza.
+*   **2013-11-20:** Matteo Meroni segnala la necessità di gestire acquisti di materiale di rivendita (libri) e servizi editoriali. Sottolinea l'importanza della verifica di RP e la necessità di definire specifiche per SIG. Matteo Meroni e Alessandro Ronchi esprimono l'importanza che la verifica di RP non blocchi l'emissione dell'ordine. LM propone di formare LM e PDC per l'approvazione ordine tramite Infinity e chiedere a RP di schedulare questo passaggio.
+*   **2013-11-19:** Alessandro Ronchi propone un piano per definire le responsabilità per ogni tipologia di ordine e formalizzare il workflow del processo.
+*   **2013-11-26:** Rita Parisi analizza lo schema del ciclo passivo, evidenziando la necessità di verifica degli ordini provvisori e la mancanza di indicazioni per alcune tipologie di prestazioni (provvigioni, royalties, ecc.). Sottolinea l'importanza della corretta registrazione delle fatture in Infinity.
+*   **2013-12-02:** Alessandro Ronchi concorda con LM e PDC sulla necessità di definire le responsabilità per ogni tipologia di ordine e formalizzare il workflow.
+*   **2013-12-02:** Rita Parisi solleva ulteriori questioni relative alla fase di controllo evasione, registrazione fatture e bonifici.
+*   **2014-05-23:** FOM segnala che gli ordini confermati da LM possono essere modificati senza ritornare in stato "provvisorio". Paolo Gaioni e PG implementano una soluzione per impedire modifiche agli ordini confermati e aggiungono una nota sugli ordini provvisori (Ordine-ACQ-PROV.pdf allegato).
+*   **2014-06-04:** Paolo Gaioni comunica l'implementazione delle modifiche apportate agli ordini confermati.
+*   **2014-06-30:** Rita Parisi solleva questioni relative alla valorizzazione delle rimanenze finali e la necessità di modificare l'ordine quando il prezzo differisce da quello sulla fattura.
+*   **2014-08-08:** Pietro de' Castiglioni comunica l'inserimento del Questionario fornitori nell'area "Qualità" di MimNet.
+*   **2017-05-27:** Chiusura del progetto a seguito dell'attivazione della Gestione ciclo passivo.
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 2633 characters and 305 words.
+Compression ratio: 0.27 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 692.
+Summary generated in 29.3878 seconds.

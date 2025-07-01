@@ -1,8 +1,0 @@
-**Incidente SGSI NC 2025 - Anomalia Piattaforma DynDevice Sixtema**
-
-*   **11 Giugno 2025:** AR riceve segnalazione Sixtema: errato invio newsletter a 7000 utenti (anziché 400) sulla Piattaforma DD Sixtema. Livello Priorità 2.
-*   **11 Giugno 2025:** AR contatta Federica Melis (DPO Sixtema) e conferma l'assenza di violazioni Dati Personali.
-*   **11 Giugno 2025:** CG analizza: il problema è dovuto a una modifica ai filtri LMS della newsletter, causata da un'ottimizzazione della query SQL (timeout DynDevice).
-*   **09 Giugno 2025:** CG implementa la correzione (adattamento dei controlli aggiuntivi alla query).
-*   **09 Giugno 2025:** Azione correttiva chiusa. Verifica efficacia in corso.
-*   **11 Giugno 2025:** AR identifica il Piano dei Test IP27, con scadenza best effort (31/07/2025) per definire controlli specifici. (Modificato 11/06/2025).

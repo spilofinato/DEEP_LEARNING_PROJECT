@@ -1,0 +1,15 @@
+* **2012-02-09:** Pietro de’ Castiglioni invia un elenco dettagliato di fornitori tecnici, includendo: Mondial srl (Giancarlo Belleri), Arch. Baldoni, pittore, Elma (ascensore), TTS telecomunicazioni (Simone Negro), Colt (connettività e linee telefoniche), Telecom (Roberto Morandi), Impresa Valtellina (Massimiliano e Lupi), muratore Botti, Ing. Treccani (impianto trattamento aria), Elettricista (Soldi e Maggi), Gruppo elettrogeno (Lorini Group), Franciacorta tende Zanotti, Alberto Scaglia (pareti divisorie), ASL Roncadelle (Sig.ra Bani e dott. Rossi), Tekno Clean e Barbieri (pulizie), Axitea (Luca Bernardini e Andrea Nava) e altri.
+* **Successivi contatti:** Axitea fornisce numeri di contatto centralizzati per assistenza e richieste (800 800 000) e specifici contatti per l’intervento di personale in caso di allarme e fornisce contatti per assistenza tecnica (Simone Scalvini).
+* **2016-03-14:** Pietro de’ Castiglioni modifica il documento con informazioni aggiuntive, tra cui riferimenti per i lavori e contatto Gruppo Argenta.
+
+
+
+Non sono presenti allegati al messaggio.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1137 characters and 139 words.
+Compression ratio: 0.25 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 318.
+Summary generated in 13.436606 seconds.

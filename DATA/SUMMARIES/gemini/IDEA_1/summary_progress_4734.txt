@@ -1,0 +1,295 @@
+*   **13 aprile 2016:**
+    *   **TIZ** e **FG** (Federica Gozzini) avevano completato l'analisi del pregresso degli articoli e della parte tecnologica e legale con esito positivo, incaricati di proporre un documento di sintesi per decisione entro fine aprile 2016.
+    *   Il forum di PuntoSicuro avrebbe dovuto essere presentato al pubblico dal 20 maggio 2016, con partenza gratuita a giugno e attivazione della parte a pagamento per la consulenza entro fine 2016. I lettori sarebbero stati invitati a iscriversi in una fascia ridotta temporale nella prima settimana di maggio 2016. **FG** avrebbe coordinato i consulenti e il contratto con l'**Avv. Caruso** sarebbe stato definito (bozza entro fine maggio 2016).
+    *   È stata prevista una campagna banner, da affidare a **J**, per ricordare le caratteristiche del servizio di attestazione, con attivazione a maggio 2016.
+
+*   **14 giugno 2016:**
+    *   La soluzione proposta da **FG** e **TIZ** per gli articoli è stata approvata: lasciare libera la lettura per un periodo (1 giorno, 1 settimana, 1 mese) dopodiché trasferirli automaticamente in Banca Dati. **SIG** avrebbe dovuto verificare la possibilità e la pianificazione per l'avvio era prevista per il 1° settembre 2016 (con 30 giorni richiesti da **SIG** per lo sviluppo).
+    *   Il forum è partito, ma necessita ancora di piccole modifiche. Entro fine giugno, sarebbe stato pubblicato un articolo per il lancio e evidenziato in home page. **FG** avrebbe verificato con **Debora Russi** se potesse collaborare all'avvio del forum.
+
+*   **29 luglio 2016:**
+    *   **Tiziano** ha avuto un'esperienza positiva al convegno di Modena ("La sicurezza in pratica"), dove ha moderato una tavola rotonda. Avrebbe scritto per richiedere materiale da pubblicare su PS. La proposta standard di PS da utilizzare per le media partnership non era ancora stata definita.
+
+*   **2 dicembre 2016:**
+    *   La consegna da parte di **SIG** per il trasferimento automatico degli articoli è stata rimandata al 6 gennaio 2017 a causa dell'inserimento dell'opzione di multi-abbonamento aziendale.
+    *   Il forum contava 150 persone iscritte e stava iniziando ad essere popolato. Si ipotizzava di chiedere a **Francesco Cuccuini** di aiutare a popolarlo.
+    *   **FG** ha chiesto a **J** una nuova data per la campagna banner di promozione del servizio di attestazione.
+    *   La proposta standard per le media partnership non era ancora stata definita. **FG** e **TIZ** stavano procedendo a stilarne una bozza.
+
+*   **8 febbraio 2017:**
+    *   È stato creato il progetto "LOB PS, FG" (ID 4734) per PuntoSicuro, con l'obiettivo di fornire informazione gratuita tramite articoli e newsletter, e un servizio in abbonamento per l'accesso a una banca dati normativa, attestazioni di lettura e gestione contenuti del sito. I destinatari sono professionisti della sicurezza sul lavoro, ambiente e security.
+    *   Le criticità identificate includevano tempi lunghi per miglioramenti tecnici del sito (bassa priorità per LOB IT) e un modulo di ricerca della banca dati poco intuitivo.
+    *   **Luigi Meroni** ha riportato che **SIG** ha comunicato l'avvenuta consegna della modifica per il trasferimento automatico degli articoli in area riservata, in attesa di test a cura di **FG**.
+    *   L'ampliamento della Banca Dati di PS riguardo il tema DATI PERSONALI, con l'apertura di una pagina di approfondimento nella sezione specifica, era in corso.
+    *   **Luigi Meroni** ha richiesto di raccogliere i dati dei costi del 2016 dell'evento di Milano (noleggio spazi, catering da **RP**, ore lavoro stimate per **LM**, **FG**, **TIZ**, **J**, **AB**) e analizzare i risultati per un eventuale nuovo evento, suggerendo un questionario di gradimento.
+    *   **Luigi Meroni** ha proposto di valutare una campagna banner su Edilportale (o simili) per testare lo strumento e verificare la conversione. **J** avrebbe raccolto i dati dei costi.
+    *   È stata creata una landing page per la campagna Adwords della banca dati PS con uno sconto del 20% per i nuovi iscritti. **FG** e **J** avrebbero definito dettagli e monitoraggi.
+    *   **FG** stava seguendo con **SIG** la semplificazione del form di iscrizione alla Newsletter di PS: mantenere solo Nome, Cognome, E-mail ed eliminare indirizzo, telefono, comune, provincia, fax. **FG** ha suggerito di migliorare il Captcha. **LM** (Luigi Meroni) ha chiesto a **SIG** il DB degli iscritti per verificare il campo professione.
+    *   **FG** avrebbe valutato con **J** la possibilità di inserire un popup per i non iscritti alla Newsletter, promuovendo l'iscrizione, con attenzione a renderlo poco invasivo.
+    *   Il form di iscrizione alla banca dati di PS, pur mantenendo la possibilità di iscrizioni multiple, doveva essere semplificato in quanto non accettabile a causa di troppi dati richiesti (es. settore aziendale). L'obiettivo era renderlo il più semplice possibile per aumentare gli ordini e contenere solo i dati minimi.
+    *   Obiettivo era abbassare il costo annuo del servizio con **Biasiotti** passando a un pagamento per click per gli articoli. Una volta che **SIG** avesse effettuato la modifica, **LM** avrebbe definito il CPC di lettura e formalizzato la modifica ad **AB**.
+    *   **TIZ** avrebbe incontrato **Giorgio Bressi** a Milano per stimolare la prosecuzione del rapporto di collaborazione con PS.
+
+*   **9 febbraio 2017:**
+    *   **LM** (Luigi Meroni) ha ricevuto il DB da **SIG**. Ha deciso che il campo professione e il campo PROVINCIA nel form di iscrizione alla NL vanno conservati, e che i campi "CONSULENTE" e "PROFESSIONISTA" vanno accorpati in un'unica voce "CONSULENTE SICUREZZA" nel DB.
+    *   **J** ha effettuato un test sulla procedura d'acquisto per il prodotto BANCA DATI PUNTOSICURO, riscontrando che era eccessivamente complicata (9 click), presentava errori non ben segnalati e testi incomprensibili nella ricevuta d'ordine, senza un link attivo per la compilazione della scheda iscritto.
+
+*   **10 febbraio 2017:**
+    *   **FG** (Federica Gozzini) ha riportato un test reale in cui ha impiegato 15 minuti per aiutare un cliente al telefono ad abbonarsi, senza riuscire a compilare il modulo dell'abbonato a causa di un errore. **FG** avrebbe completato il modulo autonomamente.
+
+*   **14/15/16 febbraio 2017:**
+    *   Una comunicazione ai lettori informa che i documenti negli articoli sarebbero stati scaricabili gratuitamente per 15 giorni dalla pubblicazione, per poi essere riservati agli abbonati. (**Riferito da Federica Gozzini il 21/09/2017**).
+
+*   **21 febbraio 2017:**
+    *   Viene attivata la modifica automatica che sposta i documenti in banca dati. (**Riferito da Tullio Meroni il 21/09/2017**).
+
+*   **12 aprile 2017:**
+    *   Dal 13 febbraio 2017, ogni articolo di PS con allegati passa in accesso riservato agli abbonati (solo l'allegato) dopo 15 giorni, senza lamentele o segnalazioni.
+    *   **TIZ** ha inviato a **LM** l'ultima versione della proposta standard per le media partnership da sottoporre a **Caruso** per poi pubblicare su Mimnet in area documenti commerciali.
+    *   L'azione di ampliamento della Banca Dati di PS riguardo il tema DATI PERSONALI è stata completata.
+    *   Era necessario fornire a PS un archivio di immagini MIM utilizzabili, da salvare in Z. **PDC** avrebbe inviato i link per visualizzarle. **PDC** ha segnalato che su Google è possibile selezionare nelle immagini quelle "CONTRASSEGNATE PER ESSERE RIUTILIZZATE".
+    *   L'azione di semplificazione del form di iscrizione alla NL è stata completata.
+    *   **TM** (Tullio Meroni) è poco favorevole ai POPUP. Vanno determinati i tempi (es. una settimana ogni 2 mesi) e le caratteristiche per una bassa invasività.
+    *   L'azione di semplificazione del form di iscrizione alla banca dati di PS è stata completata.
+    *   L'incontro tra **TIZ** e **Bressi** è avvenuto. **Bressi** ha ricominciato a fornire articoli. **LM** deve sentire **Bressi** per verificare il loro sito.
+
+*   **16 maggio 2017:**
+    *   I giorni di permanenza gratuita dei documenti vengono diminuiti da 15 a 7. (**Riferito da Tullio Meroni il 21/09/2017**).
+
+*   **Metà maggio 2017:**
+    *   Si sviluppa un calo improvviso e repentino degli accessi a PuntoSicuro da tutti i canali (newsletter, motori di ricerca, diretto). (**Tullio Meroni il 21/09/2017 attribuisce il calo alla riduzione dei giorni di accesso gratuito**).
+
+*   **Metà giugno 2017:**
+    *   Viene messo online il nuovo template del sito e soppressa la versione mobile, dopo l'inizio del calo di traffico. (**Riferito da Tullio Meroni il 21/09/2017**).
+
+*   **Giugno 2017:**
+    *   I dati analytics di PuntoSicuro mostrano un forte calo. (**Riferito da Tullio Meroni il 04/09/2017**).
+
+*   **1° agosto 2017:**
+    *   **Tullio Meroni** segnala il secondo mese di calo (luglio) del traffico di PuntoSicuro e chiede spiegazioni.
+    *   **Luca Sigalini** afferma che il calo maggiore degli accessi non è una questione SEO, ma è dovuto a minori accessi dalla newsletter.
+    *   **Federica Gozzini** collega il calo al cambio del sito, chiedendo l'opinione di **Sigalini**; non ha ricevuto lamentele riguardo l'inserimento dei documenti in area riservata, non credendo che questo sia la causa.
+    *   **Tiziano** ipotizza che l'inserimento graduale delle fonti degli articoli in area riservata possa aver causato il calo, spingendo i lettori a cercare informazioni altrove.
+    *   **Tullio Meroni** conclude che i motivi del calo non sono definiti, indicando un rischio per la partnership. Chiede di approfondire le modifiche nei contenuti degli articoli, del sito e delle email.
+    *   **Federica Gozzini** riflette sulle carenze di contenuto e propone strategie per settembre.
+
+*   **2 agosto 2017:**
+    *   **Federica** segnala che i feed RSS non erano più funzionanti, probabilmente dal passaggio al nuovo sito, contribuendo al calo, e che il servizio è stato corretto.
+
+*   **4 settembre 2017:**
+    *   **Tullio Meroni** invia un "alert" indicando che PuntoSicuro ha un andamento negativo da tre mesi (giugno, luglio, agosto 2017), e che né la nuova impostazione grafica né lo spostamento di contenuti in area riservata sembrano aver avuto un effetto negativo.
+
+*   **13 settembre 2017:**
+    *   **Tullio Meroni** esamina una bozza di listino pubblicitario/media kit per PuntoSicuro, fornendo suggerimenti dettagliati per migliorarne la chiarezza e la struttura, inclusa la rimozione di pagine considerate inutili o pleonastiche.
+
+*   **14 settembre 2017:**
+    *   **Tullio Meroni** invia suggerimenti a **Federica Gozzini**, **Tiziano**, **Matteo Meroni** e **Luca Sigalini** per migliorare la newsletter, proponendo modifiche al titolo, la riduzione di espressioni "supplichevoli" e la riduzione in altezza di un annuncio pubblicitario invasivo.
+
+*   **15 settembre 2017:**
+    *   **Federica Gozzini** risponde a **Tullio Meroni** riguardo ai suggerimenti per la newsletter, spiegando le scelte (es. titolo senza "Newsletter" per evitare blocco provider, informazioni per aiutare la ricezione). **Tullio Meroni** replica accettando alcune spiegazioni e richiedendo una sintesi ulteriore.
+
+*   **18 settembre 2017:**
+    *   **Luigi Meroni** commenta che, nonostante molti lettori abbandonino i contenuti a pagamento, il mondo dei media digitali si sta muovendo inesorabilmente verso i servizi a pagamento. Suggerisce che un miglior lavoro su social e SEO, coinvolgendo la parte editoriale, potrà migliorare la situazione.
+
+*   **19 settembre 2017:**
+    *   **Giulio Regosa** rileva un forte calo delle visite su PuntoSicuro e propone una riunione urgente per martedì 26 settembre alle 10:00.
+    *   **Tullio Meroni** conferma di aver segnalato la situazione mesi prima e, in vista della riunione del 26 settembre, richiede a **Federica Gozzini**, **Giulio Regosa**, **AR** e altri di inviargli proposte di azioni migliorative e suggerimenti dei lettori entro la stessa data per redigere un documento di discussione.
+
+*   **20 settembre 2017:**
+    *   **Tullio Meroni** allega la nota di **Tiziano** (CALO PS SESSIONI E PAGINE 06, 07, 08 2017), ringraziandolo per le sue riflessioni sul calo di PuntoSicuro e indicando che tali riflessioni si aggiungeranno a quelle di altri per impostare un documento condiviso e discusso.
+    *   **Allegato:** CALO PS SESSIONI E PAGINE 06, 07, 08 2017
+
+*   **21 settembre 2017:**
+    *   **Tullio Meroni** invita tutti a utilizzare il "progress PS".
+    *   **Luca Sigalini** conferma i dati ma ritiene che la correlazione tra l'abbassamento dei giorni di accesso gratuito e il calo possa essere una coincidenza.
+    *   **Giulio Regosa** comunica che sta analizzando gli aspetti tecnici della rilevazione dei dati sul calo di PuntoSicuro, e fornirà informazioni più complete in giornata.
+    *   **Matteo Meroni** esprime l'intenzione di tornare ai 15 giorni di permanenza gratuita dei documenti se i dati sono certi e chiede a **Federica Gozzini** se la modifica precedente fosse stata comunicata al pubblico.
+    *   **Tullio Meroni** riepiloga i punti chiave del calo: calo sviluppato a metà maggio, modifica dei documenti spostati in banca dati attiva dal 21 febbraio (con diminuzione da 15 a 7 giorni gratuiti il 16 maggio), e messa online del nuovo template a metà giugno (dopo il calo). Non esclude che il calo sia dovuto alla riduzione dei giorni di accesso gratuito.
+    *   **Federica Gozzini** propone di tornare ai 15 giorni di accesso gratuito, basandosi sull'analisi che ha individuato una coincidenza tra la diminuzione a 7 giorni e il calo, suggerendo di valutare se la situazione migliori.
+    *   **Tullio Meroni** supporta la proposta di tornare ai 15 giorni e di monitorare mensilmente i risultati.
+    *   **Luigi Meroni** dà l'OK per procedere con il ripristino dei 15 giorni di accesso gratuito e la modifica del messaggio informativo.
+    *   **Tullio Meroni** conclude che la modifica a 15 giorni è stata effettuata da **Federica Gozzini**. Sottolinea la necessità di almeno un mese di valutazione dei risultati e di un'analisi per trovare un sistema alternativo di inserimento documenti che non abbia conseguenze sull'indicizzazione/SEO.
+    *   **Federica Gozzini** interroga **Luca**, **Giulio**, **Matteo**, **Tullio**, **Benedetti-cel**, **Pdc-ufficio**, **Tiziano** sulla possibilità di un sistema alternativo per inserire documenti in area riservata senza conseguenze negative per l'indicizzazione/SEO.
+
+*   **26 settembre 2017:**
+    *   **Federica Gozzini** conduce una riunione con **J**, **SIG**, **DDA** per analizzare i dati di Analytics di Puntosicuro, evidenziando cali da newsletter (-15%) e LinkedIn (-7%) e un calo del 23% nelle visite da motori di ricerca dal 16 maggio, correlato allo spostamento dei documenti (da 7 a 15 giorni in area riservata), con ripresa del 27% dopo il ripristino.
+    *   Per la newsletter, sono stati resettati gli errori nel database e aggiunti messaggi. **Federica Gozzini** deve imparare da **SIG** la gestione degli errori in MailUp.
+    *   **SIG** propone l'implementazione di AMP per i lettori da mobile, stimando 1 settimana di lavoro IT. **Federica Gozzini** concorda sulla sua opportunità.
+    *   Per AdWords, dove è stato investito mensilmente, non esiste un tracciamento del ritorno sull'investimento. **Federica Gozzini** propone di inserire nella landing page un'offerta con codice sconto (10% per abbonamento, 1 mese omaggio newsletter).
+    *   **Tullio Meroni** risponde a **Federica**, chiedendo di concordare sempre gli interventi informatici con **SIG** e di usare il formato standard MIM. **SIG** aggiunge che i dati PS dalla newsletter non corrispondono più ai dati storici e chiede un ripristino per consentire i confronti.
+
+*   **27 settembre 2017:**
+    *   **Luigi Meroni** approva la creazione di una landing page AdWords con l'indicazione di uno sconto del 10% per abbonamenti con iscrizioni manuali.
+
+*   **2 ottobre 2017:**
+    *   **SIG** informa che il confronto con l'anno precedente è tornato positivo dopo il ripristino dei giorni di permanenza degli articoli da 7 a 15. Inoltre, sono state applicate migliorie al sistema di recapito della newsletter.
+
+*   **11 dicembre 2017:**
+    *   **Luigi Meroni** presenta una bozza per il BP 2018 COGE, delineando gli Obiettivi 2018 (Fatturato 180k, sessioni 6 milioni, ecc.) e proponendo Strategie e Azioni 2018: ipotesi di un "PuntoSicuro Premium" con sondaggio (entro marzo 2018), un tutorial per la banca dati (a cura di Marketing, **FG** definirà i tempi), aumento dei contenuti e della visibilità della banca dati, stesura di testi da un fiscalista per informare sull'aumento della pubblicità, valutazione dell'aumento dei prezzi di listino, creazione di un aggiornamento in tempo reale di infortuni e morti sul lavoro (valutazione di **FG** e **Tiz**), promozione del servizio di attestazione, analisi per un'area riservata per abbonati per salvare e organizzare articoli (**FG** con **SIG** entro fine gennaio 2018), collaborazione con Marketing per un evento sulla safety in fiera (**Tiz** e **FG** penseranno all'argomento), miglioramento SEO con Marketing valutando i commenti PS, e pubblicità esterna. Il messaggio è stato modificato il 31/01/2018.
+
+*   **7 febbraio 2018:**
+    *   **Luigi Meroni** apre una discussione sul tema dello storytelling per PuntoSicuro (PS). **FG** (Federica Gozzini) propone di coinvolgere i lettori per raccogliere le loro storie sulla sicurezza.
+    *   **Luigi Meroni** presenta i dati analitici del fatturato di PS al 31.12.2017, che ammonta a 160K.
+    *   **Allegato:** dati ps al 31_12.xls
+    *   **Luigi Meroni** ribadisce l'ipotesi di "PuntoSicuro Premium" e il sondaggio agli iscritti della banca dati entro marzo 2018, collegandola all'analisi che **Federica Gozzini** farà con **SIG** sulle funzioni evolute dell'area riservata, con scadenza aggiornata a fine febbraio 2018.
+    *   **Luigi Meroni** aggiorna sul miglioramento SEO con Marketing, indicando l'inizio del lavoro con il consulente **Marzorati** da febbraio 2018, seguendo le istruzioni di **Federica Gozzini** e **Tiziano**. Una riunione con **Marzorati** è prevista per l'8.2.18, con i primi risultati SEO attesi entro giugno 2018.
+    *   **Luigi Meroni** riafferma l'analisi per la costruzione di un servizio di area riservata per gli abbonati che consenta di salvare e organizzare articoli, con **Federica Gozzini** che effettuerà l'analisi con **SIG** entro fine gennaio 2018 (poi aggiornato a fine febbraio 2018).
+
+*   **20 marzo 2018:**
+    *   **Luigi Meroni** conferma con Agcom che il contributo PEC è zero se il fatturato pubblicitario è inferiore a 500k euro/anno, ma l'invio della comunicazione annuale è obbligatorio. **PDC** (Persona del Contatto) evidenzia le comunicazioni precedenti e la consegna della responsabilità a **RP** e **FG** dal 2018.
+
+*   **9 maggio 2018:**
+    *   **Luigi Meroni** fornisce il consuntivo COGE PS 2017 con Ricavi di 152.565,28 euro e MDC1 di 38.690,41 euro.
+    *   **Allegato:** 31-12-2017 COGE PS..xls
+    *   **Luigi Meroni** rileva una diminuzione dei commenti su PS e chiede un'analisi statistica. **FG** richiede a **SIG** l'inserimento del parametro "categoria articolo" per l'analisi statistica e segnala un aumento delle letture degli articoli sul sito in contrasto con le statistiche web.
+
+*   **25 maggio 2018:**
+    *   **Luigi Meroni** annuncia l'invio della newsletter di PS con le nuove privacy policy in linea con il GDPR.
+    *   **Allegato:** Posta di Mega Italia Media - PuntoSicuro sommario del 25 maggio 2018.pdf
+
+*   **27 giugno 2018:**
+    *   **Federica Gozzini** si confronta con **Marzorati** e chiede aiuto per risolvere tre problemi: la lentezza del sito (7 secondi, obiettivo 3 secondi); il problema del tracciamento URL in Analytics ("Non è chiaro come...") che impedisce l'analisi corretta dei dati (segnalato da **Marzorati** da settembre 2017); e la necessità di implementare in Analytics la registrazione delle ricerche effettuate sul sito.
+
+*   **11 luglio 2018:**
+    *   **Luigi Meroni** stabilisce che un post sarà utilizzato per inserire mensilmente le notizie e i risultati relativi ai lavori SEO di PS.
+    *   **Luigi Meroni** riporta la decisione della direzione, su suggerimento di **FG**, che la redazione dovrà impratichirsi con lo strumento Analytics tramite un corso.
+    *   **Luigi Meroni** annuncia che, per aumentare la velocità di caricamento delle pagine di PuntoSicuro, **SIG** implementerà il caricamento dinamico delle pagine entro la metà di settembre 2018, dopo che i miglioramenti tecnici già eseguiti hanno portato a un punteggio del 100%.
+
+*   **12 settembre 2018:**
+    *   **Luigi Meroni** incarica **TM** (Tiziano Menduto) di monitorare l'evoluzione normativa del copyright e la tassazione dei proventi del web, raccogliendo informazioni.
+
+*   **13 settembre 2018:**
+    *   In risposta a **Luigi Meroni**, **Tiziano Menduto** aggiorna sulla direttiva copyright, specificando che il Parlamento Europeo ha approvato solo il mandato negoziale e che l'approvazione definitiva non sarà breve, probabilmente entro maggio 2019, con possibili cambiamenti nel recepimento italiano.
+
+*   **14 novembre 2018:**
+    *   **FG** segnala che **WS** sta lavorando all'area riservata degli abbonati alla banca dati di PS. L'area per gli articoli preferiti è stata rilasciata e sarà lanciata a inizio febbraio 2019. La funzionalità di copia e incolla con promozione di PS deve essere definita con **SIG**.
+    *   **Luigi Meroni** incarica **FG** e **TIZ** di scrivere un piano di sviluppo per PS per il 2019, includendo ricavi e costi. **FG** recupererà gli stimoli di **LM** (Luigi Meroni) per l'area premium.
+
+*   **23 gennaio 2019:**
+    *   **Luigi Meroni** indica la necessità di monitorare l'andamento dei rinnovi contrattuali per la pubblicità per il 2019. WKI, Aifos, Progtech hanno confermato o rinnovato (~25k), mentre Blumatica è da contattare enfatizzando la crescita di PS.
+
+*   **29 marzo 2019:**
+    *   **FG** comunica che il lavoro con **AB** e **J** per migliorare la grafica mobile di PS (visibilità e posizione dei banner e dei contenuti) è concluso.
+    *   In risposta a **Tiziano Menduto**, **FG** riporta l'aggiornamento di **TIZ** del 27 marzo sull'approvazione della riforma del copyright da parte del Parlamento Europeo. La direttiva, pur con alcune modifiche, entrerà in vigore non prima di due anni dalla pubblicazione e richiederà un ulteriore passaggio nel Consiglio Europeo, con possibili correttivi in Italia.
+
+*   **9 aprile 2019:**
+    *   **FG** discute l'introduzione di un abbonamento premium, suggerendo "Puntosicuro PLUS". In seguito, a 31.5.19, **LM** (Luigi Meroni) stabilisce che si chiamerà "PuntoSicuro PRIME". A 4.12.19, **J** e **FG** formalizzano una proposta per rendere il servizio a pagamento più vendibile, decidendo che l'App sarà gratuita e pubblicizzata solo per gli utenti della Banca Dati. **FG** valuterà attentamente l'opzione di rendere i documenti gratuiti per un solo giorno per evitare impatti negativi sulla SEO.
+    *   **FG** ha valutato l'aumento dei servizi agli abbonati: una proposta per rispondere a quesiti sulla sicurezza è stata inviata ad **Anna Guardavilla**, e una richiesta per analizzare il database abbonati per offerte di prodotti MIM a prezzo scontato è stata inviata a **MGR**.
+    *   **FG** ha valutato con **GR** (Giulio Regosa) di iniziare a preparare un tutorial/clip di presentazione di PS, seguito da video sulla Banca Dati e sull'utilizzo della ricerca, considerando che il modulo di ricerca necessita miglioramenti e manca un video di presentazione.
+    *   **FG** informa che la protezione degli articoli dalla copiatura fraudolenta era un compito per LOB IT. A 17.9.19, l'attività è stata completata: l'utilizzatore è ora obbligato a inserire la fonte nel testo copiato (CTRL+C).
+    *   **FG** indica come compito per LOB IT la promozione del servizio di attestazione, includendo il riepilogo degli articoli letti durante l'anno.
+    *   **FG** descrive il processo di gestione dei mancati rinnovi degli abbonamenti: la Redazione riceve le email, esegue controlli e invia solleciti e richieste di motivazione. A 17.9.19, **FG** aggiunge l'esito di un test condotto a luglio 2019, che ha riscontrato problemi tecnici.
+    *   **FG** ha valutato l'opportunità e le criticità relative all'inserimento del rinnovo automatico del servizio in abbonamento. L'aggiornamento del 17/09/2019 indica che **FG** si occuperà di analizzare quanti clienti pagano con carta di credito e valuterà la modifica delle condizioni di vendita per abilitare il rinnovo automatico.
+    *   **FG** ha proposto di migliorare e semplificare il modulo di ricerca, con l'intenzione di valutarne la fattibilità con LOB IT.
+    *   **FG** ha avviato l'organizzazione di un convegno alla fiera Ambiente Lavoro, incentrato su cybersecurity e sicurezza sul lavoro, proponendo il coinvolgimento di **Biasiotti** e **Servadio**. L'obiettivo è attrarre RSPP per la vendita di corsi. È stata tenuta una prima riunione con **FG**, **LM**, **DDA**, e **GR**, e una mail con la proposta è stata inviata ad Ambiente Lavoro. **PDC** ha confermato che il corso Cybersecurity potrà essere modificato e reso disponibile in tempo.
+    *   **FG** ha avviato la valutazione di gadget per fiere ed è in attesa di preventivi per un elmetto protettivo.
+    *   **FG** ha richiesto la creazione di un sistema di raccolta dati a LOB IT per monitorare iscritti e disiscritti alla newsletter, nuovi abbonamenti, rinnovi e mancati rinnovi. L'aggiornamento del 17/09/2019 richiede di aggiornare i dati a Fine Agosto 2019.
+    *   **FG** ha richiesto dati a **MGR** per creare una tabella di monitoraggio dei costi relativi ai fornitori di PS. L'aggiornamento del 17/09/2019 indica che **FG** ha richiesto a **RP** il file con i dati dei costi dei fornitori PS per il prossimo COGE.
+    *   **FG** ha richiesto dati a **MGR** per creare una tabella di monitoraggio delle vendite di pubblicità di PS. L'aggiornamento del 17/09/2019 indica che la tabella è da aggiornare.
+    *   **FG** ha richiesto dati a **MGR** per analizzare il database degli abbonati e individuare quali siano anche clienti di altri prodotti MIM; **MKT** valuterà l'utilizzo dell'elenco.
+
+*   **11 aprile 2019:**
+    *   **FG** ha proposto un nuovo servizio di "Informazione ai lavoratori per clienti piattaforme MIM", sfruttando articoli di PS per adempiere all'articolo 36 dlgs 81/08.
+    *   **PDC** ha sintetizzato l'idea e ha chiesto a **SIG** la fattibilità tecnica. **SIG** ha confermato la fattibilità tecnica, inclusa la tracciabilità di invio, lettura, accesso e permanenza, stimando un mese di sviluppo a partire dal rilascio di DynDevice 4.2 (luglio 2019).
+    *   **Luigi Meroni** ha espresso preoccupazione per il costo di sviluppo (160 ore), suggerendo un sondaggio con clienti importanti per valutarne l'interesse.
+
+*   **15 maggio 2019:**
+    *   **FG** ha confermato che la sala per il convegno è stata prenotata e che **Biasiotti** e **Servadio** sono disponibili a partecipare.
+    *   **FG** ha comunicato che il testo per la presentazione di PS è stato predisposto e la prima clip di presentazione è stata registrata; **AGI** sta lavorando al montaggio.
+
+*   **31 maggio 2019:**
+    *   **Luigi Meroni** (LM) ha annunciato che il servizio PREMIUM di PS si chiamerà "PuntoSicuro PRIME", ispirandosi al modello Amazon, e ha sottolineato la necessità di definire una strategia efficace per la transizione e il marketing. L'aggiornamento del 17/09/2019 indica che **FG** organizzerà a inizio ottobre una riunione con **J** e **DDA** per la progettazione del nuovo logo e la pianificazione del passaggio.
+
+*   **17 luglio 2019:**
+    *   **FG** ha comunicato il completamento del video di presentazione di PS, pubblicato su Facebook e YouTube, e diffuso attraverso vari canali.
+    *   **FG** ha riferito che **RES** ha completato l'attività che permette, al momento della copia di un testo da un articolo, di visualizzare un alert di avvenuta copia e di incollare automaticamente la fonte alla fine del testo.
+    *   **FG** ha annunciato che **RES** ha sviluppato la funzionalità per un'attestazione generale, che riassume tutte le attestazioni acquisite nel tempo. Questa funzionalità verrà promossa a settembre tramite un articolo.
+    *   **FG** ha confermato l'organizzazione del convegno, ringraziando **DDA** e **LM** per il loro contributo.
+    *   **Federica Gozzini** ha comunicato la preparazione di due sondaggi per gli utenti della banca dati (di gradimento e per abbonamenti non rinnovati). È stato deciso, dopo analisi di **SIG**, di utilizzare Dyndevice per l'invio. L'attività è stata sospesa per problematiche nella raccolta dati aggregati e compatibilità, con ripresa prevista a settembre.
+
+*   **17 settembre 2019:**
+    *   **Luigi Meroni** (LM) ha proposto di discutere l'introduzione di un modello a pagamento per Puntosicuro nel 2020, simile a quello di testate giornalistiche, con un numero limitato di articoli gratuiti. **Luigi Meroni** ha richiesto dati sul numero medio di articoli letti dagli utenti. **SIG** aveva già condotto analisi e sperimentazioni, indicando che il paywall non influisce sulla SEO e che gli articoli verrebbero indicizzati da Google News. Il progetto è stato sospeso al 2020 in attesa di chiarimenti.
+    *   **Luigi Meroni** (LM) ha indicato una promozione per la vendita di pubblicità su Puntosicuro, con **Luigi Meroni** e **Federica Gozzini** che avrebbero proposto a **GA** di gestire la vendita ad "ambiente lavoro" con Media kit e sconti fiera.
+
+*   **21 novembre 2019:**
+    *   **Federica Gozzini** ha confermato che l'evento per il ventennale è stato organizzato e la registrazione è disponibile. Ha inoltre dichiarato che un servizio non specificato è stato creato e promosso, e che la relativa attività può essere chiusa.
+    *   **Federica Gozzini** ha chiuso l'attività relativa al convegno (presumibilmente quello del ventennale) e quella relativa a fiere e gadget.
+    *   **Federica Gozzini** ha aggiornato sullo stato del rinnovo automatico dell'abbonamento per pagamenti con carta di credito: l'analisi ha rivelato che circa metà dei pagamenti avviene con carta di credito. **SIG** ha confermato la fattibilità tecnica entro fine gennaio 2020, con un flag per la selezione/deselezione. **Caruso** ha indicato le modifiche contrattuali necessarie.
+
+*   **4 dicembre 2019:**
+    *   **Federica Gozzini** ha confermato che il rinnovo automatico per gli abbonamenti sarà disponibile da fine gennaio 2020.
+    *   **Luigi Meroni** (LM) ha suggerito di valutare una collaborazione con ANMIL per il tema "AMBIENTE SU PS".
+
+*   **14 febbraio 2020:**
+    *   **Federica Gozzini** ha riepilogato le azioni programmate per il 2020 in vista del COGE del 19 febbraio, includendo il rinnovo automatico, la ripresa delle vignette, la campagna "NO cellulare alla guida", l'aumento della collaborazione con ANMIL, l'inserimento di POP UP, i sondaggi, un tutorial sui servizi PS, la gestione dei mancati rinnovi, il miglioramento del modulo di ricerca e la richiesta di articoli a docenti MIM.
+    *   **Federica Gozzini** ha specificato che il rinnovo automatico è stato implementato solo per i pagamenti con carta di credito, le condizioni di vendita sono state modificate e la funzionalità rilasciata in DynDevice; si attendeva risposta da BANCA SELLA.
+    *   **Federica Gozzini** ha dichiarato che la creazione della nuova serie di vignette è stata affidata ad **AM**, con **Federica Gozzini** e **PDC** a supporto per temi e contenuti.
+    *   **Federica Gozzini** ha dettagliato l'organizzazione della campagna “NO cellulare alla guida”, gestita da un gruppo di lavoro composto da **Federica Gozzini** (organizzazione con **MKT**), **AM** (realizzazione manifesto) e **TIZ** (articoli/interviste).
+    *   **Federica Gozzini** ha indicato che **Tiziano** avrebbe contattato ANMIL per trovare un canale di interesse per PS.
+    *   **Federica Gozzini** ha segnalato che l'inserimento di POP UP era ancora un TODO, e ha riaffermato la necessità di preparare un tutorial/clip e di richiedere articoli ai docenti MIM.
+
+*   **19 febbraio 2020:**
+    *   **Ivo Benedetti** (IB) ha stabilito che entro fine marzo 2020 **Luigi Meroni** (LM) avrebbe contattato i primi 5 docenti per gli articoli.
+    *   **Ivo Benedetti** (IB) ha fissato la ripresa delle vignette da marzo 2020, sotto la responsabilità di **Luigi Meroni** (LM).
+    *   **Ivo Benedetti** (IB) ha indicato che la campagna “NO cellulare alla guida” sarebbe stata completata entro fine marzo.
+
+*   **9 settembre 2020:**
+    *   **Federica Gozzini** ha comunicato che l'attività del rinnovo automatico è stata conclusa a giugno, risultando attiva con condizioni contrattuali modificate.
+    *   **Federica Gozzini** ha chiuso l'attività di collaborazione con ANMIL, specificando che **TIZ** aveva contattato ANMIL e partecipato a 10 interviste radiofoniche, ma la collaborazione era stata temporaneamente sospesa.
+    *   **Federica Gozzini** ha chiuso l'attività di richiesta articoli a docenti MIM, poiché non più possibile a seguito di nuovi accordi contrattuali (indicazione di **PDC**).
+    *   **Federica Gozzini** ha annunciato che la pubblicazione delle vignette è stata rinviata a causa dell'emergenza Coronavirus, con possibile ripresa da ottobre, previa conferma di disponibilità di **PDC** e **AM**.
+    *   **Federica Gozzini** ha indicato che la campagna “NO cellulare alla guida” è stata rinviata a causa del Coronavirus, forse a inizio 2021.
+    *   **Federica Gozzini** ha informato che da giugno è stato aumentato il listino della pubblicità per consentire maggiori sconti.
+
+*   **5 novembre 2020:**
+    *   **Federica Gozzini** ha presentato due proposte di nuovi servizi emerse dal COGE del 4 novembre 2020: servizio di consulenza/risposta a quesiti (evidenziando complessità e dubbi di costo e legalità) e convegni/eventi/premi (sconsigliando la duplicazione di premi e suggerendo un'area marketing interna).
+    *   **Federica Gozzini** e **Tiziano** hanno riportato le discussioni del COGE del 4 novembre 2020 riguardo l'opportunità di rendere Puntosicuro un giornale a pagamento, esprimendo una condivisa preoccupazione per un calo immediato di accessi, visite, iscritti alla newsletter e inserzionisti, concludendo che rappresenta un rischio eccessivo.
+    *   **Federica Gozzini** ha riferito che, a seguito del COGE del 4 novembre 2020, **LM** (Luigi Meroni) ha richiesto di contattare **AiFOS** per una collaborazione sulla creazione e distribuzione di schede basate sulla rubrica di Puntosicuro "Imparare dagli errori". **Tiziano** è stato incaricato di contattare **AiFOS** per gli aggiornamenti.
+
+*   **11 novembre 2020:**
+    *   **Federica Gozzini** ha riportato la posizione di **TM** (Tullio Meroni, datata 5 novembre 2020) sulla questione di rendere Puntosicuro a pagamento: **TM** ha ribadito la decisione precedente di mantenerlo gratuito, citando la contrarietà del Presidente MIM e chiedendo di chiudere definitivamente l'argomento. Ha affermato che il fatturato di MIM deve provenire dalla vendita di piattaforme e corsi.
+    *   **Federica Gozzini** ha riportato la posizione di **TM** (datata 9 novembre 2020) riguardo i servizi di consulenza e gli eventi. **TM** ha ribadito la sua contrarietà all'offerta di servizi di consulenza e all'organizzazione di convegni ed eventi da parte di MIM, ma si è dichiarato favorevole all'ampliamento degli argomenti di Puntosicuro. Ha manifestato interesse ad analizzare i risultati della newsletter di Puntosicuro e ha raccomandato che la pubblicità dei prodotti MIM sia valorizzata.
+    *   **Federica Gozzini** (FG) comunica indicazioni ricevute da **TM** sulla pubblicità su Puntosicuro (PS): **TM** richiede che la pubblicità di prodotti MIM sia valorizzata ad almeno il 50% del miglior valore tabellare riservato agli inserzionisti, chiedendo a **FG** di registrare mensilmente il numero di annunci MIM e di comunicare i dati. **TM** raccomanda massima attenzione per mantenere la pubblicità di terzi entro limiti ragionevoli e chiede a **FG** e **TIZ** di definire tale limite. **TM** sollecita **FG** e **TIZ** per l'aumento di sessioni e pagine di PS, suggerendo di consultare **GR** per ottenere dati mensili sulle pubblicazioni concorrenti tramite Semrush.
+    *   **Federica Gozzini** (FG) risponde a **TM** sulla pubblicità: **FG** dichiara che il tema della valorizzazione della pubblicità MIM su PS non è mai stato trattato e chiede a **LM** (Lorenza Menduto) se debba essere valutato. **FG** stima che circa l'80% della pubblicità sia di MIM, e conclude che la pubblicità di terzi rientra in una percentuale più che ragionevole, generando circa 50.000 euro all'anno di fatturato per PS.
+
+*   **12 novembre 2020:**
+    *   **Federica Gozzini** (FG) aggiorna sul progetto vignette: La creazione di vignette si è rivelata più difficile del previsto per **AM**, portando **LM** (Luigi Meroni) a decidere di escluderla dall'attività. Il vignettista precedente "Tubal" non ha risposto, e la proposta di rivolgersi a **Nicola Canal** non è stata accettata. Il progetto è sospeso.
+    *   **Federica Gozzini** (FG) comunica che l'attività della campagna "NO cellulare alla guida" è sospesa a seguito dell'emergenza Covid.
+    *   **Federica Gozzini** (FG) riferisce delle difficoltà del sondaggio creato con DYNDEVICE e sottolinea la necessità di valutare con **J** l'uso di altri strumenti per inviare un sondaggio entro fine anno.
+
+*   **13 novembre 2020:**
+    *   **Federica Gozzini** (FG) riporta il parere di **TM** (Tullio Meroni) su diverse attività della checklist: **TM** è negativo riguardo l'aumento dei servizi agli abbonati, la campagna “NO cellulare alla guida”, i POP UP e la proposta di PS a pagamento (quest'ultima attività è chiusa). **TM** consiglia a **FG** di chiedere il parere di **Lorenza Menduto** (LM) per il modulo di ricerca, il sondaggio e l'analisi del database abbonati. **TM** raccomanda un progresso continuo su qualità/costo dei fornitori e sulle regole in Banca Dati per le schede **AIFOS** "Imparare dagli errori". **TM** consiglia a **FG** e **TIZ** la definizione di regole per mantenere la qualità e l'immagine super partes di PS, raccomandando qualità e allargamento degli argomenti di PS e della Banca Dati, ed evitando vignette o disegnini che ne compromettano la qualità.
+
+*   **18 novembre 2020:**
+    *   **Federica Gozzini** (FG) annuncia la creazione di nuove categorie per aumentare i contenuti di Puntosicuro, mantenendosi nell'ambito della sicurezza: Cultura della sicurezza, Promozione della salute, Infortuni sul lavoro, Smart working e telelavoro, Sicurezza scuole, HSE, HSE Manager, Leadership, Soft skills.
+    *   **Federica Gozzini** (FG) chiarisce che i costi relativi ai fornitori sono già disponibili in dettaglio nella tabella del bilancio aggiornata periodicamente da **RP**, rendendo non necessaria la creazione di una nuova tabella.
+
+*   **5 maggio 2021:**
+    *   **Federica Gozzini** (FG) fornisce un aggiornamento generale sullo stato del progetto:
+        *   ADS GOOGLE PS: L'obiettivo è aumentare gli abbonamenti tramite ADWORDS (budget definito da **MKT**). **FG** ha richiesto landing page per monitorare le conversioni, ma la campagna non sta convertendo.
+        *   PULIZIA DB NL PS: Il database degli iscritti alla newsletter è stato ripulito, eliminando circa 18.000 indirizzi (totale 45.931). Si registra un leggero recupero (0,5%) nelle acquisizioni da NL.
+        *   CAMPAGNA PER BONUS PUBBLICITA': Una newsletter è stata inviata per informare i clienti sulla possibilità di usufruire di un bonus per l'acquisto di campagne pubblicitarie su PS.
+        *   FATTURAZIONE BANCA DATI: **MGR** ha creato un sistema per velocizzare la fatturazione, riducendo significativamente il tempo necessario.
+        *   MIGLIORARE MODULO D'ORDINE E PERCORSI DI ABBONAMENTO & MIGLIORARE GRAFICA NL: L'analisi e il miglioramento dei percorsi di conversione (NL/DB) e della grafica NL potranno essere effettuati solo dopo lo switch di PS.
+        *   MIGLIORAMENTO DELL' ENGAGEMENT: **LM** (Luigi Meroni) ha notato un basso coinvolgimento dei lettori sul sito PS (pochi commenti, pochi like/condivisioni su Facebook, migliore performance su LinkedIn). La Redazione contesta i dati sui commenti, riportando numeri superiori. **MKT** ha fornito statistiche dettagliate sui follower e l'engagement dei social media di PS e ha concluso che la pubblicazione sui social può antagonizzare la lettura della NL. **MKT** ha assunto la gestione dell'attività di miglioramento dell'engagement.
+    *   **Federica Gozzini** (FG) aggiorna sul rapporto con **AiFOS** e **ATS Brianza**, basandosi sull'ultimo aggiornamento di **TIZ**:
+        *   **TIZ** ha visionato le schede di **AiFOS** del progetto "Imparare dagli errori" dell'ATS Brianza.
+        *   **TIZ** ha discusso con **AiFOS** l'ipotesi di convertire articoli di "Imparare dagli errori" di PS in slide, con interesse e fattibilità ancora da verificare.
+        *   **TIZ** sta cercando una collaborazione diretta con **ATS Brianza**. La pubblicazione degli articoli tratti dal sito dell'ATS Brianza continua.
+
+*   **10 novembre 2021:**
+    *   **Luigi Meroni** (LM) fornisce un aggiornamento sulle azioni previste per il 2021:
+        *   La campagna per potenziali inserzionisti (Bonus Pubblicità, prorogato per 2021/2022) è stata attivata entro marzo 2021 ma senza successo.
+        *   L'analisi dei percorsi di conversione a NL e DB (entro giugno 2021) è stata completata.
+        *   La campagna "Mi piace" per la pagina Facebook PS (almeno un trimestre a 3/4 euro/giorno, entro fine marzo 2021) è stata completata.
+        *   L'ampliamento dell'engagement su notizie PS nel sito e sui social è "IN CORSO"; **LM** suggerisce di chiedere a **GR** (Giulio Regosa) o a una risorsa MKTG esterna.
+        *   **TIZ** sta approfondendo i rapporti con **AiFOS** per collaborare a un premio di tesi di laurea (con sfondo giornalistico e donazione di 500 euro). **TIZ** presenterà un progetto più articolato entro il 30.11.21.
+        *   **FG** e **TIZ** stanno valutando la partecipazione in presenza di **TIZ** all'evento "Ambiente Lavoro".
+
+---
+Original length: 79034 characters and 11490 words.
+Summary length: 42297 characters and 5555 words.
+Compression ratio: 0.54 (summary length / original length).
+Estimated input tokens: 19758.
+Estimated output tokens: 10609.
+Summary generated in 345.701526 seconds.

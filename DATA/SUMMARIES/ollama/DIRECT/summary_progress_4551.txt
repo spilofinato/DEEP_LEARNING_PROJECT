@@ -1,0 +1,24 @@
+Ecco un riassunto cronologico dei messaggi relativi al progetto "AP - Miglioramento gestione acquisti":
+
+*   **2013-10-28 (Pietro de' Castiglioni):** Definizione del modello di processo `p_acq_approvvigionamenti.xls` (Rev. 00). Ridefinizione dei flussi: autorizzazione alla richiesta d'ordini (RDA), approvazione richiesta dal responsabile del richiedente, emissione ordine. Previsto incontro con RP. Rita Parisi (RP) segnala necessità di fare emettere gli ordini tramite FOM a posteriori sulla fattura, altrimenti manca controllo e competenza.
+    *   *Allegato:* `p_acq_approvvigionamenti.xls`
+*   **2013-12-02 (Pietro de' Castiglioni):** Matteo Meroni (MM) segnala necessità di gestione di materiali di magazzino (libri, ecc.) e servizi editoriali. Paolo Gaioni (PG) e Alessandro Ronchi (AR) devono formalizzare il workflow. LM (nome non specificato) ha ruolo di approvazione.
+*   **2013-12-02 (Pietro de' Castiglioni):** Rita Parisi (RP) solleva dubbi sul processo: necessità di verifica ordini provvisori, mancanza indicazioni per provvigioni, gestione controllo evasione, registrazione fattura in Infinity (a cura di RP) deve precedere pagamento. Bonifici generati da FOM, approvati e inviati da LM.
+*   **2014-05-23 (Pietro de' Castiglioni):** FOM segnala possibilità di modificare gli ordini confermati da LM senza tornare in stato "provvisorio".
+    *   *Allegato:* nan
+*   **2014-05-23 (Pietro de' Castiglioni):** PG e MGR (nome non specificato) verificano possibilità di riportare in stato "provvisorio" gli ordini modificati. Aggiunta nota "provvisorio" in caso di stampa.
+    *   *Allegato:* `Ordine-ACQ-PROV.pdf`
+*   **2014-06-04 (Paolo Gaioni):** Intervento per impedire modifica o eliminazione ordini confermati. Esibizione messaggio "provvisorio" e sostituzione numero di protocollo.
+*   **2014-06-30 (Pietro de' Castiglioni):** RP segnala caso di carico a magazzino con DDT senza prezzo, fattura differita non contestabile. Necessità di modificare ordine e listino.
+*   **2014-06-30 (Alessandro Ronchi):**  Richiesta di collegamento VPN MIM per gestione casistiche simili.
+*   **2014-06-30 (Rita Parisi):**  Domande relative al ciclo autorizzativo degli ordini e variazioni. Chiarimenti su possibilità di approvazione da remoto e da PDC in assenza di LM.
+*   **2014-08-08 (Pietro de' Castiglioni):** Inserimento del Questionario fornitori nell'area "Qualità" di MimNet. Prossima riunione MIM per riassumere nuove modalità di gestione ordini.
+*   **2017-05-27 (Alessandro Ronchi):** Chiusura del processo per l'attivazione della Gestione ciclo passivo.
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 2623 characters and 302 words.
+Compression ratio: 0.27 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 690.
+Summary generated in 32.063937 seconds.

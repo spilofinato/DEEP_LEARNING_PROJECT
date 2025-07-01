@@ -1,0 +1,38 @@
+- 2013-10-28 – Pietro de' Castiglioni chiede di ridefinire il modello di processo acquisti (allegato p_acq_approvvigionamenti.xls). Specifica i ruoli per la richiesta di ordini (RDA) e l’approvazione. Annuncia incontro con Rita Parisi il 21/11. Riporta osservazioni di Rita Parisi sulla poca utilità se l’ordine viene emesso a posteriori da FOM, sottolineando la necessità di modificare le procedure.
+    - Allegato: p_acq_approvvigionamenti.xls
+- 2013-12-02 – Pietro de' Castiglioni riprende discussioni del 19 e 20 novembre fra Matteo Meroni (LM), Alessandro Ronchi, RP, SIG, CAM, PG e FOM. Le azioni delineate:
+    - Matteo Meroni evidenzia la mancanza di gestione specifica per materiale magazzino, servizi editoriali e servizi vari; suggerisce sviluppo in MimNet a cura di MMA.
+    - Alessandro Ronchi coordina il gruppo (LM, RP, PDC) per definire responsabilità e dettaglia esempi di workflow su tipologie di acquisto (es. corsi, servizi HW/SW), propone formalizzazione del workflow con PG.
+    - Intese per la realizzazione specifiche tecniche con SIG; LM e PDC da formare su Infinity per approvazione ordini, con passaggio di delega a FOM.
+    - Attenzione ai tempi di sviluppo (SIG impegnato fino a gennaio 2014); RP incaricata di schedulare passaggi in CDA.
+    - Nessun allegato.
+- 2013-12-02 – Pietro de' Castiglioni inoltra osservazioni puntuali di Rita Parisi sullo schema ciclo passivo:
+    - Rita Parisi approva il lavoro ma segnala dubbi su: necessità della verifica ordini provvisori su tutti gli ordini, mancanza di sezioni su provvigioni/royalties/prestazioni amministrative, necessità di chiarimenti su controllo evasione e registrazione fatture.
+    - Suggerisce tempistiche e responsabilità su bonifici e fatturazione.
+    - Alessandro Ronchi conferma invio dello schema concordato con LM e PDC per verifica finale da parte di RP, per poi passare alla formalizzazione con PG.
+    - Allegato: schema acquisti MIM.xlsx
+- 2014-05-23 – FOM, tramite segnalazione inoltrata da Pietro de' Castiglioni, fa notare che un ordine confermato da LM può essere comunque modificato senza tornare “provvisorio”, rendendo inefficace la procedura di controllo.
+    - Nessun allegato.
+- 2014-05-23 – Pietro de' Castiglioni incarica PG (Paolo Gaioni) e MGR di verificare una modifica procedurale: ogni ordine modificato dopo la conferma di LM deve tornare “provvisorio”; si aggiunge nota esplicativa nei documenti provvisori.
+    - Nessun allegato.
+- 2014-06-04 – Paolo Gaioni comunica che da ora, dopo la conferma, un ordine d’acquisto non può più essere modificato o eliminato. Se un ordine è in stato provvisorio, quando viene stampato/generato PDF appare la dicitura “Attenzione: questo documento è provvisorio, e non costituisce impegno di acquisto da parte di Mega Italia Media” e il numero protocollo è sostituito da “PROVVISORIO”.
+    - Allegato: Ordine-ACQ-PROV.pdf
+- 2014-06-30 – Discussione tra RP (Rita Parisi), LM (Matteo Meroni), Alessandro Ronchi, Paolo Gaioni su gestione ordini in caso di cambio prezzi tra ordine e fattura, e problemi di accesso remoto a Infinity:
+    - Rita Parisi pone il quesito sulla gestione delle variazioni di prezzo fra DDT e fattura non contestabile, sottolineando il rischio di errori nella valorizzazione delle rimanenze.
+    - Alessandro Ronchi suggerisce come prassi una conferma d’ordine aggiornata dal fornitore, ma riconosce la necessità di modifiche all’ordine/listino laddove la fattura prevalga.
+    - Paolo Gaioni indica la necessità di accesso VPN e fornisce assistenza a LM.
+    - LM riferisce di non riuscire a confermare ordini da remoto e autorizza PDC in caso di assenza.
+    - Rita Parisi domanda sulle impostazioni del ciclo autorizzativo ordini e sulle deleghe durante assenze.
+    - Nessun allegato.
+- 2014-08-08 – Pietro de' Castiglioni comunica l’inserimento in MimNet del “Questionario fornitori” da inviare a tutti i nuovi fornitori prima dell’ordine; ricorda la riunione MIM del 26 agosto per riassumere le nuove modalità di gestione ordini fornitori.
+    - Nessun allegato.
+- 2017-05-27 – Alessandro Ronchi dichiara chiuso il progetto a seguito dell’attivazione della Gestione ciclo passivo e riepiloga che tutte le azioni relative sono gestite.
+    - Nessun allegato.
+
+---
+Original length: 9957 characters and 1338 words.
+Summary length: 4296 characters and 573 words.
+Compression ratio: 0.44 (summary length / original length).
+Estimated input tokens: 2489.
+Estimated output tokens: 1108.
+Summary generated in 18.512369 seconds.

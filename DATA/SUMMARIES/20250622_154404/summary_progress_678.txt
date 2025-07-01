@@ -1,9 +1,0 @@
-Gestione commesse MIM (ID 678):
-
-*   **08/01/2004:** PDC attiva nuove commesse: amministrative (46/C0), commerciali (47/C0), vari MI (48/CO), CD MIM nuovi (49/CO), video MIM (50/CO).
-*   **08/01/2004:** Inserimento ore lavorate da ogni operatore, da comunicare giornalmente e entro il 2 del mese successivo.
-*   **09/01/2004:** Attivate commesse: lavori vari x MI (48/CO), CD MIM nuovi (49/CO), video MIM (50/CO).
-*   **12/01/2004:** Attivate commesse: lavori vari x MS (54), lavori vari x MIT (55), e-learning MIM (53), Banca dati Punto sicuro (56/57), rassegna stampa (58).
-*   Elenco commesse AD HOC in F:MIM/contabilità/commesse MIM.DOC.
-*   Gestione ore, codici riassuntivi (componenti, spese, valore progetto).
-*   Chiusura commesse dopo fatturazione (data documento).

@@ -1,0 +1,17 @@
+*   **2024-06-05:** Paolo Disetti propone l'installazione di un SIEM per centralizzare i log. Si incarica LOT di individuare un software per salvare le password multiutente. Viene creato un file Excel con le attività SIG da ridistribuire e allegato al messaggio.
+*   **2024-06-07:** Si sceglie Bitwarden come portachiavi password condiviso. Vengono creati account temporanei (MMA, SIG, LOT, DIS, IT_ADMIN). Viene creato l'account it_admin@megaitaliamedia.it per centralizzare la gestione degli accessi. Viene allegato un file Excel.
+*   **2024-06-11:** Matteo Marcoli allinea le attività tra MMA e SIG, riprogrammando un passaggio legato alla conservazione sostitutiva degli attestati. Luca Sigalini forma LOT sulle attività settimanali e mensili. Viene allegato un file Excel.
+*   **2024-06-14:** Matteo Marcoli carica un file di stato aggiornato. Paolo Disetti aggiorna il file Excel delle attività e segnala che LOT ha attivato l'account it_admin@megaitaliamedia.it. Viene allegato un file Excel.
+*   **2024-06-14:** Viene aperto un account Bitwarden con utente it_admin@megaitaliamedia.it per l'acquisto delle licenze. LOT installa Bitwarden. Vengono acquistate licenze test. SIG, MMA e LOT popolano il DB. Paolo Disetti effettua una call con MMA, LOT e SIG.
+*   **2024-06-19:** Paolo Disetti mappa gli accessi ai servizi BITWARDEN. Viene allegato un file Excel.
+*   **2024-06-25:** LOT estrae le sue password da inserire in Bitwarden. Si discute della necessità di formare il personale che usa ChatGPT. Viene in carico a PG la gestione della formazione.
+*   **2024-07-03:** Paolo Disetti indica di creare righe segnaposto per tutte le macchine in bitwander e che LM inserirà le password di rootApache 0X SSH root.
+
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 1772 characters and 227 words.
+Compression ratio: 0.28 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 477.
+Summary generated in 20.21008 seconds.

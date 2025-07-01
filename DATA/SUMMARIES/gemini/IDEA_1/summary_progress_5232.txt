@@ -1,0 +1,45 @@
+*   **5 giugno 2024:**
+    *   **Paolo Disetti** ha comunicato, a seguito di un incontro con SIG, LOT, MMA e DIS, che **SIG** ha proposto l'installazione di un SIEM per centralizzare i log delle macchine.
+    *   **LOT** è stato incaricato di estrarre e salvare su disco esterno i log di tutte le macchine Windows (inclusa V-utility) e di individuare un software per salvare le password multiutente.
+    *   È stato allegato un file Excel (`2024-06-04 Attività SIG 2024 con note.xlsx`) con le attività SIG da ridistribuire; nel file è stata aggiunta una nuova tab "mail adm" per tracciare gli account con mail personali.
+
+*   **7 giugno 2024:**
+    *   **Paolo Disetti** ha comunicato la scelta di testare Bitwarden come portachiavi password condiviso, da installare su una VM Linux o Windows V-utility.
+    *   Sono stati definiti gli utenti per la fase di test (MMA, SIG, LOT, DIS, IT_ADMIN) e la creazione dell'utente `it_admin@megaitaliamendia.it` come account Master per i servizi.
+    *   Allegato un aggiornamento delle attività SIG (`2024-06-04 Attività SIG 2024 con note(1).xlsx`).
+
+*   **11 giugno 2024:**
+    *   **Matteo Marcoli** ha riferito dell'allineamento con **SIG**, inclusi il passaggio dell'attività settimanale "Verifica compilazione (e delta) ore dei collaboratori LOB" e la riprogrammazione al 18/06 del passaggio per la conservazione sostitutiva degli attestati.
+    *   È stato allegato un nuovo file (`2024-06-11 Attività SIG 2024 con note.xlsx`).
+    *   **Luca Sigalini** ha formato **LOT** sulle attività settimanali e mensili (verifica e approvazione aggiornamenti WSUS, pulizia WSUS mensile e verifica attività MGR).
+
+*   **14 giugno 2024:**
+    *   **Matteo Marcoli** ha caricato un file di progresso con le ultime modifiche (`2024-06-11 Attività SIG 2024 con note.xlsx`).
+    *   **Paolo Disetti** ha riferito di una call con MMA, LOT e SIG. Il file delle attività SIG è stato aggiornato, confermando il rispetto delle formazioni previste.
+    *   **LOT** ha attivato la mail `it_admin@megaitaliamedia.it`, che verrà utilizzata come utenza per la creazione di tutti i servizi cloud e non necessari (es. Bitwarden, AWS).
+    *   È stato aperto un account Bitwarden con `it_admin@megaitaliamedia.it` per l'acquisto delle licenze.
+    *   **LOT** ha installato Bitwarden su una VM Linux dedicata.
+    *   Sono state acquistate licenze per IT_ADMIN, MMA, SIG, LOT, DIS. Il DB legato a IT_ADMIN è in fase di popolamento da parte di **SIG, MMA e LOT**.
+    *   Sono state definite le procedure per la modifica della password di IT_ADMIN (a cura di **LM**), la modifica delle utenze dei servizi mappati e la condivisione delle password. È stato descritto un task di backup notturno del file Bitwarden.
+    *   Allegato un aggiornamento (`2024-06-14 Attività SIG 2024 con note.xlsx`).
+
+*   **19 giugno 2024:**
+    *   **Paolo Disetti** ha dettagliato la mappatura degli accessi ai servizi Bitwarden per LM, SIG, MMA, LOT e RES, includendo vari servizi (es. AWS, Azure, Office 365).
+    *   È stata discussa la rimozione di utenti specifici e l'aggiunta di nuovi assunti nel gruppo Domain Admins.
+    *   Allegato un aggiornamento (`2024-06-14 Attività SIG 2024 con note.xlsx`).
+
+*   **25 giugno 2024:**
+    *   **Paolo Disetti** ha indicato l'utilizzo del numero interno per l'autenticazione MFA, quando disponibile.
+    *   **LOT** ha effettuato l'estrazione delle sue password per inserirle su Bitwarden; si attende SIG e MMA per il merge e il test.
+    *   È stata discussa la necessità di formare il personale che utilizza ChatGPT; la gestione è in carico a **PG**.
+
+*   **3 luglio 2024:**
+    *   **Paolo Disetti** ha stabilito la creazione di righe segnaposto per tutte le macchine in Bitwarden e che **LM** inserirà le password di root (es. Apache, SSH).
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 3840 characters and 493 words.
+Compression ratio: 0.59 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 994.
+Summary generated in 19.350368 seconds.

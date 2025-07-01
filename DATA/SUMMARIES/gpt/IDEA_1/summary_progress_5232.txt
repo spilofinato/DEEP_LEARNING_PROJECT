@@ -1,0 +1,34 @@
+- 05.06.2024 Paolo Disetti propone di installare un SIEM per centralizzare i log delle macchine; incarica LOT di estrarre i log dalle macchine Windows (escluse V-utility) e salvarli su disco esterno. Viene caricato in allegato un file excel con le attività SIG da ridistribuire, priorità, nuovi responsabili e date di validazione. Creata anche una tab per tracciare gli account mail personali. LOT incaricato di individuare un software per la gestione delle password multiutente.  
+  - **Allegato:** 2024-06-04 Attività SIG 2024 con note.xlsx
+
+- 07.06.2024 Paolo Disetti comunica che verrà testato Bitwarden come portachiavi password condiviso su una MV interna (Linux o Windows V-utility). Creazione utenti di test (MMA, SIG, LOT, DIS, IT_ADMIN). Viene creato l’utente master it_admin@megaitaliamendia.it per centralizzare la gestione dei vari servizi.
+  - **Allegato:** 2024-06-04 Attività SIG 2024 con note(1).xlsx
+
+- 11.06.2024 Matteo Marcoli allinea MMA e SIG: passaggio attività "Verifica compilazione e delta ore collaboratori LOB" e riprogrammazione al 18/06 di passaggio "attestati" in conservazione sostitutiva, eccetto alcuni casi specifici gestiti da LOB Corsi.
+  - **Allegato:** 2024-06-11 Attività SIG 2024 con note.xlsx
+
+- 11.06.2024 Luca Sigalini effettua formazione a LOT sulle attività settimanali e mensili assegnate (aggiornamenti/pulizie WSUS, verifica attività MGR).
+  - **Allegato:** assente
+
+- 14.06.2024 Matteo Marcoli carica il file excel aggiornato con le ultime modifiche.
+  - **Allegato:** 2024-06-11 Attività SIG 2024 con note.xlsx
+
+- 14.06.2024 Paolo Disetti aggiorna dopo una call con MMA, LOT, SIG; aggiorna il file delle attività SIG (allegato). Conseguita formazione secondo programma. LOT attiva la mail it_admin@megaitaliamedia.it che diventa l’utenza centrale per servizi cloud (Bitwarden, AWS…). Il gruppo it_admin comprende MMA, SIG, LOT. Attivato account Bitwarden con utente master e installazione su VM Linux dedicata (IP 192.168.0.5, VPN/locale, sottodominio certificato). Acquistate licenze test per IT_ADMIN, MMA, SIG, LOT, DIS. Popolamento DB per servizi MIM affidato a SIG, MMA, LOT. Definite le fasi successive di gestione password, accessi e backup notturni multipli su sedi diverse (MIM, Seeweb, Tivoli Storage Manager).
+  - **Allegato:** 2024-06-14 Attività SIG 2024 con note.xlsx
+
+- 19.06.2024 Paolo Disetti aggiorna sulla mappatura degli accessi ai servizi tramite Bitwarden e definisce il gruppo admin, dettagliando utenti e ruoli nei vari servizi: AWS, Azure, O365, server locali/Seeweb, NAS, Google, Group email, Domain Controller, Amazon, Gitlab, Aruba, PEC, Certificati, Account Azure. Va aggiornato il gruppo Domain Admins per rimuovere e aggiungere utenti designati.
+  - **Allegato:** 2024-06-14 Attività SIG 2024 con note.xlsx
+
+- 25.06.2024 Paolo Disetti indica di utilizzare MFA su numero interno appena disponibile. LOT ha estratto le sue password per Bitwarden; si attende che anche SIG e MMA eseguano l’operazione, poi verrà fatto il merge e test delle password prima del caricamento da parte di LM. Si discute della formazione del personale sull'uso di chatGPT; incaricato PG per decisione sulle policy.
+  - **Allegato:** assente
+
+- 03.07.2024 Paolo Disetti chiede di creare righe segnaposto per tutte le macchine in Bitwarden; LM inserirà le password di root relative.
+  - **Allegato:** assente
+
+---
+Original length: 6614 characters and 805 words.
+Summary length: 3415 characters and 426 words.
+Compression ratio: 0.52 (summary length / original length).
+Estimated input tokens: 1653.
+Estimated output tokens: 888.
+Summary generated in 10.339518 seconds.

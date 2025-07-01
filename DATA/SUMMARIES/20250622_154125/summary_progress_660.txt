@@ -1,5 +1,0 @@
-Ecco un riassunto conciso del progetto MIM, con un massimo di 1000 caratteri:
-
-**Progetto MIM – Recupero Crediti (2003-2004)**
-
-Obiettivo: ottimizzare il recupero crediti MIM.  Le azioni principali includevano la registrazione dei pagamenti (carta di credito, bonifico), l'analisi dei casi sospesi (con il coinvolgimento di FOM, LM, MAG), la gestione dei dati (IVA, descrizioni),  e la collaborazione tra team per ottimizzare il processo di fatturazione e prevenire il formarsi di crediti scaduti. Si è valutata l'implementazione di soluzioni digitali per automatizzare le procedure.

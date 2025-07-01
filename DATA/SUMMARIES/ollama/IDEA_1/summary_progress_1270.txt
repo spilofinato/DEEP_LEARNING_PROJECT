@@ -1,0 +1,21 @@
+Ecco un riassunto cronologico dei messaggi relativi al riesame del Sistema Integrato Qualità e Sicurezza Informazioni "Progress sempre attivo":
+
+* **Dicembre 2007:** Pietro de' Castiglioni definisce gli elementi base per il riesame del SGQ, attingendo dal Manuale della Qualità MIM, specificando risultati, azioni di miglioramento e risorse necessarie. Pietro de' Castiglioni allega il riesame del 2008 e del 2009.
+* **Novembre 2007:** Pietro de' Castiglioni invia il verbale dell'incontro di riesame del Sistema di Gestione della Qualità, definendo la missione MIM (diventare leader italiano nella vendita di corsi di formazione multimediale sulla sicurezza).  Viene delineata un'analisi di mercato e di riesame, con identificazione di aree di miglioramento: processi commerciali, magazzino, produzione, qualità, sicurezza e personale. Si avvia un'indagine sulla soddisfazione del cliente e si programmano corsi di formazione.
+* **2008:** Viene continuato il progetto di sviluppo del SGQ MIM, volto alla certificazione aziendale e al miglioramento dei processi. Pietro de’ Castiglioni segnala l'implementazione di strumenti di gestione in Meganet.
+* **2010:** Laura Mezzadri (LM) valuta gli indicatori di qualità dei corsi, basandosi sui dati di gradimento. Viene riscontrata una buona soddisfazione dei clienti e si programmano azioni per migliorare i corsi con risultati inferiori.
+* **Dicembre 2010:** Pietro de' Castiglioni allega il "Riesame MIM 2012.pdf", comunicando lo spostamento della data del riesame annuale a marzo deciso dal Gruppo Coordinamento Qualità.
+* **Dicembre 2013:** Pietro de' Castiglioni allega il "Riesame MIM 2013.doc" approvato dopo l'approvazione del bilancio.
+* **Novembre 2014:** Pietro de' Castiglioni allega il "Riesame MIM 2014 .doc", relativo all'anno 2013, approvato a seguito dell'approvazione del bilancio.
+* **Novembre 2014:** Pietro de' Castiglioni fornisce un aggiornamento sull'avanzamento del 2014, evidenziando un calo del lavoro legato agli obblighi formativi ASR. Viene menzionato un "nan" come allegato.
+* **Novembre 2015:** Pietro de' Castiglioni allega il "Riesame MIM 2015.doc", relativo all'anno 2014.
+* **Dicembre 2015:** Pietro de' Castiglioni presenta un riesame sull'avanzamento del 2015, facendo riferimento al CDA del 18 novembre 2015. Si evidenzia una diminuzione della produzione e dei ricavi legata alla diminuzione della richiesta di corsi sulla sicurezza. Si programmano azioni per il 2016: Management By Objectives (MBO), Customer Relationship Management (CRM) e miglioramento dei sistemi di archiviazione. Pietro de' Castiglioni allega il "3VerbaleCDA18-11-2015-bilancio30-09-2015.doc".
+* **Maggio 2016:** Alessandro Ronchi allega il "Riesame MIM 2016.pdf" relativo all'anno 2015.
+
+---
+Original length: 30349 characters and 4090 words.
+Summary length: 2800 characters and 331 words.
+Compression ratio: 0.09 (summary length / original length).
+Estimated input tokens: 7587.
+Estimated output tokens: 734.
+Summary generated in 117.949549 seconds.

@@ -1,0 +1,19 @@
+*   **2012-02-09 10:45:29:** Pietro de' Castiglioni crea il progetto "Fornitori Tecnici" e fornisce un elenco dettagliato di contatti.
+*   **Contatti Principali:**
+    *   **Proprietà Edificio:** Mondial srl (Giancarlo Belleri, g.belleri@bibiemme.com, 333 5346223) e Arch. Baldoni (lavori per Belleri).
+    *   **Ascensore:** Elma (0303583725).
+    *   **Impianto di Rete:** T&T telecomunicazioni srl (Simone Negro, +39 3405185539, simone.negro@ttsrl.it).
+    *   **Collettività & Linee Telefoniche:** Telecom (Roberto Morandi, roberto.morandi@telecomitalia.it, 030 2998510).
+    *   **Impresa Valtellina:** Valpondi (335 1223200) e Lupi (333 2101003).
+    *   **Axitea:** Luca Bernardini (342 6043877, luca.bernardini@axitea.it) e Andrea Nava (348 3911008). Simone Scalvini (348 1529589) per assistenza tecnica.
+*   **Altri Fornitori:** Include informazioni su Impresa edile BC, pittori (Forloni, Gobbini), Carmeccanica, Gruppo Argenta, Teknosistem, e molti altri, fornendo contatti e recapiti.
+*   **Modifica 2016-03-14:** Pietro de' Castiglioni modifica il progetto alle 19:11:22.
+*   **Allegati:** Nessun allegato.
+
+---
+Original length: 4766 characters and 366 words.
+Summary length: 1171 characters and 100 words.
+Compression ratio: 0.26 (summary length / original length).
+Estimated input tokens: 1191.
+Estimated output tokens: 327.
+Summary generated in 18.759228 seconds.

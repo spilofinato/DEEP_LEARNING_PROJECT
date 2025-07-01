@@ -1,4 +1,0 @@
-Incidente SGSI NC 2025: Errato invio newsletter a 7165 utenti DynDevice Sixtema (6/6/2025).
-La causa è stata una modifica ai filtri LMS, dovuta a controlli aggiuntivi che causavano l'annullamento dei filtri. Risolto con rielaborazione query SQL (9/6/2025).
-Implementato nuovo criterio di controllo per modifiche al codice DD (pianificato 31/07/2025).
-Verifica efficacia in corso.

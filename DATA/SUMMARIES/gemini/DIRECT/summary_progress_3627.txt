@@ -1,0 +1,220 @@
+Di seguito il riassunto cronologico del dettaglio del progetto "MIM - gestione":
+
+*   **2000-10-01:**
+    *   Effettuato il **SECONDO INVIO** del catalogo n.17, indirizzato a scuole, pubblica amministrazione (comuni, provincie, regioni, ministeri, forze armate), ospedali, case di cura, pubblica assistenza, associazioni di categoria (industriali, artigiani, commercio, turismo), e aziende con più di 20 dipendenti del Canton Ticino, inclusi i nominativi dalla fiera AMBIENTE LAVORO.
+*   **2000-10-20:**
+    *   Effettuato il **TERZO INVIO** del catalogo n.17 utilizzando TELEXTRA, a clienti Mega Italia con P.iva, liberi professionisti (consulenze speciali, consulenti del lavoro, ingegneri), alberghi, vigilanza e sorveglianza, antifurto, studi tecnici ed industriali, antincendio impianti e attrezzature, impianti elettrici industriali e civili, e antinfortunistica.
+*   **2001-05-08:**
+    *   Spediti 150.000 cataloghi. Iniziata la spedizione di 35.000 cataloghi alle aziende, con inserto di marketing, prevista entro il 16 maggio.
+*   **2001-05 (fine mese):**
+    *   I restanti 100.000 cataloghi saranno spediti sulla base dell'analisi di redemption effettuata da **LM**, **FOM** e **MTP**.
+*   **2001-06-18:**
+    *   Il saldo sul libretto del catalogo ammonta a lire 1.700.000.
+*   **2001-06-26:**
+    *   **LM** ha rivisto le categorie di destinatari mancanti ed eliminato quelle non redditizie.
+*   **2001-07-03:**
+    *   Il saldo (80.000 copie) del catalogo è stato spedito.
+*   **2001-09-07:**
+    *   Effettuato il **PRIMO INVIO** del catalogo n.17 (circa 40.000 copie), basato su un'estrazione dall'analisi Pascarella, includendo liste di aziende acquistate da RCM, soci AIAS, clienti multimedia e richiedenti cd-demo.
+*   **2001-09-22:**
+    *   In occasione della fiera Ambiente Lavoro di Modena, sono stati ottenuti 4 manichini Little Anne in omaggio da Laerdal (valore Lire 1.892.000) e 10 ordini per Lire 3.329.167. Il risultato atteso era di 10 milioni di lire.
+*   **2001-10-23:**
+    *   **LM** definirà con **MGR** e **LB** un corso per l'uso di AdHoc.
+*   **2001-10-31:**
+    *   **LM** terrà un corso urgente su Flash (per CD e Video), informando **LB** e **BET**. Partecipanti previsti: **ELE**, **PIO**, **BAN**.
+*   **2001-11-14:**
+    *   Tenuto il secondo corso di ContactPro, focalizzato sull'estrapolazione di circa 2.100 clienti.
+*   **2001-12-12:**
+    *   Ricevuta l'approvazione per la Legge 35 per imprese innovative, che prevede un contributo a fondo perduto di 193.627.000 Lire (99.676 Euro) per il sistema e-learning. L'erogazione è prevista tra marzo e maggio 2003.
+    *   Verrà presentata la domanda per la Legge 140 nel 2002, relativa alle spese sostenute nel 2001.
+*   **2001-12-31 (entro):**
+    *   Il finanziamento Legge 35 verrà rendicontato. Sarà necessaria una nota nel bilancio 2002.
+*   **2002-01-10:**
+    *   Sono entrate in vigore le nuove tariffe postali PPTT.
+*   **2002-02-12:**
+    *   AdHoc è stato installato sui sistemi di **PDC**, **FOM**, **MFB**. **LM** solleciterà **MGR** per la propria installazione.
+    *   **MGR** ha consegnato il file con 38.000 indirizzi per la prima spedizione del catalogo n.20 (spedita il 19.2).
+    *   Il corso di Flash per **ELE** si terrà a maggio presso il Centro Formazione Aib.
+*   **2002-02-19/21:**
+    *   Partecipazione alla fiera Sikura con **Pdc** e **Luisa**. Il costo totale è stato di 2.600 Euro.
+*   **2002-03-05:**
+    *   I CD demo verranno d'ora in poi chiamati "CD Catalogo 'prodotto editoriale multimediale sulla sicurezza'?" e spediti a 0,93 Euro. **FOM** inserirà i CD catalogo in Contact Pro, con **LM** e **MGR** responsabili del travaso automatico dei dati.
+*   **2002-03-07:**
+    *   **MGR** preparerà la seconda lista di 48.000 indirizzi basata sulla redemption, con spedizione prevista entro il 18.3.2002 (poi rivista al 23.3.2002 e al 27.3.2002).
+*   **2002-03-12:**
+    *   Nel 2003 sarà presentata la domanda per la Legge 140 sul progetto Guida Sicura. **LM** ha già richiesto che le fatture riportino la dicitura "consulenza tecnica per progetto guida sicura".
+*   **2002-03-29:**
+    *   **MAD** ha controllato 100 nominativi campione dalla lista Infocamere, riscontrando che il 30-40% degli indirizzi risultano sprecati (circa 11.200 indirizzi inesistenti su 32.000 inviati).
+*   **2002-04-11:**
+    *   **MAD** inizia il periodo di prova, che si estenderà fino all'11.07.02.
+*   **2002-04-23:**
+    *   **LM** definirà la partecipazione di **MAD** ai corsi di Contact Pro e Access.
+    *   Verrà valutato un corso fornito da **MIM** per MI, da inserire in un progetto INAIL.
+*   **2002-04-24:**
+    *   Sono stati inviati 32.000 cataloghi alle SPA, utilizzando la lista Infocamere (costo 800 Euro).
+*   **2002-05-03:**
+    *   Report dell'incontro con il Rag. **Casati** e l'Ing. **Bianchi** (neo-Presidente AIAS), dove è stata presentata la proposta **MIM** per la produzione di CD-ROM tipo "seminari operativi" AIAS.
+*   **2002-05-10:**
+    *   **LM** dovrà presentare una bozza di accordo ad AIAS.
+*   **2002-05-20 (entro):**
+    *   **MGR** spiegherà a **MFB** l'utilizzo del sistema bar code per la gestione degli ordini, che diventerà operativo per il magazzino **MIM** dal 21.05.02.
+*   **2002-05-22:**
+    *   I progetti INAIL presentati nel 2001 non sono stati approvati.
+*   **2002-05-23:**
+    *   **TM** ha richiesto a **PDC** di aggiornare il Progress "MIM, produzione video".
+    *   **TM** ha chiesto a **LM** conferma dei costi e delle eventuali riduzioni per i CD Catalogo.
+*   **2002-05-24:**
+    *   **TM** ha chiesto a **LB** un aggiornamento sulle azioni intraprese per i finanziamenti INAIL.
+    *   **LM** ha informato **TM** e **PDC** che AIAS ha apprezzato molto la proposta relativa al D.LGS. N° 25/2002.
+    *   A partire da questa data, saranno commissionati a **MS** corsi modulari di due ore ciascuno, per **FOM** e **MFB**, sull'utilizzo di Ad-Hoc per la gestione del magazzino.
+*   **2002-05-27:**
+    *   **LM** ha confermato a **TM** che le tariffe per i CD Catalogo sono in uso.
+    *   **TM** ha incaricato **LM** di organizzare un incontro formativo tra **ELE**, **MAD** e Seton per comprendere la strategia del loro catalogo (grafica, gestione mailing list e DBM), tenendo aggiornato **LB**.
+    *   **ELE** raccoglierà entro la settimana tutti i principali cataloghi di vendita per corrispondenza (VPC) italiani.
+*   **2002-05-28:**
+    *   È stata definita la partecipazione congiunta con Seton, con costi condivisi, all'edizione di settembre 2002 della fiera Ambiente Lavoro.
+*   **2002-06-04:**
+    *   **TM** ha chiesto a **LB** e **LM** di preparare il progetto di rendicontazione, seguendo il modello usato per Safetal.
+*   **2002-06-07:**
+    *   Il primo seminario AIAS è previsto per questa data, e servirà da test per il progetto (obiettivo: un giorno di riprese, un giorno di montaggio, con il solo **PDC** coinvolto).
+*   **2002-06-11:**
+    *   È stato inviato un sollecito per l'incontro con Seton.
+    *   Seton ha comunicato che, avendo ottenuto un prezzo speciale, procederà autonomamente. **LM** tratterà la compartecipazione di Laerdal, Vectron e MB.
+    *   **LM** valuterà la partecipazione al Salone Nazionale della Protezione Civile e Attrezzature nell'Emergenza a Montichiari (28-29 settembre), inizialmente ritenuta gratuita.
+    *   **LM** ha iniziato a registrare settimanalmente il tempo dedicato ad AIB (ore ufficio e ore personali).
+    *   **LM** ha inviato un sollecito ad AIAS.
+*   **2002-06-12:**
+    *   **TM** ha chiesto a **LB** di controllare il prospetto dei conteggi rivisti da **LM** per la rendicontazione prevista a fine ottobre 2002 e di aggiornarsi con **LM**.
+*   **2002-06-18:**
+    *   **LM** è stato sollecitato.
+    *   Il file F:MIMRendicontazioneFinanziamentoLegge35.xls deve essere aggiornato da **BET** e **RP** con il calcolo per l'eventuale Tremonti.
+    *   Sono stati spediti 600 cataloghi agli espositori delle fiere Metef ed Edilizia Montichiari.
+*   **2002-06-25:**
+    *   Seton ha comunicato che la data per la visita sarà successiva alla metà di luglio a causa di impegni.
+    *   È stata definita la partecipazione di **MIM** con uno stand omaggio per PuntoSicuro (totale 32 mq). **LM** definirà il cambio merce con Laerdal.
+    *   **LM** ha inviato un fax al Rag. **Casati** (AIAS) proponendo date per un incontro a Milano (10, 11 e 12 luglio).
+*   **2002-07-09:**
+    *   Fissato un appuntamento a Milano per il 10.7.2002 con il Presidente **Bianchi** e il Rag. **Casati** per definire l'accordo con AIAS.
+*   **2002-07-15:**
+    *   Incontrata AIAS. Attendono due proposte da **MIM**: una per l'accordo con AIAS (diffusione della cultura della formazione) e una con IDP (loro società di servizi a fine di lucro, ISFOP e AIASCERT) per la parte economica (royalties). La proprietà intellettuale del prodotto dovrà essere specificata come di AIAS.
+*   **2002-07-16:**
+    *   **LM** valuterà la convenienza di rendicontare a fine dicembre per massimizzare l'utilizzo del finanziamento.
+    *   **LM** e **MAD** hanno discusso la necessità di suddividere il DBM **MIM** in due database per l'inserimento di un codice prospect su ogni etichetta e l'analisi automatica delle redemption. **MGR** deve analizzare il collegamento.
+*   **2002-07-30:**
+    *   **LM** ha comunicato che la consegna dei cataloghi non potrà avvenire prima del 29.08.02, e la data di spedizione dovrà essere il 30.08.02 anziché il 27.08. Costo di un fornitore alternativo per rispettare la data originale sarebbe di 1.600 Euro.
+*   **2002-08-26:**
+    *   Concordato con Media Train uno sconto di 3.000 Euro sull'ultima fattura (1.950 invece di 4.950 Euro) per la chiusura del debito. **MIM** conserva i master del corso di Wage in italiano e la possibilità di venderlo, con **LM** che valuta l'opportunità di trasformarlo in formato digitale ed erogarlo via web.
+    *   Iniziata la pianificazione degli invii del catalogo 21 (dati completati da **MAD**).
+*   **2002-08-27:**
+    *   **LM** e **RP** presenteranno a **TM** il budget 2002 rivisto e la consuntivazione del finanziamento convertita in euro.
+*   **2002-08-30:**
+    *   Nuova data per la spedizione dei cataloghi.
+*   **2002-09-02:**
+    *   Spedizione di 12.883 cataloghi a clienti **MIM**, richiedenti cd-demo e soci AIAS.
+*   **2002-09-09:**
+    *   Banx News è decaduto a causa del non utilizzo nel 2001. L'unico modo per inviare la pubblicazione è tramite la tariffa POSTA TARGET (0,42 euro/copia). **LM**.
+*   **2002-09-10:**
+    *   Coptip ha dichiarato che la stampa del catalogo non è stata fatta "né ad arte né a regola d'arte", con errori nei colori. Ha proposto uno sconto immediato di 2.600 Euro e l'impegno a fornire 10.000 copie gratis su un futuro ordine (valore 1.110 Euro).
+    *   **TM** ha richiesto a **PDC** di elencare errori e riferimenti non chiari nel catalogo 21 per evitarne la ripetizione.
+*   **2002-09-11:**
+    *   È stata introdotta una nuova procedura per l'invio del catalogo, l'utilizzo di Contact Pro e la gestione dei contatti. Verrà usato un campo "cancellabile" e un codice progressivo sulle etichette. **FOM** dovrà gestire il processo per i prospect.
+*   **2002-09-24:**
+    *   **LM** e **TM** si incontreranno con **BONGIORNO** per valutare possibili sinergie, inclusa l'abbinamento dei cataloghi (previa verifica postale).
+    *   Spedizione di 79.000 cataloghi 21 alle categorie con la migliore redemption.
+*   **2002-10-01:**
+    *   Riunione sulla strategia del catalogo con **FOM**, **MAD**, **ELE**, **PDC**, **TM**.
+*   **2002-10-08:**
+    *   È stata effettuata la spedizione di 50.000 copie dalla lista D&B acquistata da SETON.
+*   **2002-10-22:**
+    *   **MAD** e **FOM** riceveranno una copia del corso di Wage da **LM** per lo studio.
+    *   **LM** aggiornerà i risultati della fiera per decidere una nuova partecipazione.
+*   **2002-10-31 (fine ottobre):**
+    *   **LM** rivedrà i conteggi prevedendo la rendicontazione (del finanziamento Legge 35).
+*   **2002-11-04:**
+    *   **MAD** ha completato l'inserimento e presentato i risultati del questionario della fiera, con indicazioni di miglioramento per le prossime fiere.
+    *   È stata effettuata la spedizione del saldo di circa 50.000 cataloghi a prospect, basata sull'analisi di redemption, inclusi circa 4.000 invii alle sedi delle banche italiane (lista acquistata da D&B).
+*   **2002-11-06:**
+    *   Spedita la lista di 27.000 indirizzi.
+*   **2002-11-08:**
+    *   Spedito il saldo di circa 29.000 indirizzi alle SPA italiane delle province con maggiore redemption.
+*   **2002-11-11:**
+    *   Spediti circa 8.000 cataloghi n.20 (residuo) dalla lista RCM.
+*   **2002-11-12:**
+    *   Il questionario definitivo è pronto e on-line dal 13.11.
+    *   È stata inviata a Poletti e Vallini la lista dei comuni per la stampa delle etichette.
+*   **2002-11-15 (entro):**
+    *   **LM** chiuderà gli accordi e l'analisi per i nuovi prodotti e l'eliminazione dei prodotti meno venduti.
+*   **2002-11-15 – 2002-12-10:**
+    *   **ELE** si occuperà dell'impaginazione del catalogo.
+*   **2002-11-19:**
+    *   Pubblicati i risultati dei sondaggi online (33 risposte per i prospect, 119 per i clienti MIM).
+    *   **MAD** valuterà l'acquisto di una lista D&B delle principali 50.000 aziende italiane con e-mail, eventualmente in collaborazione con Seton.
+    *   **ELE** realizzerà un'alternativa per la prima e quarta di copertina, con una versione di **LM**.
+*   **2002-11-25:**
+    *   **MAD** e **LM** effettueranno una pre-analisi delle redemption per determinare il numero di copie del catalogo 22 da stampare.
+*   **2002-12-02:**
+    *   La differenza positiva provvisoria sul costo del catalogo è di 121.000 Euro.
+*   **2002-12-03:**
+    *   Il catalogo 22 sarà stampato in 205.000 copie.
+*   **2002-12-10:**
+    *   La chiusura per la stampa del catalogo è prevista per questa data, per una stampa entro Natale.
+*   **2002-12-10 – 2002-12-20:**
+    *   **MAD** condurrà l'analisi delle redemption, basandosi su uno schema che verrà presentato a **LM** e **TM** entro il 18.11.
+*   **2003-01-09:**
+    *   Definite le priorità per il 2003: vendita abbonamenti e pubblicità su PuntoSicuro (collaborazione **MAD** e **BAN**), sviluppo attività commerciali dei PuntoVisione, lancio di corsi di formazione in aula, fax marketing, produzione di nuovi corsi standard sulla sicurezza, sviluppo di progetti e-learning personalizzati e standard, realizzazione di clip didattiche in Flash per il viral marketing, e il progetto DVD multilingue (polacco, ceco, sloveno).
+*   **2003-01-13:**
+    *   Anticipata la prima spedizione del catalogo 22 (60.000 copie) a causa degli aumenti delle tariffe postali previsti per l'01.02.03.
+*   **2003-01-21:**
+    *   Le iscrizioni alla banca dati normativa Puntosicuro ammontano a 64 unità.
+*   **2003-01-22:**
+    *   Seconda spedizione del catalogo 22 (34.207 copie).
+*   **2003-01-27:**
+    *   Terza spedizione del catalogo 22 (24.403 copie da lista D/B).
+*   **2003-03-07:**
+    *   Quarta spedizione del catalogo 22 (56.786 copie).
+*   **2003-05-15:**
+    *   Quinta spedizione del catalogo 22 (28.498 copie).
+*   **2003-05-27:**
+    *   **MAD** supporterà **MGR** nel lancio delle attività di direct fax di **MS**, con costi di invio a carico di **MS**. Il tempo dedicato sarà compensato da attività informatiche di **MS**.
+*   **2003-06-11:**
+    *   **Luigi Meroni** ha comunicato la quantità stampata del catalogo (302.000 copie) e i dettagli di invio per rispettare la convenzione con PT. Definito il co-marketing con Seton per l'invio di 8.000 cataloghi **MIM** abbinati ai loro, con una redemption dello 0,25% registrata a questa data.
+*   **2003-08-31 (al):**
+    *   **RP** ha fornito la situazione mensile dei dati di bilancio, inclusi acquisti e vendite di libri, CD-ROM/software e materiali tecnici.
+*   **2003-09-01:**
+    *   Primo invio del catalogo 23 (52.000 copie).
+*   **2003-09-03:**
+    *   Invio di 65.000 cataloghi a clienti **MIM**, richiedenti CD demo, visitatori di fiere, membri AIAS e altre liste database.
+*   **2003-10-01:**
+    *   Secondo invio del catalogo 23 (100.944 copie).
+*   **2003-11-03:**
+    *   Terzo invio del catalogo 23 (80.000 copie).
+*   **2004-05-19:**
+    *   **Luigi Meroni** ha rilevato una grave incongruenza tra i costi di trasporto e il riaddebito al cliente (i costi erano più del doppio dei ricavi). Annunciato un aumento delle fasce di addebito per il prossimo catalogo, con la fascia minima che passa da 7 a 8,50 Euro.
+*   **2004-08-05:**
+    *   **Luigi Meroni** ha comunicato a **MIM** la "particolarmente GRAVE" situazione dei costi di trasporto (15.000 Euro in più rispetto al budget), che mette in perdita i conti del 2004. Ha richiamato alla "MASSIMA ATTENZIONE" per ridurre i costi nel secondo semestre, sottolineando la necessità di evitare errori di spedizione (**FOM**, **MFB**, **AGI**, **CICCIO**, **PIO**, **PDC**), addebitare sempre le spese ai clienti (**FOM**), controllare le fatture di Executive e utilizzare il corriere più economico. Ha annunciato riunioni di controllo dopo le ferie.
+*   **2004-09-01 (dal):**
+    *   Inizia il monitoraggio degli errori di spedizione, a cura di **FOM** e/o **MFB**, con registrazione di data, cliente, descrizione errore e costo per **MIM**.
+    *   Spedizione del catalogo 25.
+*   **2004-09-06 (al):**
+    *   Aggiornati i dati di fatturato.
+*   **In corso / Futuro:**
+    *   Vendita di abbonamenti alla banca dati PuntoSicuro.
+    *   Vendita di spazi pubblicitari su PuntoSicuro (con collaborazione di **MAD** e **BAN**).
+    *   Sviluppo delle attività commerciali dei PuntoVisione.
+    *   Lancio di attività di formazione in aula tramite i PuntoVisione.
+    *   Attività di fax marketing su prodotti e categorie specifiche.
+    *   Produzione di nuovi corsi standard sulla sicurezza (saldatura, ascensori, carrellisti, ecc.).
+    *   Sviluppo del progetto e-learning su soluzioni personalizzate e standard, da erogare e vendere online.
+    *   Realizzazione di clip didattiche sulla sicurezza in Flash per attività di viral marketing con logo **MIM** e PS.
+    *   Progetto DVD multilingue dei corsi **MIM** (con traduzione in polacco, ceco, sloveno) in previsione dell'allargamento dell'UE.
+    *   **MAD** farà pervenire ai venditori CSMI l'adeguato numero di cataloghi per la distribuzione diretta ai clienti, riconoscendo una provvigione in caso di vendita (**LM** coordinerà con **FBR** e **FA**, **MAD** contatterà i venditori).
+
+**Nota sugli allegati:** Tutti i messaggi riportano "Allegato: nan", indicando l'assenza di allegati specifici nei dettagli forniti.
+
+---
+Original length: 48310 characters and 5374 words.
+Summary length: 18674 characters and 2203 words.
+Compression ratio: 0.39 (summary length / original length).
+Estimated input tokens: 12077.
+Estimated output tokens: 4703.
+Summary generated in 93.399222 seconds.

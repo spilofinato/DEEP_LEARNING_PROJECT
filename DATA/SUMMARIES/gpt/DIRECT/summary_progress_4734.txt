@@ -1,0 +1,132 @@
+- 13.04.2016 – Luigi Meroni riporta l’analisi del pregresso degli articoli e la parte tecnologica/legale su PuntoSicuro (PS): TIZ e FG analizzano e propongono una sintesi; SIG si occupa dello sviluppo.
+
+- 20.05.2016 – Parte la presentazione pubblica del forum di PS, con FG a coordinare i consulenti; da definire il contratto con l’Avv. Caruso.
+
+- 06.09.2016 – Sviluppo del nuovo meccanismo di accesso riservato agli allegati articoli: SIG prevede 30 giorni per il rilascio; data obiettivo primo settembre.
+
+- 02.12.2016 – Si rimanda la consegna al 6 gennaio 2017 per l'inserimento dell’opzione multi-abbonamento aziendale.
+
+- 08.02.2017 – SIG consegna la funzionalità, FG testa il sistema. Si attiva la restrizione progressiva: dopo 15 gg gli allegati sono accessibili solo agli abbonati; successivamente il periodo viene ridotto a 7 giorni e poi a 3 giorni.
+
+- 13.04.2016 – Campagna banner di promozione del servizio di attestazione (J incaricato).
+
+- 29.07.2016 – Tiziano partecipa come moderatore a Modena a convegno sulla sicurezza; TIZ invia proposta a LM per pubblicazione materiale su PS.
+
+- 14.06.2016 – FG verifica con Debora Russi la possibilità di supporto all’avvio del forum.
+
+- 02.12.2016 – Il forum conta 150 iscritti; si valuta supporto da parte di Francesco Cuccuini.
+
+- 08.02.2017 – Ampliamento della banca dati di PS: FG apre una pagina sugli approfondimenti su dati personali.
+
+- 08.02.2017 – Raccolta dati dell’evento nazionale di Milano: RP raccoglie info su spazi e catering, ore lavoro stimate da LM, FG, TIZ, J, AB.
+
+- 08.02.2017 – Raccolta dati della campagna banner per promuovere la banca dati/attestazione lettura: J incaricato.
+
+- 08.02.2017 – Landing page AdWords per promuovere sconto iscrizioni banca dati: FG e J definiscono i dettagli.
+
+- 09.02.2017 – Profilazione iscritti newsletter, semplificazione form NL curata da FG e SIG; LM riceve DB e definisce accorpamenti nelle voci di professione.
+
+- 08.02.2017 – Semplificazione del form di iscrizione alla banca dati: FG segnala criticità nel processo per l’utente; J esegue test e segnala problemi tecnici, che vengono risolti da SIG.
+
+- 08.02.2017 – Valutazione popup per promuovere newsletter: FG valuta con J e SIG, TM contrario ai popup troppo invasivi.
+
+- 08.02.2017 – Rinegoziazione con Biasiotti per abbassare il compenso mensile e migrare a un modello CPC.
+
+- 08.02.2017 – TIZ incontra Giorgio Bressi rilanciandone la collaborazione.
+
+- 12.04.2017 – PDC invia archivio immagini MIM per utilizzo su PS, con linee guida definite da LM.
+
+- 21.09.2017 – Analisi calo accessi dopo riduzione giorni di visibilità gratuita degli allegati: coinvolti SIG, FG, TM, LM, Matteo, Giulio; SIG segnala indicizzazione penalizzata, viene deciso di tornare a 15 giorni.
+
+- 26.09.2017 – Federica Gozzini presenta i dati analytics della situazione accessi PS in riunione con J, SIG, DDA: si nota crescita dopo ripristino dei 15 giorni di accessibilità gratuita. Si discute di implementare AMP per utenti mobile, gestire meglio newsletter e monitorare i risultati di AdWords. LM autorizza la landing page con sconto abbonamenti.
+
+- 02.10.2017 – SIG rileva che il ripristino dei 15 giorni riporta i dati positivi; migliorie recapito NL applicate.
+
+- 11.07.2018 – FG suggerisce corso di approfondimento su Analytics per la redazione.
+
+- 14.11.2018 – FG segnala avvio sviluppo dell’area riservata abbonati a cura di WS: viene creata area personale per archiviare articoli preferiti.
+
+- 23.01.2019 – Lanciata nuova area clienti per gestione articoli preferiti.
+
+- 2018–2019 – Diversi focus su miglioramento grafico mobile (FG, AB, J), GDPR, report ferie e ROL, nuovi dati analitici per la redazione (LM, FG).
+
+- 09.04.2019 – FG organizza elenco azioni operative:
+    - Introdotto nuovo concetto di abbonamento premium (“PuntoSicuro PRIME”). LM, J, DDA, FG coinvolti.
+    - Offerta di servizi aggiuntivi agli abbonati (quesiti: contattata Anna Guardavilla; prodotti MIM: analisi database e richiesta a MGR).
+    - Produzione tutorial/clip con GR e AGI.
+    - Protezione anti-copiatura articoli realizzata da RES, obbligo di citazione fonte.
+    - Attestazione letture implementata da RES; comunicazione a settembre.
+    - Gestione mancati rinnovi con mailing, report su problemi tecnici.
+    - Analisi e implementazione rinnovo automatico per pagamenti con carta, SIG e Caruso indicano modifiche; attivazione giugno 2020.
+    - Promozione servizio di attestazione automatica (FG, RES).
+    - Organizzazione convegno alla fiera Ambiente Lavoro su Cybersecurity (FG, LM, DDA, GR, coinvolti Biasiotti, Servadio, PDC).
+    - Gadget per fiere: valutazione elmetto protettivo.
+    - Sondaggi per utenti abbonati/non abbonati: problematiche tecniche nell’aggregazione delle risposte, attività sospesa (FG, SIG).
+    - Analisi fornitori e vendite pubblicità (dati richiesti a MGR, aggiornamento su tabella bilancio da RP).
+    - Servizio di informazione ai lavoratori sulle piattaforme MIM: proposta FG, valutazioni tecniche da SIG, discussioni con LM, PDC.
+
+- 17.09.2019 – LM propone modello di abbonamento tipo “paywall” (es. Corriere/Repubblica) con discussione tecnica su soglia di articoli gratuiti/mese. SIG elabora prime ipotesi tecniche, il progetto viene sospeso.
+
+- 2018-2019 – Video di presentazione PS prodotto e pubblicato su vari canali; evento ventennale organizzato da DDA e LM; convegno su cybersecurity ed elaborazione/attestazione articoli completati.
+
+- 14.02.2020 – Federica Gozzini prepara riepilogo azioni 2020 per COGE:
+    - Rinnovo automatico per pagamenti con carta di credito attivo da giugno.
+    - Ritorno pubblicazione vignette (affidate ad AM, assistenza FG/PDC).
+    - Lancio campagna “NO cellulare alla guida” (FG, AM, TIZ, MKT).
+    - Collaborazione con ANMIL: Tiziano contatta ANMIL, partecipa a interviste, collaborazione temporaneamente sospesa viste difficoltà di calcolo vantaggi.
+    - Sviluppo popup per NL e abbonamenti in discussione.
+    - Invio sondaggi di gradimento agli abbonati e ai non rinnovati (problemi tecnici con Dyndevice, valutazione nuovi strumenti).
+    - Tutorial/clip su uso servizi PS in preparazione (clip presentazione già pubblicata, tutorial ricerca da sviluppare).
+    - Gestione mancati rinnovi sotto controllo.
+    - Migliorare e semplificare modulo di ricerca (in valutazione con LOB IT).
+    - Richiesta di articoli a docenti MIM, stoppata per nuovi accordi PDC.
+
+- 04.2020 – Emergenza Coronavirus: vengono sospese pubblicazione vignette e campagna “NO cellulare alla guida”.
+
+- 05.2020 – FG e TIZ si confrontano sulle criticità della trasformazione di PS in servizio totalmente a pagamento; focus su rischio calo visite/abbonati/inserzionisti e perdita autorevolezza.
+
+- 05.11.2020 – Tullio Meroni si esprime contrario al modello a pagamento per PS e servizi di consulenza e preferisce mantenere gratuita l’informazione, valorizzando la Banca Dati e la pubblicità su prodotti MIM.
+
+- 2020 – Diversi richiami di TM sull’importanza di qualità dei contenuti e pubblicità su PS (limiti alla pubblicità di terzi, dati performance da confrontare coi competitor), importanza del controllo costante dati sessioni e pagine.
+
+- 2020 – FG aggiorna con la creazione nuove categorie di articoli (Cultura sicurezza, Promozione salute, Smart working...).
+
+- 05.2021 – Aggiornamento annuale:
+    - Investimento in campagne Google Ads per acquisire abbonati, monitoraggi conversione tramite landing.
+    - Pulizia database NL: -18.000 iscritti, miglioramento performance.
+    - Invio newsletter per bonus pubblicità.
+    - Miglioramento processi di fatturazione banca dati (MGR rilascia nuovo sistema).
+    - Analisi processi di conversione, miglioramento moduli d’ordine NL e DB previsti dopo switch tecnico del sito.
+    - Analisi engagement sui social e performance interazioni; maggior attenzione su LinkedIn, marginalità di IG/FB.
+    - TM ribadisce attenzione a qualità, regole e comunicazione delle pubblicità MIM e limiti a pubblicità di terzi.
+
+- 10.11.2021 – LM conferma:
+    - Avvio ma mancato successo campagna su potenziali inserzionisti “Bonus Pubblicità”.
+    - Analisi percorsi di conversione completata.
+    - Campagna FB “mi piace la pagina PS” conclusa.
+    - Engagement su social in corso, valutazione risorse MKTG/esterne.
+    - TIZ approfondisce rapporto con AiFOS (premio tesi di laurea da valutare).
+    - Proposta valutazione partecipazione TIZ ad Ambiente Lavoro.
+
+**Allegati presenti ai messaggi:**
+- Allegato “dati ps al 31_12.xls”: dati analitici fatturato 2017.
+- Allegato “31-12-2017 COGE PS..xls”: consuntivo ricavi/risultati 2017.
+- Allegato “Posta di Mega Italia Media - PuntoSicuro sommario del 25 maggio 2018.pdf”: invio informativa GDPR.
+  
+**Principali persone coinvolte e ruoli primari:**
+- Luigi Meroni (LM): coordinamento generale, strategie, controllo dati, rapporti con fornitori/partner.
+- Federica Gozzini (FG): gestione operativa, analisi dati, sviluppo processi redazione, coordinamento progetti, gestione risorse tecniche con SIG.
+- Tiziano Menduto (TIZ): produzione contenuti, rapporti partnership, eventi/convegni.
+- Tullio Meroni (TM): supervisione strategica, controllo qualità, raccomandazioni editoriali/marketing.
+- SIG (Sigalini): sviluppo tecnico web/form NL, analytics, innovazioni mobile/AMP, consulenza tecnica paywall.
+- J: supporto su campagne banner/landing.
+- DDA, MGR, RP: supporto amministrativo, marketing, gestione clienti/pubblicità.
+- Anna Guardavilla, Biasiotti, Caruso, altri: consulenze su servizi, contenuti, legali.
+
+---
+Original length: 79034 characters and 11490 words.
+Summary length: 9562 characters and 1170 words.
+Compression ratio: 0.12 (summary length / original length).
+Estimated input tokens: 19758.
+Estimated output tokens: 2425.
+Summary generated in 40.650259 seconds.

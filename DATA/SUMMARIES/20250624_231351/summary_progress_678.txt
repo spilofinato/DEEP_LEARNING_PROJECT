@@ -1,7 +1,0 @@
-Ecco un riassunto cronologico dei dettagli del progetto "AP - Gestione commesse MIM":
-
-*   **2004-01-08 17:12:16 - Pietro de’ Castiglioni:** Invia un progressivo che riassume le procedure di gestione delle commesse MIM (interne o esterne). Fornisce il file "F:MIM/contabilità/commesse MIM.DOC" contenente un elenco riassuntivo.
-*   **2004-01-08 17:13:22 - Pietro de’ Castiglioni:** Definisce le mansioni relative alla gestione delle commesse: PDC, CO, LM, AGI, PIO, BAN, ELE, CICCIO, MAD, MFB. Spiega l'utilizzo del modulo preventivi e l'inserimento dei codici riassuntivi delle attività. Evidenzia l'importanza del campo "azione" e delle note di descrizione per l'inserimento delle ore.
-*   **2004-01-08 17:13:49 - Pietro de’ Castiglioni:** Annuncia l'attivazione delle seguenti nuove commesse: attività commerciali n° 47/C0 e attività amministrative n° 46/C0.
-*   **2004-01-08 08:00:00 - PDC:** Implementa nuove commesse, tra cui lavori vari x MI (n° 48/CO), CD MIM nuovi + modifiche 2004 (n° 49/CO), video MIM varie modifiche 2004 (n° 50) e lavori vari x MS (54), lavori vari x MIT (55), Banca dati Punto sicuro 2004 (57) e Punto sicuro 2004 (56), e rassegna stampa quotidiana x MI 2004 (58).
-

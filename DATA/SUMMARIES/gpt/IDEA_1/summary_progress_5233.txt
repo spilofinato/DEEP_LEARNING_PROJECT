@@ -1,0 +1,85 @@
+- 26/01/2022: Paolo suggerisce la creazione di schede valutazione/segnalazione centri partner con punteggi. Rilevati guadagni da provvigioni sulle segnalazioni (€1949 + IVA).
+- 04/10/2022: Entrata in vigore nuovo DM 02/09/2021 obbliga i centri partner a creare master per corsi antincendio; AD segue implementazione con J e CAM.
+- 19/10/2022: AD invia newsletter per biglietti omaggio fiera Ambiente Lavoro 2022.
+- 26/10/2022: AD invia seconda newsletter, riceve 6 risposte positive (tra cui un partner SDS).
+- 01/04/2023: Risolto malfunzionamento form “Diventa partner” CSI, inoperativo da dicembre 2022.
+- Marzo 2023: Corsi RLS resi vendibili online su e-commerce; AD ora gestisce carrelli senza operazioni manuali lunghe.
+- 20/05/2023: FBA e AD lavorano su To Do CSI (incluso e-commerce); Spizzi si occupa recall Capterra/area corsi ma non recall calendario partner.
+- 21/04/2023: Programmata azione per proporre SDS ai centri partner CSI.
+- 13/05/2023: Avviata azione recall ai Centri Partner con incentivi (safety card) e presentazione SDS; AD valuta coinvolgimento SAL.
+- 27/07/2023: Sollecitata esecuzione To Do CSI, situazione in attesa.
+- 01/07/2023: AD attende da MGR estrazione mensile venduto corsi RLS (da gennaio 2020).
+- Luglio 2023: Da confronto IT-MKGT, implementate migliorie a siti MIM/CSI e modulo e-commerce DynDevice su segnalazione AD; da migliorare scheda iscrizione CSI. Chat sito MIM operativa, gestita da AD, AVA, e area corsi.
+- 01/08/2023: Programmato contatto con IFOA per collaborazione su corsi apprendistato CSI.
+- 14/04/2023: Eco Green nuovo centro partner CSI; risolto problema di registrazione tramite ticket aperto da AD.
+- 01/12/2023: Riaperto ticket per problema classificazione corsi aula/web-conference.
+- 16/11/2023: FBA presenta migliorie ad AD e MKGT; alcuni miglioramenti accettati, altri ancora da risolvere.
+- 31/12/2023: Guadagno da provvigioni sulle segnalazioni del 2023: €401,50 + IVA.
+- 2023: Attivate 8 piattaforme whistleblowing (4 AD + 4 AVA). Avvio confronto con MKTG per azioni commerciali legate al nuovo obbligo 2024. Nessun allegato ai messaggi.
+- 01/2023-12/2023: AD finalizza digitalizzazione acquisti; AD ottiene informazioni partner e coordina attività marketing. Nessun allegato su azioni commerciali.
+- 2024: Attivate 5 piattaforme whistleblowing (2 AD + 3 AVA); Giulietta Poiatti segnala confronto con MKTG. Nessun allegato.
+- Gestione CRM:
+  - Guida CRM aggiornata (febbraio-marzo), file “Utilizzo omogeneo CRM_Febbraio 2025.”
+  - Ticket 03244 suggerito per aggiornamento codici corsi.
+  - Associazione azienda/contatto 2024–2025 effettuata: AD (12h), GIP (3h).
+  - Monitoraggio eventi, caricamento preventivi/ordini accettati, integrazione guida.
+  - Da aprile 2025, controllo mensile utilizzo CRM (KPI Team Vendite).
+- Vendita prodotti:
+  - AD finalizza trattative, digitalizza processi acquisto (scadenza giugno 2024).
+  - MFB: gestione tecnica, logistica, post-vendita, fornitori, giacenze, corrieri.
+  - FOM: fatturazione, codifica prodotti.
+  - MKGT: ottimizzazione sito, pagine prodotto, percorsi d’uso.
+  - LM: ricerca nuovi fornitori.
+- Corsi e Centri Partner:
+  - 2024: Attivati nuovi partner (Nuovi Servizi Brino, Power Emergency, Vertika, IS&FM).
+  - GIP coordina ricerca nuovi centri partner grandi città, sollecita partner esistenti e ricerca centri CSI (anche da centri AIFOS).
+  - GIP, MKGT lavorano su aumento pubblicazione partner CSI, pulizia elenchi, NL manuali, case history, pubbliredazionali corsi.
+  - Coinvolti GAD e SAL per elenchi rivenditori DD abilitati formazione sincrona.
+  - 2025: GRUPPO G.M.B. nuovo partner; GIP contatta settimanalmente nuovi partner in più città.
+- Cross-selling & Up-selling:
+  - Attivati vari flussi e campagne tra CSI, SFX, SDS, PS, MIM, MML, Gruppo Azienda, Sicurflix, DD, supervisionati dal Team Vendite e MKTG.
+  - AD analizza mensilmente clienti SPA per suggerimenti a GAD.
+  - Mailing clienti USB/DVD per Sicurflix; NL promozionali e sconto; up-selling corsi parziali; azioni completate: passaggio Gruppo Azienda a GAD, NL a clienti PS RSPP.
+- Sicurflix:
+  - Da settembre 2024: sospese azioni promo push da Team Vendite/MKTG, resta acquistabile e proposto da commerciali (LM).
+  - 2025 obiettivo: 11 nuovi clienti nominativi, 6 disdette.
+  - 2024: 45 nuovi clienti previsti, 28 effettivi, 12 disdette.
+  - Proposte commerciali a ex clienti, aggiornamento slide (MKTG), pianificazione riproposizione clienti SDS e sponsorship gestione AVA/MKGT.
+- Gruppo Azienda:
+  - 2025: 7 nuovi clienti (4 AD + 3 GIP), 1 disdetta.
+  - 2024: 62 clienti totali, 20 nuovi (ripartizione: 14 AD, 2 AVA, 2 GAD, 2 GIP), 4 disdette.
+  - Analisi contrattuale in attesa da GAD/Caruso, azione incentivo tramite mail mensile completata.
+  - In corso: proposta su Gruppi Scorm1 (cam segnala contatti); aggiornamento task a GAD, ridefinizione servizio con MKGT, task segnalatore clienti holding (GIP).
+  - Cross-selling: migliori Gruppi Azienda passati periodicamente a GAD per opportunità DD; azione invio NL “scadenza corsi”, NL su nuovi prodotti/corsi SKILLA, EXCEL, azioni mirate.
+  - Gruppo Azienda non migrerà su SDS per limiti tecnici; MKGT gestisce promozione/commerciale.
+- Prima/seconda settimana aprile 2024: Pubblicato pubbliredazionale su PS, MKGT invia newsletter enti di formazione.
+- 22/01/2024 e 25/02/2024: Giulietta Poiatti comunica pubblicazione publiredazionali SDS su PS.
+- Primo quadrimestre 2024:
+  - Giulietta Poiatti guida azione Ad Maiora: sconto maggiorato a 12 SDS top.
+  - Implementate validità scadenza corsi e guida estrazione, task ultime login utenti (ORI/LOT), mail one-to-one a GAD.
+  - Raccolta testimonianze clienti (a cura di MEL).
+  - Invio mail mensile listino/“corso del mese” (MKGT).
+  - Analisi condizioni contrattuali in corso.
+  - Nuovi clienti acquisiti (elenco dettagliato); up-selling a Virbium (aula+webconf). 7 disdette SDS; 1 cliente passato a DD (ArcaService).
+- Aprile 2024: Emesso coupon sconto clienti SDS 45%, newsletter marketing invita clienti SDS ad Ambiente Lavoro.
+- Maggio-Giugno 2024: Incentivo consumo corsi – Form Spec Basso Rischio, inviata newsletter “Presentaci un collega”.
+- Luglio-Agosto 2024: Inviato coupon sconto 45% SDS, pubblicato publiredazionale su PS.
+- 05/09/2024: Invio newsletter per Banca Dati Punto Sicuro.
+- Settembre 2024: Da emettere nuovo coupon 45% SDS (15 settembre, a cura di LM).
+- Ottobre 2024: In corso webinar SDS 2.0, invio listino e “corso del mese”; previste pillole video di formazione, NL “Presentaci un collega”, organizzazione webinar funzionalità SDS 2.0.
+- Novembre 2024: NL invito clienti SDS ad Ambiente Lavoro, nuova azione Ad Maiora (metà novembre), da riproporre Sicurflix ai clienti SDS (dicembre).
+- 2025 (previsto): Emissione nuovi coupon sconto 45% SDS, evento per tutti clienti SDS.
+- Attività commerciali e sviluppo: Scouting autonomo AVA/AD via LinkedIn/eventi, da avviare cross-selling/nuove proposte SDS 2.0 partner CSIDa, contatti a SDS disdettati dal 2020 a rilascio SDS 2.0, valutazione nuovi strumenti lead generation, da proporre nuova SDS azienda a rivenditori.
+- Performance e risposte: Raccolto questionario gradimento SDS (risultati positivi), identificati interessi su videoconferenza/microlearning, iniziativa premiante clienti top, invio video tutorial/guida PDF nuove SDS 2023 in CRM.
+- Budget: Giulietta Poiatti (01/07/2024) dettaglia fatturato e budget 2024-2025 team vendite (AD, AVA, GIP), nessun allegato ai messaggi.
+- 2024: Nuovi centri partner attivati: Nuovi Servizi Brino, Power Emergency, Vertika, IS&FM. Verifica requisiti aula/videoconferenza partner CSI per calendario 2025 (in corso). GIP contatta settimanalmente nuovi partner, ricerche in corso tra centri AIFOS.
+- Miglioramenti in corso: Test pubblicazione corsi con 5 partner medi-grandi (GIP), pulizia non pubblicanti, invio NL manuali (MKGT), case history clienti di successo (stand by), ricerca nuovi partner da clienti DD/MML/centri AIFOS (con @gad e @sal), contatti prospect tramite webinar e affiliati AIFOS (MKGT recupera DB).
+- Tutte le comunicazioni e messaggi segnalano assenza di allegati.
+
+---
+Original length: 24620 characters and 3333 words.
+Summary length: 8156 characters and 941 words.
+Compression ratio: 0.33 (summary length / original length).
+Estimated input tokens: 6155.
+Estimated output tokens: 2073.
+Summary generated in 68.080862 seconds.

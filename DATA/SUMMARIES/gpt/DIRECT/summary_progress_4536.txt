@@ -1,0 +1,67 @@
+- 2011-03-09  
+  - Silvana Bresciani (AiFOS) comunica ai Centri di Formazione convenzionati (CFA) dell'inizio del percorso per estendere la certificazione ISO 9001 a tutti i CFA.
+  - Viene richiesto di aderire al progetto di certificazione compilando il modulo allegato (non incluso nei messaggi).
+  - Specifica le scadenze e la procedura per la restituzione del modulo a Silvana Bresciani.
+  - Comunicazione della firma del contratto con RINA Services S.p.A. e della convenzione per tariffe agevolate.
+  - Nessun allegato effettivo presente nel messaggio.
+
+- 2012-03-05  
+  - Francesco Naviglio (Segretario Generale AiFOS) informa i CFA che il percorso di estensione della certificazione ha raggiunto il terzo anno e che dal 2013 i CFA dovranno aderire obbligatoriamente per mantenere la convenzione.
+  - Specifica le modalità di adesione e tre finestre temporali per invio richieste/audit interni AiFOS (scadenze: aprile, giugno, settembre 2012) con relative tempistiche per audit e allegati.
+  - Richiesta compilazione e invio del modulo di adesione (non incluso).
+  - Viene citato l’attivazione della pagina “Sistema Qualità” nell’area riservata del CFA con procedure e modulistica utile.
+  - Previsione audit AiFOS e RINA su campione di CFA.
+  - Nessun allegato effettivo presente nel messaggio.
+
+- 2012-06-25  
+  - Pietro de' Castiglioni comunica l’invio ad AiFOS del modulo di richiesta di adesione alla Certificazione del Sistema Qualità MIM per i corsi a marchio AiFOS.
+  - Allegato: **AIFOS - Richiesta certificazione.pdf**
+
+- 2013-05-07  
+  - Pietro de' Castiglioni comunica che AiFOS ha effettuato l'audit presso MIM per verificare l'attuazione delle procedure di Qualità nell’erogazione dei corsi.
+  - Presenti all’audit: PDC (Pietro de' Castiglioni) e CAM (probabilmente Marco Camisani).
+  - Il sistema qualità di MIM è giudicato efficace e rispondente a quanto richiesto.
+  - Previsione audit RINA tra fine maggio e metà giugno per l'estensione della certificazione.
+  - Allegato: **Aifos - Audit certificazione.pdf**
+
+- 2013-07-16 / 2013-12-11  
+  - Pietro de' Castiglioni allega il certificato RINA emesso il 16.07.2013 a favore di MIM come Centro di Formazione certificato AiFOS.
+  - Viene fornito anche un link all’elenco ufficiale dei CFA certificati sul sito AiFOS.
+  - Allegato: **AIFOS - Certificazione RINA.pdf**
+
+- 2013-12-11  
+  - Pietro de' Castiglioni segnala a Nirvana Salvi (AiFOS), con in copia Matteo Meroni e Marco Camisani, la presenza di un errore nell'indirizzo riportato sul certificato RINA (errata: VIA RONCEDELLE, corretto: VIA RONCADELLE).
+  - Nessun allegato presente.
+
+- 2014-05-29 / 2014-06-03  
+  - Silvana Bresciani (AiFOS) comunica la programmazione dell’audit di terza parte RINA tra il 12 e il 30 giugno 2014.
+  - Invio interno tra PDC (Pietro de' Castiglioni) e CAM (Marco Camisani) per discutere e verificare la documentazione da preparare prima dell’audit RINA.
+  - PDC richiede a CAM di controllare il materiale da inviare e preparare la documentazione per la riunione con Ronchi.
+  - CAM commenta su moduli MOD7406 e MOD7402, allegando i relativi modelli ricevuti da AiFOS, pur segnalando differenze rispetto ai loro formati interni.
+  - Vengono elencati i documenti richiesti da AiFOS: elenchi formatori, fornitori, verbali corsi, registri, verbali di audit (MOD8204), Registro Non Conformità (MOD8301), ecc.
+  - Nessun allegato effettivo ai messaggi inseriti (i moduli sono citati come allegati dai mittenti, ma non sono allegati ai messaggi nel dettaglio progetto).
+
+- 2016-07-21  
+  - Alessandro Ronchi pubblica nella sezione Documentazione il certificato ISO 9001:08 AiFOS aggiornato per Mega Italia Media, relativo all’erogazione dei corsi con marchio AiFOS.
+  - Nessun allegato effettivo presente.
+
+**Persone coinvolte e azioni principali:**
+- Silvana Bresciani (AiFOS): invia istruzioni operative, moduli, richieste adesione; coordina la fase di estensione della certificazione.
+- Francesco Naviglio (AiFOS): comunica obbligo di adesione, pianifica e dettaglia il processo di audit e i passaggi da seguire.
+- Pietro de' Castiglioni (Mega Italia Media): gestisce la documentazione, comunica invio moduli ad AiFOS, partecipa ad audit e verifica procedure di qualità, segnala errori nel certificato, coordina la preparazione documentale interna.
+- Marco Camisani (Mega Italia Media): collabora con PDC alla revisione della documentazione per gli audit, valuta l’adeguatezza dei modelli AiFOS rispetto ai propri.
+- Alessandro Ronchi: pubblica il certificato aggiornato.
+- Nirvana Salvi (AiFOS), Matteo Meroni (Mega Italia Media): coinvolti in comunicazioni interne per errori nell’indirizzo certificato.
+
+**Presenza allegati ai messaggi:**
+- **AIFOS - Richiesta certificazione.pdf** (25/06/2012, invio modulo adesione)
+- **Aifos - Audit certificazione.pdf** (07/05/2013, verbale audit AiFOS)
+- **AIFOS - Certificazione RINA.pdf** (11/12/2013, certificato qualità RINA)
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 4981 characters and 619 words.
+Compression ratio: 0.38 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 1279.
+Summary generated in 21.385244 seconds.

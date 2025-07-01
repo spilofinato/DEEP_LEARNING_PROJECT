@@ -1,0 +1,58 @@
+- 9 marzo 2011:  
+  - Silvana Bresciani (AiFOS) comunica ai Centri di Formazione AiFOS (C.F.A.) l’avvio dell’estensione della certificazione ISO 9001 a tutti i centri convenzionati, a seguito della certificazione RINA ottenuta nel 2008.  
+  - RINA effettuerà verifiche a campione sui C.F.A. aderenti per l’inclusione nell’elenco ufficiale, allegato dedicato.  
+  - Previsto un costo di 250 € il primo anno e 200 € dal secondo per i C.F.A.; adesione richiesta entro 3 anni per mantenere il convenzionamento.  
+  - Fase di estensione fissata per maggio 2011; aziende devono inviare il modulo di adesione (modulo allegato, non incluso) a Silvana Bresciani entro il 23 aprile.  
+  - AiFOS fornirà materiale per l’implementazione del Sistema Qualità, previste verifiche ispettive interne tra ottobre e novembre 2011.  
+  - Segnalata convenzione con RINA per tariffe agevolate sulla certificazione ISO 9001 per altre attività aziendali.  
+
+- 5 marzo 2012:  
+  - Dr. Francesco Naviglio (AiFOS) ricorda ai C.F.A. l’obbligo di aderire al progetto di certificazione del sistema qualità, terzo anno dall’inizio.  
+  - Dal 2013, solo i centri certificati potranno erogare corsi AiFOS secondo ISO 9001.  
+  - Fasi/scadenze adesione:  
+    - Entro 13 aprile 2012: audit interno entro maggio, allegato certificato entro giugno.  
+    - Entro 22 giugno: audit luglio-agosto, allegato entro settembre.  
+    - Entro 21 settembre: audit ottobre, allegato gennaio 2013.  
+  - Costi aggiornati: 200 € + IVA primo anno, 100 € + IVA dopo, fatturati da RINA.  
+  - Richiesto invio modulo di adesione allegato (non incluso) a Silvana Bresciani.  
+  - Attivazione pagina riservata Sistema Qualità, un mese per l’implementazione, audit interno AiFOS e successivi audit RINA (maggio-giugno) secondo campionamento.  
+  - Confermata convenzione per tariffe agevolate RINA su ulteriori attività aziendali.  
+
+- 25 giugno 2012:  
+  - Pietro de' Castiglioni invia ad AiFOS il modulo di adesione alla certificazione (allegato: “AIFOS - Richiesta certificazione.pdf”).  
+
+- 7 maggio 2013:  
+  - Pietro de' Castiglioni comunica che AiFOS ha auditato MIM per i corsi a marchio AiFOS, in presenza di CAM.  
+  - Sistema giudicato efficace e conforme; ricordati audit esterni RINA tra fine maggio e metà giugno 2013.  
+  - Allegato: “Aifos - Audit certificazione.pdf” (verbale di audit).  
+
+- 11 dicembre 2013:  
+  - Pietro de' Castiglioni trasmette in allegato il certificato emesso da RINA il 16/07/2013 a MIM come C.F.A. AiFOS certificato (“AIFOS - Certificazione RINA.pdf”); fornito il link all’elenco ufficiale CFA certificati.  
+  - Segnala via email a Nirvana Salvi (AiFOS), con Matteo Meroni e Marco Camisani in copia, un errore nell’indirizzo sul certificato RINA.  
+
+- 29 maggio 2014:  
+  - Silvana Bresciani (AiFOS) programma audit RINA per il Sistema Gestione Qualità AiFOS (12-30 giugno 2014), con istruzioni per la preparazione.  
+  - Richiede invio entro l’8 giugno di: Verbale audit MOD8204 (allegato), documentazione corsi, elenco formatori (MOD7406) e CV, elenco fornitori (MOD7402), verifica dei materiali, copia certificato CCIAA, organigramma, Registro Non Conformità MOD8301.  
+
+- 30 maggio 2014:  
+  - Pietro de' Castiglioni scrive a CAM proponendo la revisione del materiale da inviare.  
+
+- 3 giugno 2014:  
+  - Pietro de' Castiglioni risponde a CAM:  
+    - Conferma regolarità documentazione corsi AiFOS.  
+    - Invia in allegato MOD7406 e MOD7402 (chiedendo chiarimenti e alternative).  
+    - Segnala assenza materiali da verificare post-OCS.  
+    - Richiede chiarimenti su verbale MOD8204, certificato CCIAA, organigramma, Registro Non Conformità MOD8301, suggerendo di usare MOD8204 dell’anno precedente.  
+
+- 21 luglio 2016:  
+  - Alessandro Ronchi pubblica in Documentazione il certificato ISO 9001:08 AIFOS aggiornato per Centro Mega Italia Media sulla formazione AiFOS.  
+
+**Presenza allegati segnalata nei messaggi di Pietro de' Castiglioni (MOD7406, MOD7402, MOD8204 via Silvana Bresciani).**
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 4047 characters and 467 words.
+Compression ratio: 0.31 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 1046.
+Summary generated in 36.231436 seconds.

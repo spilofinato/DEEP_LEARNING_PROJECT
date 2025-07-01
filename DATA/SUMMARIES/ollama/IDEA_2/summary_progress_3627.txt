@@ -1,0 +1,27 @@
+Ecco un riassunto cronologico delle informazioni fornite:
+
+*   **Dati Finanziari (1999-2003):** Presentazione di dati relativi a ricavi e spese suddivisi per categorie come "Tot", "MI", "pdv", "rivend", "varie", "cata", "ad hoc", "av.lavori", "finanz" e "capital". I ricavi passano da 774.000 Euro nel 1999 a 989.000 Euro nel 2003.
+*   **2001: Considerazioni di Budget:** Registrazione di un "Civil Legal Loss" di 19 milioni di lire e "Tax Losses" di 60 milioni di lire, con recupero previsto in 5 anni tramite il "Tremonti" benefit. Finanziamento "Innovative Enterprise" (Legge 35) di 193 milioni di lire (circa 99.676 Euro), con obbligo di rendicontazione al 31/12/2002 e liquidazione tra marzo e maggio 2003.
+*   **Asset Transfer e Contabilità:** Trasferimento dal sistema "Point of Sale" (PS) da MI a MIM, comprensivo di hardware (4.500 unità). MI fattura a MIM nel 2002 e 2003, e MIM fattura a MI nel 2003.
+*   **Dati PMI (Contesto Europeo):** L'Italia conta 3.440.000 PMI su un totale di 19.410.000 in Europa, con una prevalenza di aziende con 1-9 dipendenti.
+*   **Distribuzione e Marketing (2003):** LM e FA coordinano l'attività. MAD contatta i fornitori. CSMI distribuisce cataloghi direttamente ai clienti.
+*   **11 Giugno 2003:** LM segnala la stampa di 302.000 copie di cataloghi per rispettare un accordo con PT (500.000 copie/anno). Viene proposto un co-marketing con Seton (invio di 8.000 cataloghi MIM).
+*   **26 Agosto 2003:** Primo invio di cataloghi a 52.000 destinatari, comprendenti diverse categorie professionali e settori.
+*   **3 Settembre 2003:** Secondo invio a 65.000 clienti MIM, con allegati CD demo.
+*   **1 Ottobre 2003:** Terzo invio a 100.944 destinatari, inclusi clienti MIM e aziende con 10-50 dipendenti.
+*   **3 Novembre 2003:** Quarto invio a 80.000 clienti MIM, con CD demo.
+*   **19 Maggio 2004:** LM segnala un'incongruenza contabile sui costi di trasporto, raddoppiati rispetto ai ricavi. Viene aumentato il costo minimo di spedizione (da 7 a 8,50 Euro) e viene modificato il catalogo 25.
+*   **5 Agosto 2004:** LM invia un messaggio riguardante un disavanzo di 15.000 Euro nei costi di trasporto. Si sollecita l'utilizzo di corrieri più economici (artoni). ELE e MFB sono responsabili della pesatura degli articoli per il corretto addebito.
+*   **Monitoraggio degli Errori:** FOM e/o MFB sono incaricati di monitorare gli errori di spedizione a partire dal 1° settembre.
+*   **Persone coinvolte:** Luigi Meroni (LM), FA, MAD, CSMI, ELE, MFB, FOM, PT, Seton.
+*   **Assunzioni e chiarimenti necessari:** Riferimento a "Tremonti" benefit, Legge 35, relazione tra MI e MIM, PS.
+
+Non ci sono allegati associati ai messaggi.
+
+---
+Original length: 48310 characters and 5374 words.
+Summary length: 2718 characters and 344 words.
+Compression ratio: 0.06 (summary length / original length).
+Estimated input tokens: 12077.
+Estimated output tokens: 714.
+Summary generated in 101.282229 seconds.

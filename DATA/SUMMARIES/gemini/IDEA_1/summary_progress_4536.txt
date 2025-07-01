@@ -1,0 +1,27 @@
+*   **9 marzo 2011:** Silvana Bresciani (AiFOS) ha annunciato l'avvio dell'estensione della certificazione ISO 9001 (ottenuta da AiFOS con RINA nel 2008) ai Centri di Formazione AiFOS (C.F.A.) convenzionati, per i corsi a marchio AiFOS. Il processo prevedeva verifiche RINA, inclusione dei C.F.A. in elenco e costi specifici. Un "modulo di adesione allegato" era menzionato per l'adesione entro il 23 aprile. In questa data è stato anche creato il progetto "Certificazione Qualità AiFOS - Progress sempre attivo".
+
+*   **5 marzo 2012:** Il Dott. Francesco Naviglio (Segretario Generale AiFOS) ha aggiornato sull'estensione della certificazione, rendendola obbligatoria per tutti i C.F.A. entro il 2013 per i corsi a Marchio AiFOS (ECMA). I costi sono stati ridotti e fatturati da RINA. Un "modulo di adesione allegato" era menzionato ma non riportato. Ai C.F.A. aderenti veniva attivata un'area riservata.
+
+*   **25 giugno 2012:** Mega Italia Media (MIM) ha inviato il modulo di richiesta di adesione per la certificazione del Sistema Qualità. Era allegato il file "AIFOS - Richiesta certificazione.pdf".
+
+*   **Data non indicata (riportato il 7 maggio 2013):** AiFOS ha condotto un audit presso Mega Italia Media (MIM), alla presenza di Pietro de' Castiglioni (PDC) e CAM, verificando le procedure di qualità nell'erogazione dei corsi a marchio AiFOS, trovandole conformi. Era allegato il file "Aifos - Audit certificazione.pdf".
+
+*   **16 luglio 2013:** RINA ha emesso il certificato a Mega Italia Media (MIM) come Centro di Formazione AiFOS certificato per l’erogazione dei corsi a Marchio AiFOS. Era allegato il file "AIFOS - Certificazione RINA.pdf".
+
+*   **11 dicembre 2013:** Pietro de' Castiglioni ha segnalato a Nirvana Salvi (AiFOS), e in copia a Matteo Meroni (LM) e Marco Camisani (CAM), un errore nell'indirizzo di MIM sul certificato RINA. Nessun allegato.
+
+*   **29 maggio 2014:** Silvana Bresciani (AiFOS) ha informato i responsabili dei C.F.A. dell'audit periodico RINA (giugno 2014), richiedendo l'invio del "Verbale di audit MOD8204" (menzionato come allegato) entro l'8 giugno, la gestione delle "Non Conformità" (MOD8301) e l'aggiornamento della documentazione dei corsi e degli elenchi (MOD7406, MOD7402).
+
+*   **30 maggio 2014:** Pietro de' Castiglioni ha chiesto a CAM di iniziare il controllo del materiale da inviare.
+
+*   **3 giugno 2014:** Pietro de' Castiglioni ha risposto a Silvana Bresciani confermando la documentazione cartacea in ordine, ma evidenziando la non compilazione di "MOD7406" e "MOD7402" nel formato richiesto (pur menzionando un precedente invio "in allegato" non presente nel log). Ha chiesto di recuperare vari documenti.
+
+*   **21 luglio 2016:** Alessandro Ronchi ha annunciato la pubblicazione del "certificato ISO 9001:08 AIFOS" aggiornato per Mega Italia Media, relativo all'Erogazione di corsi di formazione a marchio AiFOS.
+
+---
+Original length: 13350 characters and 1867 words.
+Summary length: 2933 characters and 367 words.
+Compression ratio: 0.22 (summary length / original length).
+Estimated input tokens: 3337.
+Estimated output tokens: 767.
+Summary generated in 67.70385 seconds.

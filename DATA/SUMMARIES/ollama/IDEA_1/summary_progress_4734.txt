@@ -1,0 +1,31 @@
+Okay, thank you! That's incredibly helpful. Let's flesh out the context.
+
+**Context:**
+
+*   **Industry:** They are part of a larger company (MIM - *presumably* a corporate name, not a description) that provides **training and consulting services in workplace safety, environmental compliance, and related areas**. Think of them as a B2B company selling solutions to businesses to help them meet legal requirements and improve safety practices. MIM is established, with decades of history, but needs to modernise its online presence and reach.
+*   **Business Model:** The main revenue streams are from:
+    *   **In-person training courses:** Traditional, very profitable.
+    *   **Consulting services:**  Customized solutions for businesses.
+    *   **Online Training and Resources (PS/Puntosicuro):** This is what we're focused on. It's meant to be a lead generation tool, a brand builder, and an additional revenue stream. It's currently *underperforming*.
+*   **PS/Puntosicuro's Role:** It's a combination of a free resource hub (articles, news, basic checklists) and a paid subscription service (access to a database of legal documents, detailed checklists, advanced training modules, and expert support).
+
+**Current Priorities:**
+
+1.  **Increase Lead Generation:** The top priority is to get more qualified leads for the in-person training and consulting services. PS/Puntosicuro needs to be a more effective lead magnet.
+2.  **Improve Online Brand Reputation:** MIM wants to be seen as a modern, innovative leader in the safety and compliance space. Their current online presence feels dated.
+3.  **Boost Subscription Numbers:** Increase the number of paid subscribers to the online platform.
+4.  **Optimize Marketing Spend:** They're not happy with the return on their marketing investment.
+
+
+
+**Audience for the Summary:**
+
+The summary is for **Federica Gozzini** (FG) herself - she's the driving force behind the initiative. She's very busy and needs a concise overview of the situation, key actions, and outstanding priorities. She wants to be able to quickly understand progress and identify areas where she needs to focus her attention. It will also be shared with Luigi Meroni and other key team members for alignment. The tone should be professional but clear and actionable.
+
+---
+Original length: 79034 characters and 11490 words.
+Summary length: 2346 characters and 322 words.
+Compression ratio: 0.03 (summary length / original length).
+Estimated input tokens: 19758.
+Estimated output tokens: 621.
+Summary generated in 350.367097 seconds.

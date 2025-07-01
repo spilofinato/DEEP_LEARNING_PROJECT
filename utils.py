@@ -4,21 +4,33 @@ from collections import defaultdict
 from datetime import datetime as dt
 
 import ollama
+import torch
 from google import genai
+from openai import OpenAI
 from bs4 import BeautifulSoup
 from markdown_it import MarkdownIt
 import nltk
+from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
+from datasets import Dataset
+
 nltk.download('punkt_tab')
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+import spacy
+nlp = spacy.load("it_core_news_sm")
 
 import api_keys
 
-def is_long_progress(progress, msg_threshold=30, char_threshold=15000):
-    return progress["message_count"] >= msg_threshold or progress["total_char_length"] >= char_threshold
+def is_long_progress(progress, msg_threshold=30, words_threshold=1500):
+    return progress["message_count"] >= msg_threshold or progress["total_words"] >= words_threshold
 
 def count_words(text):
     tokens = word_tokenize(text, language='italian')
     return len([t for t in tokens if t.isalpha()])
+
+def split_sentences(text):
+    doc = nlp(text)
+    return [sent.text.strip() for sent in doc.sents if sent.text.strip()]
 
 def build_chronological_text_from_progress(progress):
     # Build a chronological text from messages, tokenizing by author and content
@@ -66,7 +78,7 @@ def build_chronological_text_from_progress(progress):
 
     return text.strip()
 
-def split_progress_by_length(messages, words_threshold=500):
+def split_progress_by_length(messages, words_threshold=1500):
     chunks = []
     current_chunk = []
     current_length = 0
@@ -101,7 +113,7 @@ def build_summarization_prompt(text, mode="full"):
                 """)
         text_for_prompt = rewrite_text_for_prompt.strip()
 
-    max_length = max(200, min(1000, count_words(text_for_prompt) // 2))
+    max_length = max(200, min(1500, count_words(text_for_prompt) // 2))
 
     print(f"Max length for summarization: {max_length} words.")
 
@@ -114,7 +126,7 @@ def build_summarization_prompt(text, mode="full"):
             Evidenzia la presenza di allegati ai messaggi.
             Scrivi esclusivamente in italiano.
             Non includere introduzioni né conclusioni.
-            Lunghezza massima: {max_length} parole.
+            Lunghezza massima del riassunto da generare: {max_length} parole.
 
         Dettaglio del progetto:
         {text_for_prompt}
@@ -122,13 +134,14 @@ def build_summarization_prompt(text, mode="full"):
     elif mode == "hierarchical":
         prompt = textwrap.dedent(f"""
         Istruzioni:
-            Unisci i testi forniti in un unico riassunto coerente e dettagliato.
-        Vincoli:
-            Scrivi in italiano.
+            Unisci i testi forniti in un unico riassunto coerente in formato cronologico.
+            Usa un formato ad elenco puntato.
+            Evidenzia le persone coinvolte e le loro azioni.
+            Evidenzia la presenza di allegati ai messaggi.
+            Scrivi esclusivamente in italiano.
             Non aggiungere introduzioni né conclusioni.
-            Lunghezza massima: {max_length} parole.
+            Lunghezza massima del riassunto da generare: {max_length} parole.
             Evita ripetizioni.
-            Il testo deve essere fluido, logico e leggibile.
             
         Testo da unire:
         {text_for_prompt}
@@ -171,9 +184,9 @@ def split_progress_by_timeframe(progress, timeframe=1.0):
     # Restituisci i bucket ordinati cronologicamente
     return [buckets[key] for key in sorted(buckets.keys())]
 
-def summarize_with_ollama(prompt, model):
+def summarize_with_ollama(prompt):
     response = ollama.generate(
-        model=model,
+        model="gemma3:12b",
         prompt=prompt,
     )
 
@@ -181,28 +194,49 @@ def summarize_with_ollama(prompt, model):
 
     return response["response"]
 
-def summarize_with_gemini(prompt, model):
+def summarize_with_gemini(prompt):
     google_client = genai.Client(api_key=api_keys.GOOGLE_API_KEY)
-    response = google_client.models.generate_content(
-        model=model,
-        contents=prompt,
-    )
+    try:
+        response = google_client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
+    except Exception as e:
+        print(f"Error generating content with Gemini: {e}")
+        return ""
+
     print("Summary length:", count_words(response.text), "words.")
+
     return response.text
 
-def summarize_chunked_progress(messages, progress_for_summary, llm, model, mode):
+def summarize_with_gpt(prompt):
+    client = OpenAI(api_key=api_keys.OPENAI_API_KEY)
+
+    try:
+        response = client.responses.create(
+            model="gpt-4.1",
+            input=prompt,
+        )
+    except Exception as e:
+        print(f"Error generating content with GPT: {e}")
+        return ""
+
+    print("Summary length:", count_words(response.output_text), "words.")
+
+    return response.output_text
+
+def summarize_chunked_progress(messages, progress_for_summary, llm, mode):
     summaries = []
     for chunk in messages:
         progress_for_summary["messages"] = chunk
         text = build_chronological_text_from_progress(progress_for_summary)
         prompt = build_summarization_prompt(text, mode=mode)
         if llm == "ollama":
-            summaries.append(summarize_with_ollama(prompt, model=model))
+            summaries.append(summarize_with_ollama(prompt))
         elif llm == "gemini":
-            summaries.append(summarize_with_gemini(prompt, model=model))
+            summaries.append(summarize_with_gemini(prompt))
         elif llm == "gpt":
-            # PLH
-            raise NotImplementedError("GPT summarization not implemented yet.")
+            summaries.append(summarize_with_gpt(prompt))
         else:
             raise ValueError(f"Unsupported LLM: {llm}")
 
@@ -215,18 +249,38 @@ def summarize_chunked_progress(messages, progress_for_summary, llm, model, mode)
     prompt = build_summarization_prompt(summaries, mode="hierarchical")
 
     if llm == "ollama":
-        final_summary = summarize_with_ollama(prompt, model=model)
+        final_summary = summarize_with_ollama(prompt)
     elif llm == "gemini":
-        final_summary = summarize_with_gemini(prompt, model=model)
+        final_summary = summarize_with_gemini(prompt)
     elif llm == "gpt":
-        # PLH
-        raise NotImplementedError("GPT summarization not implemented yet.")
+        final_summary = summarize_with_gpt(prompt)
     else:
         raise ValueError(f"Unsupported LLM: {llm}")
 
     return final_summary
 
-def summarize_progress_idea_1(progress, llm="ollama", model="gemma3:4b", mode="full", check_long_progress=True):
+def summarize_progress_direct(progress, llm="ollama", mode="full"):
+    """
+    Directly summarize the progress without chunking.
+
+    :param progress: dict with progress data
+    :param llm: name of the LLM to use for summarization
+    :param mode: summarization mode, either "full" or "hierarchical"
+    :return: summary text
+    """
+    text = build_chronological_text_from_progress(progress)
+    prompt = build_summarization_prompt(text, mode=mode)
+
+    if llm == "ollama":
+        return summarize_with_ollama(prompt)
+    elif llm == "gemini":
+        return summarize_with_gemini(prompt)
+    elif llm == "gpt":
+        return summarize_with_gpt(prompt)
+    else:
+        raise ValueError(f"Unsupported LLM: {llm}")
+
+def summarize_progress_idea_1(progress, llm="ollama", mode="full", check_long_progress=True):
     """
     - If progress length is short enough → single summary
     - If progress length is long → multiple summaries → make final summary from them
@@ -243,19 +297,18 @@ def summarize_progress_idea_1(progress, llm="ollama", model="gemma3:4b", mode="f
         # Split into chunks if too long
         messages = split_progress_by_length(progress["messages"])
 
-        return summarize_chunked_progress(messages, progress, llm=llm, model=model, mode=mode)
+        return summarize_chunked_progress(messages, progress, llm=llm, mode=mode)
     else:
         print("Summarizing directly...")
         # Direct summarization for shorter progress
         text = build_chronological_text_from_progress(progress)
         prompt = build_summarization_prompt(text, mode=mode)
         if llm == "ollama":
-            return summarize_with_ollama(prompt, model=model)
+            return summarize_with_ollama(prompt)
         elif llm == "gemini":
-            return summarize_with_gemini(prompt, model=model)
+            return summarize_with_gemini(prompt)
         elif llm == "gpt":
-            # PLH
-            raise NotImplementedError("GPT summarization not implemented yet.")
+            return summarize_with_gpt(prompt)
         else:
             raise ValueError(f"Unsupported LLM: {llm}")
 
@@ -287,22 +340,88 @@ def summarize_progress_idea_2(progress, llm="ollama", model="gemma3:4b", mode="f
     if progress_duration_days < 180:
         print("Progress is short, summarizing directly...")
         # Direct summarization for short progress
-        return summarize_progress_idea_1(progress, llm=llm, model=model, mode=mode, check_long_progress=False)
+        return summarize_progress_idea_1(progress, llm=llm, mode=mode, check_long_progress=False)
 
     elif progress_duration_days < 365:
         print("Progress is short-medium, summarizing by quarter...")
         # Split into chunks if too long
         messages = split_progress_by_timeframe(progress, timeframe=1/4)
-        return summarize_chunked_progress(messages, progress, llm=llm, model=model, mode=mode)
+        return summarize_chunked_progress(messages, progress, llm=llm, mode=mode)
 
     elif progress_duration_days < 365 * 2:
         print("Progress is medium, summarizing by semester...")
         # Split into chunks if too long
         messages = split_progress_by_timeframe(progress, timeframe=1/2)
-        return summarize_chunked_progress(messages, progress, llm=llm, model=model, mode=mode)
+        return summarize_chunked_progress(messages, progress, llm=llm, mode=mode)
 
     else:
         print("Progress is long, summarizing by year...")
         # Split into chunks if too long
         messages = split_progress_by_timeframe(progress, timeframe=1)
-        return summarize_chunked_progress(messages, progress, llm=llm, model=model, mode=mode)
+        return summarize_chunked_progress(messages, progress, llm=llm, mode=mode)
+
+def validate_summary_with_summac_dataset(summary, progress, device="cuda"):
+    """
+    Validate the summary using a SummaC-style entailment approach with batched dataset processing.
+    :param summary: string, the generated summary
+    :param progress: dict, containing a 'messages' list with 'content' keys
+    :param device: string, "cuda" or "cpu"
+    :return: float, average entailment score
+    """
+    model_name = "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli"
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name).to(device)
+    model.eval()
+    label_map = model.config.id2label
+    entailment_id = model.config.label2id["entailment"]
+
+    doc_sentences = sent_tokenize(" ".join(msg["content"] for msg in progress["messages"]))
+    summary_sentences = sent_tokenize(summary)
+
+    pairs = [{"premise": d, "hypothesis": s} for s in summary_sentences for d in doc_sentences]
+    dataset = Dataset.from_list(pairs)
+
+    def predict_batch(batch):
+        inputs = tokenizer(batch["premise"], batch["hypothesis"], padding=True, truncation=True, return_tensors="pt").to(device)
+        with torch.no_grad():
+            logits = model(**inputs).logits
+            probs = torch.softmax(logits, dim=1)
+        return {
+            "entailment_score": probs[:, entailment_id].tolist(),
+            "hypothesis": batch["hypothesis"]
+        }
+
+    result_dataset = dataset.map(predict_batch, batched=True, batch_size=32)
+    df = result_dataset.to_pandas()
+    max_entailment = df.groupby("hypothesis")["entailment_score"].max()
+    return round(max_entailment.mean(), 4)
+
+def validate_summary_with_qags(summary, progress, device="cuda"):
+    # Modello di generazione domande in italiano (es. IT5)
+    qg = pipeline("text2text-generation", model="it5/it5-large-question-generation")
+
+    # Modello di QA estrattivo in italiano (es. BERT fine-tunato su SQuAD-it)
+    qa = pipeline("question-answering", model="osiria/bert-italian-cased-question-answering")
+
+    # Documento da cui estrarre il sommario
+    document = build_chronological_text_from_progress(progress)
+
+    # 1. Generazione domande dal sommario (si può fare una domanda per frase chiave)
+    domande = []
+    for frase in split_sentences(summary):
+        if frase.strip():
+            q = qg(frase.strip())[0]["generated_text"]
+            domande.append(q)
+
+    # 2. Per ciascuna domanda, trovare risposta nel sommario e nel documento
+    risultati = []
+    for domanda in domande:
+        risposta_doc = qa(question=domanda, context=document)["answer"]
+        risposta_sommario = qa(question=domanda, context=document)["answer"]
+        risultati.append((domanda, risposta_sommario, risposta_doc))
+
+    # 3. Confronto risposte
+    match_count = sum(1 for (_, ris_s, ris_d) in risultati if ris_s and ris_d and ris_s.lower() == ris_d.lower())
+    qags_score = match_count / len(risultati)
+    print(f"QAGS Score per il sommario: {qags_score:.2f}")
+    return round(qags_score, 4)

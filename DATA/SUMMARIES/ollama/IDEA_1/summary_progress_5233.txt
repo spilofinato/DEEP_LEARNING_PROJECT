@@ -1,0 +1,72 @@
+Ecco un riassunto cronologico delle attività del progetto "Vendita GIP", basato sui testi forniti:
+
+**2022**
+
+*   **Gennaio:** Guadagno derivante da provvigioni su segnalazioni: 1949 € + IVA.
+*   **Ottobre:** Entrata in vigore del nuovo DM 02/09/2021, che richiede ai centri partner di creare nuovi master per i corsi antincendio.
+*   **Ottobre:** Invio di newsletter (NL) per ricevere biglietti omaggio alla fiera Ambiente Lavoro 2022. Sei partner rispondono positivamente, uno dei quali è anche partner SDS.
+*   **Dicembre:** Il form "Diventa partner" di CSI smette di funzionare.
+
+**2023**
+
+*   **Aprile:** Eco Green si registra come nuovo centro partner, riscontrando difficoltà nella compilazione del modulo.
+*   **Aprile:** Azione in programma per proporre SDS ai centri CSI.
+*   **Maggio:** Risoluzione del problema con il form "Diventa partner" di CSI.
+*   **Maggio:** In programma un'azione di recall per i Centri Partner con incentivo promozionale (kit safety card).
+*   **Luglio:** Implementazione di miglioramenti ai siti e al modulo "E-Commerce" di DynDevice, a seguito di confronto con area IT + MKGT.
+*   **Settembre:** Tentativo di collaborazione con IFOA per i corsi di apprendistato CSI.
+*   **Gennaio:** Guadagno derivante da provvigioni su segnalazioni: 401,50 € + IVA.
+
+**2024**
+
+*   **Aprile:** Pubblicazione di un pubbliredazionale su PS.
+*   **Aprile:** Invio di newsletter (NL) agli enti di formazione da parte del team MKGT.
+*   **Maggio:** Avvio del progetto "VENDITA GIP" (7 giugno).
+*   **Luglio:** Lancio di un coupon sconto del 45% per i clienti SDS.
+*   **Settembre:** Proposta di presentare la Banca Dati Punto Sicuro tramite Newsletter MKTG.
+*   **Ottobre:** Pianificazione di un webinar per presentare le funzionalità di SDS 2.0.
+*   **Novembre:** Invito tramite Newsletter MKTG ai clienti SDS per la fiera Ambiente Lavoro.
+*   **Dicembre:** Considerazione di riproporre Sicurflix ai clienti SDS.
+*   **Giulietta Poiatti:** Segnala attivazioni piattaforma (5 attivazioni nel 2024, 8 nel 2023).
+*   **Giulietta Poiatti:** Aggiornamenti sulla gestione CRM.
+*   **Giulietta Poiatti:** Definisce obiettivi per la vendita di prodotti, con particolare attenzione alla digitalizzazione (Sicurflix) e assegnazione di ruoli (AD, MFB, FOM, LM).
+*   **Giulietta Poiatti:** Definisce obiettivi per i Centri Partner (CSI): trovare nuovi centri e sollecitare quelli esistenti. Azioni di miglioramento previste: test con partner, pulizia elenco, pubblicazione NL e case history cliente.
+*   **Giulietta Poiatti:** Definisce iniziative di Cross-selling & Up-selling.
+*   **Giulietta Poiatti:** Decisione di limitare le azioni di "push" di Sicurflix.
+*   **Giulietta Poiatti:** Definisce obiettivi per il Gruppo Azienda: aumentare il consumo di corsi e ridurre le disdette.
+*   **Giulietta Poiatti:** Lancio della campagna "Presenta un collega".
+*   **Giulietta Poiatti:** Distribuzione di un questionario di gradimento ai clienti SDS.
+*   **Giulietta Poiatti:** Campagna "Presenta un collega" continuata.
+*   **Giulietta Poiatti:** Approvazione del budget 2025.
+*   **Giulietta Poiatti:** Pubblicazione di un pubbliredazionale su PS di SDS.
+*   **Giulietta Poiatti:** Richiesta a MEL di aumentare il budget per le campagne online SDS, respinta.
+*   **Giulietta Poiatti:** Lancio di un coupon sconto del 45% per i clienti SDS.
+*   **Giulietta Poiatti:** Campagna "Presenta un collega" in stand-by.
+*   **Giulietta Poiatti:** Pianificazione di azioni future per "Ad Maiora".
+
+**2025**
+
+*   **Gennaio:** Richiesta di estrazione dei venduti per i corsi RLS su base mensile.
+*   **Febbraio:** **Giulietta Poiatti**: Obiettivo di trovare nuovi centri di formazione qualificati e sollecitare i partner esistenti.
+*   **Maggio:** **Giulietta Poiatti**: Modifica alla guida di utilizzo omogeneo CRM2024, azioni di cross-selling (SDS a PSD), e decisione di non implementare ulteriori azioni "push" di Sicurflix.
+*   **Maggio/Giugno:** **Giulietta Poiatti:** Previsione di un elenco aggiornato delle condizioni contrattuali e definizione incentivi.
+*   **Maggio/Giugno/Luglio:** **Giulietta Poiatti:** MKTG deve inviare Newsletter.
+*   **Giulietta Poiatti**:  Gruppo Azienda non migrerà in SDS, MKTG si concentrerà sulla promozione e vendita.
+*   **Giulietta Poiatti**: Nuovi partner attivati (GRUPPO G.M.B.) e 4 nel 2024 (Nuovi Servizi Brino, Power Emergency, Vertika, IS&FM). Contatti in corso con diversi centri partner.
+*   **Novembre:** Riapertura del ticket per problemi di classificazione corsi aula/web-conference.
+
+**Considerazioni generali:**
+
+*   Acquisizione di 24 nuovi clienti (12 AD e 12 AVA) nel 2024.
+*   Gestione delle disdette.
+*   Valutazione dell'adozione di strumenti a pagamento per la generazione di lead (Sales Navigator e Lead Champion).
+*   Comunicazione costante con i clienti tramite newsletter mensili.
+*   Creazione di contenuti video tutorial e creazione di guide.
+
+---
+Original length: 24620 characters and 3333 words.
+Summary length: 4959 characters and 603 words.
+Compression ratio: 0.2 (summary length / original length).
+Estimated input tokens: 6155.
+Estimated output tokens: 1273.
+Summary generated in 157.043852 seconds.
