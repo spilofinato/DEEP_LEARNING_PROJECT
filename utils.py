@@ -2,6 +2,8 @@
 import textwrap
 from collections import defaultdict
 from datetime import datetime as dt
+from http.client import responses
+from time import sleep
 
 import ollama
 import torch
@@ -12,12 +14,16 @@ from markdown_it import MarkdownIt
 import nltk
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 from datasets import Dataset
+import re
+from difflib import SequenceMatcher
 
 nltk.download('punkt_tab')
 from nltk.tokenize import word_tokenize, sent_tokenize
 
 import spacy
 nlp = spacy.load("it_core_news_sm")
+
+from ispin.ISPIn import ISPIn
 
 import api_keys
 
@@ -31,6 +37,57 @@ def count_words(text):
 def split_sentences(text):
     doc = nlp(text)
     return [sent.text.strip() for sent in doc.sents if sent.text.strip()]
+
+def strip_markdown_and_html(text):
+    # Step 1: remove HTML tags
+    text = BeautifulSoup(text, "html.parser").get_text()
+
+    # Step 2: remove common Markdown symbols
+    text = re.sub(r"\*{1,2}|_{1,2}|`{1,3}|#{1,6}|\[.*?\]\(.*?\)", "", text)
+
+    # Step 3: collapse excessive whitespace
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
+
+def clean_sentences(sentences):
+    cleaned = []
+    for s in sentences:
+        s = s.strip()
+        if len(s) < 6 or len(s) > 300:
+            continue
+        if re.fullmatch(r"[-*_.:\s]+", s):
+            continue
+        if re.search(r"\b(?:original length|estimated input tokens|query generated|dataframe)\b", s.lower()):
+            continue
+        if s.count(s.split()[0]) > 5:
+            continue  # repeated same word
+        if re.search(r"\b(pacq|xls|nan|ordine-|pdf|20\d\d[-/])", s.lower()):
+            continue
+        cleaned.append(s)
+    return cleaned
+
+def strip_summary_metadata(summary):
+    return re.split(r"(?=---\s*Original length:)", summary)[0].strip()
+
+def is_question_garbage(q):
+    if len(q) < 10 or len(q) > 300:
+        return True
+    if q.count("?") > 5 or q.count(q.split()[0]) > 4:
+        return True
+    if re.search(r"\b(query|token|generated in|length)\b", q.lower()):
+        return True
+    return False
+
+def remove_near_duplicates(lst, threshold=0.85):
+    seen = []
+    for s in lst:
+        if all(SequenceMatcher(None, s, prev).ratio() < threshold for prev in seen):
+            seen.append(s)
+    return seen
+
+def is_similar(a, b, threshold=0.85):
+    return SequenceMatcher(None, a.lower().strip(), b.lower().strip()).ratio() > threshold
 
 def build_chronological_text_from_progress(progress):
     # Build a chronological text from messages, tokenizing by author and content
@@ -185,10 +242,19 @@ def split_progress_by_timeframe(progress, timeframe=1.0):
     return [buckets[key] for key in sorted(buckets.keys())]
 
 def summarize_with_ollama(prompt):
-    response = ollama.generate(
-        model="gemma3:12b",
-        prompt=prompt,
-    )
+    response = None
+
+    while response is None:
+        try:
+            # Use the ollama client to generate a summary
+            response = ollama.generate(
+                model="gemma3:4b",
+                prompt=prompt,
+            )
+        except Exception as e:
+            print(f"Error generating content with Ollama: {e}, sleeping for 10 seconds before retrying...")
+            sleep(10)
+            response = None
 
     print("Summary length:", count_words(response["response"]), "words.")
 
@@ -196,14 +262,19 @@ def summarize_with_ollama(prompt):
 
 def summarize_with_gemini(prompt):
     google_client = genai.Client(api_key=api_keys.GOOGLE_API_KEY)
-    try:
-        response = google_client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-        )
-    except Exception as e:
-        print(f"Error generating content with Gemini: {e}")
-        return ""
+
+    response = None
+
+    while response is None:
+        try:
+            response = google_client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+            )
+        except Exception as e:
+            print(f"Error generating content with Gemini: {e}, sleeping for 10 seconds before retrying...")
+            sleep(10)
+            response = None
 
     print("Summary length:", count_words(response.text), "words.")
 
@@ -212,14 +283,18 @@ def summarize_with_gemini(prompt):
 def summarize_with_gpt(prompt):
     client = OpenAI(api_key=api_keys.OPENAI_API_KEY)
 
-    try:
-        response = client.responses.create(
-            model="gpt-4.1",
-            input=prompt,
-        )
-    except Exception as e:
-        print(f"Error generating content with GPT: {e}")
-        return ""
+    response = None
+
+    while response is None:
+        try:
+            response = client.responses.create(
+                model="gpt-4.1",
+                input=prompt,
+            )
+        except Exception as e:
+            print(f"Error generating content with GPT: {e}")
+            sleep(10)
+            response = None
 
     print("Summary length:", count_words(response.output_text), "words.")
 
@@ -360,24 +435,36 @@ def summarize_progress_idea_2(progress, llm="ollama", model="gemma3:4b", mode="f
         messages = split_progress_by_timeframe(progress, timeframe=1)
         return summarize_chunked_progress(messages, progress, llm=llm, mode=mode)
 
-def validate_summary_with_summac_dataset(summary, progress, device="cuda"):
+def validate_summary_with_nli_hybrid(summary, progress, device="cuda", lambda_contradiction=0.5):
     """
-    Validate the summary using a SummaC-style entailment approach with batched dataset processing.
-    :param summary: string, the generated summary
-    :param progress: dict, containing a 'messages' list with 'content' keys
-    :param device: string, "cuda" or "cpu"
-    :return: float, average entailment score
+    Hybrid SummaC-style scoring with penalties for contradiction and weak support.
+
+    :param summary: Generated summary (string)
+    :param progress: Dict with 'messages' list, each containing 'content'
+    :param device: 'cuda' or 'cpu'
+    :param lambda_contradiction: weight for contradiction penalty
+    :return: float, adjusted factual consistency score
     """
     model_name = "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name).to(device)
     model.eval()
-    label_map = model.config.id2label
-    entailment_id = model.config.label2id["entailment"]
 
-    doc_sentences = sent_tokenize(" ".join(msg["content"] for msg in progress["messages"]))
-    summary_sentences = sent_tokenize(summary)
+    id2label = model.config.id2label
+    label2id = model.config.label2id
+    entail_id = label2id["entailment"]
+    contradict_id = label2id["contradiction"]
 
+    # Prepare text
+    doc_text = strip_markdown_and_html(" ".join(msg["content"] for msg in progress["messages"]))
+    summary_text = strip_markdown_and_html(strip_summary_metadata(summary))
+
+    doc_sentences = clean_sentences(sent_tokenize(doc_text, language='italian'))
+    summary_sentences = clean_sentences(sent_tokenize(summary_text, language='italian'))
+    if not doc_sentences or not summary_sentences:
+        return 0.0
+
+    # Generate all (doc, summary) pairs
     pairs = [{"premise": d, "hypothesis": s} for s in summary_sentences for d in doc_sentences]
     dataset = Dataset.from_list(pairs)
 
@@ -386,42 +473,146 @@ def validate_summary_with_summac_dataset(summary, progress, device="cuda"):
         with torch.no_grad():
             logits = model(**inputs).logits
             probs = torch.softmax(logits, dim=1)
+
+        entail_scores = probs[:, entail_id].tolist()
+        contradict_scores = probs[:, contradict_id].tolist()
+
         return {
-            "entailment_score": probs[:, entailment_id].tolist(),
+            "entailment_score": entail_scores,
+            "contradiction_score": contradict_scores,
             "hypothesis": batch["hypothesis"]
         }
 
-    result_dataset = dataset.map(predict_batch, batched=True, batch_size=32)
+    result_dataset = dataset.map(predict_batch, batched=True, batch_size=64)
     df = result_dataset.to_pandas()
-    max_entailment = df.groupby("hypothesis")["entailment_score"].max()
-    return round(max_entailment.mean(), 4)
 
-def validate_summary_with_qags(summary, progress, device="cuda"):
-    # Modello di generazione domande in italiano (es. IT5)
-    qg = pipeline("text2text-generation", model="it5/it5-large-question-generation")
+    # Group by each summary sentence (hypothesis)
+    grouped = df.groupby("hypothesis")
+    max_entail = grouped["entailment_score"].max()
+    max_contradict = grouped["contradiction_score"].max()
 
-    # Modello di QA estrattivo in italiano (es. BERT fine-tunato su SQuAD-it)
-    qa = pipeline("question-answering", model="osiria/bert-italian-cased-question-answering")
+    # Compute base score
+    base_score = max_entail.mean()
 
-    # Documento da cui estrarre il sommario
-    document = build_chronological_text_from_progress(progress)
+    # Penalty for contradiction
+    contradiction_penalty = lambda_contradiction * max_contradict.mean()
 
-    # 1. Generazione domande dal sommario (si può fare una domanda per frase chiave)
-    domande = []
-    for frase in split_sentences(summary):
-        if frase.strip():
-            q = qg(frase.strip())[0]["generated_text"]
-            domande.append(q)
+    # Final hybrid score
+    adjusted_score = base_score - contradiction_penalty
+    return round(max(base_score, 0.0), 4), round(max(adjusted_score, 0.0), 4)
 
-    # 2. Per ciascuna domanda, trovare risposta nel sommario e nel documento
-    risultati = []
-    for domanda in domande:
-        risposta_doc = qa(question=domanda, context=document)["answer"]
-        risposta_sommario = qa(question=domanda, context=document)["answer"]
-        risultati.append((domanda, risposta_sommario, risposta_doc))
+def validate_summary_with_qags_batched(summary, progress, device=0):
+    """
+    Compute QAGS score using batched question generation and QA.
+    """
+    # Load models
+    qg = pipeline("text2text-generation", model="it5/it5-large-question-generation", device=device)
+    qa = pipeline("question-answering", model="osiria/bert-italian-cased-question-answering", device=device)
 
-    # 3. Confronto risposte
-    match_count = sum(1 for (_, ris_s, ris_d) in risultati if ris_s and ris_d and ris_s.lower() == ris_d.lower())
-    qags_score = match_count / len(risultati)
-    print(f"QAGS Score per il sommario: {qags_score:.2f}")
-    return round(qags_score, 4)
+    # Build document and split summary
+    document = strip_markdown_and_html(" ".join(msg["content"] for msg in progress["messages"]))
+
+    summary_clean = strip_markdown_and_html(strip_summary_metadata(summary))
+    sentences = sent_tokenize(summary_clean, language='italian')
+    sentences = clean_sentences(sentences)
+
+    # Only now call QG
+    questions = qg(sentences, batch_size=8)
+    # 1. Generate questions in batch
+    questions = [q["generated_text"] for q in questions]
+    questions = clean_sentences(questions)
+    questions = [q for q in questions if not is_question_garbage(q)]
+    questions = remove_near_duplicates(questions)
+
+    print(f"Generated {len(questions)} questions: {questions}")
+
+    # 2. Build Dataset for QA calls
+    qa_data = Dataset.from_list([
+        {"question": q, "context_doc": document, "context_sum": summary}
+        for q, summary in zip(questions, [summary] * len(questions))
+    ])
+
+    # 3. Run QA on document and summary
+    def qa_batch_context_doc(batch):
+        context = [batch["context_doc"][0]] * len(batch["question"])
+        answers = qa(question=batch["question"], context=context)
+        if isinstance(answers, dict):
+            answers = [answers]
+        return {"answer_doc": [a["answer"] for a in answers]}
+
+    def qa_batch_context_sum(batch):
+        context = [batch["context_sum"][0]] * len(batch["question"])
+        answers = qa(question=batch["question"], context=context)
+        if isinstance(answers, dict):
+            answers = [answers]
+        return {"answer_sum": [a["answer"] for a in answers]}
+
+    qa_data = qa_data.map(qa_batch_context_doc, batched=True, batch_size=8)
+    qa_data = qa_data.map(qa_batch_context_sum, batched=True, batch_size=8)
+
+    # 4. Compare answers
+    df = qa_data.to_pandas()
+    # print("Answers from document:", df["answer_doc"].tolist())
+    # print("Answers from summary:", df["answer_sum"].tolist())
+    match_count = sum(
+        1 for a, b in zip(df["answer_doc"], df["answer_sum"])
+        if a and b and a.strip().lower() == b.strip().lower()
+    )
+
+    match_count = sum(1 for a, b in zip(df["answer_doc"], df["answer_sum"]) if a and b and is_similar(a, b))
+
+    score = round(match_count / len(df), 4) if len(df) else 0.0
+    print(f"QAGS score: {score} ({match_count} matches out of {len(df)}) for progress ID {progress['progress_id']}")
+    return score
+
+def gpt_score_summary(summary, progress, model="gpt-4.1-mini"):
+    system_msg = (
+        "Sei un revisore esperto di contenuti. "
+        "Il tuo compito è valutare la fedeltà fattuale di un riassunto rispetto al documento originale. "
+        "Oltre alla fedeltà, considera anche la lunghezza del riassunto, tenendo conto che un riassunto troppo lungo potrebbe essere meno utile. "
+        "Un compression ratio ideale è tra 0.15 e 0.5 rispetto al testo originale, ma non deve superare il 60% della lunghezza del testo originale altrimenti il punteggio sarà 1."
+        "Se il riassunto è scritto in una lingua diversa dall'italiano, il punteggio sarà 1."
+        "Assegna un punteggio da 1 a 5 dove:\n"
+        "1 = Molto impreciso, con gravi errori o allucinazioni\n"
+        "2 = Alcune affermazioni errate o non supportate\n"
+        "3 = Parzialmente fedele, ma con omissioni o vaghezze\n"
+        "4 = Generalmente fedele con minime inesattezze\n"
+        "5 = Completamente fedele e preciso\n\n"
+    )
+
+    full_text = strip_markdown_and_html(" ".join(msg["content"] for msg in progress["messages"]))
+
+    user_msg = (
+        f"Testo originale:\n{full_text}\n\n"
+        f"Riassunto:\n{strip_markdown_and_html(summary)}\n\n"
+        f"Valuta con un formato del tipo:\nPunteggio: <numero>\nSpiegazione: <testo>"
+    )
+
+    client = OpenAI(api_key=api_keys.OPENAI_API_KEY)
+
+    response = None
+
+    while response is None:
+        try:
+            response = client.responses.create(
+                model=model,
+                input=[
+                    {"role": "system", "content": system_msg},
+                    {"role": "user", "content": user_msg}
+                ]
+            )
+        except Exception as e:
+            print(f"Error generating content with GPT: {e}, sleeping for 10 seconds before retrying...")
+            sleep(10)
+            response = None
+
+    content = response.output_text.strip()
+
+    # print("GPT response content:", content)
+
+    match = re.search(r"Punteggio\s*[:=]?\s*(\d)", content)
+    score = int(match.group(1)) if match else None
+
+    print(f"GPT score: {score} for progress ID {progress['progress_id']}")
+
+    return score
