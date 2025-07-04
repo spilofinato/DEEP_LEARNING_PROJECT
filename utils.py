@@ -8,6 +8,7 @@ from time import sleep
 import ollama
 import torch
 from google import genai
+from google.genai import types
 from openai import OpenAI
 from bs4 import BeautifulSoup
 from markdown_it import MarkdownIt
@@ -614,5 +615,64 @@ def gpt_score_summary(summary, progress, model="gpt-4.1-mini"):
     score = int(match.group(1)) if match else None
 
     print(f"GPT score: {score} for progress ID {progress['progress_id']}")
+
+    return score
+
+def gemini_score_summary(summary, progress, model="gpt-4.1-mini"):
+    system_msg = (
+        "Sei un revisore esperto di contenuti. "
+        "Il tuo compito è valutare la fedeltà fattuale di un riassunto rispetto al documento originale. "
+        "Oltre alla fedeltà, considera anche la lunghezza del riassunto, tenendo conto che un riassunto troppo lungo potrebbe essere meno utile. "
+        "Un compression ratio ideale è tra 0.15 e 0.5 rispetto al testo originale, ma non deve superare il 60% della lunghezza del testo originale altrimenti il punteggio sarà 1."
+        "Se il riassunto è scritto in una lingua diversa dall'italiano, il punteggio sarà 1."
+        "Assegna un punteggio da 1 a 5 dove:\n"
+        "1 = Molto impreciso, con gravi errori o allucinazioni\n"
+        "2 = Alcune affermazioni errate o non supportate\n"
+        "3 = Parzialmente fedele, ma con omissioni o vaghezze\n"
+        "4 = Generalmente fedele con minime inesattezze\n"
+        "5 = Completamente fedele e preciso\n\n"
+    )
+
+    full_text = strip_markdown_and_html(" ".join(msg["content"] for msg in progress["messages"]))
+
+    user_msg = (
+        f"Testo originale:\n{full_text}\n\n"
+        f"Riassunto:\n{strip_markdown_and_html(summary)}\n\n"
+        f"Valuta con un formato del tipo:\nPunteggio: <numero>\nSpiegazione: <testo>"
+    )
+
+    google_client = genai.Client(api_key=api_keys.GOOGLE_API_KEY)
+
+    response = None
+
+    while response is None:
+        try:
+            response = google_client.models.generate_content(
+                model="gemini-2.5-flash",
+                config=types.GenerateContentConfig(
+                    system_instruction=system_msg,
+                    temperature=0.2
+                ),
+                contents=user_msg
+            )
+        except Exception as e:
+            print(f"Error generating content with Gemini: {e}, sleeping for 10 seconds before retrying...")
+            sleep(10)
+            response = None
+
+    if not response or not response.text:
+        print("No response from Gemini, returning 0.")
+        return 0
+
+    content = response.text.strip()
+
+    # print("Gemini response content:", content)
+
+    match = re.search(r"Punteggio\s*[:=]?\s*(\d)", content)
+    score = int(match.group(1)) if match else None
+
+    print(f"Gemini score: {score} for progress ID {progress['progress_id']}")
+
+    sleep(30) # to avoid rate limiting issues with Gemini
 
     return score

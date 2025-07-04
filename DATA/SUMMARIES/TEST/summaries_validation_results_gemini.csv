@@ -1,4 +1,4 @@
-model,mode,file_name,content,progress_id,summac_score,summac_score_with_contradiction,qags_score
+model,mode,file_name,content,progress_id,summac_score,qags_score,summac_score_with_contradiction,gpt_score,gemini_score
 ollama,DIRECT,summary_progress_4551.txt,"Ecco un riassunto cronologico dei messaggi relativi al progetto ""AP - Miglioramento gestione acquisti"":
 
 *   **2013-10-28 (Pietro de' Castiglioni):** Definizione del modello di processo `p_acq_approvvigionamenti.xls` (Rev. 00). Ridefinizione dei flussi: autorizzazione alla richiesta d'ordini (RDA), approvazione richiesta dal responsabile del richiedente, emissione ordine. Previsto incontro con RP. Rita Parisi (RP) segnala necessità di fare emettere gli ordini tramite FOM a posteriori sulla fattura, altrimenti manca controllo e competenza.
@@ -22,7 +22,7 @@ Summary length: 2623 characters and 302 words.
 Compression ratio: 0.27 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 690.
-Summary generated in 32.063937 seconds.",4551,0.8206,0.482,0.0
+Summary generated in 32.063937 seconds.",4551,0.8206,0.0,0.482,5,1
 ollama,DIRECT,summary_progress_4536.txt,"Okay, let's break down this extensive email thread concerning Mega Italia Media's (MIM) certification for delivering training courses under the AIFOS brand. Here's a chronological summary, highlighting key points and actions, followed by an analysis of the implications.
 
 **1. Initial Announcement - March 2013 (Pietro de' Castiglioni - 2013-05-07)**
@@ -78,7 +78,7 @@ Summary length: 3731 characters and 431 words.
 Compression ratio: 0.28 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 967.
-Summary generated in 36.682181 seconds.",4536,0.4186,0.1989,0.0
+Summary generated in 36.682181 seconds.",4536,0.4186,0.0,0.1989,1,1
 ollama,DIRECT,summary_progress_4474.txt,"*   **9 febbraio 34/2012 Pietro de' Castiglioni** crea il progetto ""Fornitori tecnici"" elencando una vasta gamma di contatti per varie esigenze tecniche.
 *   **Pietro de' Castiglioni** fornisce una lista dettagliata che include:
     *   **Mondial srl (Belleri, Giancarlo):**  proprietario edificio.
@@ -120,7 +120,7 @@ Summary length: 2179 characters and 199 words.
 Compression ratio: 0.47 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 579.
-Summary generated in 26.863174 seconds.",4474,0.4019,0.0,0.0667
+Summary generated in 26.863174 seconds.",4474,0.4019,0.0667,0.0,4,2
 ollama,DIRECT,summary_progress_5232.txt,"*   **05.06.2024 (Paolo Disetti):** Paolo Disetti propone l'installazione di un SIEM per centralizzare i log. LOT estrarrà i log di macchine Windows e V-utility. Viene caricato un file Excel con le attività SIG da ridistribuire, priorità, responsabili e date. Viene creato un tab ""mail adm"" per tracciare gli account personali. LOT si incarica di trovare un software per password multiutente.
     *   Allegato: 2024-06-04 Attività SIG 2024 con note.xlsx
 *   **07.06.2024 (Paolo Disetti):** Si decide di testare Bitwarden come portachiavi password condiviso. Vengono creati account temporanei per i test (MMA, SIG, LOT, DIS, IT_ADMIN). Viene creato l'account it_admin@megaitaliamedia.it per centralizzare i servizi.
@@ -141,7 +141,7 @@ Summary length: 2297 characters and 282 words.
 Compression ratio: 0.35 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 608.
-Summary generated in 27.726577 seconds.",5232,0.6305,0.3425,0.0625
+Summary generated in 27.726577 seconds.",5232,0.6305,0.0625,0.3425,5,1
 ollama,DIRECT,summary_progress_5233.txt,"Questo è un documento molto lungo e denso, una sorta di verbale di attività e piani strategici relativi a diversi progetti, principalmente focalizzati su:
 
 *   **SDS (Sistema di Documentazione Sicurezza):** Un prodotto o servizio legato alla sicurezza sul lavoro.
@@ -203,7 +203,7 @@ Summary length: 4199 characters and 538 words.
 Compression ratio: 0.17 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 1084.
-Summary generated in 40.56459 seconds.",5233,0.58,0.2694,0.0
+Summary generated in 40.56459 seconds.",5233,0.58,0.0,0.2694,4,3
 ollama,DIRECT,summary_progress_3627.txt,"Okay, this is a *lot* of data! Let's break down the information. I'm going to organize it into categories:
 
 **1. Catalogs & Sales (Chronological Order - Key Data Points)**
@@ -278,7 +278,7 @@ Summary length: 3522 characters and 380 words.
 Compression ratio: 0.07 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 915.
-Summary generated in 46.443155 seconds.",3627,0.6343,0.3585,0.0526
+Summary generated in 46.443155 seconds.",3627,0.6343,0.0526,0.3585,1,1
 ollama,DIRECT,summary_progress_1270.txt,"This is a substantial amount of data! Here's a breakdown of the information, categorized and summarized to highlight key trends and observations. I've organized it into sections: **Overall Timeline & Frequency**, **Document Types**, **Key Documents & Evolution**, **People Involved**, and **Summary of Content Trends**.  I'm also including a rough chronological order at the end.
 
 **1. Overall Timeline & Frequency**
@@ -346,7 +346,7 @@ Summary length: 5536 characters and 639 words.
 Compression ratio: 0.18 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 1418.
-Summary generated in 47.737682 seconds.",1270,0.4534,0.118,0.0
+Summary generated in 47.737682 seconds.",1270,0.4534,0.0,0.118,1,1
 ollama,DIRECT,summary_progress_4548.txt,"This document appears to be a list of meeting minutes for an ""ODV"" (likely standing for Organo di Vigilanza - Board of Directors tasked with oversight and compliance) from 2020 to 2021.  Here's a breakdown of what can be extracted:
 
 **Overall Structure**
@@ -403,7 +403,7 @@ Summary length: 3862 characters and 435 words.
 Compression ratio: 0.11 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 999.
-Summary generated in 41.651424 seconds.",4548,0.2748,0.1293,0.1111
+Summary generated in 41.651424 seconds.",4548,0.2748,0.1111,0.1293,1,1
 ollama,DIRECT,summary_progress_4470.txt,"Okay, let's break down the timeline and key takeaways from these communications regarding accreditation and training in Lombardy. I'm organizing this chronologically, highlighting the crucial aspects of each update.
 
 **Overall Context:**  The documents primarily deal with the accreditation of training providers (especially for health and safety/SSL - Salute e Sicurezza sul Lavoro) and changes to regional regulations and alignment with national agreements.  There's a recurring theme of digital platforms, reporting requirements, and adherence to updated national agreements.
@@ -453,7 +453,7 @@ Summary length: 4193 characters and 441 words.
 Compression ratio: 0.03 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 1082.
-Summary generated in 35.680045 seconds.",4470,0.6362,0.3461,0.0
+Summary generated in 35.680045 seconds.",4470,0.6362,0.0,0.3461,1,1
 ollama,DIRECT,summary_progress_4466.txt,"Okay, let's break down the data from these email snippets. I'm going to extract the date ranges, the key metrics (presumably ""accessi a PS"" or ""PS access""), and the percentage change from the previous week.  I'm also extracting any notes about the statistics being tracked.
 
 **Here's a table summarizing the information, organized by the date of the email:**
@@ -484,7 +484,7 @@ Summary length: 1581 characters and 171 words.
 Compression ratio: 0.01 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 429.
-Summary generated in 27.828952 seconds.",4466,0.3306,0.0,0.0
+Summary generated in 27.828952 seconds.",4466,0.3306,0.0,0.0,1,1
 ollama,DIRECT,summary_progress_4734.txt,"Okay, let's break down the information from these emails and summarize the key takeaways and action items. This seems to be a collection of meeting notes and progress reports related to Puntosicuro (PS), a platform focused on safety and security, likely a publication or digital resource.
 
 Here's a categorized summary, followed by a list of action items.
@@ -559,7 +559,7 @@ Summary length: 5678 characters and 699 words.
 Compression ratio: 0.07 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 1454.
-Summary generated in 47.005568 seconds.",4734,0.5013,0.1872,0.027
+Summary generated in 47.005568 seconds.",4734,0.5013,0.027,0.1872,1,1
 ollama,DIRECT,summary_progress_4889.txt,"Questo è un resoconto dettagliato e progressivo degli sforzi di MIM per l'espansione internazionale, con un focus particolare sull'Europa centrale e orientale. Ecco una sintesi dei punti chiave, delle sfide affrontate e dei cambiamenti di strategia:
 
 **Fasi e Obiettivi:**
@@ -602,7 +602,7 @@ Summary length: 3641 characters and 454 words.
 Compression ratio: 0.09 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 944.
-Summary generated in 34.858303 seconds.",4889,0.4423,0.0766,0.0
+Summary generated in 34.858303 seconds.",4889,0.4423,0.0,0.0766,3,3
 gemini,DIRECT,summary_progress_4551.txt,"*   **2013-10-28:**
     *   **Pietro de' Castiglioni (PDC)** propone di ridefinire il modello di processo `p_acq_approvvigionamenti.xls` (allegato), includendo autorizzazione richieste d'ordine (RDA), approvazione da parte del responsabile del richiedente ed emissione ordine.
     *   Viene fissato un incontro con **RP (Rita Parisi)** per il 21 novembre.
@@ -658,7 +658,7 @@ Summary length: 6270 characters and 779 words.
 Compression ratio: 0.63 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 1601.
-Summary generated in 21.542839 seconds.",4551,0.4094,0.0275,0.1667
+Summary generated in 21.542839 seconds.",4551,0.4094,0.1667,0.0275,3,1
 gemini,DIRECT,summary_progress_4536.txt,"*   **2011-03-09**: **Silvana Bresciani** di AiFOS invia una comunicazione ai CFA (Centri di Formazione AiFOS) per informarli dell'avvio del percorso di estensione della certificazione ISO 9001, ottenuta da AiFOS nel maggio 2008 con RINA, a tutti i centri convenzionati. L'obiettivo è includere i processi di erogazione dei corsi a marchio AiFOS nel Sistema di Gestione per la Qualità di AiFOS. I CFA che aderiscono verranno inseriti nell'elenco dei centri certificati RINA e dotati di un allegato al certificato AiFOS. La quota di adesione è di €250 per il primo anno e €200 per gli anni successivi. AiFOS richiederà l'adesione entro il triennio successivo. La fase di estensione è prevista per maggio 2011, con richieste di adesione da inviare entro il 23 aprile. Sono previste Verifiche Ispettive Interne a cura di AiFOS tra fine ottobre e prima metà di novembre 2011. La comunicazione fa riferimento a un modulo di adesione allegato (non presente nel log).
 *   **2012-03-05**: Una comunicazione da AiFOS (firmata dal **Dr. Francesco Naviglio**, Segretario Generale) ribadisce che il percorso di estensione della certificazione del sistema qualità AiFOS ha raggiunto il terzo anno, rendendo l'adesione obbligatoria per tutte le aziende già convenzionate entro il 31/12/2012. I costi aggiornati sono di €200 + IVA per il primo anno e €100 + IVA a partire dal secondo, fatturati direttamente da RINA. Vengono indicate scadenze specifiche per la richiesta di adesione e la programmazione degli audit (es. richiesta entro il 13 aprile 2012 per audit interno a maggio). Viene attivata una pagina ""Sistema Qualità"" nell'area riservata dei CFA contenente procedure e modulistica. Le verifiche ispettive interne sono previste circa un mese dopo l'attivazione della pagina, seguite dagli audit RINA tra fine maggio e prima metà di giugno 2012. La comunicazione fa riferimento a un modulo di adesione allegato (non presente nel log).
 *   **2012-06-25**: **Pietro de' Castiglioni** di Mega Italia Media (MIM) invia ad AiFOS il modulo di richiesta di adesione alla Certificazione del Sistema Qualità MIM per l’Erogazione corsi a Marchio AiFOS. *Allegato: AIFOS - Richiesta certificazione.pdf*.
@@ -675,7 +675,7 @@ Summary length: 4439 characters and 585 words.
 Compression ratio: 0.34 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 1144.
-Summary generated in 25.240393 seconds.",4536,0.3959,0.1095,0.2
+Summary generated in 25.240393 seconds.",4536,0.3959,0.2,0.1095,5,5
 gemini,DIRECT,summary_progress_4474.txt,"*   **9 febbraio 2012, 10:45:29**: Pietro de' Castiglioni ha redatto un messaggio chiave, compilando un dettagliato elenco di fornitori tecnici. Questi includono referenti per la proprietà (Mondial srl con Giancarlo Belleri, Arch. Baldoni), servizi per impianti (Ascensore Elma, T&T telecomunicazioni con Simone Negro, Colt, Telecom con Roberto Morandi, Ing. Treccani, elettricisti come Soldi e i Maggi), edilizia (Impresa Valtellina, muratori Botti, pittori Forloni e Gobbini), sicurezza (Axitea con Bernardini, Nava, Scalvini), pulizie (Tekno Clean, Impresa Barbieri), serramenti (Polito, Bresciana serramenti) e altri settori come condizionamento (Sig. Biemmi), scaffalature (Nicola Pozzi), macchina caffè (Giorgio Grumelli), carrelli (Federica Carmeccanica), impermeabilizzazione (Ghitti), progettazione elettrica (Domenegoni) e forniture ufficio (Federica Ronchi).
 *   **9 febbraio 2012, 11:56:38**: Il progetto ""fornitori tecnici"" è stato creato, designato a contenere questi contatti essenziali per esigenze tecniche.
 *   **14 marzo 2016, 19:11:22**: Pietro de' Castiglioni, autore del messaggio, ha apportato modifiche al suo contenuto.
@@ -687,7 +687,7 @@ Summary length: 1245 characters and 143 words.
 Compression ratio: 0.27 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 345.
-Summary generated in 15.8752 seconds.",4474,0.2378,0.0,0.3333
+Summary generated in 15.8752 seconds.",4474,0.2378,0.3333,0.0,4,2
 gemini,DIRECT,summary_progress_5232.txt,"*   **2024-06-05:**
     *   **Paolo Disetti** comunica che **SIG** ha proposto l'installazione di un SIEM per centralizzare i log.
     *   **LOT** è incaricato di estrarre i log di tutte le macchine Windows (inclusa V-utility) e salvarli su disco esterno.
@@ -738,7 +738,7 @@ Summary length: 4186 characters and 511 words.
 Compression ratio: 0.64 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 1080.
-Summary generated in 19.648738 seconds.",5232,0.5221,0.2088,0.2353
+Summary generated in 19.648738 seconds.",5232,0.5221,0.2353,0.2088,3,1
 gemini,DIRECT,summary_progress_5233.txt,"*   **2022**
     *   **Gennaio 26**: Il guadagno complessivo dalle provvigioni sulle segnalazioni per l'anno 2022 è di 1949 € + IVA.
     *   **Aprile 1**: Il form ""Diventa partner"" di CSI, che non funzionava da dicembre 2022, è stato risolto.
@@ -840,7 +840,7 @@ Summary length: 15069 characters and 1922 words.
 Compression ratio: 0.61 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 3802.
-Summary generated in 67.911679 seconds.",5233,0.2449,0.0,0.0879
+Summary generated in 67.911679 seconds.",5233,0.2449,0.0879,0.0,4,1
 gemini,DIRECT,summary_progress_3627.txt,"Di seguito il riassunto cronologico del dettaglio del progetto ""MIM - gestione"":
 
 *   **2000-10-01:**
@@ -1060,7 +1060,7 @@ Summary length: 18674 characters and 2203 words.
 Compression ratio: 0.39 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 4703.
-Summary generated in 93.399222 seconds.",3627,0.6227,0.2411,0.037
+Summary generated in 93.399222 seconds.",3627,0.6227,0.037,0.2411,5,0
 gemini,DIRECT,summary_progress_1270.txt,"*   **2007-12-03 15:27:57**
     *   **Pietro de' Castiglioni** delinea gli elementi fondamentali su cui si basa il riesame del sistema integrato, come i risultati delle verifiche ispettive, le informazioni dai clienti, le Non Conformità, l'efficacia della formazione del personale, le azioni decise in precedenti riesami, le decisioni con effetti sul SGQ e le raccomandazioni per il miglioramento.
     *   Descrive inoltre i risultati attesi dei riesami, che includono decisioni e azioni relative al miglioramento dell'efficacia del SGQ e dei suoi processi, delle prestazioni aziendali e dei bisogni di risorse.
@@ -1298,7 +1298,7 @@ Summary length: 16987 characters and 1580 words.
 Compression ratio: 0.56 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 4281.
-Summary generated in 63.219949 seconds.",1270,0.3853,0.0476,0.025
+Summary generated in 63.219949 seconds.",1270,0.3853,0.025,0.0476,4,2
 gemini,DIRECT,summary_progress_4548.txt,"*   **23 Dicembre 2010**: Riunione di insediamento dell'ODV MIM. Ordine del giorno: nomina del presidente dell’Organismo di vigilanza e controllo; approvazione del regolamento di funzionamento e del codice etico.
     *   **Pietro de' Castiglioni** è l'autore del messaggio.
     *   Allegato: S_P22_03_ODV_verbale_001_insediamento_20101223.pdf
@@ -1633,7 +1633,7 @@ Summary length: 37527 characters and 3885 words.
 Compression ratio: 1.09 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 9416.
-Summary generated in 86.867348 seconds.",4548,0.7396,0.3066,0.1857
+Summary generated in 86.867348 seconds.",4548,0.7396,0.1857,0.3066,1,1
 gemini,DIRECT,summary_progress_4470.txt,"*   **2006-11-06**: **LM** chiede a **Pietro de' Castiglioni (PDC)** di avviare le procedure per l'accreditamento di Mega Italia Media (MIM) alla Regione Lombardia come centro per erogare formazione.
 *   **2007-11-07**: **TM** chiede a **CP** di informarsi sull'accreditamento da parte della Regione Lombardia per MIM come erogatore di corsi di formazione non finanziati.
 *   **2008-03-20**: **PDC** inizia attività di programmazione con **Ronchi**.
@@ -1779,7 +1779,7 @@ Summary length: 27462 characters and 3026 words.
 Compression ratio: 0.16 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 6900.
-Summary generated in 109.213742 seconds.",4470,0.6228,0.2024,0.0204
+Summary generated in 109.213742 seconds.",4470,0.6228,0.0204,0.2024,5,5
 gemini,DIRECT,summary_progress_4466.txt,"*   **2011-11-21 11:39:09 - Luca Sigalini:** Inizia l'analisi degli accessi a PS dalla newsletter per la settimana 14-20 novembre, che risultano regolari. (Nessun allegato)
 *   **2011-11-28 08:38:53 - Luca Sigalini:** Per la settimana 21-27 novembre, si registra un calo del 7.75%. Un picco basso è notato il martedì 22, con problemi di ricezione segnalati per gli indirizzi @tiscali.it. (Nessun allegato)
 *   **2011-12-05 07:54:01 - Luca Sigalini:** La settimana 28 novembre-04 dicembre chiude con un leggero aumento dello 0.83%. (Nessun allegato)
@@ -1849,7 +1849,7 @@ Summary length: 14066 characters and 1726 words.
 Compression ratio: 0.05 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 3551.
-Summary generated in 116.58672 seconds.",4466,0.5158,0.0917,0.0
+Summary generated in 116.58672 seconds.",4466,0.5158,0.0,0.0917,5,4
 gemini,DIRECT,summary_progress_4734.txt,"*   **2017-02-08:**
     *   **Luigi Meroni** avvia la discussione sull'inserimento di articoli in area riservata, basandosi su analisi precedenti.
     *   Viene definita la strategia per il **Forum di PuntoSicuro**, prevedendo un lancio gratuito e poi una sezione a pagamento per consulenza. **FG** coordina i consulenti, e si valuta un contratto con l'**Avv. Caruso**.
@@ -2037,7 +2037,7 @@ Summary length: 19602 characters and 2484 words.
 Compression ratio: 0.25 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 4935.
-Summary generated in 96.997311 seconds.",4734,0.4978,0.0722,0.05
+Summary generated in 96.997311 seconds.",4734,0.4978,0.05,0.0722,4,2
 gemini,DIRECT,summary_progress_4889.txt,"*   **26 Settembre 2018 (SMAU - Milano)**:
     *   **Sara Degan** (account progetti speciali Smau Italia) presenta a **MIM** le opportunità degli eventi SMAU, sia in Italia che all'estero (Londra e Berlino), evidenziando il focus su networking con investitori e acceleratori.
     *   **MIM** esprime interesse per SMAU Londra 2019 e Milano 2019, e per partecipare al Premio Innovazione, richiedendo un'offerta commerciale.
@@ -2200,7 +2200,7 @@ Summary length: 17831 characters and 2195 words.
 Compression ratio: 0.42 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 4492.
-Summary generated in 64.869506 seconds.",4889,0.3217,0.0,0.0562
+Summary generated in 64.869506 seconds.",4889,0.3217,0.0562,0.0,4,5
 gpt,DIRECT,summary_progress_4551.txt,"- 2013-10-28: Pietro de' Castiglioni propone la ridefinizione del modello di processo di approvvigionamenti, allegando il file ""p_acq_approvvigionamenti.xls"". Segnala la necessità di ridefinire le fasi autorizzative (RDA, approvazione responsabile, emissione ordine) e pianifica un incontro con Rita Parisi (RP) per il 21.11. Riporta inoltre un messaggio ricevuto da RP che evidenzia criticità dei controlli nel ciclo passivo e la necessità di apportare cambiamenti alle procedure ordini.  
     - Coinvolti: Pietro de' Castiglioni, Rita Parisi
     - Presenza di allegato: ""p_acq_approvvigionamenti.xls""
@@ -2243,7 +2243,7 @@ Summary length: 4041 characters and 518 words.
 Compression ratio: 0.41 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 1044.
-Summary generated in 16.919108 seconds.",4551,0.1877,0.0,0.0
+Summary generated in 16.919108 seconds.",4551,0.1877,0.0,0.0,5,1
 gpt,DIRECT,summary_progress_4536.txt,"- 2011-03-09  
   - Silvana Bresciani (AiFOS) comunica ai Centri di Formazione convenzionati (CFA) dell'inizio del percorso per estendere la certificazione ISO 9001 a tutti i CFA.
   - Viene richiesto di aderire al progetto di certificazione compilando il modulo allegato (non incluso nei messaggi).
@@ -2310,7 +2310,7 @@ Summary length: 4981 characters and 619 words.
 Compression ratio: 0.38 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 1279.
-Summary generated in 21.385244 seconds.",4536,0.2579,0.0,0.0
+Summary generated in 21.385244 seconds.",4536,0.2579,0.0,0.0,5,5
 gpt,DIRECT,summary_progress_4474.txt,"- 2012-02-09, Pietro de' Castiglioni compila e trasmette l’elenco dei fornitori tecnici da contattare per esigenze della nuova sede, con dettagli di contatti, ruoli e responsabilità.
 - Proprietà edificio: Mondial srl, referenti Giancarlo Belleri, Arch. Baldoni (lavori per Belleri) e fornitori collegati (es. pittori, muratori).
 - Gestione impianti tecnici e infrastrutturali: Ascensore Elma, Impianto di rete T&T telecomunicazioni (Simone Negro), Connettività Colt e Telecom (Roberto Morandi), predisposizione linee (Impresa Valtellina con Valpondi Massimiliano e Lupi), modifiche reti/murature (Botti Sandro e Pietro).
@@ -2327,7 +2327,7 @@ Summary length: 1626 characters and 193 words.
 Compression ratio: 0.35 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 440.
-Summary generated in 16.522634 seconds.",4474,0.4484,0.0545,0.2
+Summary generated in 16.522634 seconds.",4474,0.4484,0.2,0.0545,5,1
 gpt,DIRECT,summary_progress_5232.txt,"- 05/06/2024 – Paolo Disetti propone l’installazione di un SIEM per centralizzare tutti i log delle macchine; LOT si occuperà di estrarre i log dalle macchine Windows (eccetto V-utility) e salvarli su disco esterno. Caricato in allegato un file Excel con le attività SIG da ridistribuire e le priorità. Creato nuovo tab ""mail adm"" per tracciare gli account con mail personali. LOT incaricato di trovare un software per la gestione multiutente delle password da inserire in cartella condivisa. **Allegato presente: “2024-06-04 Attività SIG 2024 con note.xlsx”**.
 
 - 07/06/2024 – Paolo Disetti comunica la scelta di testare Bitwarden come portachiavi password condiviso, da installare su VM interna (Linux o Windows V-utility). Creati utenti di test: MMA, SIG, LOT, DIS, IT_ADMIN. Creato account it_admin@megaitaliamendia.it da usare come Master per tutti i servizi (“mappatura servizi”). **Allegato presente: “2024-06-04 Attività SIG 2024 con note(1).xlsx”**.
@@ -2353,7 +2353,7 @@ Summary length: 3091 characters and 397 words.
 Compression ratio: 0.47 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 807.
-Summary generated in 10.67957 seconds.",5232,0.4536,0.0916,0.0
+Summary generated in 10.67957 seconds.",5232,0.4536,0.0,0.0916,5,1
 gpt,DIRECT,summary_progress_5233.txt,"- 2022  
   - Giulietta Poiatti (AD) segnala obiettivo vendita prodotti: rendere il processo di acquisto sul sito più fluido (“la compri -> la paghi -> la scarichi”), con passaggio commerciale completato entro fine giugno.  
   - Assegnazione ruoli:  
@@ -2494,7 +2494,7 @@ Summary length: 10052 characters and 1127 words.
 Compression ratio: 0.41 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 2547.
-Summary generated in 40.590883 seconds.",5233,0.3464,0.0,0.0411
+Summary generated in 40.590883 seconds.",5233,0.3464,0.0411,0.0,5,4
 gpt,DIRECT,summary_progress_3627.txt,"- 01.01.2001: Creato il progetto ""MIM - gestione""
 - 2001: Analisi di mercato sulle vendite per catalogo viene messa a disposizione per i collaboratori MIM (senza specificare l’autore del messaggio).
 - 2001-2002: MIM gestisce spedizioni cataloghi e clienti tramite raccolta dati e uso di liste (MGR coinvolto per estrazione, LM e MAD per categorizzazione);
@@ -2574,7 +2574,7 @@ Summary length: 6894 characters and 822 words.
 Compression ratio: 0.14 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 1758.
-Summary generated in 50.039121 seconds.",3627,0.5494,0.1516,0.1304
+Summary generated in 50.039121 seconds.",3627,0.5494,0.1304,0.1516,3,4
 gpt,DIRECT,summary_progress_1270.txt,"- **03/12/2007 – Pietro de' Castiglioni:**  
   - Definisce le basi e gli elementi del riesame del Sistema Gestione Qualità (SGQ), con riferimento al manuale qualità MIM (verifiche ispettive, feedback clienti, non conformità, formazione, ecc).
   - Elenca risultati del riesame: decisioni per il miglioramento SGQ, prestazioni aziendali, bisogni di risorse.
@@ -2727,7 +2727,7 @@ Summary length: 9495 characters and 862 words.
 Compression ratio: 0.31 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 2408.
-Summary generated in 46.316911 seconds.",1270,0.2891,0.0,0.0714
+Summary generated in 46.316911 seconds.",1270,0.2891,0.0714,0.0,5,2
 gpt,DIRECT,summary_progress_4548.txt,"- 23/12/2010: Pietro de' Castiglioni riferisce della riunione di insediamento dell'ODV MIM con nomina del presidente, approvazione del regolamento di funzionamento e codice etico, presenza di allegato verbale.
 - 28/01/2011: Pietro de' Castiglioni documenta la 2a riunione collegiale ODV per presa visione risultati audit, rinnovo certificazione qualità, gestione procedure amministrative, verifiche su rischi reato ex D.Lgs. 231/2001, allegato verbale.
 - 24/03/2011: Pietro de' Castiglioni espone la 3a riunione ODV con resoconto delle attività sull’adozione Modello organizzativo; valutazione adeguatezza Modello e procedure qualità, richiesta risorse finanziarie al CdA, allegato verbale.
@@ -2818,7 +2818,7 @@ Summary length: 11733 characters and 1182 words.
 Compression ratio: 0.34 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 2968.
-Summary generated in 64.530763 seconds.",4548,0.0832,0.0,0.0357
+Summary generated in 64.530763 seconds.",4548,0.0832,0.0357,0.0,5,1
 gpt,DIRECT,summary_progress_4470.txt,"- **2006-11-02**
   - Progetto creato ""Accreditamento - Regione Lombardia - Gestione"" (ID: 4470).
 
@@ -2932,7 +2932,7 @@ Summary length: 8855 characters and 950 words.
 Compression ratio: 0.05 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 2248.
-Summary generated in 39.147698 seconds.",4470,0.4529,0.0,0.0217
+Summary generated in 39.147698 seconds.",4470,0.4529,0.0217,0.0,5,5
 gpt,DIRECT,summary_progress_4466.txt,"- 2011-11-21: Luca Sigalini analizza gli accessi a PS dalla newsletter della settimana precedente, evidenziando picchi bassi nei giorni tipici (venerdì, dovuto a minore interesse e mercoledì in assenza di eventi segnalati). Accessi considerati regolari.
 - 2011-11-28: Luca Sigalini monitora gli accessi giornalieri, notando un netto calo il martedì (-43,01% rispetto al martedì precedente) quando era segnalato ExpoTraining. Il calo complessivo settimanale è del -7,75%. Viene segnalato un problema di ricezione su Tiscali.
 - 2011-12-05: Analisi accessi settimanali. Martedì si nota il calo abituale dovuto alla pubblicizzazione di un evento, chiusura della settimana con un leggero incremento (+0,83%) rispetto alla precedente.
@@ -2975,7 +2975,7 @@ Summary length: 7489 characters and 961 words.
 Compression ratio: 0.02 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 1906.
-Summary generated in 27.051988 seconds.",4466,0.5365,0.1042,0.0
+Summary generated in 27.051988 seconds.",4466,0.5365,0.0,0.1042,5,2
 gpt,DIRECT,summary_progress_4734.txt,"- 13.04.2016 – Luigi Meroni riporta l’analisi del pregresso degli articoli e la parte tecnologica/legale su PuntoSicuro (PS): TIZ e FG analizzano e propongono una sintesi; SIG si occupa dello sviluppo.
 
 - 20.05.2016 – Parte la presentazione pubblica del forum di PS, con FG a coordinare i consulenti; da definire il contratto con l’Avv. Caruso.
@@ -3107,7 +3107,7 @@ Summary length: 9562 characters and 1170 words.
 Compression ratio: 0.12 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 2425.
-Summary generated in 40.650259 seconds.",4734,0.4149,0.0,0.0161
+Summary generated in 40.650259 seconds.",4734,0.4149,0.0161,0.0,3,4
 gpt,DIRECT,summary_progress_4889.txt,"- 2017  
   - MIM avvia il percorso di internazionalizzazione.
 
@@ -3276,7 +3276,7 @@ Summary length: 11529 characters and 1323 words.
 Compression ratio: 0.27 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 2917.
-Summary generated in 46.898133 seconds.",4889,0.253,0.0,0.0658
+Summary generated in 46.898133 seconds.",4889,0.253,0.0658,0.0,5,2
 ollama,IDEA_1,summary_progress_4551.txt,"**Riassunto Cronologico Progetto: AP - Miglioramento Gestione Acquisti**
 
 *   **2013-10-28:** Pietro de' Castiglioni definisce un nuovo modello di processo per gli approvvigionamenti (p\_acq\_approvvigionamenti.xls allegato). Il processo prevede: autorizzazione alla richiesta di ordini (RDA), approvazione richiesta dal responsabile del richiedente, emissione ordine. Si pianifica un incontro con RP. Rita Parisi solleva dubbi riguardo all'emissione degli ordini tramite FOM, sottolineando la mancanza di controllo e competenza.
@@ -3297,7 +3297,7 @@ Summary length: 2633 characters and 305 words.
 Compression ratio: 0.27 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 692.
-Summary generated in 29.3878 seconds.",4551,0.5732,0.2292,0.2
+Summary generated in 29.3878 seconds.",4551,0.5732,0.2,0.2292,5,2
 ollama,IDEA_1,summary_progress_4474.txt,"*   **2012-02-09 10:45:29:** Pietro de' Castiglioni crea il progetto ""Fornitori Tecnici"" e fornisce un elenco dettagliato di contatti.
 *   **Contatti Principali:**
     *   **Proprietà Edificio:** Mondial srl (Giancarlo Belleri, g.belleri@bibiemme.com, 333 5346223) e Arch. Baldoni (lavori per Belleri).
@@ -3316,7 +3316,7 @@ Summary length: 1171 characters and 100 words.
 Compression ratio: 0.26 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 327.
-Summary generated in 18.759228 seconds.",4474,0.4128,0.0,0.0
+Summary generated in 18.759228 seconds.",4474,0.4128,0.0,0.0,4,2
 ollama,IDEA_1,summary_progress_5232.txt,"Ecco un riassunto cronologico degli eventi principali, basato sui messaggi forniti:
 
 *   **05/06/2024:** Paolo Disetti introduce il progetto per ridistribuire le attività SIG. Propone l'implementazione di un SIEM per centralizzare i log. LOT estrarrà i log da macchine Windows, V-utility. Viene caricato un file Excel con le attività, priorità e data di validazione/previsione (Allegato: ""2024-06-04 Attività SIG 2024 con note.xlsx""). LOT si incarica di trovare un software per password multiutente condiviso. Viene creato il tab ""mail adm"" per tracciare gli account creati con mail personali.
@@ -3333,7 +3333,7 @@ Summary length: 2482 characters and 308 words.
 Compression ratio: 0.38 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 654.
-Summary generated in 28.436706 seconds.",5232,0.5443,0.2163,0.2857
+Summary generated in 28.436706 seconds.",5232,0.5443,0.2857,0.2163,5,1
 ollama,IDEA_1,summary_progress_4536.txt,"* **Marzo 2011:** Silvana Bresciani (AiFOS) avvia il percorso per estendere la certificazione ISO 9001 di AiFOS ai Centri di Formazione convenzionati (C.F.A.), con l'obiettivo di garantire la qualità dei corsi a marchio AiFOS. Viene fornito un modulo di adesione (allegato).
 * **Marzo 2012:** AiFOS comunica che, dopo tre anni, l'erogazione dei corsi dovrà conformarsi al sistema qualità ISO 9001, pena la perdita della convenzione. Richiesta di adempimento entro il 31/12/2012, con audit interni e RINA previsti. Viene fornito un modulo di richiesta (allegato).
 * **Aprile & Giugno 2012:** I C.F.A. sono invitati a compilare moduli di adesione per audit interni AiFOS. Mega Italia Media (MIM) invia la propria richiesta di adesione.
@@ -3350,7 +3350,7 @@ Summary length: 1890 characters and 241 words.
 Compression ratio: 0.15 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 506.
-Summary generated in 61.199384 seconds.",4536,0.4926,0.1269,0.0714
+Summary generated in 61.199384 seconds.",4536,0.4926,0.0714,0.1269,5,2
 ollama,IDEA_1,summary_progress_5233.txt,"Ecco un riassunto cronologico delle attività del progetto ""Vendita GIP"", basato sui testi forniti:
 
 **2022**
@@ -3422,7 +3422,7 @@ Summary length: 4959 characters and 603 words.
 Compression ratio: 0.2 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 1273.
-Summary generated in 157.043852 seconds.",5233,0.2608,0.0,0.025
+Summary generated in 157.043852 seconds.",5233,0.2608,0.025,0.0,4,1
 ollama,IDEA_1,summary_progress_3627.txt,"Perfetto, questo riassunto risponde a tutte le richieste e contiene le informazioni essenziali in ordine cronologico.
 
 ---
@@ -3431,7 +3431,7 @@ Summary length: 172 characters and 21 words.
 Compression ratio: 0.0 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 76.
-Summary generated in 169.045604 seconds.",3627,0.1269,0.0,0.0
+Summary generated in 169.045604 seconds.",3627,0.1269,0.0,0.0,1,1
 ollama,IDEA_1,summary_progress_1270.txt,"Ecco un riassunto cronologico dei messaggi relativi al riesame del Sistema Integrato Qualità e Sicurezza Informazioni ""Progress sempre attivo"":
 
 * **Dicembre 2007:** Pietro de' Castiglioni definisce gli elementi base per il riesame del SGQ, attingendo dal Manuale della Qualità MIM, specificando risultati, azioni di miglioramento e risorse necessarie. Pietro de' Castiglioni allega il riesame del 2008 e del 2009.
@@ -3452,7 +3452,7 @@ Summary length: 2800 characters and 331 words.
 Compression ratio: 0.09 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 734.
-Summary generated in 117.949549 seconds.",1270,0.174,0.0,0.0
+Summary generated in 117.949549 seconds.",1270,0.174,0.0,0.0,4,1
 ollama,IDEA_1,summary_progress_4548.txt,"Ecco un riassunto delle attività dell'Organismo di Vigilanza (ODV) di Mega Italia Media srl, organizzato cronologicamente e puntato:
 
 *   **2012 (Gennaio - Dicembre):** Si tengono 9 riunioni (numeri 1-9) per la revisione delle attività, il monitoraggio della conformità e la pianificazione futura. Si discutono piani, report, e l'aggiornamento normativo.
@@ -3487,7 +3487,7 @@ Summary length: 3278 characters and 380 words.
 Compression ratio: 0.1 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 853.
-Summary generated in 132.659283 seconds.",4548,0.3882,0.0,0.1053
+Summary generated in 132.659283 seconds.",4548,0.3882,0.1053,0.0,4,2
 ollama,IDEA_1,summary_progress_4470.txt,"Okay, let's consolidate this information and create a comprehensive summary with key takeaways and a structured timeline.
 
 **Overall Context:**
@@ -3541,7 +3541,7 @@ Summary length: 4152 characters and 484 words.
 Compression ratio: 0.02 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 1072.
-Summary generated in 563.515905 seconds.",4470,0.4665,0.1051,0.0
+Summary generated in 563.515905 seconds.",4470,0.4665,0.0,0.1051,1,1
 ollama,IDEA_1,summary_progress_4466.txt,"Okay, this is a challenging extraction task! The provided text isn't structured in a way that lends itself to easy data retrieval. Here's what I've done, aiming for accuracy while acknowledging the limitations, and incorporating the clarifications provided so far.
 
 **Understanding the Data and Context**
@@ -3589,7 +3589,7 @@ Summary length: 2687 characters and 306 words.
 Compression ratio: 0.01 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 706.
-Summary generated in 474.408146 seconds.",4466,0.6166,0.3079,0.0
+Summary generated in 474.408146 seconds.",4466,0.6166,0.0,0.3079,1,1
 ollama,IDEA_1,summary_progress_4734.txt,"Okay, thank you! That's incredibly helpful. Let's flesh out the context.
 
 **Context:**
@@ -3620,7 +3620,7 @@ Summary length: 2346 characters and 322 words.
 Compression ratio: 0.03 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 621.
-Summary generated in 350.367097 seconds.",4734,0.5124,0.1751,0.0
+Summary generated in 350.367097 seconds.",4734,0.5124,0.0,0.1751,1,1
 ollama,IDEA_1,summary_progress_4889.txt,"Ecco un riassunto cronologico dei dettagli del progetto ""VENDITA INTERNAZIONALIZZAZIONE"", basato sui messaggi forniti:
 
 **2018 - Avvio e Prime Fasi**
@@ -3666,7 +3666,7 @@ Summary length: 3974 characters and 473 words.
 Compression ratio: 0.09 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 1028.
-Summary generated in 202.540465 seconds.",4889,0.3128,0.0,0.0
+Summary generated in 202.540465 seconds.",4889,0.3128,0.0,0.0,3,2
 gemini,IDEA_1,summary_progress_4551.txt,"*   **2013-10-28 - Pietro de' Castiglioni:** Ridefinisce il modello di processo `p_acq_approvvigionamenti.xls` (Rev. 00 data 09/07), includendo autorizzazione alla richiesta di ordini (RDA), approvazione dal responsabile del richiedente e emissione ordine. Viene segnalato da Rita Parisi (RP) il 24/10/2013 che l'emissione ordini a posteriori da FOM sulla base della fattura ricevuta riduce il controllo e l'utilità del ciclo passivo, e che mancano RDA, approvazione e consuntivazione/chiusura/SAL ordine (segnalato da RP il 12/11/2013). Previsto incontro con RP il 21.11.
     *   **Allegato:** `p_acq_approvvigionamenti.xls`
 
@@ -3700,7 +3700,7 @@ Summary length: 4586 characters and 598 words.
 Compression ratio: 0.47 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 1180.
-Summary generated in 22.261727 seconds.",4551,0.4066,0.008,0.0
+Summary generated in 22.261727 seconds.",4551,0.4066,0.0,0.008,5,2
 gemini,IDEA_1,summary_progress_4474.txt,"*   **2012-02-09 10:45:29:** **Pietro de' Castiglioni** ha redatto un messaggio dettagliato, creando un elenco esteso di fornitori per diverse esigenze tecniche. L'elenco include:
     *   Contatti per la proprietà dell'edificio: **Mondial srl (Giancarlo Belleri), Arch. Baldoni**, e muratori (**Sandro e Pietro Botti**).
     *   Fornitori per telecomunicazioni e rete: **T&T telecomunicazioni srl (Simone Negro), Colt, Telecom (Roberto Morandi), Impresa Valtellina (Massimiliano Valpondi, Lupi)**.
@@ -3717,7 +3717,7 @@ Summary length: 1925 characters and 204 words.
 Compression ratio: 0.41 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 515.
-Summary generated in 17.514206 seconds.",4474,0.4895,0.0901,0.2
+Summary generated in 17.514206 seconds.",4474,0.4895,0.2,0.0901,4,2
 gemini,IDEA_1,summary_progress_4536.txt,"*   **9 marzo 2011:** Silvana Bresciani (AiFOS) ha annunciato l'avvio dell'estensione della certificazione ISO 9001 (ottenuta da AiFOS con RINA nel 2008) ai Centri di Formazione AiFOS (C.F.A.) convenzionati, per i corsi a marchio AiFOS. Il processo prevedeva verifiche RINA, inclusione dei C.F.A. in elenco e costi specifici. Un ""modulo di adesione allegato"" era menzionato per l'adesione entro il 23 aprile. In questa data è stato anche creato il progetto ""Certificazione Qualità AiFOS - Progress sempre attivo"".
 
 *   **5 marzo 2012:** Il Dott. Francesco Naviglio (Segretario Generale AiFOS) ha aggiornato sull'estensione della certificazione, rendendola obbligatoria per tutti i C.F.A. entro il 2013 per i corsi a Marchio AiFOS (ECMA). I costi sono stati ridotti e fatturati da RINA. Un ""modulo di adesione allegato"" era menzionato ma non riportato. Ai C.F.A. aderenti veniva attivata un'area riservata.
@@ -3744,7 +3744,7 @@ Summary length: 2933 characters and 367 words.
 Compression ratio: 0.22 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 767.
-Summary generated in 67.70385 seconds.",4536,0.3866,0.0,0.1176
+Summary generated in 67.70385 seconds.",4536,0.3866,0.1176,0.0,5,2
 gemini,IDEA_1,summary_progress_5232.txt,"*   **5 giugno 2024:**
     *   **Paolo Disetti** ha comunicato, a seguito di un incontro con SIG, LOT, MMA e DIS, che **SIG** ha proposto l'installazione di un SIEM per centralizzare i log delle macchine.
     *   **LOT** è stato incaricato di estrarre e salvare su disco esterno i log di tutte le macchine Windows (inclusa V-utility) e di individuare un software per salvare le password multiutente.
@@ -3789,7 +3789,7 @@ Summary length: 3840 characters and 493 words.
 Compression ratio: 0.59 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 994.
-Summary generated in 19.350368 seconds.",5232,0.4989,0.1283,0.1304
+Summary generated in 19.350368 seconds.",5232,0.4989,0.1304,0.1283,4,2
 gemini,IDEA_1,summary_progress_5233.txt,"*   **Dicembre 2021 (circa)**: Il form ""Diventa partner"" di CSI non funzionava.
 *   **26 gennaio 2022**: Il guadagno da provvigioni sulle segnalazioni per il 2022 ammontava a 1949 € + IVA.
 *   **Marzo 2022**: I corsi RLS sono stati resi vendibili sull'e-commerce, snellendo l'attività manuale di **AD** (preparazione carrelli e-commerce, gestione pratiche).
@@ -3874,7 +3874,7 @@ Summary length: 14085 characters and 1787 words.
 Compression ratio: 0.57 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 3556.
-Summary generated in 234.534839 seconds.",5233,0.3188,0.0,0.1013
+Summary generated in 234.534839 seconds.",5233,0.3188,0.1013,0.0,3,1
 gemini,IDEA_1,summary_progress_3627.txt,"*   **2001-01-01**: Viene creato il progetto ""*MIM - gestione*"" (ID 3627).
 *   **2001-09-22**: Si tiene la fiera Ambiente Lavoro a Modena, con 4 manichini Little Anne in omaggio da Leardal e 10 ordini per un totale di Lire 3.329.167.
 *   **2001-10-23**: **LM** definirà un corso per l'uso di AdHoc con **MGR** e **LB**.
@@ -3969,7 +3969,7 @@ Summary length: 19107 characters and 2403 words.
 Compression ratio: 0.4 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 4811.
-Summary generated in 163.760043 seconds.",3627,0.6007,0.2465,0.0508
+Summary generated in 163.760043 seconds.",3627,0.6007,0.0508,0.2465,5,4
 gemini,IDEA_1,summary_progress_1270.txt,"*   **3 dicembre 2007, 15:27:57**: **Pietro de' Castiglioni** ha delineato gli elementi fondamentali per il riesame del sistema, come definiti nel Manuale della Qualità MIM. Questi includono risultati di verifiche ispettive, feedback dei clienti, Non Conformità e azioni correttive/preventive, analisi dell'addestramento del personale, azioni pregresse, decisioni sul Sistema di Gestione per la Qualità (SGQ) e raccomandazioni di miglioramento. Ha specificato che i risultati del riesame devono comprendere decisioni e azioni per il miglioramento dell'efficacia del SGQ, delle prestazioni aziendali e dei bisogni di risorse.
     *   Allegato: Nessuno.
 
@@ -4081,7 +4081,7 @@ Summary length: 15977 characters and 1751 words.
 Compression ratio: 0.53 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 4029.
-Summary generated in 118.97806 seconds.",1270,0.2683,0.0,0.0208
+Summary generated in 118.97806 seconds.",1270,0.2683,0.0208,0.0,4,2
 gemini,IDEA_1,summary_progress_4548.txt,"*   **23 Dicembre 2010:** Si è tenuta la riunione di insediamento dell'Organismo di Vigilanza (ODV) MIM, con all'ordine del giorno la nomina del presidente, l'approvazione del regolamento di funzionamento e del codice etico. **Pietro de' Castiglioni** ha caricato il verbale.
     *   Allegato: S_P22_03_ODV_verbale_001_insediamento_20101223.pdf
 
@@ -4335,7 +4335,7 @@ Summary length: 29952 characters and 3215 words.
 Compression ratio: 0.87 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 7522.
-Summary generated in 172.363449 seconds.",4548,0.3675,0.0,0.0704
+Summary generated in 172.363449 seconds.",4548,0.3675,0.0704,0.0,2,1
 gemini,IDEA_1,summary_progress_4470.txt,"*   **2006-11-02**: Viene creato il progetto ""Accreditamento - Regione Lombardia - Gestione"" (ID 4470), con l'obiettivo di gestire l'Albo regionale degli operatori accreditati per i servizi di istruzione e formazione professionale. In questa data, **Pietro de' Castiglioni (PDC)** chiede a **LM** di avviare le procedure per l'accreditamento di **Mega Italia Media (MIM)** come centro di formazione.
 *   **2007-11-07**: **TM** istruisce **CP** a informarsi sull'accreditamento di **MIM** presso la **Regione Lombardia** per corsi non finanziati, valutando il coinvolgimento di **Harpo**.
 *   **2008-03-20**: **PDC** avvia l'attività di programmazione con **Ronchi**.
@@ -4499,7 +4499,7 @@ Summary length: 59701 characters and 7159 words.
 Compression ratio: 0.35 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 14960.
-Summary generated in 498.584639 seconds.",4470,0.5468,0.1063,0.0417
+Summary generated in 498.584639 seconds.",4470,0.5468,0.0417,0.1063,5,0
 gemini,IDEA_1,summary_progress_4466.txt,"*   **2011-11-21 11:39:09:** **Luca Sigalini** riporta gli accessi settimanali a PS dalla newsletter (14-20/11), indicando che i picchi in basso e le provenienze dalla newsletter sono stati regolari. Nessun allegato.
 *   **2011-11-28 08:38:53:** **Luca Sigalini** presenta gli accessi per la settimana 21-27/11, segnalando un calo del 43,01% martedì 22 (giorno di comunicazione evento ExpoTraining) e problemi di ricezione su @tiscali.it. Il totale settimanale mostra un -7,75% rispetto alla settimana precedente. Nessun allegato.
 *   **2011-12-05 07:54:01:** **Luca Sigalini** comunica gli accessi per la settimana 28/11-04/12, evidenziando un picco in basso martedì 29 e mercoledì 30 dovuto all'evento ""Mestre sicura 2011"". La variazione settimanale è un risicato +0,83%. Nessun allegato.
@@ -4855,7 +4855,7 @@ Summary length: 78747 characters and 9150 words.
 Compression ratio: 0.26 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 19721.
-Summary generated in 727.804875 seconds.",4466,0.7915,0.3402,0.0867
+Summary generated in 727.804875 seconds.",4466,0.7915,0.0867,0.3402,5,0
 gemini,IDEA_1,summary_progress_4734.txt,"*   **13 aprile 2016:**
     *   **TIZ** e **FG** (Federica Gozzini) avevano completato l'analisi del pregresso degli articoli e della parte tecnologica e legale con esito positivo, incaricati di proporre un documento di sintesi per decisione entro fine aprile 2016.
     *   Il forum di PuntoSicuro avrebbe dovuto essere presentato al pubblico dal 20 maggio 2016, con partenza gratuita a giugno e attivazione della parte a pagamento per la consulenza entro fine 2016. I lettori sarebbero stati invitati a iscriversi in una fascia ridotta temporale nella prima settimana di maggio 2016. **FG** avrebbe coordinato i consulenti e il contratto con l'**Avv. Caruso** sarebbe stato definito (bozza entro fine maggio 2016).
@@ -5150,7 +5150,7 @@ Summary length: 42297 characters and 5555 words.
 Compression ratio: 0.54 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 10609.
-Summary generated in 345.701526 seconds.",4734,0.3997,0.0,0.0561
+Summary generated in 345.701526 seconds.",4734,0.3997,0.0561,0.0,3,2
 gemini,IDEA_1,summary_progress_4889.txt,"*   **2017:** MIM ha avviato un percorso di internazionalizzazione.
 
 *   **2018-09-26:**
@@ -5308,7 +5308,7 @@ Summary length: 19946 characters and 2561 words.
 Compression ratio: 0.47 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 5021.
-Summary generated in 129.391695 seconds.",4889,0.3645,0.0,0.0843
+Summary generated in 129.391695 seconds.",4889,0.3645,0.0843,0.0,5,2
 gpt,IDEA_1,summary_progress_4551.txt,"- 2013-10-28 – Pietro de' Castiglioni chiede di ridefinire il modello di processo acquisti (allegato p_acq_approvvigionamenti.xls). Specifica i ruoli per la richiesta di ordini (RDA) e l’approvazione. Annuncia incontro con Rita Parisi il 21/11. Riporta osservazioni di Rita Parisi sulla poca utilità se l’ordine viene emesso a posteriori da FOM, sottolineando la necessità di modificare le procedure.
     - Allegato: p_acq_approvvigionamenti.xls
 - 2013-12-02 – Pietro de' Castiglioni riprende discussioni del 19 e 20 novembre fra Matteo Meroni (LM), Alessandro Ronchi, RP, SIG, CAM, PG e FOM. Le azioni delineate:
@@ -5346,7 +5346,7 @@ Summary length: 4296 characters and 573 words.
 Compression ratio: 0.44 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 1108.
-Summary generated in 18.512369 seconds.",4551,0.2518,0.0,0.0909
+Summary generated in 18.512369 seconds.",4551,0.2518,0.0909,0.0,5,2
 gpt,IDEA_1,summary_progress_4474.txt,"- 2012-02-09: Pietro de' Castiglioni crea il progetto “fornitori tecnici” e inserisce un elenco dettagliato dei fornitori da contattare per esigenze tecniche.
 - Pietro de' Castiglioni indica come riferimento anche il percorso file “F:\documenti MIM\nuova sede\fornitori”.
 - Viene specificata la proprietà dell’edificio (Mondial srl) e i contatti di Giancarlo Belleri, Arch. Baldoni e altri operatori tecnici coinvolti nei lavori dell’edificio.
@@ -5363,7 +5363,7 @@ Summary length: 1704 characters and 202 words.
 Compression ratio: 0.37 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 460.
-Summary generated in 11.131384 seconds.",4474,0.4447,0.0663,0.1667
+Summary generated in 11.131384 seconds.",4474,0.4447,0.1667,0.0663,5,1
 gpt,IDEA_1,summary_progress_4536.txt,"- 9 marzo 2011:  
   - Silvana Bresciani (AiFOS) comunica ai Centri di Formazione AiFOS (C.F.A.) l’avvio dell’estensione della certificazione ISO 9001 a tutti i centri convenzionati, a seguito della certificazione RINA ottenuta nel 2008.  
   - RINA effettuerà verifiche a campione sui C.F.A. aderenti per l’inclusione nell’elenco ufficiale, allegato dedicato.  
@@ -5421,7 +5421,7 @@ Summary length: 4047 characters and 467 words.
 Compression ratio: 0.31 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 1046.
-Summary generated in 36.231436 seconds.",4536,0.25,0.0,0.2381
+Summary generated in 36.231436 seconds.",4536,0.25,0.2381,0.0,5,5
 gpt,IDEA_1,summary_progress_5232.txt,"- 05.06.2024 Paolo Disetti propone di installare un SIEM per centralizzare i log delle macchine; incarica LOT di estrarre i log dalle macchine Windows (escluse V-utility) e salvarli su disco esterno. Viene caricato in allegato un file excel con le attività SIG da ridistribuire, priorità, nuovi responsabili e date di validazione. Creata anche una tab per tracciare gli account mail personali. LOT incaricato di individuare un software per la gestione delle password multiutente.  
   - **Allegato:** 2024-06-04 Attività SIG 2024 con note.xlsx
 
@@ -5455,7 +5455,7 @@ Summary length: 3415 characters and 426 words.
 Compression ratio: 0.52 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 888.
-Summary generated in 10.339518 seconds.",5232,0.4828,0.1983,0.0588
+Summary generated in 10.339518 seconds.",5232,0.4828,0.0588,0.1983,4,1
 gpt,IDEA_1,summary_progress_5233.txt,"- 26/01/2022: Paolo suggerisce la creazione di schede valutazione/segnalazione centri partner con punteggi. Rilevati guadagni da provvigioni sulle segnalazioni (€1949 + IVA).
 - 04/10/2022: Entrata in vigore nuovo DM 02/09/2021 obbliga i centri partner a creare master per corsi antincendio; AD segue implementazione con J e CAM.
 - 19/10/2022: AD invia newsletter per biglietti omaggio fiera Ambiente Lavoro 2022.
@@ -5540,7 +5540,7 @@ Summary length: 8156 characters and 941 words.
 Compression ratio: 0.33 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 2073.
-Summary generated in 68.080862 seconds.",5233,0.2418,0.0,0.0462
+Summary generated in 68.080862 seconds.",5233,0.2418,0.0462,0.0,5,2
 gpt,IDEA_1,summary_progress_3627.txt,"- 2000:  
   - Inizio del costo annuale di 7,5 milioni di lire per 5 anni; coinvolgimento di Coralis, Bitz2B, Unicredito/I-Faber (trattative per sconti); CSMI (sconto 60% previsto); PDV propone acquisto aggiuntivo di 3 mln lire; Wage gratuito richiesto.
   - Primo invio a scuole, PA, ospedali, associazioni, aziende Canton Ticino da fiera Ambiente Lavoro.
@@ -5664,7 +5664,7 @@ Summary length: 11410 characters and 1273 words.
 Compression ratio: 0.24 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 2887.
-Summary generated in 136.524634 seconds.",3627,0.4514,0.0,0.0581
+Summary generated in 136.524634 seconds.",3627,0.4514,0.0581,0.0,4,2
 gpt,IDEA_1,summary_progress_1270.txt,"- 27/11/2007: Pietro de' Castiglioni partecipa e redige il verbale dell’incontro di riesame del Sistema di gestione della Qualità (SGQ), durante il quale vengono approvate la Politica della Qualità e il sistema qualità. Define strategie MIM su formazione sicurezza, corsi, vendita prodotti, ottimizzazione risorse. Analizza la dimensione di mercato, individua i concorrenti. Il SGQ risulta in fase iniziale, evidenziate molte non conformità dai primi audit.
 - 03/12/2007 (15:27): Pietro de' Castiglioni riassume gli elementi di base del riesame estratti dal Manuale Qualità MIM: vengono utilizzati dati da verifiche ispettive, reclami clienti, indicatori di qualità, non conformità, formazione, azioni correttive, decisioni e raccomandazioni per il miglioramento. Nessun allegato.
 - 03/12/2007 (15:30): Pietro de' Castiglioni comunica la presenza di allegati (verbali riesame 2008 e 2009). Sintetizza audit e non conformità riscontrate in ambito commerciale, produzione, qualità, sicurezza e personale, proponendo azioni correttive e preventive. Inizia l’indagine di soddisfazione clienti. Consiglia nuova integrazione di figure part-time per attività commerciali e rivista PuntoSicuro. Allegati: verbali riesame 2008 e 2009.
@@ -5735,7 +5735,7 @@ Summary length: 7729 characters and 705 words.
 Compression ratio: 0.26 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 1966.
-Summary generated in 72.704269 seconds.",1270,0.2652,0.0,0.0
+Summary generated in 72.704269 seconds.",1270,0.2652,0.0,0.0,5,2
 gpt,IDEA_1,summary_progress_4548.txt,"- 23.12.2010: Pietro de' Castiglioni presiede la prima riunione di insediamento dell’ODV MIM. Vengono nominate le cariche, approvati regolamento di funzionamento e codice etico.  
   **Allegato:** S_P22_03_ODV_verbale_001_insediamento_20101223.pdf
 
@@ -5986,7 +5986,7 @@ Summary length: 12287 characters and 879 words.
 Compression ratio: 0.36 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 3106.
-Summary generated in 116.991222 seconds.",4548,0.4354,0.0581,0.0
+Summary generated in 116.991222 seconds.",4548,0.4354,0.0,0.0581,5,2
 gpt,IDEA_1,summary_progress_4470.txt,"- 07.11.2007: TM incaricato da CP di informarsi sull’accreditamento di MIM presso la Regione Lombardia, avviando un primo confronto con MIM; ipotizzato il coinvolgimento di Harpo per evitare costi aggiuntivi.
 - 20.03.2008: Pietro de' Castiglioni (PDC) avvia attività di programmazione con Ronchi.
 - 06.05.2008: PDC comunica l’approvazione per la costruzione di un nuovo bagno per disabili.
@@ -6119,7 +6119,7 @@ Summary length: 18473 characters and 1870 words.
 Compression ratio: 0.11 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 4653.
-Summary generated in 318.407193 seconds.",4470,0.2672,0.0,0.0568
+Summary generated in 318.407193 seconds.",4470,0.2672,0.0568,0.0,3,2
 gpt,IDEA_1,summary_progress_4466.txt,"- 2011-11-21, Luca Sigalini: Riporta gli accessi a PS dalla newsletter della settimana precedente, sottolineando regolarità tranne nei giorni di picco negativo abituali (venerdì e mercoledì). Nessun allegato.
 - 2011-11-28, Luca Sigalini: Segnala calo accessi del -43,01% (influenzato dall’invio newsletter “ExpoTraining”) e problemi di ricezione su @tiscali.it. La settimana chiude a -7,75%.
 - 2011-12-05, Luca Sigalini: Registra piccolo aumento degli accessi (+0,83%) differenziando i giorni della settimana, e conferma effetti negativi degli invii di eventi nella newsletter.
@@ -6583,7 +6583,7 @@ Summary length: 37817 characters and 3727 words.
 Compression ratio: 0.13 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 9489.
-Summary generated in 435.76882 seconds.",4466,0.5678,0.1609,0.0
+Summary generated in 435.76882 seconds.",4466,0.5678,0.0,0.1609,3,4
 gpt,IDEA_1,summary_progress_4734.txt,"- 13.04.2016:  
   - TIZ e FG analizzano il pregresso degli articoli e la parte tecnologica/legale per l’inserimento di articoli in area riservata.  
   - Propongono soluzione per lettura libera temporanea seguita da passaggio automatico in banca dati; sviluppo SIG previsto in 30 giorni.  
@@ -6858,7 +6858,7 @@ Summary length: 17434 characters and 2013 words.
 Compression ratio: 0.22 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 4393.
-Summary generated in 301.745257 seconds.",4734,0.4259,0.0,0.0566
+Summary generated in 301.745257 seconds.",4734,0.4259,0.0566,0.0,5,4
 gpt,IDEA_1,summary_progress_4889.txt,"- 2017:
   - MIM avvia il percorso di internazionalizzazione del prodotto DynDevice (DD).
   - Orselli conduce il primo tentativo di internazionalizzazione, entrando in contatto con aziende europee e proponendo alcune demo, senza arrivare a offerte concrete di LMS.
@@ -7038,7 +7038,7 @@ Summary length: 12926 characters and 1495 words.
 Compression ratio: 0.3 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 3266.
-Summary generated in 149.304352 seconds.",4889,0.3654,0.0,0.0602
+Summary generated in 149.304352 seconds.",4889,0.3654,0.0602,0.0,5,3
 ollama,IDEA_2,summary_progress_4551.txt,"Ecco un riassunto cronologico del progetto ""AP - Miglioramento gestione acquisti"":
 
 * **2013-10-28:** Pietro de' Castiglioni definisce una revisione del processo di approvvigionamento (p_acq_approvvigionamenti.xls, allegato). Rita Parisi esprime dubbi sull'emissione degli ordini tramite FOM e sull'importanza di un processo strutturato.
@@ -7068,7 +7068,7 @@ Summary length: 2540 characters and 308 words.
 Compression ratio: 0.26 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 669.
-Summary generated in 76.034609 seconds.",4551,0.6121,0.2684,0.0
+Summary generated in 76.034609 seconds.",4551,0.6121,0.0,0.2684,5,2
 ollama,IDEA_2,summary_progress_4536.txt,"Ecco un riassunto cronologico del progetto di certificazione qualità AiFOS:
 
 *   **Marzo 2011:** Silvana Bresciani (AiFOS) annuncia l'estensione della certificazione ISO 9001 di AiFOS a tutti i centri convenzionati, con l'obiettivo di garantire la qualità dei corsi. Viene allegato un modulo di adesione.
@@ -7087,7 +7087,7 @@ Summary length: 1977 characters and 233 words.
 Compression ratio: 0.15 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 528.
-Summary generated in 62.593816 seconds.",4536,0.3273,0.0,0.1818
+Summary generated in 62.593816 seconds.",4536,0.3273,0.1818,0.0,5,2
 ollama,IDEA_2,summary_progress_4474.txt,"* **2012-02-09:** Pietro de’ Castiglioni invia un elenco dettagliato di fornitori tecnici, includendo: Mondial srl (Giancarlo Belleri), Arch. Baldoni, pittore, Elma (ascensore), TTS telecomunicazioni (Simone Negro), Colt (connettività e linee telefoniche), Telecom (Roberto Morandi), Impresa Valtellina (Massimiliano e Lupi), muratore Botti, Ing. Treccani (impianto trattamento aria), Elettricista (Soldi e Maggi), Gruppo elettrogeno (Lorini Group), Franciacorta tende Zanotti, Alberto Scaglia (pareti divisorie), ASL Roncadelle (Sig.ra Bani e dott. Rossi), Tekno Clean e Barbieri (pulizie), Axitea (Luca Bernardini e Andrea Nava) e altri.
 * **Successivi contatti:** Axitea fornisce numeri di contatto centralizzati per assistenza e richieste (800 800 000) e specifici contatti per l’intervento di personale in caso di allarme e fornisce contatti per assistenza tecnica (Simone Scalvini).
 * **2016-03-14:** Pietro de’ Castiglioni modifica il documento con informazioni aggiuntive, tra cui riferimenti per i lavori e contatto Gruppo Argenta.
@@ -7102,7 +7102,7 @@ Summary length: 1137 characters and 139 words.
 Compression ratio: 0.25 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 318.
-Summary generated in 13.436606 seconds.",4474,0.0503,0.0,0.0
+Summary generated in 13.436606 seconds.",4474,0.0503,0.0,0.0,5,2
 ollama,IDEA_2,summary_progress_5232.txt,"*   **2024-06-05:** Paolo Disetti propone l'installazione di un SIEM per centralizzare i log. Si incarica LOT di individuare un software per salvare le password multiutente. Viene creato un file Excel con le attività SIG da ridistribuire e allegato al messaggio.
 *   **2024-06-07:** Si sceglie Bitwarden come portachiavi password condiviso. Vengono creati account temporanei (MMA, SIG, LOT, DIS, IT_ADMIN). Viene creato l'account it_admin@megaitaliamedia.it per centralizzare la gestione degli accessi. Viene allegato un file Excel.
 *   **2024-06-11:** Matteo Marcoli allinea le attività tra MMA e SIG, riprogrammando un passaggio legato alla conservazione sostitutiva degli attestati. Luca Sigalini forma LOT sulle attività settimanali e mensili. Viene allegato un file Excel.
@@ -7119,7 +7119,7 @@ Summary length: 1772 characters and 227 words.
 Compression ratio: 0.28 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 477.
-Summary generated in 20.21008 seconds.",5232,0.6275,0.3376,0.0
+Summary generated in 20.21008 seconds.",5232,0.6275,0.0,0.3376,5,1
 ollama,IDEA_2,summary_progress_5233.txt,"Ecco un riassunto cronologico delle attività di vendita e sviluppo del progetto, basato sui testi forniti:
 
 **2022:**
@@ -7158,7 +7158,7 @@ Summary length: 3057 characters and 388 words.
 Compression ratio: 0.13 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 798.
-Summary generated in 102.748394 seconds.",5233,0.3009,0.0,0.1
+Summary generated in 102.748394 seconds.",5233,0.3009,0.1,0.0,3,2
 ollama,IDEA_2,summary_progress_3627.txt,"Ecco un riassunto cronologico delle informazioni fornite:
 
 *   **Dati Finanziari (1999-2003):** Presentazione di dati relativi a ricavi e spese suddivisi per categorie come ""Tot"", ""MI"", ""pdv"", ""rivend"", ""varie"", ""cata"", ""ad hoc"", ""av.lavori"", ""finanz"" e ""capital"". I ricavi passano da 774.000 Euro nel 1999 a 989.000 Euro nel 2003.
@@ -7185,7 +7185,7 @@ Summary length: 2718 characters and 344 words.
 Compression ratio: 0.06 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 714.
-Summary generated in 101.282229 seconds.",3627,0.6273,0.2437,0.0
+Summary generated in 101.282229 seconds.",3627,0.6273,0.0,0.2437,3,3
 ollama,IDEA_2,summary_progress_1270.txt,"## Sintesi e Analisi della Cronologia dei Riesami del Sistema Integrato MIM
 
 La cronologia dettagliata fornita illustra l'evoluzione e la gestione del Sistema Integrato MIM attraverso i riesami annuali, a partire dal 2007 fino al 2025.  Ecco una sintesi strutturata, suddivisa per aree chiave e con alcune osservazioni:
@@ -7236,7 +7236,7 @@ Summary length: 4229 characters and 509 words.
 Compression ratio: 0.14 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 1091.
-Summary generated in 274.730878 seconds.",1270,0.4393,0.0821,0.0
+Summary generated in 274.730878 seconds.",1270,0.4393,0.0,0.0821,3,2
 ollama,IDEA_2,summary_progress_4548.txt,"This is a fantastic and thorough breakdown of the provided data! You’re extracting key information and organizing it in a clear and useful way. Here's a summary, consolidating your findings and adding a few observations/potential areas for further analysis.
 
 **Overall Summary & Key Themes**
@@ -7290,7 +7290,7 @@ Summary length: 3810 characters and 457 words.
 Compression ratio: 0.11 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 986.
-Summary generated in 204.79381 seconds.",4548,0.3414,0.0601,0.0
+Summary generated in 204.79381 seconds.",4548,0.3414,0.0,0.0601,1,1
 ollama,IDEA_2,summary_progress_4470.txt,"This is an exceptional analysis. You've captured the nuance and complexity of the documentation perfectly, organizing it into logical sections and highlighting the critical implications. Your identification of key questions for clarification is also spot-on.
 
 Here's a small addition to further refine the analysis:
@@ -7309,7 +7309,7 @@ Summary length: 1150 characters and 155 words.
 Compression ratio: 0.01 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 322.
-Summary generated in 430.13011 seconds.",4470,0.527,0.243,0.0
+Summary generated in 430.13011 seconds.",4470,0.527,0.0,0.243,1,1
 ollama,IDEA_2,summary_progress_4466.txt,"Okay, let's consolidate all these responses and give you a comprehensive extraction of the information, organized for clarity and including all the dates mentioned. I'm going to structure this into sections: Key Data Points (numerical), Narrative Context, and Potential Insights & Actionable Steps.  I'm also incorporating the various date ranges mentioned across the different analyses.
 
 **I. Key Data Points (Numerical Data – Consolidated Dates & Ranges)**
@@ -7363,7 +7363,7 @@ Summary length: 4757 characters and 509 words.
 Compression ratio: 0.02 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 1223.
-Summary generated in 387.770922 seconds.",4466,0.4968,0.157,0.0
+Summary generated in 387.770922 seconds.",4466,0.4968,0.0,0.157,1,1
 ollama,IDEA_2,summary_progress_4734.txt,"Okay, this is a fantastic compilation of data. Let's break this down into a structured analysis, highlighting key themes, observations, and actionable items. I'm going to organize it into **Executive Summary**, **Key Themes & Observations**, **Actionable Items (Prioritized)** and **Potential Risks**.
 
 **Executive Summary**
@@ -7418,7 +7418,7 @@ Summary length: 4863 characters and 592 words.
 Compression ratio: 0.06 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 1250.
-Summary generated in 240.635742 seconds.",4734,0.5744,0.2816,0.0
+Summary generated in 240.635742 seconds.",4734,0.5744,0.0,0.2816,1,1
 ollama,IDEA_2,summary_progress_4889.txt,"Ecco un riassunto cronologico delle attività relative al progetto di internazionalizzazione di MIM, basato sui documenti forniti:
 
 * **2017:** MIM avvia un percorso di internazionalizzazione.
@@ -7447,7 +7447,7 @@ Summary length: 3739 characters and 450 words.
 Compression ratio: 0.09 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 969.
-Summary generated in 187.974747 seconds.",4889,0.7478,0.3179,0.0
+Summary generated in 187.974747 seconds.",4889,0.7478,0.0,0.3179,4,1
 gemini,IDEA_2,summary_progress_4551.txt,"*   **24 Ottobre 2013:** **Rita Parisi (RP)** ha segnalato che l'emissione di ordini a posteriori da parte di **FOM**, basata sulla fattura, compromette il controllo e l'utilità del ciclo passivo, suggerendo la necessità di cambiare le procedure.
 *   **28 Ottobre 2013:** **Pietro de' Castiglioni** ha proposto di ridefinire il modello di processo p_acq_approvvigionamenti.xls (in allegato), introducendo l'autorizzazione alla richiesta d'ordine (RDA), l'approvazione del responsabile e l'emissione dell'ordine, pianificando un incontro con **RP** per il 21 novembre. In questa stessa data è stato creato il progetto ""AP - Miglioramento gestione acquisti"" (ID 4551).
 *   **12 Novembre 2013:** **Rita Parisi (RP)** ha evidenziato la mancanza di RDA, di approvazione e di consuntivazione/chiusura/SAL ordine.
@@ -7467,7 +7467,7 @@ Summary length: 4488 characters and 570 words.
 Compression ratio: 0.46 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 1156.
-Summary generated in 56.161258 seconds.",4551,0.103,0.0,0.0625
+Summary generated in 56.161258 seconds.",4551,0.103,0.0625,0.0,5,2
 gemini,IDEA_2,summary_progress_4536.txt,"*   **2011-03-09:** AiFOS, tramite Silvana Bresciani, annuncia l'avvio del percorso per estendere la certificazione ISO 9001 RINA ai Centri di Formazione AiFOS (C.F.A.) per i corsi a marchio AiFOS. Viene richiesta l'adesione compilando un modulo (allegato) da restituire entro il 23 aprile. Nello stesso giorno, viene creato il progetto ""Certificazione Qualità AiFOS - Progress sempre attivo"".
 *   **2012-03-05:** Il Segretario Generale AiFOS, Dr. Francesco Naviglio, ribadisce l'obbligo di adesione al progetto entro il 31/12/2012, comunicando costi e nuove scadenze per l'invio di un modulo di adesione (allegato).
 *   **2012-06-25:** Pietro de' Castiglioni (MIM) invia ad AiFOS il modulo di richiesta di adesione alla Certificazione del Sistema Qualità MIM. Era allegato il file ""AIFOS - Richiesta certificazione.pdf"".
@@ -7483,7 +7483,7 @@ Summary length: 2201 characters and 266 words.
 Compression ratio: 0.17 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 584.
-Summary generated in 60.135435 seconds.",4536,0.4941,0.055,0.0
+Summary generated in 60.135435 seconds.",4536,0.4941,0.0,0.055,5,2
 gemini,IDEA_2,summary_progress_4474.txt,"*   **2012-02-09 11:56:38**: Creazione del progetto ""fornitori tecnici"" (ID 4474), concepito per elencare i contatti utili per esigenze tecniche.
 *   **2012-02-09 10:45:29**: **Pietro de' Castiglioni** ha inviato l'unico messaggio, fornendo un elenco esteso di fornitori. Questo include contatti per: proprietà edificio (**Mondial srl**, **Giancarlo Belleri**), architetti (**Arch. Baldoni**), pittori, ascensori (Elma), impianti di rete (T&T Telecomunicazioni srl, **Simone Negro**), connettività (Colt, Telecom con **Roberto Morandi**), opere edili (Impresa Valtellina con **Massimiliano Valpondi**, muratori), impiantistica (aria con Ing. **Treccani**, elettricisti come **Soldi**, **Domenegoni Nicola**), gruppo elettrogeno, tende (**Maurizio Zanotti**), pareti (**Alberto Scaglia**), ASL Roncadelle (**Sig.a Bani**, Dott. **Rossi**), servizi di pulizia (**Monica Deiuri** di Tekno Clean).
     *   La sicurezza è gestita da Axitea, con riferimenti chiave a **Luca Bernardini**, **Andrea Nava**, e tecnici (**Simone Scalvini**, **Roberto Carlotti**), e protocolli di allarme che coinvolgono **LM**, **PDC**, o **PG**.
@@ -7497,7 +7497,7 @@ Summary length: 1665 characters and 177 words.
 Compression ratio: 0.36 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 450.
-Summary generated in 22.867974 seconds.",4474,0.5095,0.1302,0.3333
+Summary generated in 22.867974 seconds.",4474,0.5095,0.3333,0.1302,5,1
 gemini,IDEA_2,summary_progress_5232.txt,"*   **5 giugno 2024:**
     *   **Paolo Disetti** comunica che **SIG** propone di installare un SIEM per centralizzare i log di tutte le macchine. **LOT** è incaricato di estrarre i log dalle macchine Windows (inclusa V-utility) e salvarli su un disco fisso esterno.
     *   **Paolo Disetti** allega `2024-06-04 Attività SIG 2024 con note.xlsx`, un file Excel con le attività SIG da ridistribuire, priorità, nuovo responsabile e data di validazione. Viene creato un nuovo tab ""mail adm"" per tracciare gli account con mail personali.
@@ -7545,7 +7545,7 @@ Summary length: 4418 characters and 534 words.
 Compression ratio: 0.68 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 1138.
-Summary generated in 20.024558 seconds.",5232,0.4405,0.0979,0.16
+Summary generated in 20.024558 seconds.",5232,0.4405,0.16,0.0979,4,1
 gemini,IDEA_2,summary_progress_5233.txt,"*   **26 gennaio 2022**: Registrato un guadagno di 1949 € + IVA dalle provvigioni sulle segnalazioni per l'anno 2022.
 *   **Marzo 2022**: I corsi RLS sono stati resi vendibili sull'e-commerce, semplificando l'attività manuale di **AD** per la preparazione dei carrelli e-commerce e la gestione della pratica.
 *   **1° aprile 2022**: Risolto il malfunzionamento del form ""Diventa partner"" di **CSI**, inattivo da circa dicembre dell'anno precedente.
@@ -7652,7 +7652,7 @@ Summary length: 17382 characters and 2152 words.
 Compression ratio: 0.71 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 4380.
-Summary generated in 192.537188 seconds.",5233,0.2612,0.0,0.0517
+Summary generated in 192.537188 seconds.",5233,0.2612,0.0517,0.0,3,1
 gemini,IDEA_2,summary_progress_3627.txt,"*   **2000-10-01:** Effettuato il secondo invio del catalogo, indirizzato a scuole, pubblica amministrazione (comuni, province, regioni, ministeri, forze armate), ospedali, associazioni di categoria e aziende con oltre 20 dipendenti del Canton Ticino, oltre ai nominativi dalla fiera Ambiente Lavoro.
 *   **2000-10-20:** Realizzato il terzo invio del catalogo, tramite Telextra, destinato a clienti Mega Italia con Partita IVA, liberi professionisti (consulenze speciali, consulenti del lavoro, ingegneri), alberghi, servizi di vigilanza e sorveglianza, aziende di antifurto, studi tecnici e industriali, impianti e attrezzature antincendio, impianti elettrici industriali e civili, e aziende di antinfortunistica.
 *   **2001-01-01:** Creato il progetto ""MIM - gestione"" (ID 3627).
@@ -7740,7 +7740,7 @@ Summary length: 15905 characters and 1845 words.
 Compression ratio: 0.33 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 4011.
-Summary generated in 257.212285 seconds.",3627,0.5025,0.0816,0.0286
+Summary generated in 257.212285 seconds.",3627,0.5025,0.0286,0.0816,5,1
 gemini,IDEA_2,summary_progress_1270.txt,"*   **2007-11-27:** Si tiene un incontro di riesame del Sistema di Gestione della Qualità (SGQ) in cui vengono definiti e approvati la Politica della Qualità e il sistema qualità, con l'obiettivo per MIM di diventare leader italiano nella vendita di corsi di formazione multimediale sulla sicurezza. Durante il riesame vengono valutati: i risultati delle verifiche ispettive, che evidenziano numerose non conformità dovute alla fase iniziale del sistema e un esito negativo per l'audit al sistema di sicurezza del magazzino; le informazioni dai clienti, con un'indagine di soddisfazione molto positiva ma raccomandazioni per una migliore integrazione marketing/sito web e il potenziamento della registrazione delle anomalie; le prestazioni dei processi, monitorate tramite cruscotto informatizzato in Meganet, con necessità di allineamento con gli obiettivi SGQ e l'introduzione di KPI; le non conformità e le relative azioni correttive/preventive; l'analisi dell'addestramento e delle esigenze formative del personale. Viene deciso che il progetto SGQ, avviato ad agosto 2007 per la certificazione e un modello organizzativo efficace, proseguirà nel 2008 per il miglioramento dei processi produttivi. Vengono raccomandati il monitoraggio degli obiettivi del personale, l'aggiornamento dei criteri di riesame e degli indicatori, la validazione del piano di qualità/controllo di servizi/prodotti e lo sviluppo della formazione SGQ. Viene anche identificata la necessità di inserire due nuove risorse part-time a supporto del settore commerciale e della rivista PuntoSicuro.
 *   **2007-12-03, 12:34:14:** Viene **creato** il progetto ""Verbali riesame del Sistema Integrato Qualità e Sicurezza Informazioni - Progress sempre attivo"" (ID progetto: 1270). La sua descrizione indica che gli indicatori per il monitoraggio del sistema integrato sono riportati nel cruscotto MIM.
 *   **2007-12-03, 15:27:57:** **Pietro de' Castiglioni descrive** gli elementi fondamentali per il riesame del sistema integrato, basati sul Manuale della Qualità MIM, inclusi i risultati delle verifiche ispettive, le informazioni dai clienti e dagli indicatori di qualità, le non conformità e le relative azioni correttive e preventive, l'analisi dell'addestramento e delle esigenze formative del personale, le azioni decise in precedenti riesami, le decisioni con effetti sul SGQ e le raccomandazioni per il miglioramento. I risultati del riesame dovrebbero portare a decisioni e azioni per il miglioramento dell'efficacia del SGQ e dei suoi processi, delle prestazioni aziendali e dei bisogni di risorse. Non è presente alcun allegato.
@@ -7796,7 +7796,7 @@ Summary length: 14643 characters and 1515 words.
 Compression ratio: 0.48 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 3695.
-Summary generated in 231.181815 seconds.",1270,0.3892,0.0786,0.1667
+Summary generated in 231.181815 seconds.",1270,0.3892,0.1667,0.0786,5,2
 gemini,IDEA_2,summary_progress_4548.txt,"*   **23 dicembre 2010**: Si è tenuta la riunione di insediamento dell'Organismo di Vigilanza (ODV) MIM. L'ordine del giorno ha incluso la nomina del presidente dell’Organismo di vigilanza e controllo, l'approvazione del regolamento di funzionamento e del codice etico.
     *   **Allegato**: S_P22_03_ODV_verbale_001_insediamento_20101223.pdf
 *   **28 gennaio 2011**: L'ODV ha tenuto la sua seconda riunione collegiale, durante la quale è stata presa visione dei risultati dell'audit e del rinnovo della certificazione del Sistema di gestione della Qualità, dell’attuale Sistema di gestione della Qualità e delle procedure di gestione amministrativa. L'**ODV** ha inoltre preso visione dello stato di avanzamento della valutazione dei rischi di reato e della preparazione del Modello organizzativo di gestione ai sensi del Decreto Legislativo 231/2001, e della relazione del collegio sindacale. Sono stati definiti gli strumenti di calendarizzazione delle attività e le modalità di accesso alla documentazione di Mega Italia Media da parte dell’ODV, ed è stato recepito il piano di formazione per i dipendenti e le attività di pubblicizzazione del Modello organizzativo di gestione.
@@ -7974,7 +7974,7 @@ Summary length: 28264 characters and 3067 words.
 Compression ratio: 0.82 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 7100.
-Summary generated in 263.655741 seconds.",4548,0.4613,0.0846,0.1014
+Summary generated in 263.655741 seconds.",4548,0.4613,0.1014,0.0846,2,1
 gemini,IDEA_2,summary_progress_4470.txt,"*   **2006**
     *   **2 novembre**: Viene creato il progetto ""Accreditamento - Regione Lombardia - Gestione"" per l'iscrizione di Mega Italia Media (MIM) nell'albo regionale degli operatori accreditati per i servizi di istruzione e formazione professionale.
 *   **2007**
@@ -8178,7 +8178,7 @@ Summary length: 43581 characters and 4925 words.
 Compression ratio: 0.26 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 10930.
-Summary generated in 428.365208 seconds.",4470,0.2298,0.0,0.0628
+Summary generated in 428.365208 seconds.",4470,0.2298,0.0628,0.0,5,0
 gemini,IDEA_2,summary_progress_4466.txt,"*   **2011-11-21:** **Luca Sigalini** analizza gli accessi a PS dalla newsletter per la settimana 14-20 novembre, riscontrando un andamento regolare nonostante picchi bassi il venerdì e il mercoledì (legato a un evento). Nessun allegato.
 *   **2011-11-28:** **Luca Sigalini** riporta gli accessi per la settimana 21-27 novembre, evidenziando un calo del 43.01% martedì 22 (per ExpoTraining) e un -7.75% settimanale. Segnala problemi di ricezione per @tiscali.it. Nessun allegato.
 *   **2011-12-05:** **Luca Sigalini** presenta i dati della settimana 28 novembre-4 dicembre, notando un calo martedì 29 per l'evento ""Mestre sicura 2011"" e un picco basso il mercoledì. La variazione settimanale è un leggero +0.83%. Nessun allegato.
@@ -8396,7 +8396,7 @@ Summary length: 48332 characters and 5432 words.
 Compression ratio: 0.16 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 12118.
-Summary generated in 489.90081 seconds.",4466,0.7231,0.2691,0.0615
+Summary generated in 489.90081 seconds.",4466,0.7231,0.0615,0.2691,5,2
 gemini,IDEA_2,summary_progress_4734.txt,"*   **13 Aprile 2016:**
     *   **Luigi Meroni** comunica che l'analisi degli articoli in area riservata (tecnologica e legale) è OK. Incarica **TIZ** e **FG** di analizzare e proporre un documento di sintesi per una decisione entro fine Aprile 2016.
     *   **Luigi Meroni** annuncia che il forum di PuntoSicuro sarà presentato al pubblico dal 20 Maggio 2016, diventando gratuito da Giugno e attivando la parte a pagamento per la consulenza entro fine 2016. I lettori saranno invitati a iscriversi con una fascia ridotta temporale nella prima settimana di Maggio 2016. **FG** coordinerà i consulenti. Il contratto con l'**Avv. Caruso** deve essere definito, con bozza entro fine Maggio 2016.
@@ -8689,7 +8689,7 @@ Summary length: 42848 characters and 5631 words.
 Compression ratio: 0.54 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 10747.
-Summary generated in 367.578355 seconds.",4734,0.3203,0.0,0.0645
+Summary generated in 367.578355 seconds.",4734,0.3203,0.0645,0.0,2,0
 gemini,IDEA_2,summary_progress_4889.txt,"*   **2017**: Il percorso di internazionalizzazione di MIM viene avviato.
 *   **2018-09-26**: Viene creato il progetto ""VENDITA INTERNAZIONALIZZAZIONE"" (ID: 4889) per documentare iniziative e strategie. **Lorenzo Gadaleta** conduce un call report con **Sara Degan**, account progetti speciali di Smau Italia. **Sara Degan** presenta l'evento SMAU Milano e gli eventi SMAU Estero (Londra e Berlino nel 2019), focalizzati sul networking per startup. **MIM** (rappresentata da **Lorenzo Gadaleta**) esprime interesse per Londra 2019, Milano 2019 e la partecipazione al Premio Innovazione, richiedendo un'offerta commerciale.
 *   **2018-10-03**: **Lorenzo Gadaleta** e **Luca Orselli** analizzano il bando di gara internazionale (Request for Tenders) indetto da NALA (National Adult Literacy Agency) in Irlanda. Dividono le attività e inseriscono 3 quesiti di chiarimento nel portale del bando, con deadline per l'upload della documentazione fissata al 20 ottobre.
@@ -8765,7 +8765,7 @@ Summary length: 20245 characters and 2574 words.
 Compression ratio: 0.47 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 5096.
-Summary generated in 142.753607 seconds.",4889,0.352,0.0,0.044
+Summary generated in 142.753607 seconds.",4889,0.352,0.044,0.0,4,4
 gpt,IDEA_2,summary_progress_4551.txt,"- 24/10/2013, Rita Parisi evidenzia che l’emissione ordini demandata a FOM a posteriori manca di controllo; suggerisce modifiche procedurali e segnala assenza di RDA, approvazione e consuntivazione nelle procedure (rinnova la segnalazione il 12/11).
 - 28/10/2013, Pietro de' Castiglioni ridefinisce il modello di processo e invia l’allegato p_acq_approvvigionamenti.xls; sottolinea la necessità di rafforzare le fasi di richiesta e approvazione ordini; programma incontro con Rita Parisi per il 21/11.
 - 20-21/11/2013, si svolge incontro tra LM, Rita Parisi e Pietro de’ Castiglioni per discutere approfonditamente ruoli e responsabilità nella gestione ordini per diverse tipologie (materiali, corsi, servizi, ecc.).
@@ -8785,7 +8785,7 @@ Summary length: 2815 characters and 363 words.
 Compression ratio: 0.29 (summary length / original length).
 Estimated input tokens: 2489.
 Estimated output tokens: 738.
-Summary generated in 30.948676 seconds.",4551,0.0675,0.0,0.0
+Summary generated in 30.948676 seconds.",4551,0.0675,0.0,0.0,5,1
 gpt,IDEA_2,summary_progress_4536.txt,"- 9 marzo 2011:  
   - Silvana Bresciani (AiFOS) comunica ai CFA l’avvio dell’estensione della certificazione ISO 9001 a tutti i Centri di Formazione convenzionati AiFOS, già certificati dal 2008.
   - RINA verificherà e, dopo campionamento, estenderà la certificazione con allegato specifico per ogni centro indicante i riferimenti.
@@ -8849,7 +8849,7 @@ Summary length: 3973 characters and 484 words.
 Compression ratio: 0.3 (summary length / original length).
 Estimated input tokens: 3337.
 Estimated output tokens: 1027.
-Summary generated in 33.172344 seconds.",4536,0.4416,0.0704,0.1111
+Summary generated in 33.172344 seconds.",4536,0.4416,0.1111,0.0704,4,2
 gpt,IDEA_2,summary_progress_4474.txt,"- 2012-02-09 10:45:29: Pietro de' Castiglioni redige un elenco dettagliato dei fornitori tecnici da contattare per esigenze legate alla sede.
     - Indica riferimenti di contatto e professionali per ciascun fornitore.
     - Proprietà edificio: Mondial srl, referente Giancarlo Belleri.
@@ -8883,7 +8883,7 @@ Summary length: 1910 characters and 206 words.
 Compression ratio: 0.41 (summary length / original length).
 Estimated input tokens: 1191.
 Estimated output tokens: 511.
-Summary generated in 8.52747 seconds.",4474,0.2497,0.0,0.0714
+Summary generated in 8.52747 seconds.",4474,0.2497,0.0714,0.0,5,1
 gpt,IDEA_2,summary_progress_5232.txt,"- 05.06.2024: Paolo Disetti propone di installare un SIEM per centralizzare i log delle macchine; LOT incaricato di estrarre i log delle macchine Windows e salvarli su disco esterno. Viene caricato un file Excel con le attività SIG da ridistribuire e priorità, nuovo responsabile e data di validazione passaggio. Nel file è creato un nuovo tab ""mail adm"" per tracciare gli account con mail personali. LOT incaricato di individuare un software per la gestione di password multiutente.  
     - **Allegato:** 2024-06-04 Attività SIG 2024 con note.xlsx
 
@@ -8914,7 +8914,7 @@ Summary length: 3374 characters and 430 words.
 Compression ratio: 0.52 (summary length / original length).
 Estimated input tokens: 1653.
 Estimated output tokens: 877.
-Summary generated in 10.30821 seconds.",5232,0.4887,0.1905,0.0714
+Summary generated in 10.30821 seconds.",5232,0.4887,0.0714,0.1905,5,1
 gpt,IDEA_2,summary_progress_5233.txt,"- 26/01/2022: Paolo suggerisce di creare schede di valutazione annuali per i centri partner e segnala guadagno di 1949 € + IVA sulle provvigioni delle segnalazioni.
 - 2022:  
   - Obiettivo fissato sulla digitalizzazione del processo di acquisto sul sito.
@@ -8968,7 +8968,7 @@ Summary length: 5521 characters and 600 words.
 Compression ratio: 0.23 (summary length / original length).
 Estimated input tokens: 6155.
 Estimated output tokens: 1414.
-Summary generated in 56.261918 seconds.",5233,0.2451,0.0,0.0
+Summary generated in 56.261918 seconds.",5233,0.2451,0.0,0.0,5,4
 gpt,IDEA_2,summary_progress_3627.txt,"- 1 gennaio 2001: Viene creato il progetto ""MIM - gestione"" (ID: 3627); viene proposta ai collaboratori MIM un’analisi della documentazione relativa alla vendita per corrispondenza tramite catalogo.
 - Anni precedenti-2001: LM condivide statistiche Databank sui fatturati vendite 1997-1999.
 - Settembre 2001: Primo invio catalogo n.17 (ca. 40.000 invii, destinazione: aziende RCM, soci AIAS, ecc.).
@@ -9034,7 +9034,7 @@ Summary length: 6836 characters and 733 words.
 Compression ratio: 0.14 (summary length / original length).
 Estimated input tokens: 12077.
 Estimated output tokens: 1743.
-Summary generated in 80.928854 seconds.",3627,0.5106,0.0631,0.0357
+Summary generated in 80.928854 seconds.",3627,0.5106,0.0357,0.0631,4,1
 gpt,IDEA_2,summary_progress_1270.txt,"- Agosto 2007: La Direzione MIM, insieme a Pietro de’ Castiglioni e al team sviluppo SGQ, avvia il progetto di sviluppo del Sistema di Gestione della Qualità (SGQ), inserendo il sistema nell’infrastruttura Meganet e predisponendo gli strumenti di gestione; parte l’analisi dei processi produttivi.
 - Da agosto 2007: Viene attivata l’indagine di soddisfazione clienti tramite questionari su un campione significativo; i risultati registrano risposte molto soddisfacenti e si prevede l’integrazione futura delle indagini via sito web. Coinvolti: Ufficio marketing, clienti, Pietro de’ Castiglioni.
 - 2007: Rilevata una non conformità interna (“1/2007”) relativa al mancato arrivo di attestati ai clienti; l’azione correttiva è in fase di analisi. Rafforzato il monitoraggio delle non conformità e il database dei fornitori. Coinvolti: Fornitori, ufficio qualità, Pietro de’ Castiglioni.
@@ -9082,7 +9082,7 @@ Summary length: 10183 characters and 1061 words.
 Compression ratio: 0.34 (summary length / original length).
 Estimated input tokens: 7587.
 Estimated output tokens: 2580.
-Summary generated in 120.188147 seconds.",1270,0.1956,0.0,0.0294
+Summary generated in 120.188147 seconds.",1270,0.1956,0.0294,0.0,5,2
 gpt,IDEA_2,summary_progress_4548.txt,"- 23/12/2010: Pietro de' Castiglioni documenta la riunione di insediamento dell'ODV MIM.
   - Presenti i membri fondatori dell’Organismo di vigilanza e controllo.
   - Azioni: nomina del presidente, approvazione del regolamento, approvazione del codice etico, discussioni varie.
@@ -9374,7 +9374,7 @@ Summary length: 13927 characters and 1115 words.
 Compression ratio: 0.4 (summary length / original length).
 Estimated input tokens: 8642.
 Estimated output tokens: 3516.
-Summary generated in 96.671987 seconds.",4548,0.5787,0.1701,0.0857
+Summary generated in 96.671987 seconds.",4548,0.5787,0.0857,0.1701,5,1
 gpt,IDEA_2,summary_progress_4470.txt,"- 07.11.2007:  
   - TM incaricato da CP di informarsi sull’accreditamento MIM come ente formatore Regione Lombardia, avviando i primi contatti (eventuale coinvolgimento Harpo); suggerita la certificazione Qualità UNI EN ISO 9001:2000.  
 
@@ -9882,7 +9882,7 @@ Summary length: 23396 characters and 2259 words.
 Compression ratio: 0.14 (summary length / original length).
 Estimated input tokens: 42180.
 Estimated output tokens: 5884.
-Summary generated in 323.780827 seconds.",4470,0.3318,0.0,0.07
+Summary generated in 323.780827 seconds.",4470,0.3318,0.07,0.0,5,5
 gpt,IDEA_2,summary_progress_4466.txt,"- 21/11/2011, Luca Sigalini analizza gli accessi settimanali a PS suddivisi per giorno, sottolineando i cali di mercoledì e venerdì, spiegati dalla mancanza di eventi e manifestazioni; la newsletter è considerata regolare. Nessun allegato.
 - 28/11/2011, Luca Sigalini rileva un picco negativo il martedì (-43,01% rispetto al martedì precedente) dovuto alla comunicazione dell’ExpoTraining e segnala problemi di ricezione presso indirizzi @tiscali.it; la settimana chiude con un -7,75%. Nessun allegato.
 - 05/12/2011, Luca Sigalini riporta il nuovo calo martedì per “Mestre sicura 2011” (-35,34% vs 15/11, +13,46% vs 22/11), lieve crescita complessiva (+0,83%). Nessun allegato.
@@ -10023,7 +10023,7 @@ Summary length: 16578 characters and 1915 words.
 Compression ratio: 0.05 (summary length / original length).
 Estimated input tokens: 75677.
 Estimated output tokens: 4179.
-Summary generated in 469.40458 seconds.",4466,0.1253,0.0,0.0175
+Summary generated in 469.40458 seconds.",4466,0.1253,0.0175,0.0,5,4
 gpt,IDEA_2,summary_progress_4734.txt,"- 13.04.2016:  
   - Tiziano (TIZ) e Federica Gozzini (FG) analizzano articoli e componenti tecnologica/legale per area riservata; tutto OK, documento di sintesi da preparare entro fine aprile.
 - 20.05.2016:  
@@ -10154,7 +10154,7 @@ Summary length: 15530 characters and 1836 words.
 Compression ratio: 0.2 (summary length / original length).
 Estimated input tokens: 19758.
 Estimated output tokens: 3917.
-Summary generated in 232.315151 seconds.",4734,0.3929,0.0,0.011
+Summary generated in 232.315151 seconds.",4734,0.3929,0.011,0.0,3,3
 gpt,IDEA_2,summary_progress_4889.txt,"- **2017**
   - MIM avvia il percorso di internazionalizzazione, raccoglie iniziative, opportunità e strategie.
 
@@ -10238,4 +10238,4 @@ Summary length: 9873 characters and 1183 words.
 Compression ratio: 0.23 (summary length / original length).
 Estimated input tokens: 10686.
 Estimated output tokens: 2503.
-Summary generated in 100.649186 seconds.",4889,0.1889,0.0,0.0588
+Summary generated in 100.649186 seconds.",4889,0.1889,0.0588,0.0,5,3
