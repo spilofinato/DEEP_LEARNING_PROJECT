@@ -1,0 +1,74 @@
+Q: La dichiarazione annuale di mantenimento dei requisiti per l’accreditamento deve essere caricata nel portale regionale SIUO entro il 31 gennaio di ogni anno.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel caso di variazioni della domanda di accreditamento non ancora approvate, il termine per il mantenimento può essere differito.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Senza la dichiarazione di mantenimento dei requisiti non è possibile erogare servizi in regime di accreditamento.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La presenza di una targa all'ingresso della sede con gli orari corretti è richiesta dalla normativa regionale.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L'orario minimo di apertura della sede accreditata previsto dalla normativa attuale è di 25 ore settimanali distribuite su almeno 5 giorni.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Tutti i dati inseriti nei portali regionali devono corrispondere allo stato di fatto dell’ente accreditato.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L'accreditamento viene revocato se l'ente non effettua l'aggiornamento annuale della documentazione.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Per l’accreditamento sono richieste autocertificazioni sull'onorabilità dei responsabili e dei membri dell’OdV.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le funzioni minime obbligatorie ai fini dell’accreditamento devono essere sempre ricoperte da personale assunto con contratto scritto o lettera di incarico.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La pubblicazione di dati sulla “trasparenza” è sempre obbligatoria per tutti gli enti accreditati, a prescindere dalla dimensione di bilancio.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: La procedura Whistleblowing deve essere caricata nella piattaforma per il mantenimento dei requisiti di accreditamento.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il logo di Regione Lombardia può essere esibito solo se legato a una misura finanziata.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Gli enti già accreditati per la formazione devono presentare una nuova istanza di accreditamento ogni anno.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: La funzione di coordinamento disabilità è obbligatoria da inserire anche se l’ente non eroga servizi specifici in materia.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Dal 2022 la piattaforma unica per la gestione di accreditamento e mantenimento è SIUO.
+Doc: Vero
+Sum: Vero
+Match: 1

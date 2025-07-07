@@ -1,0 +1,74 @@
+Q: Mondial srl è la proprietà dell’edificio menzionato nel testo.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’architetto Baldoni si occupa dei lavori per Belleri relativi a MD/LD.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L'impianto di rete è gestito dalla società chiamata Telecom Italia.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Roberto Morandi è un contatto legato alla società Telecom nel testo.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Sandro Botti è muratore da Belleri per modifiche ai pozzetti.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’impianto di trattamento aria è seguito dall’ingegnere Treccani.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’elettricista originale menzionato è il signor Maggi Diego.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il gruppo elettrogeno è noleggiato da una società a Montichiari.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Maurizio Zanotti lavora per Franciacorta tende come contatto principale.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La responsabile delle pulizie attuale è Monica Deiuri di Tekno Clean.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Axitea gestisce la sicurezza e ha un codice cliente MIM: 10172552.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: AXITEA, in caso di allarme, chiama prima gli uffici MIM per la verifica.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Simone Scalvini è tecnico di assistenza per Axitea.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Polito serramenti si occupa delle serrature elettriche esterne.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Nicola Pozzi è il contatto per scaffalature magazzino presso Teknosistem.
+Doc: Vero
+Sum: Vero
+Match: 1

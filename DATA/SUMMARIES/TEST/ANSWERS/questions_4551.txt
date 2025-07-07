@@ -1,0 +1,74 @@
+Q: Il modello di processo p_acq_approvvigionamenti.xls è stato revisionato il 09/07.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Rita Parisi ha suggerito che l’emissione di ordini a posteriori sulla base della fattura ricevuta è una buona pratica.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Mancano RDA e approvazione nel processo secondo Rita Parisi.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Per gli acquisti di materiale di magazzino è previsto un ordine provvisorio in Infinity.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Le RDA per gli acquisti di servizi possono essere inserite solo da PG in Mimnet.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La verifica di RP blocca sempre l’emissione dell’ordine.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Le specifiche per Mimnet devono essere concordate entro gennaio 2014.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La formazione su Infinity per l’approvazione degli ordini è prevista per LM e PDC come backup.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L’acquisto dei corsi prevede l’approvazione tramite ordine provvisorio in Infinity da parte di CAM.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La verifica degli ordini provvisori è considerata inutile da Rita Parisi.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il pagamento può essere sospeso fino all’approvazione del controllo di evasione.
+Doc: Non so
+Sum: Non so
+Match: 0
+
+Q: I bonifici ai fornitori vengono generati e approvati in Infinity e Inbiz.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: LM e PDC hanno concordato uno schema per la verifica con Rita Parisi.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Una volta confermato un ordine, è possibile modificarlo liberamente senza tornare allo stato provvisorio.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: È necessario codificare la cancelleria come articoli di magazzino secondo le indicazioni nel testo.
+Doc: Non so
+Sum: Vero
+Match: 0

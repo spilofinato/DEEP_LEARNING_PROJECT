@@ -1,0 +1,15 @@
+Il modello di processo p_acq_approvvigionamenti.xls è stato revisionato il 09/07.
+La richiesta di ordini (RDA) deve essere sempre approvata dal responsabile del richiedente.
+La verifica di RP è un passaggio obbligatorio per tutti gli ordini.
+Facendo emettere l’ordine a FOM a posteriori aumenta l’utilità del ciclo passivo.
+Il controllo e l’utilità del ciclo passivo si perdono se l’ordine viene emesso solo dopo aver ricevuto la fattura.
+Le RDA possono essere inserite in Mimnet solo da PG.
+La formazione su Infinity per l’approvazione ordini sarà fatta sia con LM che con PDC.
+I bonifici a fornitore vengono attualmente generati da FOM e approvati da LM.
+Dopo la conferma da parte di LM, un ordine può essere modificato senza tornare in stato “provvisorio”.
+La stampa di un ordine provvisorio riporta la dicitura “Attenzione: questo documento è provvisorio, e non costituisce impegno di acquisto da parte di Mega Italia Media.”
+Un ordine confermato non può più essere modificato o eliminato secondo le nuove procedure.
+Il collegamento VPN a MIM è necessario per accedere a Infinity.
+In assenza di Matteo, solo lui ha il potere di spesa.
+PDC può autorizzare ordini in assenza di LM.
+È stato inserito un questionario fornitori da inviare a qualsiasi nuovo fornitore, inclusi i professionisti.

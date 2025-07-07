@@ -1,0 +1,74 @@
+Q: Il modello di processo p_acq_approvvigionamenti.xls è stato revisionato il 09/07.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La richiesta di ordini (RDA) deve essere sempre approvata dal responsabile del richiedente.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La verifica di RP è un passaggio obbligatorio per tutti gli ordini.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Facendo emettere l’ordine a FOM a posteriori aumenta l’utilità del ciclo passivo.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il controllo e l’utilità del ciclo passivo si perdono se l’ordine viene emesso solo dopo aver ricevuto la fattura.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le RDA possono essere inserite in Mimnet solo da PG.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La formazione su Infinity per l’approvazione ordini sarà fatta sia con LM che con PDC.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: I bonifici a fornitore vengono attualmente generati da FOM e approvati da LM.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Dopo la conferma da parte di LM, un ordine può essere modificato senza tornare in stato “provvisorio”.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La stampa di un ordine provvisorio riporta la dicitura “Attenzione: questo documento è provvisorio, e non costituisce impegno di acquisto da parte di Mega Italia Media.”
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Un ordine confermato non può più essere modificato o eliminato secondo le nuove procedure.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il collegamento VPN a MIM è necessario per accedere a Infinity.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: In assenza di Matteo, solo lui ha il potere di spesa.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: PDC può autorizzare ordini in assenza di LM.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: È stato inserito un questionario fornitori da inviare a qualsiasi nuovo fornitore, inclusi i professionisti.
+Doc: Vero
+Sum: Non so
+Match: 0

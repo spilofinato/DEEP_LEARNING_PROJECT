@@ -1,0 +1,74 @@
+Q: Nella maggior parte delle settimane analizzate, i picchi negativi di accessi da newsletter si verificano di venerdì.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Durante la settimana del 01-07/10/18, gli accessi a PS dalla newsletter hanno subito un aumento del 22,78%.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il cambiamento nelle metriche di Google Analytics ha causato un apparente calo drastico delle aperture delle newsletter.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La pulizia periodica del database degli indirizzi ha portato a un aumento degli accessi dopo ogni operazione.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Il numero di newsletter inviate ogni settimana supera regolarmente le 420.000 unità.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La percentuale di variazione degli accessi da newsletter rispetto alla settimana precedente è sempre positiva.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Le settimane con giorni festivi e ponti mostrano una riduzione significativa degli accessi da newsletter.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il passaggio a sistemi SMTP per l’invio delle newsletter è stato suggerito come soluzione ai problemi di disallineamento.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il giorno della settimana con il minor numero di accessi da newsletter è spesso il mercoledì.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Alcuni picchi di accessi sono spiegati dalla presenza di articoli particolarmente interessanti o eventi comunicati.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il monitoraggio degli accessi da newsletter serve principalmente a individuare problemi tecnici del sistema di invio.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Le newsletter non vengono più inviate agli indirizzi che non hanno aperto la mail dopo un certo numero di invii consecutivi.
+Doc: Non so
+Sum: Non so
+Match: 0
+
+Q: Dal 2020, la percentuale media di redemption (accessi rispetto a newsletter inviate) si aggira intorno all’1-2%.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Le variazioni settimanali negli accessi da newsletter sono solo parzialmente correlate alle modifiche nel contenuto delle comunicazioni.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le festività come Pasqua, Natale e 1° maggio hanno un impatto trascurabile sulle statistiche settimanali di accesso alla newsletter.
+Doc: Falso
+Sum: Falso
+Match: 1

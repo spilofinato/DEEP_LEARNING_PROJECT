@@ -1,0 +1,74 @@
+Q: Nel 2024 sono state attivate 5 piattaforme per il whistleblowing.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2023 sono state attivate più piattaforme rispetto al 2024.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La guida CRM è stata aggiornata a marzo 2025.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Da aprile 2025 il controllo mensile sull’utilizzo del CRM diventa KPI per il Team Vendite.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L’obiettivo per il budget vendita prodotti nel 2022 è rendere il processo di acquisto sul sito più fluido.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il passaggio delle trattative commerciali a AD doveva completarsi entro giugno 2024.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2024 sono stati attivati 4 nuovi centri partner CSI.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La ricerca nuovi partner CSI si concentra sulle aree già coperte, come BS e MI.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La campagna di cross-selling da SDS a SICURFLIX è prevista per dicembre.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Sicurflix da settembre 2024 non sarà più acquistabile su e-commerce MIM.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2025 l’obiettivo per il Gruppo Azienda è aumentare il consumo corsi e ridurre le disdette.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: È stato deciso che il Gruppo Azienda migrerà in SDS.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2025 sono previste 8 nuove entrate per la Scuola della Sicurezza.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: È stata inviata una newsletter MKTG per invitare i clienti SDS alla fiera “Ambiente Lavoro 2024”.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il fatturato 2025 al 30/04 per AD è pari al 18% del budget totale previsto.
+Doc: Vero
+Sum: Non so
+Match: 0

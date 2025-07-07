@@ -1,0 +1,74 @@
+Q: AiFOS ha ottenuto la certificazione ISO 9001 con RINA nel maggio del 2008.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Tutti i Centri di Formazione AiFOS convenzionati devono aderire obbligatoriamente alla certificazione ISO 9001 entro il prossimo triennio dal 2011.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il RINA estende la certificazione AiFOS solo ai processi di erogazione dei corsi a marchio AiFOS.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: I costi indicati per l’adesione al progetto di certificazione erano inizialmente 250 € per il primo anno e 200 € per i successivi.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: AiFOS richiede la compilazione e l’invio del modulo di adesione entro il 23 aprile 2011 per la fase di estensione della certificazione prevista a maggio 2011.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le Verifiche Ispettive Interne sono effettuate sempre esclusivamente da RINA senza alcun coinvolgimento di AiFOS.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: AiFOS ha firmato una convenzione con RINA per tariffe agevolate ai C.F.A. che vogliono certificare ISO 9001 altre attività aziendali.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Dal 2013, per mantenere la convenzione, è obbligatorio aderire al sistema di qualità secondo la norma ISO 9001 per tutti i C.F.A. AiFOS.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel 2012 l’importo per la certificazione era di 200 € + Iva per il primo anno e 100 € + Iva dal secondo anno fatturati direttamente da RINA.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Gli audit interni AiFOS dovevano essere effettuati entro maggio 2012 per le richieste di adesione pervenute entro il 13 aprile 2012.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il modulo per la richiesta della certificazione deve essere inviato via email o fax a Silvana Bresciani.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Dopo l’attivazione del “Sistema Qualità” nell’area riservata, il C.F.A. aveva circa un mese per implementare le procedure richieste.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Gli audit RINA per l’estensione della certificazione sono pianificati tra la fine di maggio e la prima metà di giugno 2012.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Il certificato RINA emesso per MIM riportava inizialmente un errore nell’indirizzo.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La regola del campionamento utilizzata da RINA per gli audit sulle nuove adesioni si basa sulla somma delle radici quadrate dei nuovi e dei vecchi aderenti.
+Doc: Vero
+Sum: Non so
+Match: 0

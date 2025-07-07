@@ -1,0 +1,74 @@
+Q: Le verifiche ispettive effettuate durante l'avviamento del SGQ hanno avuto un esito negativo.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La gestione delle comunicazioni da/a clienti e fornitori avviene principalmente tramite e-mail.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Non esiste alcuna istruzione per la gestione delle attività di marketing nel SGQ di MIM.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il magazzino di MIM presenta problemi di spazio per l'ubicazione corretta del materiale.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: In produzione, i controlli effettuati sono completamente formalizzati e documentati.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il sistema di valorizzazione delle risorse umane include obiettivi personali già definiti.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Le indagini di soddisfazione del cliente sono integrate con le attività di comunicazione di marketing.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La qualifica dei fornitori è stata avviata solo per i fornitori critici.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: È stata riscontrata una non conformità interna per il mancato arrivo degli attestati RSPP e RLS ai clienti.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Tutti i corsi di formazione programmati sono stati effettuati e risultati efficaci.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Durante i precedenti riesami non sono state prese azioni decisionali.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il progetto di sviluppo del SGQ MIM è stato avviato ad agosto 2007.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2013, Alenia Aermacchi ha affidato a MIM l’erogazione di corsi obbligatori in aula e in e-learning.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il gradimento medio degli utenti per il corso generale e-learning è superiore a 75 punti su 100.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2016 è stato rilevato un miglioramento del valore della produzione rispetto all’anno precedente.
+Doc: Vero
+Sum: Falso
+Match: 0

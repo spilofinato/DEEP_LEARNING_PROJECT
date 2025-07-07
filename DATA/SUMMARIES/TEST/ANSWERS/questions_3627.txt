@@ -1,0 +1,74 @@
+Q: Nel 1999, la società F.lli Carli ha registrato vendite per corrispondenza superiori alle 200 miliardi di lire.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La società Mondolibri ha registrato vendite per corrispondenza anche negli anni 1998 e 1999.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il costo totale del catalogo nel 2002 era superiore a 0,3 euro per copia inviata.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2004, la quantità stampata di cataloghi era inferiore a 400.000 copie.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La percentuale di redditività dal punto di vista dei costi/ricavi per la vendita di cd-rom e software MIM era superiore al 50% al 31/08/2003.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2003, le spedizioni di cataloghi hanno superato le 500.000 copie totali.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Nel 2002, i costi di spedizione indicati includono un obbligo del 0,5% di pacchi rispetto al numero totale di cataloghi spediti.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2003, il catalogo numero 22 ha avuto una spedizione iniziale di circa 60.000 copie.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La legge 140 è stata utilizzata nell’ambito del progetto "Guida Sicura".
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2002, MAD ha suggerito l’invio della prima lista di cataloghi a circa 38.000 indirizzi.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Gli studi tecnici più numerosi sono stati localizzati nella regione Lombardia secondo i dati della redemption catalogo n.17.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2004, sono stati aumentati i costi di trasporto per i clienti a partire dal catalogo 25.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2003, la società MIM ha ottenuto un contributo a fondo perduto di circa 193 milioni di lire per il sistema e-learning.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La piattaforma e-learning di MIM era già operativa e utilizzata regolarmente nel 2002.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: La fotografia dello staff di Mega Italia Media è stata ritenuta un elemento utile da inserire nella copertina del catalogo.
+Doc: Falso
+Sum: Non so
+Match: 0

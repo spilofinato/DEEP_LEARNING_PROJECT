@@ -1,0 +1,74 @@
+Q: SIG ha proposto di installare un SIEM per centralizzare i log delle macchine.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: I log di V-utility non verranno estratti da LOT.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: È stato creato un nuovo tab "mail adm" nel file Excel per tracciare gli account con mail personali.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: LOT è incaricato di individuare un software per salvare le password multiutente.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Bitwarden è stato scelto come portachiavi password condiviso da testare.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L'utente it_admini@megaitaliamendia.it è stato creato per essere utilizzato come account master.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La formazione sulle attività settimanali e mensili è stata fatta a MMA.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il file Excel delle attività SIG è stato aggiornato e le formazioni previste sono state rispettate entro il 14/06/2024.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: L'account it_admin@megaitaliamedia.it è utilizzato per creare tutti i servizi cloud e non necessari.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Bitwarden è stato installato su una macchina Windows con IP 192.168.0.5.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il database legato a IT_ADMIN è in fase di popolamento da SIG, MMA e LOT.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il task di backup esegue tre copie del file Bitwarden su differenti sedi e sistemi.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Sono stati aggiunti nuovi utenti al gruppo Admin di dominio senza rimuovere i precedenti evidenziati in rosso.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: LOT ha estratto le sue password e le ha inserite in Bitwarden al 25/06/2024.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: È stata discussa la necessità di formare il personale che utilizza ChatGPT per motivi di sicurezza dei dati.
+Doc: Vero
+Sum: Vero
+Match: 1

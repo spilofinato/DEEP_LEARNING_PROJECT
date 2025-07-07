@@ -1,4 +1,5 @@
 # Create summarization utilities module
+import os
 import textwrap
 from collections import defaultdict
 from datetime import datetime as dt
@@ -377,16 +378,7 @@ def summarize_progress_idea_1(progress, llm="ollama", mode="full", check_long_pr
     else:
         print("Summarizing directly...")
         # Direct summarization for shorter progress
-        text = build_chronological_text_from_progress(progress)
-        prompt = build_summarization_prompt(text, mode=mode)
-        if llm == "ollama":
-            return summarize_with_ollama(prompt)
-        elif llm == "gemini":
-            return summarize_with_gemini(prompt)
-        elif llm == "gpt":
-            return summarize_with_gpt(prompt)
-        else:
-            raise ValueError(f"Unsupported LLM: {llm}")
+        return summarize_progress_direct(progress, llm=llm, mode=mode)
 
 def summarize_progress_idea_2(progress, llm="ollama", model="gemma3:4b", mode="full"):
     """
@@ -564,6 +556,93 @@ def validate_summary_with_qags_batched(summary, progress, device=0):
 
     score = round(match_count / len(df), 4) if len(df) else 0.0
     print(f"QAGS score: {score} ({match_count} matches out of {len(df)}) for progress ID {progress['progress_id']}")
+    return score
+
+def generate_true_false_questions(full_text: str, num_questions: int = 15, model: str = "gpt-4.1") -> list:
+    """
+    Generates a list of true/false questions from the full document text.
+    Each question should be answerable with 'Vero', 'Falso', or 'Non so'.
+    """
+    prompt = (
+        f"Sei un generatore di domande. "
+        f"Dato il seguente testo, crea {num_questions} domande che possono essere risposte con 'Vero', 'Falso' o 'Non so'. "
+        f"Rispondi con un elenco numerato, una domanda per riga.\n\n"
+        f"Testo:\n{full_text}"
+    )
+    client = OpenAI(api_key=api_keys.OPENAI_API_KEY)
+    resp = client.responses.create(
+        model=model,
+        input=[{"role":"user","content":prompt}]
+    )
+    text = resp.output_text.strip()
+    # Parse numbered list
+    questions = []
+    for line in text.split("\n"):
+        m = re.match(r"\s*\d+[\).\s-]*(.+)", line)
+        if m:
+            questions.append(m.group(1).strip())
+    print("Generated questions:", questions)
+    return questions[:num_questions]
+
+def answer_true_false(question: str, context: str, model: str = "gpt-4.1") -> str:
+    """
+    Answers a question given context with 'Vero', 'Falso', or 'Non so'.
+    """
+    prompt = (
+        f"Data la seguente domanda e il contesto, rispondi solo con 'Vero', 'Falso' o 'Non so'.\n\n"
+        f"Non aggiungere spiegazioni o dettagli, rispondi solo con la risposta che ritieni corretta.\n"
+        f"Non utilizzare conoscenze esterne, rispondi solo in base al contesto fornito.\n"
+        f"Se nel contesto non c'è abbastanza informazione per rispondere, rispondi 'Non so'.\n"
+        f"Contesto:\n{context}\n\n"
+        f"Domanda: {question}\n\n"
+    )
+    client = OpenAI(api_key=api_keys.OPENAI_API_KEY)
+    resp = client.responses.create(
+        model=model,
+        input=[{"role":"user","content":prompt}]
+    )
+    answer = resp.output_text.strip()
+    # Normalize answer
+    if re.search(r"\bvero\b", answer, re.IGNORECASE) or re.search(r"\btrue\b", answer, re.IGNORECASE):
+        return "Vero"
+    if re.search(r"\bfalso\b", answer, re.IGNORECASE) or re.search(r"\bfalse\b", answer, re.IGNORECASE):
+        return "Falso"
+    return "Non so"
+
+def validate_summary_with_gpt_qags(summary: str, progress: dict, num_questions: int = 15, model: str = "gpt-4.1"):
+    """
+    Implements QAGS-style evaluation using GPT for question generation and answering.
+    Returns a consistency score and detailed results.
+    """
+    # Build full document
+    full_text = " ".join(msg["content"] for msg in progress["messages"])
+
+    # Cerco il file contenente le domande generate, se non esiste lo genero
+
+    if not os.path.exists(f"DATA/SUMMARIES/TEST/QUESTIONS/questions_{progress['progress_id']}.txt"):
+        questions = generate_true_false_questions(full_text, num_questions, model)
+        with open(f"DATA/SUMMARIES/TEST/QUESTIONS/questions_{progress['progress_id']}.txt", "w") as f:
+            f.write("\n".join(questions))
+    else:
+        with open(f"DATA/SUMMARIES/TEST/QUESTIONS/questions_{progress['progress_id']}.txt", "r") as f:
+            questions = [line.strip() for line in f if line.strip()]
+
+    # 2. Answer on document and summary
+    results = []
+    for q in questions:
+        doc_ans = answer_true_false(q, full_text, model)
+        sum_ans = answer_true_false(q, summary, model)
+        print(f"Question: {q}\nDocument Answer: {doc_ans}\nSummary Answer: {sum_ans}")
+        match = int(doc_ans == sum_ans)
+        if doc_ans == "Non so" or sum_ans == "Non so":
+            match = 0
+        results.append({"question": q, "doc_answer": doc_ans, "summary_answer": sum_ans, "match": match})
+
+    with open(f"DATA/SUMMARIES/TEST/ANSWERS/answers_{progress['progress_id']}.txt", "w") as f:
+        f.write("\n\n".join(f"Q: {r['question']}\nDoc: {r['doc_answer']}\nSum: {r['summary_answer']}\nMatch: {r['match']}" for r in results))
+
+    # 3. Compute score
+    score = sum(r["match"] for r in results) / len(results) if results else 0.0
     return score
 
 def gpt_score_summary(summary, progress, model="gpt-4.1-mini"):

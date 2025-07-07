@@ -1,0 +1,74 @@
+Q: SIG ha proposto di installare un SIEM per centralizzare tutti i log delle macchine.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: LOT salverà i log estratti da tutte le macchine Windows, esclusa V-utility, su un disco fisso interno.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: È stato creato un nuovo tab "mail adm" in un file Excel per tracciare gli account con mail personali.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: LOT è responsabile per individuare un software per salvare password multiutente in una cartella condivisa.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Bitwarden verrà testato come portachiavi password su una VM interna Linux o Windows V-utility.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’utente "it_admini@megaitaliamendia.it" sarà utilizzato come account Master in tutti i servizi.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: La consegna per la "verifica compilazione ore collaboratori LOB" è stata data da MMA a SIG.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Tutti gli attestati da tutte le piattaforme vanno conservati, incluse MIM, Scorm 1 e SdS.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: LOT ha ricevuto formazione sulle attività settimanali e mensili che passa a gestire.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il backup di Bitwarden viene effettuato in tre copie notturne: sede MIM, Seeweb e Tivoli Storage Manager.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Ad oggi, il gruppo it_admin comprende gli utenti MMA, SIG e LOT.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il database collegato a IT_ADMIN viene popolato da SIG, MMA e LOT.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Dopo il popolamento di Bitwarden, LM dovrà modificare la password dell’utente IT_ADMIN e conservarla.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: È stata discussa la necessità di formare chi utilizza chatGPT, poiché vi accede un solo account.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Le password di rootApache 0X SSH root verranno inserite da LM su Bitwarden.
+Doc: Vero
+Sum: Vero
+Match: 1

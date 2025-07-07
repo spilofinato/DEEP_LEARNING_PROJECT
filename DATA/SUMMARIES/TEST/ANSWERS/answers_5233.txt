@@ -1,0 +1,74 @@
+Q: Nel 2024 le attivazioni della piattaforma Whistleblowing sono state inferiori rispetto al 2023.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Da aprile 2025 il controllo mensile sull’uso del CRM sarà svolto dal Team Vendite.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: L’obiettivo della vendita prodotti 2022 era ridurre la digitalizzazione del processo di acquisto.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Nel 2024 sono stati attivati 4 nuovi partner CSI.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: MKGT invia manualmente newsletter ai contatti CSI e MIM riguardo i corsi sincroni.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Da settembre 2024, Sicurflix non verrà più proposto attivamente, ma resterà acquistabile.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel 2025 il Gruppo Azienda avrà almeno un nuovo cliente.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La ridefinizione dell’offerta Gruppo Azienda prevede la sua totale migrazione su SDS.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: L’obiettivo della Scuola della Sicurezza è anche quello di ridurre le disdette SDS.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel 2025 si prevede che la percentuale di fatturato raggiunta da GIP sia superiore a quella di AD al 30/04.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: MKGT ha deciso di aggiornare le slide di 40 videocorsi Sicurflix entro il 2024.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2024 GIP ha portato più del doppio del fatturato programmato.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2024 il totale dei nuovi Gruppi Azienda è stato superiore a 60.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Nel 2025 Gruppo Azienda ingloberà completamente SDS secondo il piano attuale.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2024 sono stati attivati 4 nuovi partner CSI, inclusi Nuovi Servizi Brino e Vertika.
+Doc: Vero
+Sum: Vero
+Match: 1

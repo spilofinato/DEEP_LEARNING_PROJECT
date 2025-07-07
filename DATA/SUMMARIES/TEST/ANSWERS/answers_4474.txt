@@ -1,0 +1,74 @@
+Q: La proprietà dell’edificio è della Mondial srl.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’architetto Baldoni ha svolto lavori per Belleri relativi a MD/LD.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il pittore è stato incaricato da Belleri.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L’ascensore Elma ha la matricola 39/2004 rilasciata dal Comune di Castel Mella.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La rete telefonica è gestita da Colt.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Simone Negro lavora per Telecom Italia.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: T&T telecomunicazioni srl ha come referente Simone Negro.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: I codici di utenza Telecom sono 164707.
+Doc: Non so
+Sum: Non so
+Match: 0
+
+Q: Roberto Morandi è referente per le linee telefoniche Telecom.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Per le pulizie si può contattare Monica Deiuri.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’azienda Barbieri si occupa delle pulizie dal 2005.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Tiziano Maggi ha effettuato modifiche all’impianto elettrico.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le tende sono fornite da Franciacorta tende.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il tecnico di condizionamento per l’assistenza Sanyo è il Sig. Biemmi.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il gruppo elettrogeno si trova a Montichiari in Via Madonnina, 16.
+Doc: Vero
+Sum: Non so
+Match: 0

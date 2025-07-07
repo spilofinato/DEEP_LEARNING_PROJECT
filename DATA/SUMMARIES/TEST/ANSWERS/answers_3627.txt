@@ -1,0 +1,74 @@
+Q: Esiste una documentazione sull'organizzazione di una società che tratta vendite per catalogo nel progress MIM, Dmail.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: G.D.A. (Postalmarket) ha avuto un fatturato superiore a 200 miliardi di lire nel 1999.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2003 sono state spedite più di 500.000 copie di catalogo.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il costo totale di un catalogo imbustato è inferiore a 0,30 euro nel 2004.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2002 la redemption tra numero ordini e cataloghi inviati era 0,6.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2004, la fascia di costo di trasporto per spedizioni oltre i 20 kg era 12 euro.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: MIM utilizza un codice progressivo per identificare i prospect nei cataloghi spediti.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Sono previsti almeno due invii di Banx News ogni anno per la validità dell’abbonamento postale.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Nel 2002, la differenza positiva provvisoria tra costi e ricavi dei cataloghi era di 121.000 euro.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La copertina dei cataloghi viene scelta anche tramite un questionario ai clienti MIM.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La percentuale dei costi sui ricavi nella vendita di libri distribuiti era del 31%.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel 2001, il totale acquisito da MIM è stato superiore a 1 milione di euro.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel consuntivo 2002, sono stati spediti oltre 400.000 cataloghi per un costo totale superiore a 122.000 euro.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel sistema Contact Pro, il campo "Cancellabile" viene usato per identificare record da eliminare.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel 2003 è stato partecipato alla fiera Ambiente Lavoro gratuitamente con stand per MIM e PuntoSicuro.
+Doc: Vero
+Sum: Non so
+Match: 0

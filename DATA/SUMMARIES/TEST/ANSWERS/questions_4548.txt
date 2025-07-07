@@ -1,0 +1,74 @@
+Q: La prima riunione di insediamento dell'ODV MIM è avvenuta il 23 dicembre 2010.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nella riunione del 28 gennaio 2011 si è presa visione esclusivamente dei risultati dell'audit senza discutere del Modello organizzativo ai sensi del Decreto Legislativo 231/2001.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Durante la riunione del 24 marzo 2011 è stata discussa la dotazione di risorse finanziarie da destinare all’Organismo di Vigilanza.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel corso della riunione del 23 dicembre 2011 si è parlato dell’aggiornamento dell’accreditamento regionale in seguito al cambio di sede sociale.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Nella riunione del 13 aprile 2012 si sono verificate modalità di erogazione dei corsi in aula e delle attività e-learning.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La riunione del 9 luglio 2012 ha trattato la parte speciale del Modello relativa ai reati societari e aspetti del Decreto n. 4340 della Regione Lombardia.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Durante la riunione del 9 novembre 2012 si è discusso di procedure per la tutela della sicurezza sul lavoro e violazione dei diritti d’autore.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel dicembre 2012 si è aggiornato il Regolamento dell’ODV e si sono date indicazioni sulla composizione dello stesso organismo.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Emilio Del Bono ha rassegnato le dimissioni da presidente dell’ODV a ottobre 2013, con cessazione della funzione al 22 dicembre 2013.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Ronchi Alessandro è stato nominato presidente dell’ODV dopo la cessazione di Del Bono.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2014 sono state verificate le modalità di gestione dei flussi finanziari e sono stati coordinati controlli con il Collegio Sindacale.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2015 l’ODV ha partecipato a un audit per la certificazione del Sistema Qualità ISO 9001:2015.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2017 è stata aggiornata la composizione dell’ODV e la documentazione prevista nella piattaforma 231 della Regione Lombardia.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel corso del 2019 si è verificato un incidente di Data Breach che ha coinvolto dati degli utenti della MIM.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2021 le riunioni dell’ODV hanno previsto audit interni sulle aree di selezione del personale, assunzioni e formazione.
+Doc: Vero
+Sum: Vero
+Match: 1

@@ -1,0 +1,74 @@
+Q: L’Associazione AiFOS ha ottenuto la certificazione ISO 9001 con RINA nel maggio 2008.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La certificazione estesa riguarda tutti i processi aziendali dei Centri di Formazione AiFOS.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il progetto di certificazione prevede un costo di 250,00 € per il primo anno nel 2011.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: La scadenza per aderire al progetto di certificazione nel 2011 era il 23 aprile.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Gli audit interni AiFOS si sarebbero svolti tra la fine di ottobre e la prima metà di novembre 2011.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2012, il costo per il primo anno di certificazione AiFOS era di 200,00 € più IVA.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Il termine per l’adesione al progetto di certificazione nel 2012 era il 31 dicembre.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Le verifiche ispettive interne nel 2012 dovevano essere effettuate al massimo entro maggio per la prima scadenza.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Nel 2012, gli audit RINA finalizzati all’estensione della certificazione erano programmati tra fine maggio e inizio giugno.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: La MIM ha inviato il modulo di adesione alla certificazione nel giugno 2012.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: L’audit effettuato a MIM ha giudicato il sistema di qualità inefficace.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il certificato di MIM emesso da RINA nel 2013 conteneva un errore nell’indirizzo.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La segnalazione dell’errore sull’indirizzo del certificato RINA è stata fatta nel dicembre 2013.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: È richiesto ai Centri di Formazione AiFOS di avere aggiornato l’elenco dei formatori qualificati con relativi CV.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’audit RINA del 2014 si sarebbe svolto dal 12 al 30 giugno, presso sedi AiFOS e Centri di Formazione selezionati a campione.
+Doc: Vero
+Sum: Non so
+Match: 0

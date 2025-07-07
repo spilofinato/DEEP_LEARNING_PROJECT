@@ -1,0 +1,74 @@
+Q: Il riesame si basa anche sulle informazioni provenienti dai clienti.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le azioni decise nei precedenti riesami non vengono prese in considerazione nel riesame attuale.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: La gestione dei corsi e-learning prevede una finestra di tempo tra 30 e 120 giorni.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: Da agosto 2007 ci sono state numerose contestazioni da parte dei clienti MIM.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il sistema di gestione della qualità (SGQ) di MIM è stato aggiornato secondo i requisiti della norma ISO 9001:2015.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il gradimento degli utenti dei corsi e-learning MIM è stato particolarmente basso nel 2013.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Le raccomandazioni per il miglioramento costituiscono un elemento del riesame.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Nel 2016 il valore della produzione di MIM è aumentato rispetto al 2015.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’analisi SWOT viene utilizzata come strumento di valutazione nel riesame SGI di MIM.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Alcuni corsi e-learning sono stati eliminati dal catalogo MIM dopo gli Accordi Stato-Regioni del 7 luglio 2016.
+Doc: Vero
+Sum: Non so
+Match: 0
+
+Q: I costi del personale nel 2015 sono aumentati significativamente rispetto all’anno precedente.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il progetto di miglioramento del processo aziendale è stato completato e formalizzato già nel primo riesame.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il database di controllo dei documenti e dati era già completato durante il primo avviamento del SGQ.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Nel processo di riesame vengono valutate le esigenze formative del personale MIM.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Le indagini di soddisfazione del cliente MIM sono effettuate anche tramite il sito web aziendale.
+Doc: Vero
+Sum: Falso
+Match: 0

@@ -1,0 +1,74 @@
+Q: Il forum di PuntoSicuro è stato lanciato come servizio gratuito a partire da giugno 2016.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Dal giugno 2017 i documenti allegati agli articoli di PuntoSicuro sono accessibili solo agli abbonati dopo 7 giorni dalla pubblicazione.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: La riduzione da 15 a 7 giorni di fruizione gratuita dei documenti ha causato un calo degli accessi dai motori di ricerca.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il sistema di rinnovo automatico per gli abbonamenti con carta di credito non è mai stato implementato.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: La proposta di rendere PuntoSicuro completamente a pagamento non è mai stata considerata.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Il passaggio degli articoli dalla parte aperta all’area riservata avviene manualmente da parte della redazione.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Gli iscritti alla newsletter di PuntoSicuro sono diminuiti in seguito alla pulizia del database.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Lo sviluppo della funzionalità di copia protetta degli articoli è stato affidato a RES.
+Doc: Vero
+Sum: Falso
+Match: 0
+
+Q: Ogni iscritto può salvare e organizzare i propri articoli preferiti in una sezione dell’area riservata abbonati.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: L’inserimento dei popup per la promozione della newsletter è stato accolto favorevolmente da tutti i responsabili.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: Nel 2017 il fatturato generato dalla pubblicità su PuntoSicuro era superiore a 500.000 euro.
+Doc: Falso
+Sum: Falso
+Match: 1
+
+Q: L’implementazione di un forum a pagamento per la consulenza era prevista entro la fine del 2016.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Dal 2018 tutti i commenti agli articoli di PuntoSicuro sono stati eliminati dal sito.
+Doc: Falso
+Sum: Non so
+Match: 0
+
+Q: Il progetto di pubblicazione periodica delle vignette su PuntoSicuro è stato sospeso dopo l’emergenza COVID-19.
+Doc: Vero
+Sum: Vero
+Match: 1
+
+Q: Il servizio “PuntoSicuro PRIME” è stato pensato come un’evoluzione della Banca Dati a pagamento di PS.
+Doc: Vero
+Sum: Vero
+Match: 1

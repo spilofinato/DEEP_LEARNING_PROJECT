@@ -1,0 +1,15 @@
+SIG ha proposto di installare un SIEM per centralizzare tutti i log delle macchine.
+LOT salverà i log estratti da tutte le macchine Windows, esclusa V-utility, su un disco fisso interno.
+È stato creato un nuovo tab "mail adm" in un file Excel per tracciare gli account con mail personali.
+LOT è responsabile per individuare un software per salvare password multiutente in una cartella condivisa.
+Bitwarden verrà testato come portachiavi password su una VM interna Linux o Windows V-utility.
+L’utente "it_admini@megaitaliamendia.it" sarà utilizzato come account Master in tutti i servizi.
+La consegna per la "verifica compilazione ore collaboratori LOB" è stata data da MMA a SIG.
+Tutti gli attestati da tutte le piattaforme vanno conservati, incluse MIM, Scorm 1 e SdS.
+LOT ha ricevuto formazione sulle attività settimanali e mensili che passa a gestire.
+Il backup di Bitwarden viene effettuato in tre copie notturne: sede MIM, Seeweb e Tivoli Storage Manager.
+Ad oggi, il gruppo it_admin comprende gli utenti MMA, SIG e LOT.
+Il database collegato a IT_ADMIN viene popolato da SIG, MMA e LOT.
+Dopo il popolamento di Bitwarden, LM dovrà modificare la password dell’utente IT_ADMIN e conservarla.
+È stata discussa la necessità di formare chi utilizza chatGPT, poiché vi accede un solo account.
+Le password di rootApache 0X SSH root verranno inserite da LM su Bitwarden.
